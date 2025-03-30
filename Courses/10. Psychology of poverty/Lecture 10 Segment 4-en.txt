@@ -1,0 +1,279 @@
+PROFESSOR: So now these are all correlations.
+OK, I'm showing you essentially people's correlation
+between people's income and their well-being in some ways.
+Now, what about causal effects?
+Now, of course, and you have seen all this already,
+there's a bunch of causal evidence coming from RCTs,
+essentially from cash transfer programs.
+And you have seen the give directly
+studies several times throughout the class.
+If you sort of look at it, it turns out
+there's many, many cash transfer RCTs.
+Some of them are--
+many of them are unconditional cash transfers, where
+the government or an NGO or place just says, here's money.
+You can do with it whatever you want.
+And there's no strings attached at all.
+That's what the give directly RCT is.
+But then there's also a bunch of other studies
+that are conditional cash transfers,
+things like if your kid goes to school,
+you get money for example, or things like that.
+I think these are mostly unconditional cash transfers.
+What essentially you find is that there's
+very robust evidence on short-run improvements
+in well-being.
+So here, you see years since the cash transfer began.
+And you essentially see a treatment effect
+as in standard deviations of subjective well-being,
+as well as mental health outcomes.
+And essentially, you see that people are--
+generally, these dots, these are--
+each dot is like one estimate from one study.
+What essentially you see that these dots are generally
+above zero, it's about 0.1 standard deviation effect.
+So essentially, giving people money makes them happier.
+There's some evidence you can sort of
+see this is sort of downward sloping in some ways.
+There's some evidence that these effects
+sort of attenuate over time.
+So if you give people some money and come back
+the next day, or next month, or next year,
+people are going to be a lot happier than before.
+But if you come back five years later, some of these effects
+are less pronounced than before.
+And then there's some evidence that larger transfers
+make people happier as perhaps you might expect.
+Similarly, there's also some evidence, for example,
+and I think--
+I forgot who was talking about stress.
+That, for example, cortisol levels
+are lower among people who received cash transfers
+compared to people who did not.
+And that's some measure at least of people
+are less stressed than before, which again,
+is like a measure of well-being.
+Does this make sense?
+OK, now, so this is about causal effects of money or poverty
+on people's well-being.
+Now, in particular, when it comes to mental distress
+or anxiety and depression, there might
+be effects in both directions.
+So poverty might affect people's anxiety and depression.
+But at the same time, there might be effects feeding back
+in the other direction.
+So we talked about how might poverty worsen mental health.
+We talked about most of these already.
+People might be a lot more worried, and anxious,
+and so on.
+They might have low physical health.
+They might not be able to leave their house.
+They might just not be able--
+might just not do well in terms of being
+able to walk and so on.
+We talked not so much about this,
+but there's also early life conditions.
+For example, if you're very poor growing up,
+there's some evidence that leads to symptoms
+of depression and anxiety later in life among people.
+Exposure to violence and crime is higher among the poor.
+Social status is lower, and so on.
+So there's lots of reasons why poverty
+might be bad for people's mental health among these.
+We already talked about that quite a bit.
+And then but on the other hand, there
+might be also effects in the other direction.
+Mental distress can have lots of economic consequences.
+We're going to talk a little bit about-- not about depression
+and anxiety, but more worries about money
+and the effects of worries about money on productivity.
+You might also think people's beliefs
+about what they can achieve might be different.
+You might think that people might
+make very different decisions.
+Women are disproportionately affected
+by depression and anxiety.
+So depression and anxiety might also disproportionately affect
+women, and therefore, female empowerment.
+You might also think that if parents are depressed,
+that's bad for investment in children,
+and human capital, education, and so on.
+So there's lots of reasons to believe that there's
+an effect in both direction from poverty to mental health
+and from mental health back to poverty.
+
+And this effect might potentially
+reinforce each other.
+Any questions?
+OK, so then, what evidence do we actually have?
+And this is similar to what I just showed you before.
+So I showed you here, these are essentially
+cash transfer programs.
+This is like a mixture of subjective well-being
+and mental health.
+Here, I'm showing you mostly mental health outcomes.
+And what you see essentially, this
+is sort of a plot that's sort of a meta-analysis,
+as people call it, which is a plot that
+shows treatment effect across a lot of different studies.
+And broadly, what you see essentially
+is that both multifaceted anti-poverty programs,
+it's essentially the ultra poor program with similar types
+of program, have positive effects
+on people's mental health.
+Similarly, cash transfer programs
+have positive effects on people's mental health.
+The effects are about something like 0.1 standard deviations.
+So essentially, giving people money or supporting them
+in some ways improves their mental health,
+be that through cash or ultra poor programs.
+Yes?
+STUDENT: Are there studies the other way?
+PROFESSOR: Yeah, so I'm going to show you this.
+That's coming next.
+So that's more like--
+so I sort of characterize this direction here
+is very robust in the sense that you say, if people are poor,
+A in the cross section, you'll find
+they have more depression, anxiety, et cetera.
+And then reducing poverty or anti-poverty programs
+improve people's mental health.
+We don't know exactly what the channels are necessarily.
+For example, there's some evidence of, say,
+providing people in the US, in fact,
+a colleague, Amy Finkelstein, has a paper
+with coauthors on the Oregon Health Insurance
+essentially where randomly people were given health
+insurance and others were not.
+And that also led to lower levels of depression.
+Which is to say maybe here people's worries or anxiety
+about uncertainty in their lives was reduced.
+And therefore, people are less depressed.
+So there's quite a bit of evidence
+of the overall effects.
+Essentially just if you do economic interventions that
+improves people's well-being, we don't necessarily
+know exactly why and how or what's
+the most effective way of doing that.
+Now, what about the other direction?
+So here, we have quite a bit of evidence
+that in particular, non-specialist therapy
+works quite well.
+What I mean by non-specialist therapy, so we know quite--
+there's quite a bit of evidence that
+cognitive behavioral therapy, essentially just talk therapy,
+is highly effective in reducing people's depression
+and anxiety.
+So if you go to a therapist for a full session of CBT,
+which cognitive behavioral therapy, which
+would be something like 10 to 12 sessions,
+that has, on average, pretty large and beneficial effects
+on people's depression.
+So just getting therapy improves people's mental health.
+Now, one issue in low income contexts
+is that trained therapists are often not available at scale.
+That's to say you find much fewer qualified people to treat
+people's depression directly.
+And so what instead has been developed,
+and this is our coauthor--
+Vikram Patel and coauthors have done
+what's called the Healthy Activity Program, which
+essentially is a non-specialist therapy where
+people in the village, like community health workers,
+but also other peers in the village
+are trained for like a couple of months
+to essentially deliver sort of simplified forms of therapy
+that are extremely inexpensive.
+They cost something like $70 per person.
+And you find there's clear effects on depression.
+This is a year later, there's clear reductions
+in people's depression.
+This is depression symptoms in the treatment
+group versus the control group.
+And there's also some evidence on days
+unable to work or things like healthcare costs.
+So people are able to work, or report at least that they
+work more days.
+They also report that they have lower health costs.
+Now, that's not quite the same as lower poverty.
+So this is some survey questions that say, well, people
+are able to work more.
+These tend to be sort of public health studies.
+There's a very active literature that now tries to look at--
+now, if you provide people with other forms of therapy,
+are they, in fact--
+can we find some economic benefits of that?
+There's some evidence here on-- in particular,
+on female empowerment and childhood development.
+So there are some studies that show
+that if you treat depression among pregnant women, six,
+seven years later, A, these women are still less depressed
+compared to the control group.
+B, they have higher levels of female empowerment.
+So they make more decisions in the household.
+And C, there's higher levels of investment in human capital
+among children.
+Children go to better schools.
+They have better tools for homework and so on.
+Presumably, because women have more decision
+making power in the household.
+And they tend to allocate more resources to their children
+compared to men.
+So there's some evidence that shows that.
+There's less evidence directly on the effect
+of therapy on say, productivity on labor supply, and so on.
+There's some of evidence on labor supply.
+But I think the verdict is still out on that.
+
+OK, so here, so what the authors argue here is to say, well,
+people have worked more days.
+And they also have reduced their healthcare costs.
+So in fact, given that the intervention is quite cheap,
+it's essentially pays for itself within a few months.
+Now, we have some work looking at the long-lasting effects.
+Here, essentially, what you see is
+that this is the fraction depressed in the treatment
+or control group.
+What you see is-- this is what I showed you before,
+there's large differences between treatment and control
+at something like three months, also at 12 months.
+And these effects tend to persist for a long, long time.
+So five years later, if you go to people,
+which is what we did in Goa in India, if you go back
+to people five years later, you still
+find lower levels of depression in the treatment group
+compared to the control group.
+And now, if you look at this area between the two groups,
+this is the number of months of depression averted
+in treatment versus control.
+And you find essentially this is highly cost effective
+in the sense that it costs about $7
+per month of depression averted, which is-- depression
+is very, very severe in terms of affecting people's well-being.
+So if it costs $7 to avert that for a month,
+that's a pretty amazing sort of investment opportunity.
+
+Let me stop here for a second and sort of summarize.
+So what I've been showing you so far
+is that the poor report lower subjective well-being
+and happiness compared to the rich.
+This correlation reflects causal effect.
+In particular, anti-poverty programs
+increase subjective well-being and mental health.
+Therapy, on the other hand, has long-lasting mental health
+benefits.
+There is also some evidence at least of economic benefits.
+I think there's more work to be done
+to figure out what exactly these benefits are
+and how lasting they are.
+We're going to next look at is whether worries about money
+lower worker productivity.
+So far, what I showed you here and summarized what we just
+discussed is more about anxiety and depression, which are
+sort of more severe conditions.
+Worries about money is essentially
+every person-- or almost every person
+who is relatively poor will have worries about money
+at least at some point in time.
+We're going to now look at are these worries about money,
+do they have causal effects on people's productivity.

@@ -1,0 +1,240 @@
+PROFESSOR: So now, let me just summarize then what we saw.
+So most studies that we have seen
+have shown that there's a pretty robust increase
+in food expenditures to total expenditures.
+So if you increase people's overall expenditures,
+food expenditures go up.
+Notice that the exception was the Jensen and Miller
+case that we saw, which might be a unique situation that's
+not commonly happen very much.
+But be that as it may, really any studies that have shown you
+have an elasticity, that is clearly below 1.
+That is to say, if you increase expenditures by 1%,
+you will see food expenditures go up by less than 1%.
+By something like 0.6% at best.
+OK?
+Now, as people become richer, they
+don't increase caloric consumption proportionally,
+in part because they substitute to other types of food,
+perhaps because it tastes very good.
+Now, this will make, essentially, the capacity curve
+quite shallow because, essentially, it's
+not the case that when people earn more money, they become--
+they eat a lot more, and therefore they
+become more productive.
+Now, of course, the missing-- what's missing here?
+What do we still need to do?
+So now I've shown you, if income goes up,
+nutrition goes up but by not very much.
+What's the other piece that we need now?
+
+Yeah?
+STUDENT: So the impact of increased calorie intake
+on productivity.
+PROFESSOR: Exactly.
+And now we look for this.
+Well, it turns out we actually don't
+have a lot of great evidence for this.
+Now one question you might first ask
+is, well, why are people not eating more as they get richer?
+Why they don't seize every available opportunity
+to eat more if they can do so?
+Well, maybe it's just the case that, in fact, it's
+not particularly productive, as in maybe the productivity
+gains of eating more are actually not that large.
+And then if that's the case, well,
+why not just eat yummier food or food
+that you like better just because it's not
+going to make a big difference for your productivity anyway?
+And that's what we're going to look for now,
+is we look at estimates of impact
+of calories on productivity.
+There's actually very few studies that exist.
+There's one study by Strauss, 1986,
+that studies the impact of calories on productivity
+in Sierra Leone.
+This is not an experiment, but Strauss uses the fact
+that people eat less when the price of food goes up.
+So they look at like, for exogenous reasons,
+the price of food goes up, and now people eat less.
+And now, can we see people being less or more productive?
+Here's what they find.
+He finds, essentially, that productivity goes up
+as a function of nutrition.
+That's good.
+But again, we see some elasticity
+of about something like 0.4.
+We see essentially this function is concave.
+It's not S-shaped at all.
+It's not convex in any case.
+The elasticity is highest among the poorest,
+but it's about 0.4 among the poorest.
+That's nowhere near 1.
+It's 0.4.
+So people do become more productive as they eat more,
+but this productivity increase is not super large.
+Now, there's some others.
+There's very few other studies.
+But broadly, other studies find very similar results.
+What do they find?
+So here's-- Strauss finds an elasticity of 0.4.
+I should say, these are, I think,
+farm workers or people doing very physical labor.
+So we think, if you look at nutrition increasing
+people's productivity, this is really
+where you should look at.
+If you think you're not strong enough to do certain work,
+if you're a farm worker and so on,
+that's maybe the maximum effect on productivity
+that you might be able to find for at least caloric intake.
+There's some experiment by Wolgemuth with Kenyan road
+workers where some people were given--
+some were given some food and others were given more food.
+And you find an elasticity of something like 0.5.
+There's, in fact, even a recent RCT
+that finds no effect of increasing
+caloric intake on productivity in flower plants in Ethiopia.
+Why exactly it is we don't quite know.
+But I think the main takeaway for this
+is the elasticity is clearly below 1.
+Now we have, essentially, estimates of two elasticities.
+We have an elasticity of increasing income
+on caloric intake.
+That elasticity is below 1.
+We also have an elasticity of increasing caloric intake
+on income or productivity.
+That's also below 1.
+Now once you put these things together,
+once we multiply these two elasticities,
+we get something like 0.54 times 0.6, which is about 0.3.
+What I was telling you, what we really need
+is we need to intersect the 45 degree lines from below.
+We need a slope of above 1.
+But instead, we have a slope of max 0.3.
+Now, there's a bit of a question,
+for whom does that exactly apply?
+But even if you look at different subsamples and types
+of people, essentially this elasticity is clearly below 1.
+That is to say, we don't think there's
+a nutrition poverty trap going on,
+at least in that formulation.
+And notice that I haven't even talked about the fact
+that increased productivity might not even
+lead to larger wages.
+We looked at productivity here, but it
+could be that even if people become more productive,
+they're not even paid that much more because the landlord
+or whoever, their boss, just pays them the same
+or not much more.
+So overall, what's the summary?
+It's, well, overall, this evidence
+suggests that a nutrition poverty trap is unlikely.
+And so any policies that you come across
+that sort of says, well, the big problem
+is that people are not eating enough calories,
+is likely misguided.
+So if you just say, well, feed people
+because if we feed people they will become more productive
+and become richer, that's not right.
+Now you might say, people are not eating enough,
+and therefore we want to help them in the short run
+because that's bad if people are starving and so on.
+That's, of course, very well warranted.
+You might want to do that.
+But it's not the case that you can expect the long run
+effect of these types of intervention
+through giving people more food or more money to eat.
+Now, of course, this is not the end of the story.
+So far we talked about very much short run effect of nutrition,
+of caloric intake.
+And as I said, there might be different things going on.
+In particular, there could be longer run effects.
+This is, I think, what Zion was saying earlier about
+there could be improved micronutrient, iron,
+et cetera, intake and so on, that if adults
+eat better type of food, maybe in a year or two from now
+they become more productive, potentially.
+Second, I think this is most importantly--
+and there's in fact some evidence that suggests that
+there could be very high returns--
+is child nutrition and more broadly child health.
+That could be a very important mechanism through which
+a poverty trap could emerge.
+And the idea here is you provide a child in the short run
+or even like one-time investment, be
+that, for example, in utero, when the child is very young,
+the child is fed well, or maybe some programs
+such as deworming, which improve how much food people can
+essentially keep in their body or what
+happens to the nutrients that they're eating.
+Doing that short run or one-time intervention
+is potentially increasing people's capacity
+over their entire lifetime.
+That is to say, you do a deworming program or a food
+program for mothers and children as they're
+very young, that might make them healthier,
+helps them stay in school, makes them stronger,
+helps them learn more in school, and therefore, they
+will be more productive for the rest of their lives.
+And in fact, that's what [INAUDIBLE]
+going to talk about next week.
+There is good reason to believe that maybe
+these types of investments have much, much higher returns.
+And so, therefore, there could be some nutrition or health
+poverty trap, in fact, going on, just not
+in the way that we had hypothesized
+in the first case--
+in the first place about nutrition and caloric intake
+overall.
+
+Given the existing evidence on the income elasticity of calories, if there were a calorie-based poverty trap, what would we need to find for the effect of increased calorie intake on productivity? If you eat more calories…
+
+
+
+… you’ll be much less productive.
+
+… you’ll be somewhat less productive.
+
+… you’ll be somewhat more productive.
+
+… you’ll be much more productive.
+
+
+
+
+You have used 1 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+11.2
+1/1 point (graded)
+What does the evidence suggest about the effect among the poor of increased calorie intake on productivity? If you eat more calories...
+
+
+
+… you’ll be much less productive.
+
+… you’ll be somewhat less productive.
+
+… you’ll be somewhat more productive.
+
+… you’ll be much more productive.
+
+True or false? A positive feedback loop (a.k.a., virtuous cycle) — e.g., more income today means even more income tomorrow which means even more income the next day, etc. — is sufficient to create a poverty trap.
+
+
+
+True
+
+False
+correct
+Show answer
+Submit
+You have used 1 of 1 attemptSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+5.2
+1/1 point (graded)
+True or false? A negative feedback loop (a.k.a., vicious cycle) — e.g., less income today means even less income tomorrow which means even less income the next day, etc. — is sufficient to create a poverty trap.
+
+
+
+True
+
+False
+correct

@@ -1,0 +1,384 @@
+PROFESSOR: So now how do we think about these effects?
+Or let me just summarize what we have found.
+So first, one really important fact
+that we didn't quite know about the lives of the poor
+is that the urban poor at least--
+we don't know quite know about the rural poor.
+But at least the urban poor are severely sleep deprived.
+They spend about five and a half hours per night
+and have really low sleep efficiency.
+So not only do they not get a lot of hours of quantity
+of sleep, but the sleep is also extremely interrupted
+all the time.
+And so we should measure this a lot more
+and try to understand better how that relates to poverty.
+For example, there's some recent work
+by Claire Duvernoy and Maulik Jagnani
+that shows that when people receive cash transfers,
+household heads, for example, have improved sleep quality.
+That's to say people are worried about money.
+And once you give them money or cash,
+their sleep quality goes up, which
+suggests that at least some of what this low sleep
+efficiency comes from is from people are just worried
+about stuff in their life.
+And if you're able to reduce their worries in some ways,
+you perhaps would increase people's sleep efficiency
+and potentially their well-being in some ways.
+Second, you can, in fact, increase people's sleep.
+We only were able to increase people's sleep quantity,
+not their sleep quality.
+So one really important question is now,
+can we improve sleep quality potentially?
+And that's really an open question
+that we need to study more.
+Now next, we find new effects of increasing night
+sleep on a range of outcomes.
+We had some expert predictions.
+We had some sleep experts, some economists
+who were essentially trying to predict
+the effects that we would find.
+Lots of people, including ourselves,
+predicted there to be large positive effects
+both on productivity and labor supply and so on, and earnings.
+And we can clearly reject that these predictions are correct.
+That's to say experts seem to overestimate the effects
+of sleep in our setting.
+This is also a clear contrast to what
+the medical literature says-- what I showed you earlier.
+Now why is that?
+I think there's two potential reasons.
+One reason is, as I just said, it's
+because of sleep quality is really low.
+So just if you add sleep quantity
+to a person that has really low sleep quality,
+the benefits of that are just not very high.
+And we have to test interventions
+to increase sleep quality to find out
+whether that's really true.
+The other alternative is, perhaps,
+the evidence that people find in sleep lab might just not
+generalize as much as, perhaps, we would have thought.
+We might find in a sleep lab, if you are fully sleep deprived,
+you might really make bad decisions
+or might be really bad at cognitive tasks, and so on.
+But maybe that doesn't necessarily
+generalize to real world settings.
+My interpretation is mostly the former.
+We think it's really because of the low sleep quality,
+but I think we need further studies to try and find that
+out.
+Now second, we find, in fact, no evidence
+that people under-invest in sleep in their settings.
+I told you earlier, it seems to be, perhaps,
+look, people sleep so little, is it
+really people might be underinvesting in sleep?
+Maybe they're making mistakes in sleeping as little as they do.
+But now we put people to sleep more by encouraging to do so.
+And essentially, nothing in their lives improves.
+People earn less money.
+People are not happier.
+People are not more productive.
+People are not more attentive and so on.
+People are not nicer to others, et cetera.
+So there's really nothing good that comes out of that,
+at least over the course of about a month, that
+sort of suggests that people are right in a sense
+to sleep only five hours per night given the circumstances
+that they're in.
+That is to say we address a set of constraints or issues
+that affect their sleep in their sleep environments.
+And within those constraints, within those types of family
+circumstances or living conditions that people are in,
+making small marginal changes to people's sleep
+doesn't really do very much.
+We're spending more time in bed.
+Doesn't really do very much.
+So what they were doing before seems, in fact, perhaps,
+the right thing to do.
+Of course, it could well be that in the longer run,
+or if you more dramatically change
+people's sleep, if you moved everybody to a nice hotel,
+for example, or a very nice apartment building, et cetera,
+perhaps then people would become a lot more productive.
+And we don't know whether that's true.
+And I think one needs to figure out.
+Of course, it could also be that over the very long run,
+it's really bad for your health if you only
+sleep four or five hours.
+And we don't really measure that at all
+because we only measure things over the course of a month.
+And there's lots of medical studies that show, for example,
+if you sleep deprive animals, they get cancer at some point,
+or much more so than if you don't.
+So there's lots of scary medical literature
+that suggests the long run effects of sleep deprivation
+are very severe, including for things like Alzheimer,
+or cognitive decline, and so on.
+But that's not things that we necessarily measure here.
+But I think it's still true that in people's environments
+from what they can observe, if you are sitting in Chennai
+and thinking about should I sleep for an hour or more,
+not if people do that or as we push people to experiment
+with that, it doesn't seem like people should
+be sleeping more, at least from what they
+can observe in their lives.
+And, again, that doesn't mean that there are no longer
+effects potentially of not doing so,
+but that's not something that's easy to measure
+for us or for people in the study.
+Now at the same time, naps seem to have important impacts.
+So naps have important impact on a range of outcomes.
+Naps improve productivity.
+They improve attention.
+They improve happiness.
+So if you're an employer with your workers,
+you might actually very seriously consider
+allowing your workers to nap, perhaps.
+Or if you are an MIT undergrad who's hired,
+napping might be a good idea for you.
+Preferably not in class.
+Why are naps having effects compared to night sleep?
+Or why is it that the effects are larger here?
+Well, it could be that the quality of these naps
+are much higher in the sense we have a very nice sleeping
+conditions in our office where people can nap.
+And so it might well be that they get higher quality sleep.
+And higher quality sleep has high returns.
+Of course, it's also true that naps are in the afternoon
+and night sleep is at night.
+And so we can't really necessarily say it's quality
+as opposed to timing of sleep.
+Yes?
+STUDENT: Yeah, I'm a little confused
+why mattresses and earplugs--
+why don't they increase quality?
+PROFESSOR: Yeah, great question.
+So I don't think we know necessarily the answer to that.
+I think I have two answers to that.
+One is you see here all the issues that people report
+interfere with their sleep.
+This is sort of the fraction of participants
+in any given night who say--
+these people say they didn't sleep well.
+We ask them, what interfered with your sleep?
+And that's what people say.
+Right?
+And so what we are addressing is what you see here
+in blue as opposed to in gray.
+You see that there's lots of stuff that's unaddressed.
+There's mosquitoes.
+There's too many people in the same room, worries and stress,
+physical pain, et cetera.
+These are still really important barriers.
+And it could be that people's sleep quality is really low,
+for example, because they're in pain because there are
+many people in the same room.
+There's lots of mosquitoes.
+And we just didn't address this concern,
+and so people still wake up a lot.
+Second, we provide people, for example,
+with earplugs, eyeshades, and so on.
+Take-up of these types of devices
+is not particularly high.
+So we tried various different things, just
+seven types of earplugs that you can try,
+and can exchange them if you like them,
+and so on and so forth.
+You can try different mattresses and so on.
+We tried very hard to give them all sorts of options,
+try to explain how to use earplugs, have them practice,
+and so on and so forth.
+But it turns out, I think, in particular earplugs,
+people just don't like using earplugs.
+And it's very hard to get used to them.
+Could we have done better in that?
+Perhaps, but we're not able to have high take-up on that.
+So I think the combination of those two things
+is to say we don't address all factors that
+interfere with people's sleep.
+And, two, even the factors that we try to address
+are not fully addressed.
+Seems to explain what's going on.
+And that's not to say one can't do it,
+but it's to say it's not an easy policy in the sense of if you
+just gave people a bunch of earplugs, eyeshades,
+and mattresses, you should not expect sleep efficiency
+to go up.
+Does that make sense?
+STUDENT: So if we were to continue
+trying different things, like mosquito nets,
+trying to combat all these different factors,
+does it mean that there's some combination of things
+we can use that would eventually increase?
+PROFESSOR: Yeah, exactly.
+Exactly.
+We could try various things.
+We could try also provide people with mosquito nets
+or other types of mosquito repellent.
+You could offer people different rooms
+where they can sleep in better, or maybe separately
+from others.
+You could provide people with some form
+of money or other ways to reduce people's worries.
+There's some form of therapy that you can
+do to reduce people's worries.
+You could also reduce their physical pain,
+for example, and so on.
+And you could do a combination of those things.
+My guess is there's at least some scope for improving
+people's sleep quality.
+In some sense, we know that that's true
+because rich people sleep very well, say, in the US.
+And I think also in India, but we don't necessarily
+know that yet.
+So in a way, we know that something is--
+there's got to be some way to improve people's sleep
+quality overall.
+Now, of course, it could be that if you had certain life
+experiences, et cetera that interfered with your sleep,
+it's much more difficult to do so.
+And so then you might say then, well,
+why do we overall increase sleep?
+I think there's a lot coming from the encouragement
+and the incentives.
+We tell people, look, you sleep five hours.
+Doctors say you should be sleeping seven to nine hours
+and so on and so forth.
+We incentivize some people, so people spend more time
+in bed, which is easy for them to control.
+It seems like they sleep quality is much
+harder to control for people.
+Yeah, let me quickly finish up.
+OK, so if you're an employer, you
+might think offering naps might be a good idea.
+And naps are often crowded out by Western work schedules,
+which might be quite costly.
+Napping might be a really beneficial thing for you to do.
+Now there's lots of open questions.
+And some of them are sort of questions
+that Daniel was asking, which is, more broadly,
+what are the effects of sleep in other settings,
+in rich countries, in rural areas, in developing countries?
+Short or long-run effects.
+And particularly, the crucial question
+really is how to improve sleep quality in developing
+countries.
+There's quite a bit of evidence that
+cognitive behavioral therapy for insomnia
+works quite well in rich settings.
+So essentially, there's a bunch of apps or types
+of interventions that essentially do
+some form of therapy for sleep.
+So if you have lots of worries and issues
+with sleeping at night, you might want to try this out.
+There's quite a bit of evidence that
+shows that at least on average, that works pretty well.
+You might also perhaps think about lowering
+people's financial strain.
+There's a recent paper-- that's what I just mentioned--
+cash transfers, in fact, are able to improve people's sleep
+quality in some ways.
+Studying naps, more natural sleep environments,
+in particular in work environments, seems important.
+One thing that has been studied a lot less in particular
+in low income contexts is learning or education, test
+scores, and so on on students.
+There's some work on this.
+In particular, there's one study recently by [INAUDIBLE] et al.
+These are, I think, study students in Pittsburgh that
+are incentivized to sleep more.
+And, in fact, their test scores go up.
+So throughout the semester, they receive
+incentives to spend more time to sleep more.
+And the authors find that that works in a sense
+that students do sleep more.
+They spend less time on social media, et cetera,
+and their test scores at the end or their GPA
+essentially goes up as a result of that.
+Now that's in the US, of course.
+We know much less about low income
+contexts what might happen if people were to sleep more.
+One reason why I might think that that's a good idea
+or why that might be potentially a good thing to try
+is kids in particular or young people
+in general, but particular kids, are
+much better at sleeping well.
+Old people don't sleep well at all.
+They wake up a lot.
+If you think about your grandparents
+and so on, they tend to not sleep very much,
+get up early, and so on because they
+have trouble sleeping well.
+Kids instead can sleep really, really well.
+And so therefore, a lot of the factors
+that interfere with people's sleep that I just showed you
+might perhaps be less important for kids.
+They might just be able to sleep through all
+the noise and all sorts of things that are happening.
+So there then, if you're able to increase people's sleep
+quantity, perhaps there might be higher returns for education,
+learning, and so on and so forth.
+But that's just speculation.
+We don't know whether that's really true.
+OK, let me just summarize in one minute
+what I want you to take away.
+So one is the myth of the happy poor
+is a myth, as I just laid out to you.
+Poverty is detrimental for well-being and mental health,
+and that's been shown in abundance.
+In particular, anti-poverty program
+robustly improved well-being and mental health.
+Conversely, negative shocks.
+For example, if people lose their job
+or if bad stuff happens to them, bad harvests and so on
+are deteriorating people's well-being
+and their mental health.
+That's not to say that some of these forces
+might not be at play.
+Maybe there is, in fact, lower levels of stress
+or social comparisons and so on in villages.
+That might well be true.
+But, really, what's dominating in terms
+of the effects on people's well-being is that being poor
+is bad for your mental health and for your well-being.
+Now worries about money specifically,
+and maybe perhaps mental distress more broadly,
+can lower worker productivity, and therefore
+make it even more difficult for people
+to become richer or make money.
+Further, poverty entails lots of other psychological burdens
+beyond worries about money.
+For example, poor sleep.
+There's lots of things that haven't been studied.
+So, A, we haven't studied how to increase sleep quality.
+And perhaps, sleep is, in fact, also
+important for affecting people's productivity, or learning,
+or other types of things.
+But there might be also many other things going on,
+for example, physical pain or other types of things,
+that might be really important in reinforcing poverty perhaps.
+So we need much more work to uncover
+these types of causal effects and some
+of these underlying mechanisms to study
+the relationship between poverty, well-being,
+and mental health.
+
+True or false? It is a foregone conclusion that the poor are less happy than the rich, so there is nothing to be gained from studying this topic.
+
+Happiness is highly correlated with income — richer countries are happier; and as countries become richer, they also become happier. Therefore, a reasonable approach to increase happiness in poor countries might be to focus on improving income for the entire country.
+
+True or false? The same is true of depression — richer countries are less depressed, so we should focus on improving poor countries’ incomes to reduce depression.
+
+
+In the absense of psychological effects, economic theory would suggest that during Days 8–12 (the “Post-Pay Period”), compared to the control group, the productivity of the treatment group should be…
+
+
+
+Higher because they are less stressed.
+
+The same because the incentives are unchanged.
+
+Lower because of the income effect.
+
+Uncertain because they may not trust the researchers.

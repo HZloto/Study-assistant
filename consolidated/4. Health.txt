@@ -1,0 +1,2238 @@
+PROFESSOR: Today we are going to be talking
+about health and in particular about how people decide
+to invest in health and in particular preventive health
+and set up the stage to think also about how they are served.
+What's the market for health?
+What's the quality of health?
+What's the quality of public and private health
+options and so on?
+Let's start with a recap from the last lecture.
+So if you remember from last time,
+we saw that nutrition based poverty trap can arise
+but only if there is a very strong relationship
+between income and nutrition on the one hand
+and between nutrition and income on the other hand.
+So basically, what you need is the inherited
+income or the income you're starting in one period.
+If you inherit x or you start your day with x,
+you need to end up with more than x at the end of the day.
+So you need at some point that there is a very steep segment
+of the curve that is going to cross the 45 degree
+line from below.
+Otherwise, even if there is this double relationship that
+creates a mapping between today's income and tomorrow's
+income, if it's shallow enough, then that's
+not going to generate a poverty trap.
+And then what we saw last time in Professor Schilbach's
+lecture is that even when you control for endogeneity,
+we do find a pretty robust relationship of food
+expenditure to total expenditure.
+But the elasticity is below 1.
+It's about 0.8.
+So what this means is that if I increase your income by 10%,
+I increase your food expenditure by 8%.
+And in addition, not only this food expenditure
+is not going to be 100% additional calories,
+because how is it going to be divided?
+If I spend more on food, I'm going to spend more
+across two different things.
+What are these two things?
+
+Olivia.
+STUDENT: One of them was meat.
+PROFESSOR: Right.
+So not just meat, but generally calories
+that are more expensive.
+So when you're very poor, you're going to try and get--
+to buy yourself the cheapest bread and find
+nutritious food that are cheap.
+And when you become a bit richer,
+you can afford to buy food that is
+a little bit more expensive for getting the same nutrition.
+And roughly a rule of thumb is that it's
+divided about half and half.
+So if I increase your income by 10%,
+I increase your food expenditure by 8%.
+And this 8% is in turn divided into about 4%
+extra calories and 4% more expensive calories.
+So that gives us an elasticity that is closer to 0.4.
+Meanwhile, we have a relationship
+between food expenditure and productivity
+that is also positive.
+But the best we can tell is it's maybe again around 0.4.
+So the product of the two is going
+to be 0.016, which is very, very, very
+far cry from being 1.
+In other words, when I increase your income by 10%,
+I'm going to increase your productivity via this nutrition
+productivity channel just by 1.5% or so.
+So it is hard to imagine that we will
+be able to generate a nutrition based poverty trap based
+on just this phenomenon in general.
+It could still be moments where people
+are near starvation or at starvation
+where it will matter.
+And certainly in history, there has been
+moment where it had mattered.
+For example, Robert Fogel speaks about medieval Europe
+and points out that there were many people who
+were just begging, beggars.
+And one interpretation of seeing so many beggars in the city
+is that those were people who were actually
+too weak to do any meaningful physical work.
+So they were probably stuck in this exact nutrition
+based poverty trap.
+But today in the world, even in poor countries,
+in this kind of normal course of time,
+one can imagine that actually that may not be going on.
+But child nutrition might be a mechanism through which
+a poverty trap might emerge.
+This is because at one time, you do a one time
+investment in the child or could it
+even be a one time investment in the pregnant mother.
+So it's a child while in utero.
+That can generate long term impact not just
+one time but year after year after year after year.
+It's not the same as eating well today.
+That's going to make you productive.
+It's just changing your way of being in general.
+So one way to see it is to think about the capacity curve.
+You remember the capacity curve.
+It links my productivity to how much I consume.
+So how could we think about the childhood nutrition
+with respect to the capacity curve?
+So what we've seen before is that if you eat more today,
+that's movement along the curve.
+How should I think about child nutrition
+in the context of the capacity curve?
+Lucas?
+STUDENT: Could it be in terms of shifting the entire curve?
+PROFESSOR: Exactly.
+And where would you shift it?
+STUDENT: You would shift it so that there
+would be more output tomorrow for any given level today.
+PROFESSOR: Exactly.
+So we would shift it either to the left.
+So that's this big thing is coming up earlier.
+So it needs less to be in the good range, less income
+to be in the good range.
+Or you could shift it such that it's
+tilted upwards a little bit such that at any level,
+you're getting more productivity for the same amount
+of nutrition you're getting.
+So basically, we're talking about child nutrition
+as changing the machine that we are,
+making you more able to benefit from the nutrients
+that you're going to get your entire life.
+So if that's the case, that really
+changes the ball game altogether,
+because this very small amount of this increase in nutrition
+in the one time is going to generate dollars year
+after year after year, which could be
+many, many, many, many dollars.
+So the return to that investment would suddenly turn out
+to be much larger than 1.
+So let's see whether we can find something like that.
+PROFESSOR: Another thing that this
+leads to is for us to start in particular this discussion we
+had about how people react to curative
+care versus preventive care.
+Should make us think about whether you would want health
+to be provided publicly or privately.
+So [INAUDIBLE] had a very strong idea about it.
+He pointed out that health care is
+a credence good, which substantial asymmetric
+information.
+One way to say it in plain English
+is that health care is like being a garagist.
+The people who fix your car, a car mechanic, they
+know a lot about your car that you don't know.
+And therefore, you go and you say, oh, they say,
+oh, your car, it's all broken.
+I have to change this and I have to change that
+and it's going to cost you a ton of money.
+And you're like, I don't know.
+You have to trust them.
+So that's car mechanic is another credence good.
+So health care is people understand much less
+than the doctors that they have and learning is very difficult.
+And in addition, there are externalities because health
+status, a lot of diseases are contagious.
+Not quite all of them.
+As a result, people will have low demand
+for things that are good for them
+and high demand for things that are good for others.
+So you cannot rely on individuals to make all
+the decisions that are right for society.
+They will tend to be under-immunized and take
+too much antibiotics.
+So for all these reasons, you would
+imagine that unregulated private health care would treat people
+badly and to over provide medication.
+So [INAUDIBLE],, who is one of the great godfathers
+of genomics, told us it is a general social consensus
+clearly that the laissez faire solution for medicine
+is intolerable.
+So comparing to that, what do we have in developing countries?
+We indeed have a terrible private health sector.
+Terrible.
+Terrible as in 77% of the private provider
+in rural areas in India have no medical degree.
+
+There's no medical degree at all.
+So you guys could just start establishing yourself
+as a doctor, and you would be much more qualified
+than the average providers that call themselves a doctor.
+Of those who have a degree, only 4%
+have what we would call an MD and the other
+have this kind of different either lower
+or alternative medicine degrees.
+In the average village, there are
+three providers with no degrees, less than one with some degree,
+and only 20% with an MD.
+The public providers are more qualified
+and they offer free services, but they only
+have 1/5 of the market share.
+And even if there is a public health center right there,
+they still have only about 1/3 of the market share.
+So in comparison to the [INAUDIBLE] thing,
+what [INAUDIBLE] told us is--
+[INAUDIBLE] told us, well, given the structure
+of what health is, the private sector would
+be so bad that there should be no private sector.
+And half of that is true.
+The private sector is terrible.
+But it is completely dominant.
+So what's going on here?
+So the first thing you might ask is, OK, they're not qualified,
+but maybe they know-- maybe despite not
+being formally qualified, they have
+a lot of relevant experience.
+So for that we can try and ask vignettes.
+So a vignette is a standardized patient
+that's proposed to a doctor.
+If one day you do medicine and you do board exams,
+you will do a vignette, which is basically a case that's
+proposed to you on paper.
+And you have to study it.
+For example, you describe, I'm describing to you the vignette.
+It's known to be fictional.
+A women come to the clinic with a child who has
+diarrhea for the last two days.
+What do you do?
+So here the right answer is to ask me about stool
+to figure out if there is blood.
+Is it dysentery or a virus?
+Do they have fever?
+In this particular case, it is all the indications
+are that it is viral.
+There is no fever.
+There is no blood in the stool.
+The right solution is oral rehydration solution.
+So [INAUDIBLE] who did a lot of studies
+on using these vignettes, so on the vignette for diarrhea,
+this is the type of things that people should have done,
+question they should have asked, exam
+they should have performed.
+Again, this is just in a dialogue.
+I'm interviewing [INAUDIBLE].
+So what do you do?
+And she should tell me, well, ask the patient
+if there is blood in the stool.
+Check the fontanel to see whether the child is dehydrated
+and so on.
+And what you can see is that-- so here the doctors
+are ranked by how competent they are,
+which is how well they answer to the vignette on average.
+And what we see is that in India,
+for example, even if you take the most competent doctor,
+they ask the question about blood in the stool less
+than half the time.
+They almost never check the fontanel.
+They ask about fever 60% of the time.
+And they ask the frequency of stool maybe 60% of the time.
+That's the best doctor in the sample.
+And the worst one basically did none of that.
+So across countries, there are two conclusions.
+The first one is that the average quality is low
+and the second is there is a lot of heterogeneity.
+And the third, which summarizes the two,
+is you have to be above median to do less harm than--
+to not do harm.
+You remember the slogan of doctors.
+Don't do harm.
+And this, you have to be only the top half of doctors
+do not do harm when they're faced with a vignette.
+So they don't do much.
+The second thing we can ask is, well, they don't know much.
+What do they do?
+So how do we know what people do, what doctors do?
+There are two things you could do.
+You could just sit next to them while they do their work.
+So I don't know if you've been to your GP and they tell me,
+oh, there is someone who is just looking what I do,
+like a resident.
+So you could likewise have a researcher just
+sitting there looking at what they do.
+One could imagine that if they are observed, maybe
+they work a little bit harder.
+So that's going to give you an upper bound of how good
+the doctors, how well they work.
+And then there is another method that can be done,
+which is to say send standardized patient, which
+in other words is like an audit study.
+So send someone to the doctor who pretends to be sick.
+So for example, to ask about diarrhea,
+someone comes to another village or someone comes to a village
+and say, I come from this other village
+and there is a child who has diarrhea.
+What do I do?
+So the doctors think that we are talking about a real child.
+Or someone presents themselves and they have chest pain
+and panicked.
+
+Doctor, help me.
+Like that.
+After this is finished, you go and debrief the doctor
+saying this person was actually fake.
+So what do we find?
+So from direct observation is on average,
+they spend two minutes.
+If you look at Delhi for example,
+from direct observation, they spend
+two minutes with the patient.
+They ask one question.
+They perform one exam, and they give you two medicine.
+So that's your visit.
+Quick and efficient.
+So that's how much effort is being given.
+These are results from doing standardized patient
+across different countries.
+So these are, for example, the person
+showing up with chest pain or discussing the case
+of a child with diarrhea.
+This is assessing whether at the end of the day
+you got the correct treatment.
+So in India, various places in India, and then this
+is China and Kenya.
+So in Kenya, it's not bad.
+Half of the doctor gives you at least some correct treatment,
+although 20 gives you only the correct treatment and 30
+gives you something in addition that you don't need.
+In India, it's somewhere between 10% and 30%
+who gives you correct treatment.
+You can see that you get a lot of over treatment,
+a lot of incorrect treatment, many antibiotics.
+55% in Kenya, 67% steroid in some cases.
+Very few referrals.
+So these doctors not only do they know very little,
+but they don't treat very well.
+So all of that is in the private sector.
+Why do people still choose the private sector?
+Incorrect treatment costs the patient a lot of money.
+70% of the cost of the visit is antibiotic or another drug
+that you don't need.
+
+And yet people go to the private doctor.
+So in Udaipur, you're going to see the film next week,
+only one out of five visitors to the public sector.
+In Madhya Pradesh, 90% of the visits are to a private doctor.
+And then in Delhi where it's the city,
+there is on average 70 private provider within 15 minutes
+walk, which indicates that there is demand for them.
+So people much prefer the private sector.
+So why?
+Well, one response is given by one
+of these standardized patient visits in Madhya Pradesh.
+And I'm going to summarize it rapidly.
+What they find is that although the public doctors are better
+trained, so they know more, they perform,
+they have better diploma, they perform better on vignette,
+but they spend even less time with the patient.
+And as a result, they don't treat any better.
+On balance, they are not more likely to get
+to the correct treatment, perhaps even slightly worse.
+So one of the reasons why people continue
+to go to the private sector is the private doctor
+exercise a little bit more effort.
+And although they know less, they
+are able to use whatever little knowledge they have
+a little bit more effectively.
+
+PROFESSOR: So that's what leads to a general problem
+in medicine, which people refer to as a know-do gap, which
+is the gap between what you know and what you do.
+So what we can do to look at the know-do gap
+is to compare how people, for example,
+how Florida responds to my question when I'm telling her
+it's a vignette.
+So she sees it as an exam of some form.
+And she's putting on her brain to say,
+"this is what I know I should be doing."
+Versus the same Florida, but she doesn't know it's an exam,
+someone shows up.
+So what's the difference?
+What is the difference between your behavior
+in an exam or interview situation versus what
+you do in the field.
+Yeah.
+So you see that in every place we
+have this know-do gap, which is people
+with the same keys given in a vignette people
+reach the standard.
+For example, in Madhya Pradesh, the provider,
+public and private together, reach the right treatment 70%
+of the cases on the vignette, but only 20--
+about less than 30% when it's a real person.
+So they know what to do, but they don't do it.
+We have the same thing everywhere.
+And then if you compare the public and private,
+you can see that the public doctors and the private trained
+doctors know more than the private untrained.
+They know more as is being revealed by the vignette
+not just by their diploma.
+They know more, but they do so much less.
+At the end of the day, they don't act less,
+because the know-do gap is greater for them,
+than for them.
+So most of this extra knowledge is not really
+being usefully deployed.
+So a central problem, then, is not
+necessary to train more doctors or train them better,
+but to convince them to do what they know how to do.
+A few facts from this same study that compares people's action
+to what they know--
+the first fact is that people who
+just exercise literally more effort, spend more time,
+they complete more checklist items.
+They ask more questions.
+They do more of what they should be doing.
+So this is the checklist across the different standardized
+patient.
+The more time you spend, the more checklist you do.
+And the more checklist you do, the more likely
+you are to end up at the correct treatment.
+So if you spend more time, you spend more time
+on the checklist, you're more likely to treat correctly.
+The second fact is that it is actually worth it for them
+to work more.
+People who spend more time with the patient earn more money.
+And so there is a positive return to effort.
+
+The third fact is that among people
+who know the correct treatment there is wide variation in
+whether or not they do.
+So for example, this is the people who know what to do.
+
+The more checklist item you complete, the more likely
+you do the correct treatment among people
+who know for sure, who think they know for sure,
+there still is a lot of variation
+in the density of how much checklist item they complete.
+So they know what they are supposed
+to be doing, know for sure, and yet there
+is still a huge variation.
+And the people who know, when they
+do more of the checklist item, they
+are more likely to treat correctly.
+This is the relationship between-- among the knowers--
+the relationship between correct treatment and checklist
+is still there.
+So the knowledge isn't completely sufficient.
+So this we already showed-- that people who do more save more.
+And so they don't spend much time,
+even though they could charge more if they spend more time,
+and they would arrive at the right treatment more often.
+So why would it be the case?
+Well, one possibility is they don't have time.
+But in fact, they seem to have a lot of time,
+because they don't spend so much time with patient per day.
+If we're looking at the total time spent with patient
+per day, the density, you see that a lot of people
+end up spending 50 minutes per patient in a workday.
+So you could increase it.
+They have scope to increase it, and yet they
+don't choose to increase it.
+So that's kind of the mystery we have.
+So it seems that there is a lot of margin
+to act to try to incentivize the public sector to exercise more
+effort, to try to work with the private sector
+to get a bit better trained, and to also exercise more effort
+to deploy the knowledge they have the best.
+Yeah?
+STUDENT: So you're saying train the private sector better,
+why is it not an option to regulate it better?
+PROFESSOR: Yes.
+So if you regulated them, so what?
+
+What would you do from regulating them?
+STUDENT: Well, I mean if you know
+the issue's over medicating, or, like, at minimum,
+they're spending too little time,
+if you're going to put money into training them,
+could you also just send that money
+into establishing regulations?
+PROFESSOR: Absolutely.
+So regulating, in particular, regulating--
+so regulating how much time they spend to the patient
+might be hard, but regulating the type of medicine
+they can prescribe would certainly be very beneficial.
+So there has been a thought to do that.
+So in India, like in the US, there
+are many restrictions on who can prescribe antibiotics
+and when you can have it.
+And there are antibiotics on various lists.
+But if you've ever been sick in India, go to any shop
+without any prescription and say, "give me
+this like super, top, ultra-duper antibiotic,"
+you'll get it.
+So I absolutely agree with you that better regulation
+is essential.
+And it's actually a complicated problem in health care,
+as well as elsewhere.
+So I should add that in a bullet,
+saying find a way to improve your regulation.
+So I thought that where you were going
+is to say, "we should kick them out,"
+which is what the doctors think.
+We should just not have them.
+But then you see that if we didn't have-- they actually,
+at the moment, treat just as well as the public sector.
+And they fill a huge gap in the public sector.
+So regulating them out of existence
+doesn't seem to be a very feasible or desirable short run
+solution for this reason.
+
+Incentivizing them to perform a bit more effort would be nice.
+So incentivizing-- so you could have
+financial incentive in the public sector
+or you could have social incentive.
+Since we have very little time left,
+I'm not going to spend time on that,
+except to repeat that it is very, very difficult.
+So I have a paper with--
+we did an experiment with Abhijit Banerjee and Rachel
+Glennerster, where we worked with the government
+to put in place a system of financial incentive for nurses.
+And this is my worst experiment ever in the sense
+that the treatment led to a negative treatment effect.
+So after a few weeks, the nurses who were in the treatment group
+worked less than the nurses who were and the control group.
+So that was not a success.
+The reason why we were monitoring them
+by having them timestamp their presence.
+But their superior didn't punish them when they didn't show up.
+So they quickly learned that, in fact, they
+can't afford not to show up.
+So they decided to show up even less
+than they were doing before.
+So that didn't work.
+Much more promising is an experiment
+by Martina Bjorkman and Jakob Svensson
+empowering local community to monitor their health workers,
+showing them what is wrong, what goes well, what goes badly,
+and getting them to work together.
+That led to an improvement in the quality
+of services in the public sector, and as a result
+an improvement in health.
+Finally, and this will be my last word, training.
+So Abhijit Banerjee and Jishnu Das
+did a study on training the unqualified health worker.
+And what they found is that that was
+effective at getting the workers, not so
+much to know more, but to do more of what they know
+to do, in particular because it gives them a little bit
+more confidence in their own knowledge,
+and a little bit more trust of their patient
+that they know what they're doing.
+And if they're asking one more question,
+they can be trusting them that they're
+trying to do the right thing.
+So the suggestion was a combination
+of [INAUDIBLE] regulation and a little bit
+of opportunity for the privately provided doctor
+to re-certify from time to time so that people trust them more
+to do the right thing, even if it's not immediately
+what people expect.
+
+
+n the deworming study, what was the primary purpose of randomizing at the school level as opposed to the individual level?
+
+
+
+Organizing treatment through the schools
+
+Reduced sample size
+
+Increased sample size
+
+Reduced spillovers
+
+You have used 1 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+2.2
+1/1 point (graded)
+What is the primary downside of randomizing at the school level?
+
+
+
+Organizing treatment through the schools
+
+Reduced effective sample size
+
+Increased effective sample size
+
+Reduced spillovers
+
+You have used 1 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+This table shows the 10- and 20-year effects of deworming
+
+2.3
+1/1 point (graded)
+In Column (3) of Table 2, the treatment effect of deworming on per capita household wealth was $253 (converted to USD purchasing power parity) with a standard error of $89. This is statistically significantly different from zero at the 95% level. For which of the following standard errors would the effect still have been statistically significant at the 95% level, assuming the treatment effect is still $253? Select all that apply.
+
+
+
+$10
+
+$50
+
+$100
+
+$150
+
+$200
+
+The previous clips established what appears to be a puzzle: preventive health measures like bed nets and vaccines are rarely taken up by people in poor countries despite the fact that they can be extremely beneficial, are available at extremely low prices (often $0) Furthermore, the low take-up does not appear to be driven by some deep mistrust or some religious or cultural beliefs. Why might time-inconsistent preferences explain part of this puzzle? Select all that apply.
+
+
+
+People intent to take these measures, but procrastination gets in the way.
+
+The potential benefits are “out of sight; out of mind:” they’re vague and do not accrue until far into the future.
+
+People prefer that such health measures are carried out by the government rather than by an NGO.
+
+The costs (e.g., the opportunity cost of going to the clinic instead of doing something more enjoyable or productive, the potential side effects of the injection, etc.) are small but immediate and salient.
+
+PROFESSOR: So there is one paper that's-- actually,
+it's a series of paper now-- that explores that
+in the context of deworming.
+So why would we study deworming to think about nutrition?
+That's not a nutrition intervention,
+it's a health intervention.
+So why would it be a good way to look at nutrition?
+Angela?
+STUDENT: So whether children have deworming or not,
+it impacts their ability to absorb the nutrients
+and micronutrients in food.
+So if they have worms, [INAUDIBLE]..
+
+PROFESSOR: One can think-- precisely-- one
+can think about the worms as basically
+competing for the nutrient with the child.
+That's maybe not the best conversation
+to have at 1:00 in the afternoon.
+But so, basically, a child, by removing the worms
+from a child, I am making more nutrition
+available for this child.
+And, in fact, deworming has long been
+suggested that it could be a good way
+to reduce anemia in children, improve nutrition in children.
+So, in 1999, there was a study by Edward Miguel
+and Michael Kremer--
+Michael Kremer, who got the Nobel Prize in 2019.
+One of his seminal studies is precisely
+this one, so of studying this 1999 intervention.
+The study was undertaken in the short run to look at-- before
+the control group was treated--
+to look at the impact of the deworming program on school
+participation.
+And then, so we're going to quickly look at that.
+But then, even more relevant for us,
+to look at the long-term nutrition and health
+impact of deworming, they looked at them-- at the same kids
+again in 2016 and 2021 where they are now adults
+10 years later and then 20 years later, they are looked again.
+They were able to follow 7,500 kids who
+were in school at the time of the deworming program.
+By that time, they all have been dewormed.
+But some kids benefited from deworming for three years
+and some kids for just one.
+So this is going to be the difference.
+We are really going to compare less deworming versus more.
+So in the original program, the decision
+was taken to randomize at the school level.
+And the schools were assigned in these three groups.
+The first group received deworming program starting
+in 1998, the second group in 1999,
+and the last group in 2001.
+So in the long-term impact--
+in the short-term impact is going
+to-- there are going to be able to compare group one to group
+two and three, and group one and two to group three.
+And for the long-term impact, they
+are going to pool together one and two, which they are going
+to compare to group three.
+Why do we randomize at the school level?
+
+Yes.
+STUDENT: If you randomize them in the individual level,
+then they won't infect other students in the school.
+PROFESSOR: Exactly.
+So this is a discussion we had when
+we talked about randomization.
+When you randomize at the individual level,
+the kids who have not been treated
+could reinfect the kids who have been treated.
+And, also, the kids who have been treated, in some sense,
+help the kids who have not been treated
+because they have fewer worms.
+And worms are extremely contagious.
+So when you have a contagious disease like that,
+you cannot randomize at the individual level.
+You have to randomize the whole group.
+You have to treat the whole group in order
+to make sure that you capture the full effect.
+Otherwise, basically, your treatment and control
+will even out by sharing their worms.
+So that's the reason to randomize at the school level.
+That raises a problem, which is, suppose that you now
+wanted to do this experiment.
+Could you take three large schools
+and randomize one school in group one,
+one school in group two, and one school in group three?
+
+Even if they were-- you had thousands-- suppose
+you go to big schools and you have
+thousands of kids in each school,
+but you have only three schools.
+
+Yes.
+STUDENT: No, because then there could be
+some factors within the school.
+And so, you're not averaging over many schools [INAUDIBLE]..
+PROFESSOR: Exactly.
+So [? Vaishnavi ?] said, the problem you have
+is that if you randomize only three schools, even
+though on average there should be the same because you've
+randomized them, there could be something
+different about the school.
+For example, they are in a different geography.
+In one of them, thunder struck, so you
+have the school is broken.
+In one of them the director is better and so on.
+So if you randomize at the school level,
+even if you have many kids within a school,
+you have to think about many schools.
+Cut a long story short, roughly the level of randomization
+is your number of effective observation.
+
+So what are the results?
+Well, in the short run, when they compare the treated
+to the untreated school, they found a first direct effect
+on anemia and on weight.
+So it seems that there was a first order
+effect on nutrition.
+And there was also an effect on absenteeism.
+So 25% reduction in absenteeism.
+So kids spend more time in school
+because they were sick less.
+So that's the short-term effect.
+In the long run--
+and so, these are the results-- the effect
+for 2016, so about 10 years after the treatment.
+You can see how the effect worked by comparing treatment
+to control.
+So these are distribution densities.
+So this is basically the fraction of people
+that you see at each of these levels,
+if you will remember from your probability and statistics
+class in high school or here.
+So if I look, for example, at this one, what
+happened to the distribution of the working hours
+for the treatment group compared to the control
+school among the boys?
+
+So you want to look at the graph that is at the top left corner.
+
+Yes, Claire.
+STUDENT: The treatment shifted the curve towards the right,
+indicating that there are more hours worked in the treatment
+group compared to the control group?
+PROFESSOR: Absolutely.
+What we see in the treatment group
+is that the treatment distribution
+moves to the right.
+So there are more of the hour-- more of the larger hours
+are observed.
+This is how you want to read a density, which
+is, you're more likely to see this higher hours worked
+in the treatment group compared to the control group.
+So they worked more.
+We also see a shift to the right of the log earnings function.
+So they are also earning a little more.
+Similarly, for the women, you see
+there are a lot of women who just are working very little.
+But you start seeing a bump of women,
+you start seeing more chances for girls
+to be working some meaningful hours in the treatment group.
+And you're seeing the earning curve also shifting
+to the right.
+So you're more likely to observe larger earnings
+in the treatment group.
+So it looks like we are looking 10 years later.
+And these kids who were dewormed three years instead of one
+have earnings that are larger.
+And they are more likely to work.
+Yeah.
+STUDENT: How do you think about statistical significance
+for these graphs?
+PROFESSOR: Oh, yes.
+So nothing about this graph tells us
+anything about statistical significance.
+So that's a great question.
+So to do statistical significance,
+well, we could test that.
+They are tests for statistical significance
+of an entire distribution.
+So, for example, first order stochastic dominance.
+But you can also say, well, let me compare means.
+And let me see whether the means of the two distribution
+are statistically significantly different.
+And this is exactly what we find--
+what we see in this table-- what we examine in this table.
+So, actually, this table also combine the 2016 follow-up
+and the 2021 follow-up.
+So this is looking somewhere between 10 and 20 years
+after people have been treated.
+We can now compare--
+so each of these number coefficients-- number lambda,
+each of the number in the column is the difference
+between treatment and control along with the standard error
+of this difference.
+So we can now answer--
+in parentheses, so the coefficient
+that's not in parentheses, for example,
+the 0.09 here is the difference between treatment and control
+or between dewormed three years or two years versus one.
+And in parentheses below is the standard error.
+So now we can answer your question
+of how we think about statistical significance.
+Do you know how to tell us whether this difference is
+statistically-- what we need to do
+to know whether this difference is statistically significant
+or not?
+STUDENT: Yeah.
+I'd have to look at the equations again.
+But it's, you subtract them and square them in some way.
+PROFESSOR: So, yeah it's done-- it's even simpler than that.
+In this case, you basically divide one by the other.
+I'm giving you the formula.
+But you will have to-- as Javier said,
+you will have to go back to your statistics course
+to remember why it's true.
+You want to divide one by the other.
+If this ratio is greater than two,
+it's significant at 5% level of confidence.
+This means, there is only a 5% chance
+that you think it's different-- that you
+have found that it's different from zero,
+but, in fact, it is not.
+So there are only 5% chance of a--
+here you don't even need to divide by anything
+because they generously provided stars.
+So they give you one or two stars
+when it's significant at the 1% level or at the 5% level.
+So if we look at the full sample, adding the two years,
+the coefficient is actually--
+so it's a difference in 9%.
+The people who were deworming for two years
+have 9% higher earnings, but it's not quite significant.
+Focusing on older kids who are more likely to be earning
+money, because they are in the labor market,
+we find larger effect of about 20%.
+And that's highly statistically significant.
+By dividing 19 by 0.08, I find something greater than 2.
+So it's quite significant.
+So we can be sure that it's significant.
+We can compare that to the mean.
+So this is the mean log income.
+Then looking at the different outcomes,
+we see that we reproduce something
+similar for wage earnings, for farm profits, kids
+who were dewormed have higher farm profits.
+That's true both for the younger and-- for everyone and for just
+the younger kids.
+And then, hourly earnings, which is how much you're making,
+your productivity, how much you're
+making per hour that you work, is 32% higher
+among the older kids, 14% for the entire sample.
+And that is statistically significant.
+And then, they also look at various things.
+They are more likely to have migrated.
+They work longer hours.
+They work more days.
+And this is for this two years of treatment.
+So, overall, it's quite remarkable
+that you-- first of all, I want to point out,
+it's quite remarkable that they were
+able to follow over 7,000 kids for 20 years in rural Kenya.
+And it was a large amount of work.
+And if you go on Ted Miguel's web page,
+you will see him describing how he looked for them on boats.
+And some of them were in London.
+And they interviewed them by Skype from London,
+and so on and so forth.
+So they were able to conduct a very good follow-up
+of these kids.
+Second of all, it is remarkable that we still find a difference
+in earnings and in productivity of these children
+20 years later.
+And that indicates that this deworming treatment had
+a long-term effect, which could be via the effect on education
+or it can be via the effect on health--
+the direct effect on health.
+The fact that we see impacts on, for example,
+on farm productivity suggests that there might be something
+having to do more with your straight physical strength.
+
+Once you do that, you can start asking yourself
+the question of whether as a government
+deworming is something that is worth doing financially.
+You remember, when we were doing--
+when we were discussing why do randomized evolution
+in the first place?
+That came up as a fundamental reason why you want to do that.
+Should we invest in deworming as opposed to something else?
+So, for example, GiveWell, one of the organization
+that helps people choose what to do try and look
+at the cost of an intervention compared to the entire benefits
+that someone could experience in their lifetime.
+And, similarly, the government could do that.
+It doesn't mean they are going to be able to recoup
+this money in any way.
+So it's not a fiscal investment.
+But it's telling you whether the investment is worth it
+from a social perspective.
+So these are the costs that you're
+experimenting in the few years.
+So since there are costs, it's negative benefits.
+So they are very low because it's really not
+very expensive to deworm.
+The pills themselves are near free.
+You just need to send them to the schools
+and train the teachers and so on.
+So it comes to about half a dollar per child per year.
+So these are the costs that you have to pay.
+Then you start getting earning gains.
+So they assume that these earning gains
+that they evaluate in their table starts at year 10
+and finishes at year 25 when people retire.
+That's pretty conservative because maybe they'll
+work longer.
+And then they add the consumption gain.
+So with just the earning gain, you have a rate of return--
+implied rate of return of 40%.
+That means it's like--
+if you wanted to put your--
+if you wanted to instead put your money in--
+invest your money somewhere, you would
+have to invest it in a security that
+brings 40% a year to be good enough
+to do this instead of that.
+So this is comparable to investing
+in a stock that brings 40% a year, which
+is not easy to find.
+So most things do not cost that much.
+And what you have here is what you
+would need-- what they estimate is earning gains of about $80
+over a working life of 15 years from 10 to 25.
+They also calculate the number that
+would be sufficient to break even to make it worth it.
+So maybe your alternative is a security that pays 10% a year.
+That's generous, but maybe this is
+what you could do putting the money on the stock market.
+If the earning gain had been $8, you would break even.
+But the estimate is something closer to $80,
+you'd much more than break even.
+So that shows that this childhood investment type
+things can have this kind of just spectacular effect
+compared to doing anything in adulthood.
+PROFESSOR: Continue to deworming.
+So from a policy perspective, it suggests you would--
+you want to do it.
+As a government or as a charity, it's a great investment.
+It also suggests that there are very large elasticity
+of lifetime earning with respect to better
+nutrition in childhood.
+Does this mean we have a poverty trap based on that?
+Now, we found something where we have
+a huge impact, huge elasticity of lifetime earning
+with respect to nutrition in childhood.
+Does this mean that childhood nutrition-- in particular,
+maybe, deworming-- is a poverty trap,
+is a source of a poverty trap?
+STUDENT: It might be in the sense
+that the way you eat in childhood
+influences your whole life after.
+So it's a two-way street in a way
+that if you eat well, then your income can be higher,
+you work more, and everything.
+If you don't eat well, then that constrains your possibilities
+and your future of your whole life.
+PROFESSOR: So we definitely have one part
+of the equation, which is eating well in childhood influence
+your earnings.
+Sorry-- yeah.
+STUDENT: Yeah, I was going to say, going off
+that, you can see the impacts moving forward
+and that there is positive result in the future.
+But that doesn't necessarily mean,
+without having the deworming program in the future,
+that you would be in the state of poverty
+that we talked about previously with poverty traps.
+You have to measure the other side of the--
+you [INAUDIBLE] effect on the poverty trap equation as well.
+Moving forward, saying that, you would
+have to measure the people who didn't receive deworming
+as a child aren't able to maybe get a job
+or be productive due to different illnesses
+or something like that they contracted when they were older
+since they didn't get the deworming.
+There needs to be something else there.
+PROFESSOR: That's right.
+But when I think-- when I think about the other half,
+I'm thinking, for example, about the people
+who didn't get dewormed.
+What is the other half we need to look at?
+Julie?
+STUDENT: So the other half would be saying that you wouldn't--
+to make a trap, that would mean that if you
+don't have enough money to buy the-- to pay for deworming.
+So maybe that part isn't true.
+Maybe it's so cheap that there isn't that half,
+or maybe it isn't.
+PROFESSOR: Exactly.
+So the question now is-- remember,
+it's the product of the two.
+So we do have the first half of that product or one half
+of that product, which is if you get dewormed, you get
+huge increase in elasticity.
+So certainly, there is a potential there.
+But then we have to look at the other side of the ledger, which
+is, is it very expensive to deworm your child?
+So to go on Samantha's point, is it the case that someone who
+was not dewormed in childhood cannot afford to deworm
+their own children?
+And is it something that's likely?
+
+[INAUDIBLE]-- yeah.
+STUDENT: Well, based on how much it costed the program to do,
+it sounds like it's a pretty affordable treatment.
+But as it-- it might be something
+else as to the reason, like in the reading
+about the vaccination and not taking preventative steps.
+There might be other factors, rather than poverty trap.
+PROFESSOR: Exactly.
+So the fact is, it is extraordinarily cheap.
+$0.50 per child a year is the total cost,
+but the cost of the medicine for a family,
+if they go to the shop, is more on the order of $0.10.
+So even the poorest family could, in principle, do it.
+And therefore, that elasticity, logically speaking,
+should be really, really, really low
+because it is not your income that is preventing you,
+per se--
+that is preventing you to get the deworming medicine.
+So even though there is this super strong impact
+of deworming on future livelihood,
+there is still not a poverty trap just related to money.
+What we have to keep in mind is something else
+that prevents the poor that comes in the way of doing
+this investment for the poor.
+It is the case that deworming is not that frequent.
+And it is the case that even small cost
+seems to be discouraging them.
+In fact, in this particular study,
+the NGO insisted that they should introduce cost sharing.
+So they started sharing for--
+asking parents to pay a little amount for the medicine,
+and then the [INAUDIBLE] collapsed.
+So the cost seemed to be prohibitive and discouraged
+people.
+But it has to be that it's not just
+the availability of the income because even
+the poorest family could, in principle, afford
+this investment.
+So that's where it leaves us in terms of thinking of poverty
+trap, that it is unlikely that deworming is itself
+the source of a poverty trap per se.
+It has to be combined with something else, which
+is what we are going to talk more about today, which is how
+come being poor seemed to cut down the avenues to undertake
+investments that could be highly valuable for health
+and for future livelihood, such as health--
+such as deworming, vaccination, and so on.
+PROFESSOR: So the problem that we saw for the warming
+that people do not seem to be all that excited to take it up.
+They do if it's available in the school.
+But even when they had to fill a form,
+they didn't necessarily fill the form.
+And cost sharing is very discouraging.
+That is a problem that is more general.
+And by the way, that is not just in poor countries.
+We are also seeing in richer country, where people
+are very keen to access medication or things that
+are going to cure them, but less excited to do
+preventive health, to undertake preventive health investment,
+from proper exercise, to proper nutrition,
+to vaccination for the children, to COVID vaccination,
+for example.
+So in general, what we're seeing in developing
+countries is two things.
+One is in term of levels.
+As Lucas was telling us, low utilization
+of cheap health saving medical intervention, breastfeeding,
+which is not free because it takes the mothers time,
+but doesn't have a monetary cost attached
+to it, immunization, oral rehydration solution, chlorine,
+and so on.
+And very high price elasticity for those services,
+both for positive price and for negative price.
+So a positive price is where I would
+have liked to show you something, which
+is there is a summary paper by Pascal in Japan and Michael
+Kremer that put together a bunch of goods.
+You have soap, which are pretty cheap to produce,
+so they are cheap in the market, water filter, vitamins,
+bed nets, who are much more expensive,
+chlorine pills, de-worming chlorine tablet,
+de-worming pills, and so on.
+And what they are doing is that they are putting them all
+and combining different experiments that
+subsidizes these goods at different prices.
+And look at the take-up at these different prices.
+And what they find is across the board,
+for all of these goods, water filter that would cost $25,
+a bed net that would cost $7, or de-worming that would cost next
+to nothing, regardless of the intrinsic value of the goods,
+the process that is being paid has a huge influence on
+whether or not people will take it up.
+So the higher the price, the lower the take-up.
+And the take-up falls quite fast.
+So that's the positive prices discourage take-up.
+On the other side, we also see that small rewards
+encourage use a lot.
+And one example that we discussed in the book
+is where you have the opposite of negative prices.
+
+Yes Mason?
+STUDENT: You provide lentils for children's vaccinations.
+PROFESSOR: Exactly.
+So one of the example that is discussed in the books
+is incentive for immunization.
+Why is it an interesting and important question?
+Well now, all of us are very attuned to thinking
+about immunization and why people will or will not get
+immunized.
+But besides, even before the COVID vaccination,
+there was a vaccination problem in the world
+for the regular, extended program of immunization,
+such as measles, polio, and so on.
+About 25 million children annually do not get immunized.
+Many of these kids are found in India and Nigeria,
+which are poor countries, but not ultra poor countries.
+But they are big with a lot of people.
+And immunization rates, they are quite low.
+And what is interesting and is different than in the setup
+of the COVID vaccine, is that in many cases,
+it's not because parents are deeply resistant.
+For example, in India we did a relatively recent survey
+in Haryana, where we ask people, what
+do you think of immunization?
+Is it important?
+And 95% to 98% of the parents said, yes, immunization
+is great.
+I am absolutely planning to immunize my child,
+but maybe next month.
+So there is no resistance.
+It's very different from COVID, where
+the people who are excited about COVID vaccine
+all have gotten it.
+And the people who have not gotten it
+have very deep reasons to not like it.
+So it's a different setup.
+It seems to be something else.
+So question we wanted to ask is whether small incentives
+could make a difference.
+So we worked with an NGO called Seva Mandir in Rajasthan,
+India, where you will see a lot of Rajasthan
+next week, because we'll show you
+a film that Abhijit Banerjee realized with a team
+in Udaipur district.
+
+And it's about health.
+So you will see more about what the region looks like.
+It is very poor, by the standard of India, particularly poor.
+And in these places, many kids were not
+vaccinated at the baseline, something like only 2%
+of children got their full course of immunization.
+And so, there was a lot of interest
+to do something about it.
+And the standard response and government response, as well as
+the NGO response is that oh, we need to make
+vaccination simpler for people.
+It needs to be very close to people's doorstep, et cetera.
+So the main idea of the NGO was let's
+have immunization camps that we are
+going to do very regularly every month
+so people know that it's available.
+So they organized with the government
+to be basically doing the immunization on behalf
+of the government.
+We also convinced them that they should experiment
+with incentives, very small incentives,
+so it was a kilo of lentils.
+And the kilo of lentils is not going
+to persuade anybody who really doesn't like immunization,
+because it's not enough.
+On the other hand, it could maybe
+persuade people who in fact, would like to do it,
+but don't get around to do it.
+So we had to convince the NGO to do it.
+At first, they were like, why would you
+pay people to do something that is good for them?
+They need to understand by themselves
+that they need to do it.
+So there was all this discourse, to which
+we tried to explain, look, in rich countries,
+immunization is not really a choice.
+You have to get immunized to go to school.
+And you can get out of it if you have
+a very strong medical or religious excuse, but E
+as in effort.
+So in a sense, we have an incentive to get immunized.
+Because by default, you have to get immunized.
+So finally, they got convinced, and we tried.
+And what we found is that-- so we did it in an experiment.
+So we had 120 villages.
+Half of these villages continued with their standard operating
+procedure.
+Half of the villages, they installed the camps.
+So they run, they hired nurses, they were on motorcycle.
+And they brought the vaccines very regularly every month.
+And out of this half, half of this half, in addition
+got incentives in the form of a kilo of lentils
+per immunization and a set of plates
+is if they completed the immunization.
+And then we looked at immunization rates by the end.
+We found that immunization was 6% and the control group,
+17% in villages where they had camp but no incentive.
+So that's already good, multiplied by 3.
+But then it moved to 38%, so more than doubling the rate
+without the incentive, once the incentives were put in place.
+And interestingly, the cost per child fully immunized
+ended up being lower in villages where we put incentives
+and in villages where we didn't, where we just had the camp.
+Do you see why that would be the case?
+Despite the fact that I spend more money
+on lentils and on plate, why it would be the case to--
+
+STUDENT: Is it because paying for, like maintaining the camp
+and like the employees, since they're already
+getting paid for the amount of time,
+you get more immunizations.
+It ends up being less.
+PROFESSOR: Exactly, especially who comes--
+I mean, you have your nurse anyways.
+So the markets will come, the more the cost per shot
+falls down.
+And here, not only you had effects in those villages,
+where you went from 17% to 38% of kids immunized,
+but in addition, you had more kids coming
+from the neighboring villages.
+So the camps were a completely different vibes
+in places with the incentives, where
+you only had lots of people, and she was working very hard.
+And so the cost per immunization becomes lower.
+That's interesting, because in general,
+particularly when you talk to government about something
+like that, they're like, oh, we can't afford it.
+And the answer is that, well, you can't afford it.
+But at the same time, if you're willing to pay any cost
+to immunize the kids, you might as well
+as this cost, the lower possible.
+So maybe you should afford it.
+These similar results have been reproduced
+in another experiment we carried out in India with cell phone
+minutes for immunization in work in Pakistan,
+with direct cash transfer for immunization, and in work
+with in Nigeria with direct cash transfer for immunization.
+So these results have been relatively robust or quite
+large response to immunization.
+So again, just we can look at both the policy implication
+of this research, which is we should do incentive
+for immunization.
+And probably, that is something that can be in the toolbox.
+Of course, it can be compared with other things.
+It's not necessarily the only thing you might want to do.
+And then the second thing is, what does it tell us
+about how people behave?
+And it's a bit surprising.
+Both sides of it are a bit surprising.
+The fact that people are so easily discouraged
+by small costs, like cost sharing for de-worming,
+and the fact that people are so easily encouraged
+by a small incentive.
+Because this return, this investment
+are very high return for your health and for later earnings.
+We saw that for immunization, you
+can just trust me that it does.
+So, given these very high investment,
+people should do them.
+So if they don't do them, it's because--
+it might mean because there is something else that
+goes against.
+For example, like in the COVID vaccine,
+people have a strong belief that it's going to be bad for them.
+
+Then, they should not be persuadable
+by a small difference in the price,
+either positive or negative.
+So we are kind of a little bit stuck here, which
+is either it's really good.
+And we know it's really good.
+So either really good, and then it
+has to be balanced by something really bad.
+And then I should not be able to convince them
+something else is going on.
+PROFESSOR: It can't be explained by fear or by lack of trust
+because if it was fear or lack of trust,
+I couldn't convince people with [INAUDIBLE]..
+In fact, we've seen that during the COVID crisis.
+There was this luxury incentive.
+You [INAUDIBLE] or something like that.
+They have not persuaded really anybody to get the vaccine.
+
+So two explanations have been proposed for this puzzle.
+The first one goes under the jargon of time inconsistent
+preferences.
+And the second one is about the difference between reality
+and perception, which is, even though the real benefits might
+be very large, people might not know that,
+such that the perceived benefits still remain quite low.
+And then that could explain why people are not
+so excited to do it.
+So this is Clocky.
+Thank you so much.
+SPEAKER: You're welcome.
+PROFESSOR: This is Clocky, just on time.
+Have you seen a Clocky before?
+So what is Clocky?
+STUDENT: Oh, it's like, this alarm
+clock that's supposed to roll around your room to
+wake you up?
+PROFESSOR: Yes.
+STUDENT: You're supposed to chase it.
+PROFESSOR: Every MIT student should have a Clocky.
+So this is an alarm clock that chases around your room.
+So you can't stop-- you can't just lose it.
+You have to get up to find it.
+And why do we need Clocky?
+
+Sorry?
+STUDENT: We're human.
+PROFESSOR: Yes, and in what way, specifically?
+Yes, [INAUDIBLE]
+STUDENT: It forces you to get up and actually
+turn the alarm off.
+PROFESSOR: Yes.
+STUDENT: You can't just slap the Snooze button [INAUDIBLE]
+PROFESSOR: Exactly.
+And why would you be so likely to hit the Snooze button?
+STUDENT: It's easier.
+PROFESSOR: Because it's easier.
+But in particular, why don't you just wake up when the alarm--
+sorry?
+STUDENT: [INAUDIBLE]
+PROFESSOR: Yeah, it's hard to wake up.
+That's because you're very tired!
+STUDENT: You need one to chase you to go to bed.
+PROFESSOR: And why are you very tired in the morning?
+
+I mean, you know why are you.
+Don't look puzzled.
+This is a real question.
+Why are you guys very tired when you
+try to wake up in the morning?
+Why is it that you all need Clocky?
+STUDENT: We didn't sleep enough.
+PROFESSOR: Because you didn't sleep enough!
+And why you didn't sleep enough?
+STUDENT: MIT?
+PROFESSOR: Because you are doing problem sets.
+And maybe with most people in this class, probably
+because you are doing problem sets.
+But maybe you are chatting with your friends or something
+like that.
+In any case, you had something to do
+that seemed very, very, very urgent in the evening.
+It's finishing your problem set or talking to your friends
+or watching a film or being on Discord or whatever it is you
+guys are doing.
+
+But that seems very urgent in the morning.
+And the difficulty of waking up and how miserable
+you're going to feel at 8:00 in the morning
+didn't seem that present at that time.
+So this, in a nutshell, is time inconsistent preferences,
+is that in reality, if you thought about it,
+would think, yeah, it's going to really, really,
+really suck tomorrow morning to try and wake up.
+Or it's going to be impossible.
+And I'm going to run into other difficulties.
+But you don't because the present
+and whatever it is you are doing at this one moment
+seems is looming so large.
+So this is, as Javier summarized it, profoundly human.
+I don't think we can change that.
+We are like that as humans.
+STUDENT: We can change it.
+PROFESSOR: You can fight it.
+You can-- so what can you do?
+You can fight against it.
+But this is a human tendency, let's say.
+You can fight against it, for example, by--
+what would you do to go to sleep earlier?
+What is one thing one might decide to do?
+What would you do to try and--
+STUDENT: I would create one to chase me into bed
+and force me to.
+PROFESSOR: Yeah, you would try and create
+a Clocky that pushes you, forces you.
+So basically, you want to tie your hands is
+one possibility, is you want to tie your hands in advance.
+So do you know the story of Odysseus
+and the mermaids, or the sirens?
+So someone who is not Javier, just to change the--
+people who know this that wants to tell [INAUDIBLE] the story,
+and all of us, the stories of Odysseus.
+There are many stories of Odysseus,
+but one of these stories that is relevant to this.
+
+[INAUDIBLE]
+STUDENT: He wants to hear the sirens who
+sing very beautifully.
+But then when you get close to them, they kill you.
+So he knows that, obviously, before he hears them,
+he knows he doesn't want to go to them.
+But he knows that when he does hear them,
+all that reason will go out the window.
+And he'll want to hear them.
+So he has himself be tied up so that he physically cannot go
+to [INAUDIBLE]
+PROFESSOR: Exactly.
+So Odysseus is on his boat and has heard about these sirens,
+that once you hear them, their song is so impossibly beautiful
+that you cannot resist but jump into the water.
+And in advance, he decides--
+he gets his sailors to tie him around a mast so he cannot
+jump.
+So you have a thing that forces you to go to bed at--
+your Clocky that chases you and puts you in bed in the evening
+is one way of-- in advance, today, like, around 2:00
+in the afternoon, when whatever you
+have to do tonight doesn't look that important,
+you are able to compare rationally this evening
+and tomorrow morning.
+You will say, OK, I have to tie myself around the mast.
+I will stop doing my problem set.
+And I will go to bed at a reasonable time.
+So that's putting yourself--
+constraining yourself like that.
+You could do other things.
+You could use peer pressure.
+You could form a group of people who
+decide that they will all kind of check on each other
+to make sure they sleep.
+I don't know how that would work.
+So you could use that.
+
+One could set up--
+again, I don't know how far I want to carry out this example.
+But one could set up incentives where, if you're--
+yeah, if, for example, if your computers are indeed off,
+we can monitor that you are on the internet or not.
+If you are, in fact, not on the internet past midnight,
+you get some reward.
+And otherwise, you don't.
+Oh, I haven't seen people do that.
+Although Frank did something quite similar to help people
+sleep.
+But one could also consider, for example,
+for going to the gym, which is also
+something that is going to generate returns in the future,
+to be healthy in your mind and body and so on.
+But you might not do it on a day-to-day basis.
+So an incentive might push you in the right direction.
+So you'll get something right away.
+So that's time inconsistent preferences.
+So you might do tend to consider the present
+and the entire future differently.
+So if I can get them to think--
+the first thing is, if I can get them to think today
+about the entire future, they will make better decisions.
+That's the designing this Clocky thing.
+Or providing small incentive to counteract
+the temptation in the moment can also work out.
+So that's one reason why incentive might work.
+Think about a parent who wants to immunize
+the child who is, in general, thinking it's a good thing.
+But on the other hand, it's never particularly urgent.
+You can always wait another month or another week.
+The child is not sick.
+There is no crisis.
+And there is always something else that might come in the way
+and constitute a crisis.
+So you will have a tendency to push it till the next time.
+And then eventually, before you know it,
+all the time will have passed.
+The kid is too old or has already gotten sick.
+So there are the incentives because you're
+going to get the [INAUDIBLE] right away,
+you might think, OK, fine, it is a cost.
+But it solves an immediate problem, which
+is to have those [INAUDIBLE]
+So that could explain why you would postpone it
+and why incentives would work or why
+things like a compulsory schedule of immunization
+that we tend to have in the rich countries
+would also work, even if you allow people to get away
+from it because it forms--
+basically anything else than just getting it done
+is complicated and costly.
+So you might as well just get it done.
+PROFESSOR: So in this world, you would have something
+like subsidy for something like immunization can
+be justified for two reasons.
+The standard reason is externalities,
+which is you want to subsidize people
+to get immunized because it's good
+not just for them, but for everyone around.
+Because if I am-- if my kids are immunized against measles,
+they are less likely to give measles to someone else.
+And also, what we call internalities,
+which is the fact that the human being at period t
+is not necessarily making the best
+decision for the human being at period t plus 1.
+So the parent today might not make the best decision
+for the child even next month, and incentives
+can help correcting this.
+
+As we discussed in the example that Javier was giving,
+incentives is not the only thing that would solve this problem.
+Another thing that would solve this problem is constraints.
+And moreover, people would be willing to implement this,
+to impose this constraint on themselves, like Odysseus
+imposed this constraint on himself
+and asked his sailors to tie him to the mast.
+So that's one thing that could help,
+which is called commitment devices.
+Another set of things, a set of policy instruments
+that could help, is what you may have
+heard under the general term of "nudges,"
+which is generally steering people in the right direction.
+So for example, default option that unless you do some--
+unless you take a particular--
+unless you really take an action,
+you have to do something.
+So for example, going back to the compulsory schedule
+of immunization in the US or in France, that's the default.
+Anything else than the default requires an effort.
+Or if you consider immunization at birth, even in India,
+100% of kids get the BCG at birth, OK?
+In the US, people don't get it anymore.
+In Europe, we also still do.
+And why 100% of the kids get immunization at birth?
+Well, when they get born, there is a nurse over there,
+or a midwife.
+She does it.
+And she said-- so the default is, if you're here,
+I'm doing it.
+And it would take an effort to say, no, no, no,
+I'm against immunization, or it would
+require to think about it.
+And by default, there is no particular reason
+why people would object.
+So that's a default. And a default,
+if the defaults are well set up, they
+steer people where you think they would want to do.
+So one big difference between the rich and the poor,
+both world-wide-- so us in rich countries versus people who
+live in poorer countries, or even within a country--
+within rich countries, the rich and the poor;
+within poor countries, the rich and the poor--
+is the poorer you are and the fewer defaults there are,
+because the poorer you are, and the more you are on your own--
+maybe self-employed, a farmer or a small business
+without a well-functioning public service
+system around you that can create
+a natural default for things.
+So in other words, for us in rich countries,
+and even for the rich people in poor countries,
+if they don't think about most issues,
+it's just going to work out.
+So take the example of water.
+If you open the tap in your kitchen,
+the water is clean to drink.
+By default, you have access to clean water.
+If you really wanted to get bad water,
+you might be able to find some--
+like, I don't know, somewhere in the Charles River.
+Even the Charles River is pretty clean.
+But that would require some effort.
+If you live in a poor country, even in Delhi today,
+you open a water from the tap, and it is not clean.
+
+So if you don't think about the problem of water in Cambridge,
+you're going to drink water all the time.
+If you don't think about the problem of water in Delhi,
+you're going to drink bad water, and you
+need to do something about it-- put chlorine tablet,
+or to filter it, or to boil it, et cetera.
+And think about these decisions adding up--
+many, many, many, many of those decisions
+you have to take all the time.
+If you never think about de-worming at MIT,
+chances are you'll never get worms.
+If you've never thinks about de-worming in Busia, Kenya,
+chances are you will get worms.
+So that's one more thing you have to think about.
+So the life of the poor is full of-- basically,
+what the world requires from the poor is much more
+responsibility on many, many, many, many, many, many, many,
+many things.
+So in some sense, we shouldn't be surprised, like as I said,
+[INAUDIBLE] the surprise saying, oh,
+people are quite sensitive to small costs,
+and they seem to be--
+they don't take as many preventive care actions
+and so on.
+But in some sense, it's remarkable
+how many of these actions they are
+taking given that each of them is a different decisions that
+has to be taken sometime every day-- for example, the getting
+water.
+So one thing that can be done in policy is to try and create
+safer default. But it's hard because it really
+require to be super organized.
+For example, for your default for every child
+to be immunized, you would really
+need to make to have a default that every child gets
+a well visit every year, which is not there.
+And to have that default of a well visit every year,
+you would need to have enough health clinics,
+and you would need the health clinic personnel to be present,
+and so on and so forth.
+
+PROFESSOR: So that's what Thaler and Sunstein called the choice
+architecture.
+So basically, the choice architecture
+is harder if you're poor than if you're rich.
+It's more demanding on you, and you kind of
+keep having to work on it.
+So let's go back a minute for the commitment devices.
+So I gave you a made up example that
+was not absolutely excellent.
+But let me give you a real example, which
+is a study by Professor Schilbach from this very class,
+which is the demand for incentive to stop drinking.
+So alcohol is a problem in the world, in general.
+But it's also a problem among poor countries.
+Many people also identify it as a problem for themselves.
+There are many reasons why people might start drinking.
+That's a form of self-medication against pain, which they also
+suffer from.
+But despite all of this, when you ask people,
+many men, in particular, who drink
+would like to stop drinking a lot.
+So Frank offered rickshaw drivers--
+those are the people who are pulling
+on the cycle who are pulling little carts, people or goods.
+They offered rickshaw drivers a chance
+to commit to stop drinking.
+So they asked them to come to his lab.
+And then they first have them experiment with incentives
+or straight incentives to come to the lab
+so that they understand what this means.
+And after a few days, when they've
+experienced-- when people get incentive not to drink,
+they drink less.
+How do we know they are not drinking?
+Well, the only way we know they are not drinking
+is, we know they are not drinking up to a given time,
+because they come and get checked.
+After they have gone to the lab, they could go and drink silly.
+That is harder to check.
+But at least it gives them incentive
+to not drink before they show up to the lab,
+let's say, at 7:00 in the evening.
+So they do that for some time.
+He gives them incentives.
+And then the people who get incentives, in fact,
+drink less.
+So after that, they give them a choice between three scenarios.
+And they tell them that one of these scenarios
+will be implemented.
+They ask them to choose what they want.
+In one of the scenarios, they do better if they
+are sober under incentive.
+They are under the sure payment, so they
+get the choice between incentive or sheer payment.
+And in the first scenario is a classical scenario where
+you can do a bit better financially,
+in fact, if you take the incentive and, in fact,
+you stay sober.
+In one scenario, it's even.
+So for example, it's like 50 rupees per day
+if you are under the sure payment and then 50 rupees
+if you come sober, so even, and zero if you come drunk.
+And in one scenario, it's 50 rupees
+if you choose a sure payment.
+And if you choose the incentive, it's
+40 rupees if you are sober and zero if you don't come,
+if you are not sober.
+You see, for each, they ask them.
+So first scenario, incentives could be good
+if you, in fact, managed to stay sober.
+Second scenario, incentives break
+even if you stay sober and otherwise are bad.
+Third scenario, incentives will earn you less money,
+even if you are sober.
+So someone rational, what should they pick--
+who is not someone who is just trying to maximize money.
+What should they pick in each scenario?
+In the first scenario?
+
+They should pick the incentive if they
+think that they'll manage.
+Right?
+Second scenario.
+
+You might as well go with a sure payment,
+because you can never be absolutely sure that you'll
+manage.
+And the third scenario?
+
+For sure, there is no reason to pick the incentive.
+Why take something that earns less, in the best case?
+And so what is striking is that quite a few people--
+I think about 30% of people or 35% of people
+choose incentive under scenario three.
+That means that they are willing to leave money on the table
+to constrain themselves.
+So really think about Odysseus tying himself to the mast
+and having first to shop to buy the cord.
+They find it so valuable to constrain themselves
+via these incentives that they go and pick the incentive,
+even when they lose money, which shows, number one,
+that there might be value.
+And then he follows them up, et cetera,
+and finds that indeed, the ones who are picking the incentives
+are less--
+or who benefit from the incentive drink less.
+So that suggests that, A, these constraints
+do help and B, people--
+we are sophisticated enough to realize
+that we might need them, or those rickshaw drivers
+are sophisticated enough to realize
+that they might need them and to be willing to pay a price
+to get them.
+Yeah?
+STUDENT: So when was this study made?
+
+PROFESSOR: I would say five years ago.
+
+What did you ask?
+STUDENT: I don't know.
+[LAUGHS]
+PROFESSOR: Yeah, it's maybe a bit--
+it's going to date me.
+But it is actually-- it was Frank.
+It was Professor Schilbach, "Job Market Paper."
+So he was a PhD student at Harvard when he was doing that.
+So that dates him, obviously.
+PROFESSOR: So all that suggests that there is evidence
+that time inconsistency plays a role.
+And maybe it also plays a role in explaining the low access
+to preventive care.
+However, I'm not sure that it's the entire explanation
+for immunization.
+Because immunization-- consider the case
+of incentive for not being [INAUDIBLE]..
+You see people being very rational when they really
+think about it because they understand that they need
+something to pressure them enough to say,
+I'm going to tie my hands even if it costs me money,
+and it's worth it.
+So we have people who are very human-- fundamentally
+human-- in having this tension between the present
+and the future, but who are also smart about it.
+Right?
+But if people are smart about it,
+they should realize that for six months
+they have not immunized their kids.
+They should realize that they are doing the same thing
+every month of saying, oh, next week I will do it,
+and then next week I will do it, and then next week I
+will do it.
+So they should realize that they have
+this hyperbolic discounting problem,
+and they should be able to overcome it
+once they realize it's there.
+For example, find a friend who forced them to do it
+or decide to bite the bullet and do it anyways.
+So it seems a little bit unlikely to think
+that it is-- if the benefits are really that
+high-- the perceived benefits are really
+that high of incentive-- that they keep fooling themselves
+again and again and again.
+And therefore, it's probably not the entire explanation
+for low immunization or low deworming
+or low access to chlorine tablets.
+So maybe another part of the explanation is that people--
+even though the benefits are actually high,
+the perceived benefits are not that high.
+And that may have something to do
+with understanding of health.
+
+One thing that suggests that it might be going on
+is the big contrast that we find between preventive care
+and curative care.
+In Udaipur-- you will see the movie a week from now,
+the movie about Udaipur health system--
+that movie going back to the date
+is about 10 years old, 15 years old.
+But it doesn't dramatically change.
+You will see that people do spend a lot of money
+on their health about 7% of their budget
+is spent on health.
+And they receive a lot of care, but most of this care
+is in response to an actual crisis.
+So for somethings they get traditional medicine.
+For some things they actually go to the different types
+of doctors--
+I'll describe whom in a minute-- where they get shots, drips,
+pills, et cetera.
+So people seem to be not doing immunization.
+For example, people will not immunize their kids
+against measles.
+But if the kids have measles, they
+will do whatever they can to get the child better.
+So what is the difference between preventive and curative
+care that can explain this difference?
+Yeah.
+STUDENT: The effects of preventative care
+aren't really that visible.
+Like, curative care is very visible.
+It's kind of like one goes from not having it to not having it,
+and the other goes from having it to not having it.
+So that [INAUDIBLE] [? visibility ?]
+I think [INAUDIBLE].
+PROFESSOR: Yes.
+Liam.
+STUDENT: I was going to say the same thing.
+PROFESSOR: Yeah.
+And there is one more problem.
+Angela.
+STUDENT: So it's unbearable for humans to be ill
+and to know that they're doing nothing about it.
+So if you want to prevent, then you
+could potentially have it, not have it.
+You don't see the benefit in the short run.
+But also, in terms of hope and just wanting to get better,
+it's unbearable to be ill and to know that you're doing nothing
+about it.
+So you're ready to pay any price.
+PROFESSOR: Exactly.
+So there are three things I think.
+One is what you're saying, which is
+it's much easier to see that something--
+that there is a difference.
+The other two are in Angela's comment.
+The first one is the present--
+it's going back to hyperbolic discounting--
+is that with vaccination I'm avoiding a problem sometime
+in the future.
+And it's in a long time from now,
+so it's not as present to me as something that's
+happening right now.
+And then there is this idea of what
+we call loss aversion, which is you hate not doing something
+about something.
+So you are confronted with a situation which you could maybe
+fix or you could do something to make better,
+you feel that you have to do it.
+So these three things could be going on.
+Let's spend a bit of time on the first one,
+which is the difference in the visibility of the action.
+So another feature of most diseases
+is that they just get better.
+And take the flu for example.
+Typically, it gets better.
+So suppose that you think that--
+suppose that you start from the belief
+that you need to do something because you have this loss
+aversion frame and you think you have to act.
+So you have the flu, and you say, I have to do something.
+And someone tells you, well, there
+is this ivermectin treatment that really helps for the flu.
+Ivermectin is the de-worming medicine
+that was fashionable against COVID at some point.
+And you feel, oh, I have to get the ivermectin vaccine.
+You take it, and mostly you get better.
+Even in COVID, mostly you get better.
+And so, then you feel, wow, this ivermectin thing,
+it really worked.
+So your belief is further reinforced
+that ivermectin works.
+So similarly, for antibiotic in India--
+in India, anybody-- someone is sick,
+they want antibiotic and steroid shot.
+And they get better, because mostly you
+get better, even if the antibiotic had
+nothing to do with it.
+But they keep accumulating experiences that it got better.
+And so, you never really are able to learn
+that it is not what happened.
+It just got better anyways.
+So any diseases that are a cyclical pattern
+or gets better on its own will be
+likely to generate this kind of fake cure where anything works.
+So that's the danger with a large subsidy
+of antibiotics and other drugs.
+For example, there is a relatively new now--
+it's not that new anymore--
+medicine against malaria called artemisinin combination therapy
+that comes from a plant that grows in China.
+The medicine was discovered in China about 15 years ago,
+and it has been a game changer for malaria around the world.
+And the idea is that, OK, now, we really need
+to subsidize the access to the treatment, which in a way
+is great.
+But on the other hand, because there is so much overtreatment
+of malaria-looking things that has
+led to the overuse of artemisinin combination
+therapy.
+Which leads to the establishment of resistance.
+Let me give you an example from a study
+by Pascaline Dupas, Jessica Cohen, and Simone Schaner.
+So it's a study on Artemisinin Combination Therapy or ACT.
+They start with the same--
+they subsidize it with a voucher in a randomized experiment.
+The subsidy could be 0 or 92%.
+So without subsidy, 20% of self-diagnosed malaria episodes
+get ACT.
+With subsidy, 50% do so.
+But the thing is that many of the self-diagnosed episodes
+are not malaria.
+So the subsidy has one good effect,
+which is more people who have malaria take the medicine.
+But it has one bad effect, which is more people who do not have
+malaria also take the medicine.
+So that's not a problem we have with subsidizing
+preventive care because attention is not there.
+Everybody should get immunized.
+But with malaria, people who do not have malaria
+should not take this medicine.
+It has negative externality on the rest of us because
+of resistance build up.
+So one possible solution is to lower the subsidy.
+And in fact, they find that if you
+have a subsidy that's not 92% but closer to 80%,
+that reduces overtreatment.
+So it reduces the people who think they might have malaria
+but in fact don't.
+Those are the people who are least likely to take--
+most responsive, perhaps because they understand it's not sure.
+Whereas the people who in fact have malaria,
+they are so sick that they are not misled,
+and they take it even if it's a little bit more expensive.
+So that's lower the subsidy.
+The other option is testing.
+
+So as part of this experiment as well,
+they are offering a free testing for malaria, also at the shop.
+So you can decide to test when you think you have
+malaria before taking the drug.
+And the problem is the compliance with the test.
+So if the test is positive, everybody complies.
+That is they all take the drug.
+But it's the test is negative, many people
+take the drug anyway.
+The compliance rate, which is not
+taking the drug because you don't have malaria,
+is 25% when there is a 92% subsidy
+level, 40% with a subsidy level of 88%,
+and 42% with a subsidy level of 80%.
+So people basically take the test,
+figure out that they are negative,
+and take the malaria medicine anyway.
+So why would they do that?
+STUDENT: Well, in a way you're there-- you went there already.
+The test is already [INAUDIBLE],, so you might as well take it.
+It might help in the future.
+So you convince yourself that once you've made it there
+and it's subsidized--
+PROFESSOR: Yeah.
+So maybe you've paid part of the cost by just going.
+The test itself is free, but you've gone
+you've gone to the shop and--
+but that's still need to pay one more cost.
+So why pay for something that you don't need?
+
+Yeah.
+STUDENT: It could be a caution thing.
+Like, oh I got a negative test, but it could still be it.
+So I want to take it just in case.
+PROFESSOR: Exactly.
+We've become so familiar with that.
+You test yourself for COVID, and you're like, well, whatever.
+It may or may not be good.
+So they are worried that the test is a false negative.
+And they have a reason to be worried
+because even though this particular test is very
+reliable, the test that is available usually
+in the hospital they go to is very unreliable.
+It's full of type II and type I error.
+So people test positive when they
+don't have malaria and test negative
+when they do have malaria.
+And so, the trust in the health system is low.
+And therefore, even when you introduce this new technology,
+people are not necessarily believing that-- believing you
+with the new technology.
+So the trust interferes with people's ability
+to learn about what is effective treatment for them
+at this very specific point in time.
+Julie.
+STUDENT: Oh yeah.
+I was just going to say that maybe another thing
+on the subsidy on the negative side
+is maybe their friend took the medicine and they healed.
+PROFESSOR: Yes, yes.
+So this goes, of course, against--
+the one reason why you might not trust the result of the test
+is that the result of the test goes
+against the wealth of experience you've
+had from your own past experience, your friends,
+and all that.
+And you might not fully believe.
+PROFESSOR: The bottom line is teaching health behavior,
+teaching is very difficult. And whenever
+people have done studies of looking
+at trying to convince people to do various things,
+basically it is not very effective.
+So for example, in the deworming studies,
+they had one component where they were telling people
+to wear shoes and to not swim in the lake,
+and that has absolutely no impact on behavior.
+In Bihar, we did a study on iron-fortified salt.
+We produced a movie with local actors and so on.
+It has absolutely zero effect on take-up
+of iron-fortified salt in contrast
+to very large effect of subsidy.
+Pascaline Dupas, Michael Kremer and I
+did a study on HIV/AIDS prevention
+in primary school in Kenya.
+To evaluate, we actually evaluated the official program
+of the government in collaboration
+with the government.
+Trained teachers, et cetera.
+Nothing happened.
+So basically, public health campaigns,
+information campaigns are generally
+not effective-- with some exceptions.
+Some of them catch up.
+For example, in Bangladesh, they put skull and bones
+on the wells that have arsenic in them
+to discourage people to use them and that was very effective.
+But generally, it's hard to get into people.
+And maybe-- in Bangladesh, it turned out
+to be effective and counterproductive
+because they're unaware-- because of the scale of bones
+on the deep wells, they went to more shallow wells that
+don't have arsenic, but they have a lot of diarrhea.
+So in fact, kids become sick of diarrhea,
+so that campaign was actually misguided.
+But at least its primary effect of discouraging people
+from using the arsenic-contaminated wells
+was effective.
+But it is hard.
+So just-- it is so hard that--
+and it makes sense and you can just
+think about what happened during COVID
+and trying to explain to people how COVID works
+and what they need to do and to relate very naturally to that.
+So if teaching people is hard, then it
+shows-- it suggests that there are large benefits for making
+it as easy as possible.
+So try whenever it's possible to have
+default option, compulsory behavior, incentives,
+et cetera.
+When overuse is an issue, try to make access
+to curative care a bit harder than access to preventive care.
+And then there is the note that we discussed already,
+which is in developing countries,
+we are really swimming upstream because everything
+is the opposite.
+Everything is hard when it should be easy and easy when
+it should be hard, and that's what-- that is something
+that people have to fight with in their everyday life.
+Julie, you had a question?
+
+STUDENT: Are the studies saying that health education generally
+doesn't work true in most countries?
+PROFESSOR: I think in every settings
+that I've seen it, something that we always come back to,
+we always hope that this one campaign will work,
+and it's pretty much systematically
+super disappointing.
+
+So if you-- given that in developing countries
+everything is harder and the objective
+is to make it as easy as possible,
+for sure you would want to make preventive care free.
+You would want to provide incentives and so on.
+So for example, bed nets you would want to give for free.
+Chlorine to put in water you would need to give for free.
+And if possible to put it right there at the source--
+So Michael Kremer innovated with putting chlorine dispenser
+right near to the source.
+So you basically, it's very easy, but as
+soon as you get your water to put chlorine in it,
+you don't have to think about it.
+The question is that when you do that and the reason why there
+has been a very active policy debate on these type of issues
+is, oh, if you give people chlorine for free
+or if you give people bed nets for free, they might misuse it.
+Or they might be used to being given stuff
+and then really not do anything by themselves.
+Or maybe to see that your friend got something for free
+might discourage you to get it yourself.
+So that's a slightly patronizing way to relate to people,
+but this was really the dominant way
+to think about free distribution until not so long ago.
+So then Pascaline Dupas, whom we have heard a lot in this class,
+decided, when she was a graduate student, that she was going
+to put this idea to the test.
+And she set up a series of experiments on free-- on bed
+nets.
+Bed nets to prevent--
+to protect people from malaria.
+The one I'm talking about today is not the first one,
+she did but the one she did later,
+which is more complete, even.
+So in the first round, people get a voucher for a bed net
+at a reduced price.
+From 3 to a few dollars.
+Up to 50% of discount, roughly.
+In the second round a few months later,
+they get a second voucher all at about 75% subsidies.
+So the midpoint of the range of subsidies
+that was offered before.
+And then with that, we can answer all of our question.
+How sensitive people are to prices?
+What's the elasticity of the price
+you have to pay on actual usage once you have the good?
+Do you get discouraged from future purchase?
+And your neighbors, do they get discouraged or encouraged
+by seeing you getting something for free?
+So the first result is here, which
+is that we've already seen that graph in some sense on,
+which is the more people have to pay, the less likely
+they are to get the thing.
+So with when the bed net is free, 100% of them get it.
+When they have to pay $3, which is less than half the price,
+less than 20% get it.
+However, people who have had--
+if we look at usage rate, which they
+do by showing up to their doorstep at night time,
+you can see that basically, of the people who have it,
+they are just as likely to use it once they get it for free
+as if they had to pay for it.
+So this fear that people would not
+value a good that they got for free is just not realized.
+The anecdotes of people misusing the nets as fishing
+nets and so on are just that, anecdotes.
+You can always find someone, but it's not something
+that's statistically verified.
+Then we can look at what they do next
+when they offer the second net.
+So even though they already have one,
+if they got their first one for free,
+they are, in fact, more likely to purchase the second one.
+So if anything, people don't get used
+to the net-- they don't get used to the handouts,
+they get used to using the nets.
+And so there is some learning or some habit-forming thing
+that they realize that sleeping under a net is fine,
+and then they get another one.
+And finally, their neighbors are more
+likely to buy a net if others got it for free.
+So all of that suggests that giving things for free
+can help in--
+and maybe providing incentives can help.
+With bed nets, this set of studies
+have had absolutely transformative impact
+because what happened is that people actually
+listen to her-- or to them because these type of studies
+were replicated in various contexts.
+The rhetoric around the supply of nets in the public health
+world changed.
+Countries started distributing net for free.
+In Africa, they even did a bed nets and measles
+campaign combined.
+So the bed nets were used as incentives
+to get people to get measles, so they got both nets and measles
+at the same time.
+Huge amount of bed nets got distributed.
+There was an article in Nature a few years ago,
+which tried to estimate how many cases of malaria that
+led to averting, and they estimate
+that it's about 540 million cases of malaria
+less because of this massive net distribution.
+And then that also was responsible for one
+of the very big good news of the 1990s
+into 2000, which is a big decline in malaria
+cases worldwide up until COVID where
+we stopped distributing bed nets because we stopped everything.
+So this is to show that this type of studies,
+it's not just studies, they actually do get-- sometimes
+they really get traction because here, they contributed
+to change the mindset of governments
+vis-a-vis the poor, of people in the West vis-a-vis people
+in developing countries, and therefore, to change the type
+of programs that were realized.
+But the bottom line is that there is still
+much more research and action needed
+to understand what are the barriers to effective health
+behavior.
+We have some understanding of some things,
+but we don't know everything.
+Some of the obvious magic bullets
+like just free health care, free everything
+doesn't work as well.
+For example, with the overuse of antibiotics
+that itself leads to resistance, mounting, and so on,
+that doesn't work.
+And the opposite, having people pay for everything
+at full price, that also doesn't work.
+There are some now novel ideas that I didn't talk about today
+but we may talk about, for example, on immunization.
+Using the social networks, using social image concern, and so
+on, but there is much more to be done.
+And if you are-- and there is much more
+to be done in getting good health to people.
+So if it's something that appeals to you now or later,
+there's a whole wide field open.

@@ -1,0 +1,279 @@
+PROFESSOR: So the example of the [INAUDIBLE] program Indonesia,
+the program is their program.
+The idea of the [? card ?] is their idea.
+But there is a lot of question mark about how
+to make the idea work the best.
+I had a similar example about pollution
+in India, where we were contacted
+by the lawyer of the pollution control agency in Gujarat.
+Gujarat is one of the fastest industrial growing
+place in India.
+But unfortunately, as a result, it's
+also one of the most polluted place on Earth.
+Some of the industrial estates in Gujarat
+are some of the most polluted place in term of air pollution
+and in term of water pollution.
+So many years ago, citizens had a trial.
+A citizen had a lawsuit, lodged a lawsuit,
+saying the government is not doing enough
+to fight pollution.
+And the court agreed.
+And they ordered the government to set up
+a system in place of third party audit for pollution.
+The idea of this program is that the firms that
+are in the most polluting sectors, for example, chemical
+product, dyes, that kind of sectors,
+must contract with an agency that needs to audit them
+every year, visit them three times a year,
+and write a report to say how polluted they are
+and what they can do about it.
+And this report is given to the government
+and can be used to prosecute the firms and so on.
+So these are examples of these auditors doing their job.
+The reason why we were contacted by the lawyer
+is that the firms had finally sued the government, saying,
+you're not even using the data or doing anything with it.
+So it's just a useless tax.
+But the reason why they were not using it
+is because the system was almost defunct
+because the reports were perceived
+by everyone to be unreliable.
+And so the first thing we did is to check whether they
+were, in fact, unreliable.
+So we followed auditors.
+So this is a bunch of firms where the auditors went.
+And these are what the auditors report.
+So this is for one particular pollutant,
+which is suspended particulate matter, SPM.
+It's the type of things that goes into your lung
+and makes you cough and a table.
+The threshold that the government authorizes
+is in red.
+And you can see that 73% of firms
+pollute just below the threshold.
+So that could mean one of two things.
+The first one is firms are very, very good at targeting
+their pollution exactly right.
+Or the second explanation could be what?
+
+Yeah?
+STUDENT: They'd be lying about that pollution reporting.
+PROFESSOR: Yes, that they, in particular, the auditors,
+would be lying about the reporting.
+So how would you find out which is which?
+
+Any idea?
+STUDENT: You could go measure yourself
+at a bunch of different locations [INAUDIBLE]..
+PROFESSOR: Exactly.
+So that's exactly what we did.
+Well, we didn't go ourselves.
+We sent university students to go
+right after the auditors in an engineering school, naturally.
+They went right after the auditors
+and they collect the same data, so about one week later
+maximum in the same firms.
+And this is what they found.
+So this is the distribution of firms
+of that the students found.
+So now, there is not this excess--
+this number of firms that are exactly below the threshold.
+The firms are all over the place.
+Many are polluting much, much more than what the report says.
+But some even are polluting less.
+So the conclusion is that the auditors are really
+not doing their job.
+Now, let me tell you a bit more about the program
+to maybe help you find a reason for why they're not
+doing their job.
+Another program, each company must select an auditor
+and pay them.
+There is a whole little cottage industry
+of auditors who have sprung up to meet this demand.
+So they come.
+They offer their service.
+The firm pays them.
+They do the report.
+And then maybe next year, the firms rehire them or not.
+They can change auditor.
+So given that, why do you think this program is not working?
+What seems to be a flaw in the program?
+STUDENT: If you're an auditor and you fail a company,
+you're probably not going to get rehired.
+But if you pass the company, you probably will.
+PROFESSOR: Exactly.
+And so clearly, there is a conflict
+of interest, where it is in the interest of the auditor
+to provide a good report.
+And now, if you're going to fail on the data
+anyways, then why bother collecting the data at all?
+You can actually provide very cheap audit if you don't even
+go, which is why you even see--
+you don't see the firms that are actually polluting very little
+because no one goes measuring.
+If you're going to fake the data afterwards,
+why bother collecting it?
+So this is what happened.
+So how would you reform the system?
+
+STUDENT: You can have the government
+pay the auditors or the auditors get paid some other way.
+PROFESSOR: Yes.
+But they didn't want to do that because they like the principle
+that the polluter should pay.
+STUDENT: Have the different firms to pay some sort of tax
+to the government and then the government
+would go and hire the auditors.
+PROFESSOR: Exactly.
+So once we have the government, so the firms could pay a tax
+or could pay into a pool.
+And then the pool could pay the auditors.
+And once you have done that, how could you
+structure it to have the best incentive possible
+for the auditors?
+STUDENT: You could probably randomly assign the auditors
+to different firms and not tell them
+which ones are done too so there's no chance of bribery
+or [INAUDIBLE].
+PROFESSOR: Exactly.
+So you could, instead of getting the firm to choose the auditor,
+you could randomly assign the auditor.
+And then you could do one last thing, which is now the auditor
+respond to the incentive of the firm.
+So you, at least, you drop that by randomly assigning
+them and reassigning them every time.
+You could do one step better to improve
+the incentive of the auditor.
+
+STUDENT: I'm hesitant about this because it's
+a waste of auditors.
+But you do two per, and they both
+benefit if they have the same answer.
+PROFESSOR: Exactly.
+You could say, well, now you are going to check
+the veracity of your report.
+So your version is very extreme.
+But a less extreme version is you
+could say there is going to be random backchecks.
+And over the course of your year,
+you're going to be backchecked at least for, say, 20 or 30
+of the reports you're doing.
+I'm going to measure the quality.
+And your continuation in the scheme or even your payment
+is going to be a function of the veracity of your reports.
+So you see, you guys are a very smart bunch.
+But in the conversation, we can figure out roughly
+how to change it.
+So we propose just that, random assignment of auditors,
+backcheck auditor for accuracy, and payment based on accuracy.
+And the firms is not on the slide,
+but the firm actually-- it is on the slide.
+It is a fixed payment to the auditor
+based from a central pool.
+So the firm are paying.
+But they are not choosing who to pay.
+So we proposed that to the government.
+It was a bit complicated because you
+had to check that it was legal to do that because they were
+operating under a court order.
+But after many, many hours spent playing Tetris
+on the couch of the waiting room of the various government
+officials, this got approved.
+And then we, of course, being who we are,
+conducted an experiment for our proposed reform.
+So a random subset of the firms were randomly assigned
+to the new system, while the other one kept the same.
+So this actually that I showed you is in the control group.
+
+The auditor report to the top.
+So this is now the treatment group.
+And you can see that the distribution in the treatment
+group is much more even between various levels of pollution.
+And compared to the backcheck the excess mass just below
+the threshold has almost disappeared.
+So that again helped convince the government
+to change the system, which they had in the books anyway
+and wanted to work because it's not that we came up
+with the idea of doing this.
+We just helped them running it better,
+which is what they wanted to do in the first place.
+And many evaluations are of that kind.
+
+Too much in particular, people from here
+think of working with people in poorer countries,
+we have to bring our truth to them.
+But in fact, it is not the way it
+works because many people have excellent ideas,
+and they have a very, very good understanding of the context
+in which they are working.
+But there is always so many questions
+in the detail of the running of the program that
+are not understood.
+And these are often what makes the difference between success
+and failure.
+And it's by working together with the partner,
+combining what you may have learned from other things,
+some first principle economic thinking like we did together,
+thinking about the auditors, that you
+have kind of decent ideas to improve programs at the margin
+and run them better.
+
+
+You decide to install plumbing in your village. Now, you want to measure the impact. Which of the following is the true counterfactual?
+
+
+
+Your village just before the plumbing was installed
+
+A nearby village whose observable characteristics (demographics, income, health, etc.) are virtually identical except that it didn’t install plumbing
+
+A group of randomly selected similar villages
+
+Your village in the hypothetical world where it had not installed plumbing
+
+You correct for the migration effect in your plumbing impact analysis, and come to the conclusion that the $1 million you spent on plumbing prevented 1,000 people from dying from disease. Compare this to other public health interventions you’re aware of and select the one that is the most cost-effective.
+
+
+
+A deworming program that prevents one death for every $2,000 spent
+
+A vaccination drive that prevents 30 deaths for every $100,000
+
+A public sanitation (handwashing, wearing masks, boiling water, etc.) information campaign that prevented 8,000 deaths by spending $10 million
+
+Plumbing (1000 deaths prevented, $1 million spent)
+
+
+At first, why was Teaching At The Right Level less effective once it had been scaled up?
+
+
+
+The initial impact evaluation was poorly run.
+
+Statistical noise means that any impact evaluation may find a false positive. It turns out that the initial impact evaluation was a false positive, and once the program had been scaled up, this became apparent.
+
+The perceived incentives of the teachers were poorly aligned with the goals of the program.
+
+Once the program received more attention in the media, the increased scrutiny made teachers feel like their skills were being questioned, causing them to deliberately sabotage the program.
+
+
+The evaluation of the Raskin program in Indonesia demonstrated what?
+
+
+
+Subtle details in program design might make a big difference.
+
+The best way to fight corruption in any setting is common knowledge.
+
+The posters decreased effectiveness because people are ashamed when their neighbors find out exactly how poor they are.
+
+The evaluation of the pollution monitoring in Gujarat demonstrated what?
+
+
+
+The pollution auditors in Gujarat are hopelessly corrupt.
+
+Misaligned incentives can undermine a well-intentioned program.
+
+Government is too inflexible and slow-moving to make a difference in something as tricky as pollution.
+

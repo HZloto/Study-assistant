@@ -1,0 +1,297 @@
+PROFESSOR: This is a paper by Reshmaan Hussam, Natalia Rigol,
+and Ben Roth.
+And SR has told you a little bit about this already,
+so let me be relatively quick.
+Essentially, what they were doing,
+they were going to an urban area in India,
+and they essentially, did a census.
+They looked for all the entrepreneurs in the area
+with $1,000, less than $1,000 in fixed assets.
+These are tailors, rickshaw drivers, vegetable vendors,
+and so on, average profits are $2.5 a day.
+It's a very small businesses.
+And essentially, then they ask people
+before people knew that they were
+going to ask about other things about their income,
+their assets, profit, age, gender, et cetera,
+to have characteristics that might be able to predict
+rates of return.
+Then they put people into groups of four
+to six people based on geographic proximity
+and invited them to a Central Hall
+to rank one another along these above dimensions
+and the marginal return to capital.
+That's to say they were not asking people
+a bunch of different things, including who has the highest
+income, who has the most assets, who has the most
+profits, but then in addition, they
+asked them about what's called the marginal return to capital.
+Sorry, I haven't written this out.
+Essentially, it's about if I gave you
+some money, by how much would your profits go up.
+If I gave you $100, if you think my profits go up by $50,
+so including $150, so including $100,
+then my marginal return to capital would be 50%.
+And so they asked people about these questions,
+essentially, trying to ask people to predict
+how good of an entrepreneur would you be
+and how good would people make use of that money.
+And then they had different treatments, individual level
+treatments, but essentially, they had a $100 grant,
+and some people got the $100, and other people did not.
+Essentially, just randomizing across people.
+Some people got money, and some people did not.
+This individual level of randomization
+was, essentially, used to calculate the actual returns
+to capital.
+You can just compare among everybody
+the people who got the $100, how much did their profits go up
+to people who didn't get the $100, how much did
+their profits go up.
+And you can do things like can look
+at people who are viewed by their peers
+as great entrepreneurs, which people say
+this guy is going to have really high rates of return.
+You can compare those people, among those people,
+some people will have gotten $100,
+and some people will have not gotten the $100.
+So you can look at the rates of return for those people.
+Among the people who were rated poorly and said,
+this guy is not going to be a very good entrepreneur.
+This woman will not be doing well with the money,
+you also look at those people and look
+at people who got the money versus not
+and compare people's profits and then
+calculate the rate of return among those as well.
+And so then the key question is, are
+people in the community able to predict
+the people in the community or the people in the community
+say that they have high returns.
+Are those people really the ones that have
+high returns, which is not?
+And are people in the community doing better than maybe
+what covariates are picking up anyway?
+In some sense, for example, you might say,
+well, women are having higher returns than men anyway,
+and the community knows that.
+That's not that useful because I can figure out myself
+using my data that women are doing better than men.
+The question is, is there unobservable
+is additional information in the community that's not picked up,
+that I can't figure out using the data that I have anyway
+these other covariates?
+And so then the second part was, you have these groups
+and then they had different variation in these groups
+in terms of stakes, so some people had
+high stakes of prediction, others not,
+meaning that they were using a subsample of people
+or of predictions that they actually implemented.
+That's to say I would tell Mikey you have
+four or five people in your group,
+and who is going to be the highest or the best
+entrepreneur.
+And then essentially, some of these predictions
+were actually implemented, so Mikey would now
+be potentially much more likely to say,
+hey, I'm the best entrepreneur or my friend Gia
+is the best entrepreneur, as opposed to somebody else, say
+Darren or Julie, would be really good entrepreneurs,
+but they're not Mikey's friends, therefore, he picks himself.
+So that's what I mean by stakes in a sense of saying,
+is this actual prediction implemented sometimes
+versus not.
+And we would think that once that information is
+used to actually implement the $100 grant,
+Mikey would have more incentives or people would
+have more incentives to lie.
+And so the money, that then gets allocated to their friends.
+Seem confused.
+No.
+STUDENT: [? Without ?] the lack of polling with--
+PROFESSOR: What was that?
+STUDENT: I have so many friends [INAUDIBLE]..
+PROFESSOR: Yeah.
+So I think the idea is that there's always
+going to be some--
+you're going to people in some way.
+The issue is, essentially, that you
+might know who's the best person,
+but then whoever is close to you,
+you might want to give money to that person.
+So then you name the person who's closest to you,
+and that biases your estimate.
+And so that's what happens when there's stakes.
+Now, there's always going to be people
+know each other and so on, but you
+have to rank people somehow.
+And the idea if there's no stakes, then
+maybe you will just give a truthful ranking anyway,
+because it doesn't really matter.
+I'm just asking you questions, but if there are stakes,
+then you might bias yourself more.
+
+Then second, people did it in private and in public.
+So this would be in private, so here nobody else in the village
+will actually find out what you did except for the surveyor.
+This would be in public.
+Your group is around you.
+So you have to tell Mikey in the face
+that Gia is a better entrepreneur,
+and if Mikey is my friend, I might not
+want to do that because he's going to be mad at me.
+And so how might private versus public matter?
+Are people going to do better or worse than private or public?
+
+STUDENT: [INAUDIBLE].
+PROFESSOR: Probably more honest than private.
+Because in public, you have more of a reason
+to skew your answers towards your friend,
+because otherwise, if I do it in private I'm going to say,
+Mikey, I told them you're the best, but afterwards,
+but in fact, in private, I told them the truth
+that Gia is a much better entrepreneur.
+And then the next question they ask is, well,
+couldn't you give people monetary incentives?
+Could you incentivize people in some ways that
+undoes these types of biases?
+So if you think, really, at the end of the day,
+we want to use these types of questions
+and implement them in sort of field settings.
+So now, we're going to have some biases,
+potentially, from these types of stakes,
+but now can we design certain incentives or incentive
+schemes that sort of undo these types of biases,
+and that's what the monetary incentives are for.
+And so what do they find?
+Now, here, again, you rank people on the x-axis
+according to people's predicted percentile.
+On the right, you see the very best.
+What people think are the very best entrepreneurs
+in terms of the people who have the highest rate of return.
+On the left, you see the worst.
+And then you see, essentially, profits
+among grant losers and grant winners.
+
+If people could not predict rates of return at all,
+then the grant losers and the grant winners
+should, essentially, have the same profits.
+
+The difference between grant losers and grant winners
+should be constant, but instead, what
+we're seeing is that the grant winners,
+the difference between the two, which, essentially,
+is our treatment effect of getting a grant,
+they're doing a lot better.
+They have a much higher rate of return
+compared to people who people predicted to not do well.
+In particular, if you look here on the very left,
+people who say they have a very low return,
+treatment and control grant winners and grant losers
+have, essentially, the same profits,
+which is to say they have zero return or even
+negative returns, potentially.
+People on the right, people think they're going to do well,
+those have very high returns.
+The grant winners have much higher profits
+compared to the grant losers.
+And this is what they find, essentially, on average,
+the rate of return is about 8% per month,
+but the average return that people ranked into the highest
+third is about 25% per month.
+So the people where people in the community
+say that are doing better, they're
+doing, in fact, a lot better.
+They have much higher rates of return from that.
+And so this community information
+remains predictive, even after controlling for observables
+using machine learning, using age, gender, et cetera,
+and so on.
+That's to say there's unobservable information,
+unobservable to me as a surveyor or the implementer
+of this program, unobservable information in this community
+that in some ways, I can try and elicit to figure out who are,
+in fact, the best entrepreneurs.
+Does this make sense?
+
+And then the incentives matter.
+I think I said that already.
+Essentially, that's to say so the prediction gets
+worse when reports are used for the distribution of resources.
+That's essentially what we already talked about.
+People favor themselves, family members and close friends,
+but paying respondents for the accuracy of their reports
+correct all the misreporting that stakes are produced.
+And so it turns out that asking people
+to reveal their reports in public
+does not make them more or less truthful.
+Let me then just summarize what we discussed.
+So first, let me just summarize this is just
+to say there's lots of information in the community,
+and we can use that information from the community to, perhaps,
+understand who might be good entrepreneurs
+and allocate, potentially, resources to them
+in terms of helping their businesses grow.
+Of course, there's some fairness concerns.
+You also want to provide other support to other people
+potentially, but maybe you want to support certain people's
+businesses, and for other people,
+you just want to provide other types of benefits
+in terms of consumption and so on.
+So what did we learn overall?
+There's lots of entrepreneurship among the poor,
+but many people don't seem to want to be entrepreneurs.
+They don't seem to be particularly
+profitable or particularly sophisticated
+businesses, and so on.
+Now, at the same time, the ultra poor program
+is very effective in reducing poverty persistently,
+but it's very expensive.
+We find that some people have much higher returns
+to capital than others.
+And so one open key question is now,
+should we target the ultra poor program in some ways
+to some people, and can we do this in a way
+where then everybody else gets money
+or some other types of support, and is there
+a good ways of doing that?
+So the key question is identifying
+people who have high returns so they can be supported and then
+grow their business and then hire other people,
+and everybody in the community would benefit from that.
+Now, at the same time, there's lots
+of information in this community,
+and we can elicit that information in some way.
+So not only as covariates that is predictable and using
+your information such as age, gender, and so on, which
+is also predictive, but there's also
+lots of information in the community
+that we can use to do so.
+And so then the hope or the goal would be--
+and this is, I think, where the research overall is going
+is that, in fact, it is the case that a small share of people
+could be and will be great entrepreneurs that
+hire lots of people and grow if given the right resources
+and opportunities.
+The key question is just how to identify them
+and allocating resources to them in a fair way,
+while not just sort of favoring certain people over others.
+
+
+
+True or false? In theory, entrepreneurship is necessarily a zero-sum game: if an intervention increases revenue by $100 for one business, that means taking away $100 from either other businesses’ revenues or from the rest of the population (or some combination of the two).
+
+
+True or false? Another possible explanation for the entrepreneurship-based poverty trap is that for most people, increasing investments in their business has diminishing returns and are stuck in the low, stable steady state; but for the few very talented entrepreneurs, increasing investments can bring them up to the high, stable steady state.
+
+The evidence suggests that the Ultra-Poor Graduation program is extremely beneficial to some people, but for others, it doesn’t improve their lives at all (not measurably so, anyway). The program would be a lot more cost-effective if we could limit the recipients to those whom we know will benefit the most — those who will do a good job using their new goat to run a business. What is the challenge with identifying entrepreneurial talent?
+
+
+
+Nobody has any clue who would make a good entrepreneur.
+
+People have a good idea who would make a good entrepreneur, but this is a sensitive topic — people feel uncomfortable ranking their friends’ talents— and not something they would discuss with outsiders.
+
+People have a good idea who would make a good entrepreneur, but there is a strong incentive to lie.
+
+People have a good idea who would make an entrepreneur, but only about their closest friends and immediate family; it would take a lot of time and money to survey enough people to get an accurate ranking of the entire village.
+

@@ -1,0 +1,266 @@
+PROFESSOR: So all that suggests that there is evidence
+that time inconsistency plays a role.
+And maybe it also plays a role in explaining the low access
+to preventive care.
+However, I'm not sure that it's the entire explanation
+for immunization.
+Because immunization-- consider the case
+of incentive for not being [INAUDIBLE]..
+You see people being very rational when they really
+think about it because they understand that they need
+something to pressure them enough to say,
+I'm going to tie my hands even if it costs me money,
+and it's worth it.
+So we have people who are very human-- fundamentally
+human-- in having this tension between the present
+and the future, but who are also smart about it.
+Right?
+But if people are smart about it,
+they should realize that for six months
+they have not immunized their kids.
+They should realize that they are doing the same thing
+every month of saying, oh, next week I will do it,
+and then next week I will do it, and then next week I
+will do it.
+So they should realize that they have
+this hyperbolic discounting problem,
+and they should be able to overcome it
+once they realize it's there.
+For example, find a friend who forced them to do it
+or decide to bite the bullet and do it anyways.
+So it seems a little bit unlikely to think
+that it is-- if the benefits are really that
+high-- the perceived benefits are really
+that high of incentive-- that they keep fooling themselves
+again and again and again.
+And therefore, it's probably not the entire explanation
+for low immunization or low deworming
+or low access to chlorine tablets.
+So maybe another part of the explanation is that people--
+even though the benefits are actually high,
+the perceived benefits are not that high.
+And that may have something to do
+with understanding of health.
+
+One thing that suggests that it might be going on
+is the big contrast that we find between preventive care
+and curative care.
+In Udaipur-- you will see the movie a week from now,
+the movie about Udaipur health system--
+that movie going back to the date
+is about 10 years old, 15 years old.
+But it doesn't dramatically change.
+You will see that people do spend a lot of money
+on their health about 7% of their budget
+is spent on health.
+And they receive a lot of care, but most of this care
+is in response to an actual crisis.
+So for somethings they get traditional medicine.
+For some things they actually go to the different types
+of doctors--
+I'll describe whom in a minute-- where they get shots, drips,
+pills, et cetera.
+So people seem to be not doing immunization.
+For example, people will not immunize their kids
+against measles.
+But if the kids have measles, they
+will do whatever they can to get the child better.
+So what is the difference between preventive and curative
+care that can explain this difference?
+Yeah.
+STUDENT: The effects of preventative care
+aren't really that visible.
+Like, curative care is very visible.
+It's kind of like one goes from not having it to not having it,
+and the other goes from having it to not having it.
+So that [INAUDIBLE] [? visibility ?]
+I think [INAUDIBLE].
+PROFESSOR: Yes.
+Liam.
+STUDENT: I was going to say the same thing.
+PROFESSOR: Yeah.
+And there is one more problem.
+Angela.
+STUDENT: So it's unbearable for humans to be ill
+and to know that they're doing nothing about it.
+So if you want to prevent, then you
+could potentially have it, not have it.
+You don't see the benefit in the short run.
+But also, in terms of hope and just wanting to get better,
+it's unbearable to be ill and to know that you're doing nothing
+about it.
+So you're ready to pay any price.
+PROFESSOR: Exactly.
+So there are three things I think.
+One is what you're saying, which is
+it's much easier to see that something--
+that there is a difference.
+The other two are in Angela's comment.
+The first one is the present--
+it's going back to hyperbolic discounting--
+is that with vaccination I'm avoiding a problem sometime
+in the future.
+And it's in a long time from now,
+so it's not as present to me as something that's
+happening right now.
+And then there is this idea of what
+we call loss aversion, which is you hate not doing something
+about something.
+So you are confronted with a situation which you could maybe
+fix or you could do something to make better,
+you feel that you have to do it.
+So these three things could be going on.
+Let's spend a bit of time on the first one,
+which is the difference in the visibility of the action.
+So another feature of most diseases
+is that they just get better.
+And take the flu for example.
+Typically, it gets better.
+So suppose that you think that--
+suppose that you start from the belief
+that you need to do something because you have this loss
+aversion frame and you think you have to act.
+So you have the flu, and you say, I have to do something.
+And someone tells you, well, there
+is this ivermectin treatment that really helps for the flu.
+Ivermectin is the de-worming medicine
+that was fashionable against COVID at some point.
+And you feel, oh, I have to get the ivermectin vaccine.
+You take it, and mostly you get better.
+Even in COVID, mostly you get better.
+And so, then you feel, wow, this ivermectin thing,
+it really worked.
+So your belief is further reinforced
+that ivermectin works.
+So similarly, for antibiotic in India--
+in India, anybody-- someone is sick,
+they want antibiotic and steroid shot.
+And they get better, because mostly you
+get better, even if the antibiotic had
+nothing to do with it.
+But they keep accumulating experiences that it got better.
+And so, you never really are able to learn
+that it is not what happened.
+It just got better anyways.
+So any diseases that are a cyclical pattern
+or gets better on its own will be
+likely to generate this kind of fake cure where anything works.
+So that's the danger with a large subsidy
+of antibiotics and other drugs.
+For example, there is a relatively new now--
+it's not that new anymore--
+medicine against malaria called artemisinin combination therapy
+that comes from a plant that grows in China.
+The medicine was discovered in China about 15 years ago,
+and it has been a game changer for malaria around the world.
+And the idea is that, OK, now, we really need
+to subsidize the access to the treatment, which in a way
+is great.
+But on the other hand, because there is so much overtreatment
+of malaria-looking things that has
+led to the overuse of artemisinin combination
+therapy.
+Which leads to the establishment of resistance.
+Let me give you an example from a study
+by Pascaline Dupas, Jessica Cohen, and Simone Schaner.
+So it's a study on Artemisinin Combination Therapy or ACT.
+They start with the same--
+they subsidize it with a voucher in a randomized experiment.
+The subsidy could be 0 or 92%.
+So without subsidy, 20% of self-diagnosed malaria episodes
+get ACT.
+With subsidy, 50% do so.
+But the thing is that many of the self-diagnosed episodes
+are not malaria.
+So the subsidy has one good effect,
+which is more people who have malaria take the medicine.
+But it has one bad effect, which is more people who do not have
+malaria also take the medicine.
+So that's not a problem we have with subsidizing
+preventive care because attention is not there.
+Everybody should get immunized.
+But with malaria, people who do not have malaria
+should not take this medicine.
+It has negative externality on the rest of us because
+of resistance build up.
+So one possible solution is to lower the subsidy.
+And in fact, they find that if you
+have a subsidy that's not 92% but closer to 80%,
+that reduces overtreatment.
+So it reduces the people who think they might have malaria
+but in fact don't.
+Those are the people who are least likely to take--
+most responsive, perhaps because they understand it's not sure.
+Whereas the people who in fact have malaria,
+they are so sick that they are not misled,
+and they take it even if it's a little bit more expensive.
+So that's lower the subsidy.
+The other option is testing.
+
+So as part of this experiment as well,
+they are offering a free testing for malaria, also at the shop.
+So you can decide to test when you think you have
+malaria before taking the drug.
+And the problem is the compliance with the test.
+So if the test is positive, everybody complies.
+That is they all take the drug.
+But it's the test is negative, many people
+take the drug anyway.
+The compliance rate, which is not
+taking the drug because you don't have malaria,
+is 25% when there is a 92% subsidy
+level, 40% with a subsidy level of 88%,
+and 42% with a subsidy level of 80%.
+So people basically take the test,
+figure out that they are negative,
+and take the malaria medicine anyway.
+So why would they do that?
+STUDENT: Well, in a way you're there-- you went there already.
+The test is already [INAUDIBLE],, so you might as well take it.
+It might help in the future.
+So you convince yourself that once you've made it there
+and it's subsidized--
+PROFESSOR: Yeah.
+So maybe you've paid part of the cost by just going.
+The test itself is free, but you've gone
+you've gone to the shop and--
+but that's still need to pay one more cost.
+So why pay for something that you don't need?
+
+Yeah.
+STUDENT: It could be a caution thing.
+Like, oh I got a negative test, but it could still be it.
+So I want to take it just in case.
+PROFESSOR: Exactly.
+We've become so familiar with that.
+You test yourself for COVID, and you're like, well, whatever.
+It may or may not be good.
+So they are worried that the test is a false negative.
+And they have a reason to be worried
+because even though this particular test is very
+reliable, the test that is available usually
+in the hospital they go to is very unreliable.
+It's full of type II and type I error.
+So people test positive when they
+don't have malaria and test negative
+when they do have malaria.
+And so, the trust in the health system is low.
+And therefore, even when you introduce this new technology,
+people are not necessarily believing that-- believing you
+with the new technology.
+So the trust interferes with people's ability
+to learn about what is effective treatment for them
+at this very specific point in time.
+Julie.
+STUDENT: Oh yeah.
+I was just going to say that maybe another thing
+on the subsidy on the negative side
+is maybe their friend took the medicine and they healed.
+PROFESSOR: Yes, yes.
+So this goes, of course, against--
+the one reason why you might not trust the result of the test
+is that the result of the test goes
+against the wealth of experience you've
+had from your own past experience, your friends,
+and all that.
+And you might not fully believe.

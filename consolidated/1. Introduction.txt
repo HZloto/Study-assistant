@@ -1,0 +1,1375 @@
+FRANK SCHILBACH: Welcome to 1473.
+This is the Challenge of World Poverty lecture number 1,
+so if you're here for 1473, you're at the right place.
+My name is Frank Schilbach and Esther
+Duflo-- she's over there-- and I will be teaching this class.
+We've been teaching this class for many years.
+It's a lot of fun, and we hope to have a lot of fun
+this semester as well.
+OK.
+Having said that, welcome again to 1473.
+Let me just tell you what the plan is for today.
+We're going to have first introductions.
+We're going to tell you what this class is about overall.
+We're going to tell you about the magnitude of the problem.
+What is global poverty?
+What do we mean by this?
+And why is it an important issue?
+We're going to tell you a little bit about progress.
+We're going to tell you about a big problem,
+but also there will be some progress to report.
+And then more specifically, we're
+going to tell you about one specific example of one
+specific person--
+Abu is his name-- who lives in Bangladesh,
+to make the point that poverty is much
+more than aggregate statistics.
+It's about people's lives and individuals.
+And we're going to learn a little bit
+about the life of Abu then.
+And then we're going to talk a little bit about admin
+and logistics at the very end, where we're
+going to tell you all sorts of important details
+if you want to take the class.
+OK.
+So first, who are we?
+First, we have Esther Duflo, who really
+doesn't need any introduction.
+I'll let you introduce herself anyway.
+ESTHER DUFLO: Hi.
+I am Esther Duflo.
+I was a graduate student here, a PhD student in this department,
+and I've been teaching here ever since.
+And I've devoted my career and my life
+to try to understand the lives of the poor
+in developing countries with the objective develop--
+to help developing countries think
+about policies and programs that can make their lives better,
+and we are going to see hopefully
+a lot of that in the class.
+And it's a pleasure to have you here.
+FRANK SCHILBACH: Thank you.
+And as I told you already, I'm Frank Schilbach.
+I'm from Germany.
+I'm an economist at MIT as well.
+I teach development economics, which
+is what this class is about, as well as behavioral economics,
+which is about-- or psychology in economics, which
+is trying to introduce or use insights from psychology
+and other fields to better understand economic behavior.
+In particular, I'm interested in the psychology
+of the poor, which we're going to learn about towards the end
+of the class.
+Now, what is this class about?
+What do we want you to take away and learn from this class?
+The key goal is to understand poverty.
+What do we mean by poverty?
+What is it?
+Who are the poor?
+Where are they?
+How are their lives going on?
+And how can we be perhaps help tackle poverty and improve
+people's lives?
+That's the key goal of this class overall,
+and that's what Esther and others have started studying
+at MIT in other places.
+We want you to give an introduction-- get
+an introduction to this topic.
+Second, we want you to help learn
+to formulate coherent and interesting thoughts
+about poverty, and in particular learn
+to reason like an economist.
+That means we want to think about costs and benefits
+of different policies.
+We want to think about how people make decisions,
+why they choose to do certain things
+or not to do certain things, and how potential policies might
+be able to improve people's lives
+through the lens of economics.
+And then one key goal is since this is an introductory class
+into economics, we want you to become excited or even more
+excited about economics and learn
+about what the field of economics is about.
+
+PROFESSOR: So then let's delve into the issue itself
+and tell you about the magnitude of the problems.
+Really when we say people are poor, what do we mean by this?
+How poor are the poor?
+And how do we measure how poor our country is?
+This is not a rhetorical question.
+I actually want to know from you.
+How do we know how poor people are?
+STUDENT: Sometimes you can measure GDP or GDP per capita.
+PROFESSOR: What does that mean?
+STUDENT: How much money does the country produce
+versus how people we have.
+PROFESSOR: Yeah.
+So you take everything that's produced in a certain country
+and you somehow add it all up in some ways.
+And then you divide it by the number of people
+who are in that country.
+And that's then what people refer to as GDP per capita,
+Gross Domestic Product per capita.
+That tells you on average how much are
+people producing in a country.
+[INAUDIBLE]
+STUDENT: [INAUDIBLE] you can survive by yourself.
+PROFESSOR: I see.
+And so how do we measure that?
+STUDENT: You just count how many people
+can survive by themselves.
+PROFESSOR: Right.
+But suppose you wanted to ask me whether I
+can survive by myself.
+How do you do that?
+What do you ask me?
+STUDENT: I guess I don't know.
+It's like if you were to remove all [INAUDIBLE]
+PROFESSOR: Anybody else want to elaborate on that
+or have any other thoughts?
+Yeah.
+STUDENT: I think it's related.
+There's a notion about the market basket of goods, things
+across different countries that are considered
+baseline necessities.
+And then looking at the price of that in different countries
+to compare.
+PROFESSOR: Right.
+You mentioned something very important,
+which is how do we compare different goods
+across different countries?
+If I buy some food or if I buy some services,
+if I get a haircut or whatever else,
+that's going to be much more expensive, say, in the US
+compared to other countries who are poorer.
+And we're going to take that into account.
+So it's not just about dollar exchange rates
+but much more about how much do people actually
+consume every single day.
+And we need to sort take that into account.
+But I want to get back to the question or the comment
+from before where it was said that people
+need enough to survive.
+So anybody have any thoughts on how we
+might be able to go about that?
+
+Yeah.
+STUDENT: I think there's a line of people
+being absolutely poor.
+It's like 1.25 USD per day as the daily income.
+PROFESSOR: So there's an extreme poverty line,
+as people call it, which is a minimum amount that people
+think that people need to survive.
+And what really that is is how much are people spending.
+Mostly it's about covering basic needs.
+In particular, food.
+And this has been recently changed to $2.15.
+It was $1.90 before that, which is an amount that essentially
+people have tried to come up with a number which helps you
+have the necessities for life.
+In particular food and so on, excluding housing.
+And so then you have this threshold.
+And then how do you then figure out
+whether somebody is above or below that threshold?
+How can we figure that out?
+
+STUDENT: Measure your income.
+PROFESSOR: And how do you do that?
+STUDENT: You could ask them how much money they make.
+PROFESSOR: Yeah.
+You ask them questions.
+Exactly.
+So we ask people questions.
+You can either measure people's income
+and ask them what are all your income sources?
+How much money do you or your family members
+and so on earn through various ways?
+That's not as simple as it sounds,
+because often people are self employed.
+People have a farm where they grow
+maize or other types of things.
+And so that's not as easy as it sounds.
+But we can do that.
+Any other ideas of what we could do?
+So one idea would be to measure people's income.
+What else could we do?
+
+Yeah.
+STUDENT: Average life expectancy.
+PROFESSOR: Yeah.
+So we can measure other aspects of people's lives.
+But if we wanted to understand whether somebody
+is above or below the poverty line,
+we could measure how much money do they have or what else could
+we do?
+Yeah.
+STUDENT: I guess you could see what
+are those goods that they're able to obtain [INAUDIBLE]..
+PROFESSOR: Exactly.
+Exactly right.
+So we could also look at consumption.
+We could just ask, how did how much money did you
+spend on different things?
+How much did you eat in particular?
+How much did you spend for household goods?
+How much did you spend on different categories?
+And then we can try to add that up and see
+how much is that per person.
+So usually households are larger.
+So you have to divide by the number of people.
+And then you can say how much money
+do people have per person.
+That's exactly right.
+And then there's lots of other aspects
+of what does poverty entail in addition to not having money,
+which we're going to including life expectancy, health
+and so on, which we're going to return to in a second.
+But that's exactly right.
+OK, so now we want to measure how poor our country is.
+So one measure that was sort of mentioned already
+is the gross national income, which
+is very much similar to GDP but somewhat different.
+Does somebody know how that's different from GDP
+by any chance?
+So you said GDP, which is Gross Domestic Product, which
+is everything that's produced in a country overall divided
+by the number of people.
+But I here have something else, which is the Gross National
+Income, GNI.
+What is that?
+Yeah?
+STUDENT: So GDP is the produce unit inside the country
+and GNI is all the people, like the nationality.
+PROFESSOR: Right.
+STUDENT: [INAUDIBLE]
+PROFESSOR: So one is about production
+and the other one is about income.
+So for example, so I'm from Germany.
+If I were to earn some money or produce things here in the US
+and send it back to Germany and people were then
+receiving remittances, et cetera,
+or if I'm counted just as a German citizen, which I still
+am, then that would be part of the German income, not
+necessarily the US one, even though things
+are produced in the US.
+PROFESSOR: Somebody look for--
+what is the GNI of the richest country?
+Can you find some countries that are rich?
+What is the GNI?
+And we'll be using for-- looking for is the GNI per capita.
+Not overall but per person.
+Per capita means per person.
+Any suggestions or any ideas?
+Which countries are very rich?
+Just suggest anything.
+Yeah?
+STUDENT: The US.
+PROFESSOR: The US.
+And how rich are the US according to your sheet?
+STUDENT: Their GNI per capita is $70,430.
+PROFESSOR: $70,400.
+Pretty rich.
+Pretty good.
+But is that the richest country in the world, or what
+other countries do we have?
+STUDENT: Bermuda.
+PROFESSOR: Bermuda.
+And how rich is Bermuda?
+STUDENT: $116,530 per capita.
+PROFESSOR: That is exactly right.
+So that's very rich.
+It's also a very small country.
+So do we have another country?
+That's the richest country we have here in our data.
+What's the second richest after that?
+
+Yeah?
+STUDENT: Switzerland.
+PROFESSOR: Switzerland.
+That's correct.
+How rich is Switzerland?
+STUDENT: $90,360 GNI per capita.
+PROFESSOR: That's exactly right.
+So $90,360.
+This is income per year per person, OK?
+So the average Swiss person earns or makes--
+has about $90,000 available.
+Notice this is all done in current exchange rates.
+We just use whatever the exchange rate is.
+And so we use whatever Swiss people produce, and then use
+the exchange rate from the Swiss Franc to the US dollar
+to convert what that is.
+OK.
+So those are the rich countries.
+We already talked a little bit about the US.
+Now, what is the GNI of the poorest country?
+
+Any nominations?
+STUDENT: Somalia.
+PROFESSOR: Somalia.
+How much-- what's the GNI for Somalia?
+STUDENT: It says $450 per person.
+PROFESSOR: $450.
+OK.
+Yeah?
+STUDENT: Maybe Burundi?
+PROFESSOR: Burundi.
+Yeah.
+How much is that?
+STUDENT: I think it's $240.
+PROFESSOR: $240.
+That's exactly right.
+So $240.
+That's, as you can see, staggeringly lower.
+That's much, much lower than Switzerland.
+Much, much lower than Bermuda.
+Also much, much lower than the US, as we just discussed.
+$70,000.
+OK.
+These differences are huge.
+And I just want to think about how huge these differences are.
+What is the ratio between those two, between the US
+and Burundi, roughly?
+
+Anyone?
+STUDENT: The ratio?
+PROFESSOR: The ratio between the US and Burundi in terms of GNI.
+STUDENT: Maybe around 1 to 340-ish.
+PROFESSOR: 300 is pretty good.
+So 293.
+That's enormous.
+Think about anybody that you know who you think
+is pretty rich or less rich than you are
+or your family might be.
+Maybe they're twice as rich.
+Maybe three times as rich.
+Maybe four times.
+Maybe half as rich.
+Maybe a third.
+These are already large differences.
+This is 300 times as much money does
+a US person have compared to somebody in Burundi,
+on average, on any given day.
+In fact, the GNI of the US per day is nearly as much
+as the GNI for Burundi for the entire year.
+A little bit less than that.
+But essentially, how much money a US person has on any
+given day is how much money a person in Burundi
+has for most of the year.
+So these are huge, huge differences.
+Now, somebody was previously talking about prices,
+or I think you were talking about prices.
+I'm not-- what about prices?
+This is using exchange rates.
+Somebody was saying, we need to do something
+with these exchange rates, or something is not quite right
+perhaps.
+Yeah?
+STUDENT: Maybe you can assume that the average cost
+of a good in a poor country is going
+to be cheaper than the average cost of that same good
+in a richer country.
+PROFESSOR: Exactly.
+Exactly.
+If I buy things in the US, things
+are going to be way more expensive than if I
+buy things in other countries.
+That's not true for all goods, but it's
+particular for goods that are services.
+As mentioned, a haircut, but all sorts
+of other services that you might get
+are a lot cheaper in countries with lower wages, for example,
+than they are in the US.
+OK?
+So now, what do we do?
+How do we deal with that?
+Yeah?
+STUDENT: Maybe we just take the average
+of the cost of some very common goods and services
+in this country and make that as the benchmark for the cost
+of the goods in that country.
+PROFESSOR: That's correct.
+Anybody else?
+Any thoughts?
+
+I think that was very correct.
+So essentially what one uses is the GNI per capita
+PPP, which is referred to as Purchasing Power Parity.
+This is complicated, but the simple version of that
+is that one uses a basket of goods that are being produced
+and then tries to figure out how much does this basket cost
+in different countries, and then tries to adjust for that.
+This is kind of complicated because people
+consume different things in different places.
+So you have to take into account how to do that.
+But we will ignore that for now.
+It's a complicated thing.
+Assuming somebody is able to do this and look at Purchasing
+Power Parity, essentially adjusting for price levels,
+what do we get?
+So are the income differences going
+to be smaller or larger now once we use PPP?
+STUDENT: Smaller.
+PROFESSOR: Smaller.
+And why is that?
+Just very mechanically.
+How much smaller do you think it will be?
+
+I think you said smaller.
+STUDENT: I don't think it's to be that much smaller, though.
+PROFESSOR: Like twice or half as big?
+STUDENT: Two to three times.
+PROFESSOR: Two to three times.
+Pretty good.
+And why?
+And the reason, of course, is that in poor countries,
+we're comparing rich countries and poor countries
+and find large differences.
+Now we're going to say, well, in fact, with whatever income you
+have in poor countries, you can buy more
+because things are cheaper.
+So then these differences will shrink.
+So now we can look at our sheet again and see what
+is the GNI using PPP of the US.
+What do we find?
+
+Yeah?
+STUDENT: $70,480.
+PROFESSOR: Yeah.
+This is almost exactly the same as before.
+It's using, I think, different prices in different years,
+so it's slightly different.
+But essentially, everything is relative to the US.
+So this should be exactly or approximately the same.
+OK?
+So now, what about the poorest country using PPP?
+What do we find?
+STUDENT: Burundi?
+Around $800.
+PROFESSOR: And is that still the poorest country?
+
+So Burundi is $800, we just said.
+That's correct.
+Yeah.
+So Burundi is still the poorest country.
+It's now about $800.
+What's the ratio between those two?
+You're pretty spot on, in fact.
+It's now about 88, so that's about a third
+of those differences.
+Notice that these differences are still enormous.
+88 times more money than somebody else
+is a huge difference between being rich versus being poor.
+Just happened to be born in a rich country
+versus a poor country.
+Notice that that is the average person.
+It's just on average.
+It's not a particular rich or poor person in the US
+or in other places.
+This is just the average person in those countries.
+OK.
+So now we talked about how big these differences are.
+The next question we're going to ask
+is, well, when you talk about the poor, whom
+are we actually referring to?
+Where can we find the poor?
+Where are they to be found?
+In which places?
+And I'm going to ask you two questions.
+One is, if you looked at 1800 or 200 years ago,
+where would you find poor people,
+and where would you find them now?
+
+Yeah?
+STUDENT: Now, people would be [INAUDIBLE] less urban areas,
+whereas before they would usually
+be in cities because that's where
+all the opportunities were.
+PROFESSOR: And in which countries, which parts
+of the world?
+STUDENT: In 1800s?
+PROFESSOR: Yeah, anywhere, or now?
+
+Anybody else?
+
+So everywhere is actually exactly correct for 1800s.
+If you look at 1800, you can see here
+the distribution of income.
+So you can see, essentially, the higher it is,
+the more people are at a certain daily income per capita.
+So you see on the x-axis income per capita
+and how many people in the world are living
+in the world for each income.
+You see Europe, Asia-Pacific, Africa, and North and South
+America sort of combined.
+And what you see here in 1800, essentially,
+pretty much everybody is poor, about something like 80%, 90%.
+A lot of people are in Asia-Pacific, a lot of people,
+in fact, in Europe, a lot of people in Africa,
+and a lot of people in North and South America.
+There's some people at the time were somewhat richer than that,
+but pretty much everybody was poor at the time.
+So if you wanted to find poor people at the time,
+you could find them, essentially, everywhere
+in the world, in cities as well as in rural areas.
+Now, going forward, right now, where would
+you find most poor people?
+
+And I should be very clear about this,
+as defined by extreme poverty as in below the poverty
+line of about $2 per day.
+
+STUDENT: Africa?
+PROFESSOR: Africa?
+Correct.
+
+Anywhere else?
+STUDENT: Asia.
+PROFESSOR: Asia.
+Yeah.
+So Africa and Asia.
+And so if you looked at 1975, in fact--
+so remember red is Asia, blue is Africa.
+So you see, in 1975, you'd see huge fractions of the poor,
+in fact, are located in Asia and the Pacific.
+You'll also see quite a few of them in Africa
+and much fewer in Europe and in the Americas.
+Now, if you do the same now in 2015,
+you will see that a lot of the red mass
+has shifted towards the right.
+So lots of people in Asia have gotten richer.
+But you'll see still quite a few people in Asia, as well as
+in Africa.
+And this is why, when you look at a lot of the studies
+that you will see in this class, mostly
+will be focused on African countries, as well as Asia--
+in particular, India.
+OK?
+Now, somebody was saying previously-- sorry,
+I should be very clear about this.
+This is not to say that there is no poverty in the US.
+Of course, there's lots of differences between the rich
+and the poor in the US.
+However, the levels of poverty in terms of just how much money
+people have is quite different.
+They are relatively poor compared
+to other people in the US, but most people in the US
+will be above the poverty threshold of about $2 per day.
+Yeah?
+STUDENT: Why isn't the poverty line further down in the 1800s?
+PROFESSOR: This is sort of controlling
+for price differences.
+STUDENT: OK.
+PROFESSOR: So it's essentially-- that's a great question.
+That's what it says here at the bottom in the caption.
+It says PPP adjusted, which essentially
+tries to take into account that prices are, in fact, different.
+Now that's a very hard thing to do
+because you have to figure out what prices were
+and what people consumed in 1800.
+But to the best of our knowledge,
+this is sort of the best we have.
+So these prices here, $2, that's a different amount in 1800.
+It's just converted into dollars now.
+Good question.
+Thank you.
+Somebody previously was saying--
+I was asking about monetary metrics.
+I was asking about the poverty line.
+I was asking about how much do people consume
+or how much income do people have.
+And are people above or below a certain threshold
+in the poverty line?
+But somebody was saying, well, poverty
+is not just about income.
+There are lots of other things difficult or different
+for the poor.
+And what are those things?
+Yeah?
+STUDENT: Accessibility, so even if you have money,
+maybe it takes a lot more money to go somewhere to get a good--
+PROFESSOR: Accessibility, as in like you mean like mobility,
+or as in moving around, or just being able to buy things,
+even if you have money?
+STUDENT: Yeah, being able to buy things.
+Like with food deserts.
+PROFESSOR: I see, so access to food and other goods,
+in particular, for example, in rural areas,
+will be very hard to buy lots of things,
+including food, but also technologies, and so on.
+Even if you had money.
+STUDENT: Access to a higher quality of goods and services,
+a company selling organic goods, they may not put into our area.
+PROFESSOR: This is very much related.
+This is exactly right.
+If you have high quality or a lot of new technologies, often,
+they're targeted towards richer populations
+because those are the people who have money that you can make
+the most money often with goods that are
+sold to people who are rich.
+And as a result, of course, if you're poor,
+it's going to be hard to buy these anyways because they're
+expensive.
+But even if you had more money or wanted to save a lot,
+it would be hard perhaps because they might not even
+be available in your area or your country.
+OK, what else is different for the poor?
+STUDENT: Education and--
+PROFESSOR: Education-- say more?
+STUDENT: Practical skills.
+PROFESSOR: And what exactly-- what do you mean by education?
+How would you measure this or how would you learn
+about what we mean by that?
+STUDENT: I'm not entirely sure, but maybe
+just a basic math, basic reading in their own languages.
+PROFESSOR: That's terrific.
+So one measure is what do people learn or know?
+So it would be basic reading, basic math, languages, and so
+on.
+So this is about just knowledge, what did you learn in school.
+What other measures could be used
+to learn about people's education?
+Yeah?
+What was that?
+STUDENT: Time, a number of years.
+PROFESSOR: Exactly, we could also
+learn about years of education.
+How many years did you spend in school
+starting from primary school?
+Did you go to school at all?
+Did you complete primary school, secondary school?
+Did you go to universities, and so on?
+And usually, people use years of education
+as sort of a summary measure of people's education overall.
+And so then we have education quantity.
+And then we have, in addition education quality,
+it's like how much do people actually learn
+conditional on being in school.
+And educational quality might be a lot higher in some places
+than in others.
+And it's surely higher in rich countries
+compared to in poor countries.
+So you might even be in school but just not receive
+a very good quality of education, which then will
+be reflected in low knowledge of, say, basic reading
+and writing skills, which we're going to talk about
+in our class, as well as languages, math, and so on.
+So we have education.
+What else?
+Yeah?
+STUDENT: Might be living in more dangerous areas,
+don't have access to clean water or sanitation.
+They might not own their own houses
+and might not have insurance or more vulnerable to this--
+PROFESSOR: So you said four different things,
+which I hope I can remember.
+So one is physical safety.
+So that's excellent.
+Physical safety, and you might just not
+be protected against theft, against violence, and so on.
+Second, you said sanitation, just
+being able to have clean water, for example,
+not be exposed to pollution, and so on.
+Then you said housing, people being
+able to have their own housing, or just have any housing,
+for that matter.
+And I forgot the fourth thing, sorry.
+STUDENT: Insurance.
+PROFESSOR: And then finally, insurance and risk.
+People are exposed to way more risk than others.
+These are all excellent points and.
+That's all correct.
+Yes.
+STUDENT: The types of jobs that they might find later.
+So a richer country may have more people
+working a corporate job.
+Versus a poor country might have more people
+working in physical labor.
+PROFESSOR: That's exactly correct.
+And that's in part a result of education.
+If you have no education, it's hard to do a desk job,
+for example, that involves a computer.
+How are you going to do this if you don't
+know how to read and write?
+So there's a lot of physical jobs
+and manual labor among the poor compared to more IT, tech
+jobs, et cetera among richer populations who
+are more educated.
+So we talked about-- yeah?
+STUDENT: Expanding on the insurance part,
+maybe having access to good healthcare
+or being able to afford the healthcare.
+PROFESSOR: Yeah, so say more.
+STUDENT: I was going to say having access to healthcare
+is important because it also influences
+your day-to-day life in terms of if you're
+able to get groceries, if you're able to go to school,
+and things like that.
+PROFESSOR: So you're saying healthcare,
+it's also health itself.
+So which is one, healthcare would be access to doctors,
+access to medication, be that, for example, vaccination,
+be that any types of medication in case people fall sick,
+access to good hospitals, access to nurses, and so on.
+So that's about healthcare.
+And so you could measure them in terms
+of how many doctors are in a country,
+how many nurses are in a country, how many beds are
+in hospital available close to you, and so on.
+So that's one measure of quality and quantity of healthcare.
+The second thing I think you were saying as well
+is just health quality itself.
+How good is your health?
+This could be things like how likely are
+you to get certain diseases?
+It could be how likely are you to fall sick?
+How likely are you to live beyond a certain age?
+In particular, under five mortality,
+for example, how many children live until age five,
+what fraction of children lives until age five.
+Could be life expectancy overall.
+How old do people get, which is a very good summary of how
+healthy people are overall.
+And then as you said exactly, there's
+also then quality of life.
+If you're really sick and have a lot of diseases,
+you might just have a lower quality of life
+as a result of that, even if you're able to survive.
+Anything else?
+
+It's a pretty good list.
+I think we covered most of the things that I mentioned.
+We didn't quite talk about malnutrition.
+We talked about this at the beginning, which
+is just having enough food, which is very basic need.
+Education and literacy we talked about.
+We talked about child mortality and life expectancy at birth.
+We talked less about happiness and mental health.
+It turns out that being rich is very much
+predictive of how happy you are or how happy you say you are,
+at least.
+It's also very much predictive of people's mental health.
+So overall, richer people, compared to poorer people,
+are happier and have better mental health.
+For example, richer people are less
+likely to be depressed, and anxious, and so on.
+So that's a key difference between places,
+on average, of course.
+Then there's medical care.
+We talked about health, as well as safety risk,
+or safety nets and exposure to risks.
+I want to just spend a couple of minutes.
+So just pointing out how huge these differences are.
+These differences are enormous.
+For example, if you look at mortality rate of children
+under age five, if you look at-- this
+is in 2015, if you look at Somalia, this is about 12.7%.
+So 12.7% of children do not reach age five.
+While this is about 0.2% in Iceland.
+This is a 60-fold difference.
+So 60 times more likely to--
+a child is 60 times more likely to die in Somalia compared
+to Iceland.
+Life expectancy at birth in Japan is about 84 years.
+While in Sierra Leone, it's about 52.
+That's a difference of about 32 years.
+That on average, a person lives longer in Japan
+compared to Sierra Leone.
+When you look at mean schooling years,
+it's 14.1 years in Germany.
+Germans love school and go all to school.
+Instead, it's about 1.5 years in Burkina Faso.
+This is also in 2017.
+Similarly, expected years of schooling on average income,
+we already talked about.
+So these differences are enormous.
+These are staggering differences overall.
+And there's lots of--
+to be done to try and figure out,
+well, what might be able to do to improve
+the lives of the poor and sort of try to lower
+some of these differences.
+I'm going to stop here now and hand over
+to Esther, who will tell you that some progress, at least,
+has already been made.
+So you might say things are terrible,
+and what can we do, and throw up our hands in the air,
+and be sad about it.
+But in fact, lots of progress has already been made.
+And we're going to study, and try and learn,
+and how to perhaps do that or what
+policies might be able to help.
+PROFESSOR: If you guys were alive in the last few years,
+you might be tempted to think that the world is going to hell
+in a hand basket very fast.
+After all, you did most of your high school in COVID times.
+And then as soon as we seem to more or less get
+a little bit used to the COVID situation, the war in Ukraine
+started.
+And food prices increased.
+And the energy prices increased.
+And food prices increased-- in fact,
+particularly costly for people in poor places
+because a lot of their budget is on food.
+But, in fact, I'm here to tell you
+that if we take a slightly longer view, maybe
+starting in the 1990s--
+well, none of you were born, presumably.
+Things have really looking been looking up
+and up and up for the poorest people in the world.
+It's not to say that there hasn't been crisis,
+there hasn't been difficulties in our own countries,
+for example, rising inequality, worry about climate change.
+But if we take the perspective of the poorest
+person in the world, maybe someone who
+lives in Burundi or in Togo, there
+has been tremendous increase in their quality of life,
+hopefully with a big acceleration since 1990.
+And I want you to keep that in mind
+because that's going to be with us for the rest of this class,
+finding the reasons for this increase
+and finding whether we can leverage
+on some of this improvement to get things even better
+in years to come, despite the challenges
+that we'll experience.
+So starting with poverty, just in the number of people living
+under $1.90 a day, there has been a tremendous fall
+in the number of poor people.
+Since the 1980's and roughly since 1990,
+the number of poor people has been
+divided by 2, the number of extremely poor people.
+
+To be perfectly honest, a lot of these poor people
+who are not that poor anymore lived in only two countries.
+Do you know what these two countries are?
+STUDENT: China?
+PROFESSOR: China, and?
+STUDENT: India.
+PROFESSOR: India.
+So a lot of the poverty reduction
+in terms of number of people going right above poverty
+is due to China and India for two reasons.
+They were countries that started very poor,
+so with a lot of people just below $1.90.
+And they experienced fast growth.
+So it's a big mass of people who could get out
+of poverty in years to come.
+When people like the World Bank, for example,
+did poverty projection, which I'll show you in a minute,
+they were predicting a slow-down of the decrease in poverty
+simply because we are now reaching the point where
+there is nobody really poor left in China and very few in India.
+And then after that, further poverty reduction
+will have to come, in particular from Africa,
+where growth has been lower.
+But nonetheless, it's still a very large number
+of people who are not living in situations where, as one of you
+put it very aptly, they don't have
+enough to live by themselves.
+If we look at other dimensions of quality of life,
+obviously, being alive would count as a pretty
+important one, one would say.
+In 1800, the global average life expectancy was only 29 years.
+And most of the map was in red, with people having
+life expectancy below 40.
+By 1950, things had improved, but pretty much exclusively
+in the richer countries, so big improvement in Europe with life
+expectancy 1950 in my home country,
+France, of 66 years old, improvement in North America,
+in Australia, and not at all in Africa, South Asia, and China
+by 1975.
+By 2015, the life expectancy has continued
+to improve in the richer countries.
+But the big story is how fast it has increased in the poorer
+countries.
+Look at India.
+Today, India, in 2015 has a life expectancy of 68 years.
+It is what it was in France when we looked
+at the map a few years ago.
+Even in Africa, we have life expectancy
+of 62 years old in South Africa--
+looking at the countries in East Africa, 65, 67.
+So there is really an improvement
+in life expectancy coming mainly from a big improvement in child
+mortality.
+Child mortality has really collapsed in poorer countries.
+It has also declined actually everywhere.
+But this is a place where we see what the economists like
+to call convergence, which is from situations that are very
+different, you converge towards something that
+looks a little bit similar.
+Of course, for child mortality, we
+would like to see everyone converging towards zero.
+But we are seeing now, kids, and this
+is kids dying before the age of five, only Africa is above 5%.
+But it's well below 10%.
+And if we are lucky enough to extrapolate
+to trend of child mortality in Africa, we'll also go below 5%
+very soon.
+And this is quite remarkable because Africa
+is one continent where the decrease in poverty
+has not been as high.
+Growth in most of the countries in Africa has been slow.
+So people haven't become much poorer
+in terms of income poverty, in terms of how much goods
+they are able to afford.
+Their governments haven't been much richer either.
+And yet, they managed to get this tremendous fall in poverty
+due to--
+well, that's what we'll have to find out in this class.
+Due to what?
+It's not from more money being available in total
+in the countries.
+But it's from a more targeted use
+of the money to this problem, so a greater focus
+on essential aspect of lives, the ones you guys
+mentioned when we were discussing
+what it is to be poor, health and education and nutrition,
+more focus on this at the international level,
+but very importantly within each and every
+of the countries, even countries that remain super poor.
+And because of this greater focus,
+there's a greater pragmatism, I would say,
+in adopting things that work.
+So even in 1990, there was perhaps
+in many countries, many poorer countries, more focus on,
+oh, we need to grow.
+We are going to become the next Taiwan or the next Hong
+Kong or the next Sri Lanka through the mechanism
+of a rapid economic growth.
+And then now, it's not saying that there is not an ambition
+of economic growth also.
+But on top of that, there is, well, the first thing
+we need to do is to make sure that our citizens are
+alive to experience whatever growth comes.
+And they are focused on simple things like safe conditions
+for delivery for the mother, for the child, therapies
+to fight HIV, building schools next to every home
+so kids can go to school, and so on.
+So in that sense, the year of 1990 to 2019,
+development economists were the happiest
+of the economists in terms of seeing a story that was mainly
+a lot of progress to be made because we are starting
+from such a worse situation to start with--
+but on the other hand, fast progress.
+
+PROFESSOR: Now, of course, the COVID-19 pandemic arrived.
+And that was a huge setback.
+Now I don't need to tell you who we are in high school
+during COVID-19 that it was a huge setback.
+But for people in poor countries,
+it was such a worse setback than for us.
+So of course, there was enormous health impact of the COVID-19
+pandemic across the world.
+What is remarkable though is that if you look at the impact,
+the pure health impact on the poor countries,
+with the exception of India that got
+hit by a really horrendous delta wave,
+many of the poor countries didn't suffer much more
+from COVID-19 than richer countries.
+And in fact, in Africa, the number
+of deaths or cases of COVID-19 are surprisingly low.
+I'm saying surprisingly because nobody has fully
+understood why to my knowledge to fully
+but it's something that people are working on.
+So Africa has relatively low COVID.
+India is in the high mark.
+The rest of the developing countries
+are across the spectrum.
+But from a health perspective, the COVID-19 pandemic
+was really worldwide and didn't affect
+the poor countries worse.
+However, the economic shock was actually much worse
+in the poor countries.
+Why?
+Because when economic activity suddenly
+shut down in the spring of 2020, in the rich countries
+there was the fiscal power to do what it takes
+to protect their citizens.
+
+So the rich countries spent about 24% of their GDP
+on fiscal stimulus measures.
+Let me take a pause for a second.
+What's a fiscal stimulus measure in plain English?
+Yeah.
+STUDENT: It's when the government puts money
+into the economy so that people will spend more money
+and get that cash flow between people.
+PROFESSOR: Yes.
+So what's an example of a fiscal stimulus measure that was
+taken in the US, for example?
+
+STUDENT: The PPP loans that governments were handing out
+to small businesses.
+PROFESSOR: That's an example.
+Absolutely.
+Another one?
+Yeah.
+STUDENT: Stimulus checks.
+PROFESSOR: Stimulus check.
+Exactly.
+A third one is--
+go ahead.
+STUDENT: Government spending on the research for life-saving--
+PROFESSOR: Yes, absolutely.
+That also counts as stimulus.
+Yeah.
+STUDENT: I think they gave money to the airline industries
+in some--
+PROFESSOR: Right.
+So that's along the line of PPP loan, business support.
+Another way to get money straight
+into the hands of the people, it was quite contested
+for a while.
+
+So there was stimulus check and then there was another big one.
+
+Unemployment.
+Extended unemployment insurance.
+So at the beginning of COVID, unemployment insurance
+was given at a much higher level than before.
+So in most states, people could make much more money being
+unemployed than being employed.
+That lasted for a while, then that stopped.
+But that really protected people.
+As a result, in the US, there was actually
+a reduction of absolute poverty, the US poverty line.
+There was a reduction of the number of people in poverty
+during the COVID-19 pandemic.
+In Europe, similarly.
+In Europe, what governments did is that they paid businesses
+to keep people employed.
+So that amounted to 24% of GDP.
+The consequences of that is that, in Europe
+and in the US, as soon as economies could reopen,
+people basically roared back into their various activities.
+There wasn't a very slow coming back to life.
+In fact, things pretty much overheated,
+which was one of the reasons for inflation and so on.
+But unemployment rate is extraordinarily
+low by historical standards in the US and similarly in Europe.
+So there was no--
+basically, people were protected during the pandemic
+and there was no time wasted in restarting
+once the pandemic was over.
+Now in the poorer countries-- so how could rich countries
+finance this effort?
+STUDENT: Taxes?
+PROFESSOR: Did the taxes increase during the COVID-19
+pandemic in the US?
+
+Not really.
+STUDENT: Debt?
+PROFESSOR: Debt.
+Exactly.
+They could go borrow.
+And in fact, the phrase that was used in France
+was whatever it takes.
+So they could borrow and they borrowed trillions
+of dollars literally, which was the right thing
+to do because if they had not sent trillions of money,
+people would have gotten into deep problem
+and they would have spent a lot more money to get them out
+of the problem later.
+So it made a lot of sense.
+But it relies on this ability to go and borrow
+from their citizens or from the general market.
+The poor countries didn't have this ability.
+So while the rich countries were spending
+24% of their GDP on stimulus measures,
+the poor countries spent 2% of their GDP
+on stimulus measures, the poorest countries,
+2% of a much smaller GDP so very little money.
+And the consequence was that can just
+invert everything you said and say this didn't
+happen in poor countries.
+So there was no research targeted to COVID
+that is relevant to the poor countries.
+There was no way to keep the schools open.
+They were the first to close and they never
+reopened for two years.
+There was no money to support businesses.
+And a lot of them collapsed.
+There was no money for people to support
+people who lost their job.
+And in India, within days of the confinement, millions of people
+found themselves in the streets to go home.
+So they didn't have this ability to protect themselves.
+And so as a result, a lot of people fell into poverty.
+These were the projection of poverty reduction pre-COVID.
+And this is what happened during COVID.
+It's kind of nowcasting because we don't have
+the official data for 2020 yet.
+But that's the assumption that we
+move from it would have been about 621
+million people in poverty.
+We move to 740 million in poverty.
+And then what we don't really know
+is what's going to happen in the future,
+how quickly is it going to fall back.
+Can we converge or are we going to really-- do
+we have a permanent slowdown?
+Of course, it's not helped now by the fact
+that the prices of food have increased
+and that mechanically increased poverty
+because food is such an important part of the budget
+for people in poor countries.
+So this is something that we don't know.
+That's something that I cannot project for you what's going
+to happen in the future.
+Economists are anyway terrible about predicting the future.
+So if anybody makes a projection, don't believe them.
+But it's certainly a challenge.
+And the more you guys understand what people face,
+what difficulties they face in their ordinary life
+from having little money and from being poor,
+the more equipped you will be in thinking
+about how we can act as a world or in rich countries moving
+forward.
+The world has found it remarkably difficult
+to share global public goods.
+So once vaccinations were available,
+it really stood to reason that we should share the vaccines.
+First of all, it's kind of the ethically
+the right thing to do.
+Second of all, because this was such a worldwide pandemic,
+any increase in the pandemic somewhere
+would have what consequence?
+
+If there is an increase somewhere,
+what happens to us several months
+later or several weeks later?
+Yeah.
+STUDENT: Comes back to other countries.
+PROFESSOR: It comes back to other countries.
+A very obvious example was the Delta wave in India.
+The US thought they were out of the dog days of the pandemic.
+And then the Delta wave happened in India.
+And by the summer, it was in the US.
+And it caused so many deaths.
+So it was just even if no one-- if someone
+didn't care at all about what's happening
+in other countries, which is a weird thing
+to think in any case, it was clear that we are one world.
+And yet so countries got together
+to create a fund which would have allowed people
+to countries to buy--
+which would have bought vaccines for the poor countries.
+It's called the COVAX fund.
+Countries put money in the COVAX fund
+but then they immediately bought all the vaccine
+doses available such that the COVAX fund had nothing to buy.
+And that went on for months during the pandemic,
+although that's now getting solved
+because there are many more vaccine doses available.
+But that was a big issue at the beginning of the pandemic.
+So one of the things we have to think about
+is how do we as a world manage global public good.
+The next one that comes immediately
+on the heel of COVID and it was made painfully obvious
+this summer by the catastrophic weather events
+is climate change, which is produced
+at the level of the world because the CO2 emission
+in China or in the US affects the life of people
+in Africa or in South America.
+But where the consequences in terms of everyday lives
+are particularly acute for people in poor countries
+who live in places where it's already hot.
+So the impact of any one more degree
+is higher when you start from a higher level.
+And in addition, live with places
+which, as we saw in the previous slides,
+have just less resources and ability to protect themselves
+of shocks.
+So the bottom line is that a ton of progress was made.
+Through a combination of international efforts,
+for example, the spread of antibiotics,
+the spread of new agricultural varieties that
+are more productive, the spread of technology
+also like the telephone, for example,
+tremendous amount of progress was made.
+Through this combination of collective action,
+as well as effective government action
+in the poor countries themselves,
+but this progress is kind of not without fragility
+due to the big crisis that can hit the world at one
+point or another, COVID being an example, the war in Ukraine
+being the current one, and the climate change
+is being the next one.
+And so to the extent you get prepared,
+think about what are going to be the implications for others who
+live lives that are less privileged than ours,
+to what extent--
+how can these countries prepare, mitigate, and adapt
+this crisis?
+And what are the type of actions that also rich countries can
+take in helping them?
+Then you can be a big part of the solution.
+
+So if you want more on this, and I hope you want more,
+you can look at various sources of data that help you visualize
+some of these data.
+So Gapminder has lots of tools.
+Hans Rosling, who has now passed away,
+is the one that put it together.
+And he describes some of these data.
+Our World in Data is a continuing evolving source.
+A lot of the graphs that we presented today
+come from Our World in Data.
+They are putting together a lot of data that exists.
+And it's very interesting stuff.
+
+PROFESSOR: So I want to finish the substantive part
+of the class before we get into some logistic issue for today.
+Talking about just one person.
+And this person, it's a long time ago.
+It's 1983.
+So I don't think-- it's not current event
+I'm talking about.
+But it's from a book called A Quiet Violence
+by two journalists who--
+economist journalists who live in rural Bangladesh
+in the '70s, particularly a difficult time in Bangladesh.
+So think of a very, very poor place.
+And things have gotten much better since.
+So it's a story of one peasant family.
+The story is on Canvas.
+Please read it by yourself when you go home.
+The first visit, Abu is sick.
+He has not been able to work for the past three weeks
+because he is sick and his six children are hungry.
+
+The only person who is earning any money in the family
+is his oldest, [INAUDIBLE],, a daughter who is still a child,
+maybe 8 or 10.
+She gets a quarter of kilo of rice for husking rice all day.
+Husking is you take the rice.
+The rice, it goes inside a little pocket
+and you need to shake it to remove the husk.
+So she does that and she gets a quarter of kilo of rice.
+Although he's sick, he hasn't gone to the doctor
+because it cost money, 100 takas, and he doesn't have it.
+So that's their first visit.
+And then they strike up a conversation
+to try and understand how he arrived to this situation.
+And he explained that, in fact, he
+used to come from a relatively comfortable, not super
+comfortable but somewhat comfortable
+farming family who had enough land to live on.
+But his mother got sick, so he sold some of the land
+to buy medicine for his mother.
+And then she died anyway.
+
+Then the land was divided and they had a number of children.
+So the land that they had that was left to them
+was not longer enough.
+It was no longer sufficient to feed everyone.
+So they took some loans when they didn't have enough food
+from a money lender, and the rate of interest was very high.
+So to supplement his income from the land, from his own land,
+and to reimburse these loans and to manage
+the everyday expenses, he started working
+for a landlord for a wage.
+But the wage is 1 million a kilo of 25 of rice a day.
+So not a lot of rice for his whole family.
+
+He could make more money if he was a sharecropper.
+But when you're a sharecropper, you basically
+take full responsibility of a patch of land.
+You do the entire harvest and then
+you give half to the landlord.
+And the problem with that is that only comes after--
+you only get money after the harvest is done.
+And you need to pay for the inputs and so on.
+So it wasn't able to do sharecropping.
+And at least when you work for a wage, you're paid immediately.
+But this is a very low wage.
+So it's not enough.
+So he got more money by mortgaging some of his land
+to the landlord.
+So the landlord gave him money in exchange of putting
+his land as collateral.
+And that is where they were.
+At this point, there still was optimistic
+because he had planted a jackfruit tree four years ago.
+Do you know what a jackfruit is?
+
+Do you know what a jackfruit is?
+It's kind of like durian but not really.
+It's spiky.
+Yeah.
+It's a spiky thing, big-ish, and you make it curry with it
+and it's very nice.
+Plants a jackfruit.
+A jackfruit tree with many jackfruit.
+Not as odorant as durian and it's more caloric which
+feeds more people.
+So his idea is that in a couple of years,
+the jackfruit tree will yield fruits
+and then he'll be able to sell the fruit
+and get good money from it.
+So that's his plan for the future.
+A few months later, they come back.
+Finally, Abu had sold land to pay the doctor.
+His wife doesn't have any work.
+In the lean season, he can also not find work,
+although he's not sick anymore.
+So they are starving.
+So he decides to cut down the jackfruit tree
+and he sells the wood for 25 takas.
+And it never got any fruit.
+
+
+
+True or False? Determining whether somebody is below the poverty line requires measuring their income.
+
+
+
+True.
+
+False.
+
+Why is it important to adjust income using Purchasing Power Parity (PPP) numbers?
+
+
+
+Because some countries are more expensive to live in than others.
+
+Because each country’s government sets its own poverty line.
+
+Because exchange rates are too volatile.
+
+
+Select all that apply. On average, people in poor countries have…
+
+
+
+Higher child mortality rate
+
+Lower life expectancy
+
+Fewer years of education
+
+Lower PPP-adjusted income
+
+True or false? Since 1950, due to worsening inequality the gap in life expectancy between rich and poor countries has increased.
+
+
+
+True
+
+False
+
+
+How did the COVID-19 pandemic impact poor countries differently than rich countries?
+
+
+
+The health impacts were more severe in poor countries.
+
+Poor countries were less able to finance fiscal stimulus measures.
+
+
+
+
+

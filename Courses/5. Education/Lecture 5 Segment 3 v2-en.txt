@@ -1,0 +1,316 @@
+PROFESSOR: The next question, once we agree that government
+should pay for some or part of education, which
+is, in fact, true in many countries of the world,
+is should the government provide schooling?
+So what's the difference between paying for education
+and providing it?
+
+Yes, [INAUDIBLE]?
+STUDENT: I guess they incur a double cost
+because it's like a non--
+they create non-for-profit institutions, essentially,
+because they're paying for people to go there
+and they're also paying to sustain the school.
+PROFESSOR: Yeah.
+So the difference between paying for and providing--
+so providing is the way that probably if you went to public
+school, a good chance is you went to your local school,
+which was free for you or your parents,
+and was just run by the town or maybe by you're--
+at the national level in some cases.
+Depending on the country where you grew up.
+But then there are other systems maybe that some of you
+experienced where your education is still
+partly or fully financed by the government,
+but it's not provided by the government.
+
+Did anybody, for example, went to a private school
+with some extent of scholarship?
+
+So that would be an example where
+you get a scholarship, publicly-funded scholarship
+to attend the private school that
+can be at an individual level or there
+can be voucher systems that tells their name,
+that literally, people have a voucher that they can take
+to the school of their choice.
+Or in France, there is a whole network
+of private school, parochial and non-parochial private schools
+who are supported to a very, very large extent
+by the government as long as they agree
+to teach the curriculum that is being taught in public schools
+as well.
+So although that doesn't describe itself
+as a voucher system, it is essentially
+a voucher system where private schools
+get paid to provide education.
+And then you have charter schools,
+which are common in the US, where someone--
+a community or a company can decide to create a school,
+commit to a particular curriculum that is approved,
+and in exchange, get entirely funded by the city
+on-- or by the local government on the education budget.
+So there are all sorts of-- there is actually
+a patchwork of systems.
+And you find this patchwork of systems in all developing
+countries.
+And so in France, you have a public system,
+but you have this parochial system
+that's on a voucher system.
+Chile relies almost essentially on private schools for which
+students have a voucher.
+Cote d'Ivoire very recently decided
+that secondary education was going to be compulsory,
+but then they discovered they didn't have
+high schools to send the kids.
+So instead, they gave every child a voucher
+that they could take to any secondary school they wanted,
+and secondary school emerged out of nowhere--
+out of thin air, a whole market for secondary school emerged.
+So there is a whole mix-up of--
+and then there are private--
+there are public schools that are financed largely by parents
+in the form of school fees.
+For example, secondary school in Ghana,
+we are going to talk more about it today, are public,
+but parents pay a lot.
+So there is a whole mix-up.
+So why should the--
+so these are the alternative.
+OK.
+STUDENT: For your last point, was that through taxes?
+Like areas where they pay for higher--
+PROFESSOR: No, no, by fee.
+They pay directly.
+So someone always needs to pay.
+So if it's not by--
+if it's paid by the government at some place or the other,
+it's taxes.
+Could be local taxes or national taxes.
+But in Ghana, parents pay fee, which are pretty large.
+And they are not the whole cost, but they
+are good part of the cost.
+So they are public schools, but fee-paying public schools,
+so the financing is mostly private.
+So just to tell you that the model,
+that if we have to have an education system,
+it's a bunch of government schools.
+In fact, in reality, there is a whole patchwork.
+So why should the government--
+we agree that-- or we-- that there
+are good reasons why the government might
+want to pay for a whole or part of the cost of schooling.
+Why should they get in the business of running schools?
+Seems like a bigger effort than actually providing it.
+So paying for it, why should the government
+possibly provide schools and not just pay for it?
+Lucas?
+STUDENT: They could teach the curriculum that they want,
+and that, I guess, conforms to the society
+that the leaders want.
+PROFESSOR: So that's great.
+So they could-- the government might
+decide to provide schools because they
+can be sure that the curriculum that is taught
+is what they want.
+Why couldn't they have a contract
+with the private schools like we have
+in France where the parochial school need
+to teach the same curriculum?
+STUDENT: I mean, I guess they could, but it's
+a little bit less stable or--
+I guess if they operate their own schools,
+they have very clear--
+they can make very clear goals, expectations,
+and they have a lot more control than if they like hand it over
+to a private school.
+PROFESSOR: Absolutely.
+So this is the key control, it's the key term here.
+You can try and write a contract to have a curriculum,
+but it is hard to write a complete contract
+with all of the contingencies.
+
+There is, in today's-- or yesterday's New York Times,
+a very interesting article about--
+Op-Docs about inpatient facilities for troubled teens.
+Which explores exactly that, which
+is partly privately, mostly publicly-funded
+private facilities to take care of troubled teens and the very
+bad treatment that kids receive there.
+And that illustrates exactly this example,
+which is it is pretty hard to write
+a complete contract about what you need
+to achieve in these schools.
+So in this case of the facilities for troubled kids,
+the facility's main objective is to not lose the kids in nature
+or let them harm themselves or others.
+So everything is geared to that, which leads to abuse
+in the form of bad treatment and putting the kids in isolation
+and so on, and at least they don't--
+kids don't escape.
+What's not written in the contract
+is that what constitutes treatment for these children.
+So that's an extreme situation, in which
+you'll find in prisons as well.
+There are some privately-operated prisons.
+And it's pretty difficult to write a complete contract.
+So you might insist that the prisons don't escape,
+but then there are periodically stories of abuse,
+et cetera in those prisons because when there is a one
+dimension, which is incentivizing
+the contract and not the rest, you might become--
+neglect the rest.
+So this is a type of work that Bengt Holmstrom, who
+won the Nobel Prize a few years ago,
+has developed theoretically here in the department.
+So the same thing might happen with school,
+that it's pretty hard to write a complete contract.
+Even school for regular kids, you just--
+you might be able to be clear on what you want for math,
+but if you go back to [INAUDIBLE] point
+about a common culture, it's harder
+to enforce what constitutes a common culture.
+And so you might decide that you want to provide the schools
+and not just run them.
+Yeah.
+STUDENT: I guess I have a quick question about the control
+aspect.
+Like, how can we say that it's better
+getting more control over the government
+[INAUDIBLE] versus just [INAUDIBLE] spending
+[INAUDIBLE] less [INAUDIBLE] the incentives between the teachers
+and the government?
+PROFESSOR: That's a great, great question, which is my next one,
+which is, why you might want to avoid--
+why government might possibly want to not get
+into the business of providing schools.
+And it relates on how difficult it
+would be to control the private agents
+and to write the contract fully and monitor
+that the contract is enforced.
+Rather than the control, you can have on your own employees
+and the fact that governments are not necessarily
+very good at running anything.
+And it's hard to give incentives in the public sectors
+and the public sectors become large and hard to manage and so
+on.
+So of course, economists love to say bad things
+about the government, so I'm not going
+to insist too much on that, but that's basically the trade-off,
+is that a privately-provided operator is going
+to have very clear idea of what their incentives are and are
+going to try and do the best within their budget
+to get there.
+Whereas the incentive in the public sector
+are a little bit more mixed up, and it
+might be difficult to give teachers,
+for example, the right level of incentive to work hard
+and you may have to pay them much more and so on.
+It might become much more expensive to provide
+public education than to provide comparable private education.
+Angela and then Julie.
+STUDENT: The advantage when the government
+provides public schooling is that there's
+a baseline that the government not only pays for, but provides
+for as well, and doesn't leave much leverage
+for different private agents to intervene.
+Having a market for schools is troubling simply
+because if everyone pays for it and decides to,
+for example, use a voucher, there
+might be different interventions or some parents who are richer
+and decide to fund that school more.
+So in the end, I think in the long-run, the services
+that different schools offer might differ simply
+because it's not the government providing for them,
+so ensuring that there's a baseline that everyone has.
+And also, in terms of locally, like residential places,
+if all of the people living in that same community
+go to that same school, like--
+whatever, it's-- if the--
+The advantage of government providing schooling
+is that there's a baseline that everyone has access
+to regardless of the school, regardless of what everyone.
+PROFESSOR: Great.
+This would imply, though, that if that was the desire,
+to create a uniformity in what it's being delivered,
+this would imply that people do not have the right
+to opt out of the system.
+And there are very few examples of where that's the case.
+So in Soviet Union, you were not allowed
+to go to private school, there was
+only public school and everybody did go to the public school.
+But in many settings, private schools are an option,
+so that problem never really goes away.
+But for example, in health care, in Canada,
+in many of the provinces in Canada,
+because the same can apply-- the same debate
+you can have about health care.
+You can have a publicly-funded privately provided health care.
+In Canada, you don't-- in many provinces,
+you don't have the right to get supplemental health insurance.
+It is what it is.
+You have to get your health care from the public service.
+So it's not-- and Canada is not the Soviet Union.
+So that's a more extreme position
+to say the government should provide all of education.
+And then you have the trade-offs of how well you
+can do it versus how to ensure uniformity versus people
+can choose their education, but it's within a timeline,
+so people have to at least learn a few things.
+Again, quoting from The New York Times,
+there was an article a few weeks ago about yeshivas.
+Some yeshivas in New York actually
+are not teaching English or math beyond a very basic level
+and are publicly funded.
+Illustrating either the fact that the American culture is
+very permissive or the fact that it's
+hard to enforce a contract.
+In such a world where it's hard to enforce a contract,
+then you might like to have more public schools.
+And in a world where it's hard to get your teachers to do
+anything, then you might want to have more private school.
+So my objective is certainly not to tell you
+this is how it should be because it really depends on all
+of these things, but what we have to think about,
+what a policymaker has to think about when they think
+about designing their system.
+Yeah, Julie?
+STUDENT: It seems like if you centralize the schooling,
+the schools could get really, really good.
+I guess there's like--
+it goes both ways, though, because sometimes competition
+is good.
+So I could see a situation where if it's all
+run by the government or like a good percentage
+is run by the government, then you
+can put a lot of funding into making the best curriculum
+and using it everywhere and just getting
+really good at making schools.
+But on the other hand, maybe having
+competing schools where there's demand and different schools
+get the vouchers and stuff, the competition
+could like promote growth or something.
+So I think you just have to test it and see
+which is better, but like--
+PROFESSOR: Great.
+So that's another very interesting trade-off.
+The other very interesting trade-off
+is the benefits of scale, that if a government system runs
+all of the schools, they can invest
+into having not just excellent curriculum,
+but excellent teacher training and excellent supervision
+and excellent way of organizing the system and so on.
+Versus competition, might align each schools better
+to each community's desire, might provide--
+might give the right incentive to the agents
+and so on, and then these two might potentially be--
+this is a trade-off.
+So we'll have to see again empirically how it looks like.
+So I'm not even going to give you
+much food for thought for how to think about this--
+each of these questions because they are very
+context-dependent, but just to put it in your radar screen,
+that the answer to this question of how
+much the government should pay for education and at what level
+and whether the government should provide education
+are not obvious.

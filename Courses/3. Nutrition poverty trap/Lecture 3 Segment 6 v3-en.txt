@@ -1,0 +1,226 @@
+PROFESSOR: Now, I talked about this already a little bit.
+Why is it important to know whether there is a poverty
+trap?
+Why do we care?
+Yeah.
+STUDENT: Because when you're trying to improve the poverty
+level, you have to be aware if there's a trap
+or not to know if your aid will help.
+PROFESSOR: In the short run or in the long run?
+So you're saying you want to learn about
+whether the aid is helpful.
+I'm asking in the short run or in the long run?
+STUDENT: In the long run, because it
+will help in the short, but if there's an income trap,
+then you'll get pushed right back down.
+PROFESSOR: Exactly.
+So if you're in a situation like this,
+for example, if you start here, for example, or somewhere here,
+aid will always improve people's income,
+or their earnings, or their consumption,
+et cetera in the short run.
+But if there is no trap, everybody
+will end up in the same place anyway
+even if temporarily they're somewhat richer for a while.
+So in the long run, if there is no poverty trap,
+it doesn't matter in the long run
+whether there was aid versus not for people's long run outcomes.
+Of course, aid might be still very helpful
+in the short run for people.
+People are better off.
+Potentially, they can eat more, they're happier, and so on,
+but if you're interested in long run poverty alleviation,
+then you need to learn about whether there is a poverty
+trap, because the poverty trap might precisely
+create situations where short run interventions are
+able to affect long run outcomes, right?
+So in this situation, you're sort of
+stuck in the steady state always in the long run
+where you are, regardless of--
+even if you give people a lot of money,
+they would eventually converge back
+to their starting point or the steady state.
+In this situation, you have the potential
+to move people from one steady state to the next, OK?
+Yeah.
+STUDENT: I don't think I understand the [? extreme ?]
+examples intuitively for why it would push back
+to a lower steady state.
+For a small income [INAUDIBLE] benefit,
+but for larger [INAUDIBLE]?
+PROFESSOR: It's just to say you need to essentially intersect
+with a 45-degree line.
+And if you're here, and I give you a huge amount of money,
+you end up here.
+You're going to just converge back to the steady state
+regardless.
+STUDENT: But why?
+PROFESSOR: Because there's no--
+STUDENT: I understand the steady state assumption,
+but that's [INAUDIBLE].
+I don't know why.
+PROFESSOR: It's just to say there's some productivity
+that people have where, essentially, you
+produce some income and that income you produce
+is not enough to be larger than your previous income
+that you have.
+That's to say, essentially, eating more food makes
+you somewhat more productive.
+Notice that these curves are all kind of increasing,
+but it's not the case that it makes you disproportionately
+more productive.
+As in if I give you $100, it's not the case you might be--
+so your income goes up by $100.
+Your income in the next period will go up by $95,
+and then the income in the next period will go up by $90.
+So essentially, what you would need is that the income,
+your future income, would have to increase by more than $100
+to have-- or at least as much as $100--
+to make that sort of persistent over time.
+And if your income only goes up by a bit but not enough,
+if the relationship is not sufficiently steep,
+then essentially, you're just going to go-- at some point,
+you have $90, $80, $70, and so on, you're
+going to just converge back.
+OK?
+So if you had the situation here,
+if this curve was steeper, then at some point,
+you might be in a situation where
+you could essentially-- this change would be self sustained.
+You would keep making $100 more every period.
+And so that's to say, in the nutrition case,
+it would be the case I give you $20,
+and now, you can earn $50 more every day
+because you're more productive.
+Then you're going to end up in a better place persistently.
+Does that makes sense?
+So you essentially need a disproportional gain
+in income in the future or currently due
+to some other income that you get.
+Mikey?
+STUDENT: An example of that would be
+is if you were given a $1,000, and you spent it
+on a party, and alcohol, or whatever, then it's
+not going to help your future income.
+And then you revert back to the previous state.
+PROFESSOR: Right.
+Or put differently, what Mikey is saying
+is, well, if people just wasted their money trivially, then,
+in some sense, your future income
+might not increase even if you gave a lot of money to people.
+But also, if people just don't have very productive ability
+to invest in their nutrition or other types of things,
+then you're just--
+getting money is not able to increase your productivity
+or your earnings in the future.
+And what needs to be the case is that you get this money once,
+and then by investing that money,
+or by eating more, or investing it
+in machines, or other types of things, your health and so on,
+your future income has to increase by at least as
+much over time to sustain that type of effect.
+Which means, essentially, you have
+to make it somewhere above the 45-degree line.
+And at some point, you're going to end up
+at the 45-degree line at a consistently higher level.
+STUDENT: So once we define income
+in terms of consumption, investment, or whatever,
+and we adjust multipliers, and we
+know a little more [INAUDIBLE].
+OK, yeah.
+PROFESSOR: The key question is, does your ability
+to earn income increase sufficiently much
+by some short run increase in income?
+And if the answer is yes, you might end up
+in a higher steady state.
+Potentially, if the answer is no, you will not.
+OK.
+OK, we talked about policy already,
+so if there is a poverty trap, then there
+could be a big push, as in a small action could
+have big benefits.
+So it may be socially optimal thing to do.
+So you might say that there is good reason for the government
+just to give people cash, or other types of nutrition,
+and so on to make people temporarily richer or better
+nourished, because then they would increase their ability
+to earn income, and that would persistently
+keep them richer, OK?
+And that would say we can help people get out
+of a poverty trap potentially.
+And many food programs or food interventions
+have exactly that idea that to say,
+well, people could be a lot more productive
+if only they ate more.
+And so now, we give people a bunch of food and hope
+that people become more productive.
+And that's what we're going to try and test now going forward.
+Now on the other hand, if there is no poverty trap,
+helping people in this way is still
+going to be potentially helpful in the sense
+that you give people money or food,
+they're going to eat that food.
+They're going to be less hungry and so on.
+And they're going to be happier and healthier and so on.
+However, that's going to be temporary.
+It's not going to have any long-run effects, right?
+The long-run effects you only get if there's a poverty trap
+situation if you can move people to a higher
+steady state potentially.
+So if there's no nutrition poverty trap, for example,
+you might just give people cash instead of giving people food.
+There's not a lot of good arguments for giving people
+food if you think that people are not trapped
+in some nutrition poverty trap, and they're not
+eating enough as much as they perhaps should.
+And so then you might say giving people cash transfers,
+why not just give them cash and let them choose anyway
+unless you think there's something about food that
+helps people invest in themselves in some way
+that they're better off.
+STUDENT: It's equivalent up to a certain point
+based on what they spend on food.
+PROFESSOR: Yeah.
+Yeah, exactly.
+Exactly, and then they could choose
+to spend it on food and other things, whatever
+makes them happy.
+And [INAUDIBLE] say what are we going to do next?
+Next, we're going to look for a nutrition poverty trap.
+What we're going to look at, we're
+going to test the idea now empirically
+whether low income leads to low nutritional intake,
+and whether that, in turn, leads to low productivity and income.
+So the ideal test that we would like
+to do is we'd like to look at does the capacity curve
+intersect with the 45-degree line from below?
+That's to say, the , capacity curve needs to be steep
+somewhere with a slope above 1, right?
+If you intersect the 45-degree line from below,
+that means your slope has to be very high,
+and the slope has to be above 1.
+And so then we're going to ask is,
+does an increase in income today result
+in an income tomorrow even larger
+than the increase in income today?
+That's what we're going to try and test.
+Notice that the capacity curve has actually two parts to it.
+There's the caloric intake as a function of income.
+If I make you richer, do you eat more calories?
+That's one part of it.
+The second part is income as a function of caloric intake.
+We're going to look at both of these.
+We're going to look at the impact of increased
+income on caloric intake.
+Once you have more money, do you eat more food?
+And second, we're going to look at the impact of increased
+caloric intake on productivity.
+Now, do you actually become more productive and earn more money?
+And crucially, what we're going to need
+is that the combination of those two things needs to be strong.
+So just having one of those things being true
+is not even enough.
+We need to be a very strong relationship
+between once people have more money, they eat more
+and once people eat more, they become more productive
+and earn more money.

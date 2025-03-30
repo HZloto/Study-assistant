@@ -1,0 +1,1983 @@
+PROFESSOR: Today, I want to talk about credit.
+So I'm going to be talking about the market for credit
+in general and microcredit in particular, which
+is, of course, one of the most visible interventions
+towards the poor that has taken place
+in the last several decades.
+So in the 1970s and the '80s, many institutions, governments,
+people had completely given up hope
+on giving credit to the poor and being repaid.
+There were still subsidized credit program, for example,
+in India, but they function almost
+like free transfers program.
+So for example, in India, there was a mandated bank branch
+expansion which gave money to programs like the ICDS program,
+offered bank accounts to people, savings account,
+but the default rate on its loan were super high, 42%.
+And work by Rohini Pande and Robin Burgess
+showed that it cost $2.72 to increase people's income by 1.
+Those loans were subsidized loans,
+but since nobody ever needs to reimburse them,
+had become handouts, and therefore, become
+very desirable, become political object,
+and were used as political entities.
+So, for example, work by Shawn Cole
+shows that, in election year, whenever there is an election
+plan, agricultural credit increases by 5% to 10%,
+particularly in the district where the election is closed.
+And these extra loans are not associated
+with an increase in the productivity of the district.
+So it doesn't look like they are particularly productive.
+So if you took this class in the early '90s, you could have
+had--
+you would be justified to have the impression
+that lending to the poor is just not working,
+that, for some reason, it's really difficult.
+And yet there has always been informal credit institution--
+village money lenders, rotating credit and saving association,
+which are groups of people--
+sometimes they're called tontine as well,
+where people four or five people get together,
+and they put a pot in common, and they get the pot one
+after the other.
+So every week you meet, you each put $20.
+So if there's five of you, that's $100.
+One person gets the whole $100.
+And sometimes, it's by rotation, or sometimes,
+you can bid in order to get it earlier.
+And when you're thinking of bidding to get the pot earlier,
+it's really equivalent to borrowing from your friends.
+And this rotating credit association,
+village moneylenders, they get reimbursed, clearly.
+So it's a bit of a disconnect between, basically,
+governments or formal institutions given up
+on lending to the poor and the fact
+that there is an active credit market that is already existing
+in the absence of legal guarantees.
+Then, the microfinance revolution
+happened, slowly first, and then in a big way in the '90s.
+Muhammad Yunus created the Grameen Bank in Bangladesh
+in 1976, first very small, and then expanded rapidly.
+And it has expanded into a worldwide phenomenon today.
+There are about 200 million clients,
+very, very high repayment rates, very high interest rate.
+We can discuss that in a minute.
+Many microfinance institutions are profitable,
+in that they don't lose money.
+Some are very profitable.
+For example, there is a famous case of a Mexican microfinance
+organization, Compartamos, who had a very successful IPO
+and made tons and tons and tons of money for its lenders.
+So, on the one hand, this microfinance movement
+was seen as both a successful social enterprise and something
+that is good for the poor.
+So Muhammad Yunus and the Grameen Bank
+won the Nobel Prize in the very early 2000.
+At the same time, it's also seen as a commercial success,
+with some microfinance organizations starting
+making a lot of money-- not necessarily the same.
+In fact, Muhammad Yunus has always
+been quite critical of organizations like Compartamos
+who made money by giving microcredit,
+saying it's basically betraying the spirit
+of the microfinance idea.
+And they're just like loan sharks.
+But there was a bit of both, and it
+was very popular with companies giving for investment
+in environment, sustainability, and governance [INAUDIBLE],,
+or ESG, which is the idea that you can, at the same time,
+make money and do something that is good for the world.
+So it's was one of these win-win.
+More recently, there is a development
+of a new wave of microfinance lenders using mobile money
+platform.
+So, for example, M-PESA, which is the Kenyan mobile money
+platform has a credit product called M-Shwari
+where people who have been clients of M-PESA
+for a long time can have loans on M-Shwari.
+They have better data because these people
+are operating on the platform for a long time.
+And they also have ways of getting reimbursed.
+So it seems that the microfinance has--
+of how well the microfinance was really
+touted as a really wonderful success
+of bridging this surprising gap between a vibrant credit market
+at the village level and the inability
+for governments to give subsidized loans to the poor.
+So today, what we are going to do
+is first try to understand why it was difficult for government
+or for formal banks to lend to the poor and, two,
+why are the various theoretical reasons why lending to the poor
+might be difficult and to what extent
+those difficulties are serious in practice?
+Then we are going to see what innovation
+did the microfinance revolution introduce
+to overcome those difficulties?
+So what did they do that was different that
+made it possible to lend to the poor
+from this institution of a microfinance?
+So what did they maybe borrow from the informal lending
+market?
+So how come they managed to lend to the poor at fairly high
+interest rate and get reimbursed?
+And then, finally, whether or not the microcredit really
+helped the poor and, if so, how, and if not,
+how it could be made better--
+like, what are the limits of microcredit.
+So that's kind of the game plan for today.
+
+PROFESSOR: Rachel Meager looked at this question
+of heterogeneity a bit more across studies,
+because every study individually can look at, oh,
+are there people who benefit?
+So what she did is to propose new methods
+to allow her to look not just at the effect on average,
+but the effect of various quantiles of the distribution.
+So what's the people who benefit the most,
+do they actually benefit?
+And what she finds is that for most people, up till 95%,
+you can really say that nobody benefits.
+The 95% is like nobody.
+Then, from the 95% who have the least effect,
+they have no effect.
+And for the top 5%, it's very noisy.
+It's more noisy than-- you don't know, it could be big.
+Something for profit, you can see 0,0,0,0.
+For the people at the low 5%, it could have hurt them.
+Who knows?
+For the people at the high 5%, it might have helped them.
+You don't know, but there is too much noise to say.
+So until 75th percentile, there is clearly no effect.
+After that, no generalizable evidence.
+The data is too noisy to tell.
+But however, there is strong and generalizable evidence
+there again that a household with prior business do better.
+And then, what we did in Hyderabad, one of the studies
+in India, is we continued to follow
+the household for a while, and after six years,
+for the people who had a prior business,
+we're seeing a pretty large impact on assets--
+pretty large impact on assets and revenues
+that are doubled for people who had
+a prior business in villages where microfinance was offered
+versus not.
+So that is not something that's very
+helpful for the microfinance organizations
+because, once they are in place, they don't know that someone
+has a prior business.
+But it is something that is interesting for us,
+the researchers, because it tells us there
+are people who are entrepreneurs,
+who are gung-ho entrepreneurs, who would benefit
+from microfinance.
+And if we found a way for microfinance organizations
+to find them, they would, in fact, potentially
+have a large effect.
+So the question is, how do we find them?
+
+The problem with microfinance is that microfinance
+is too plain vanilla.
+It's too one-size-fits-all.
+It's hard for microfinance organization
+to identify the true entrepreneurs.
+We know they exist because we can find them in the data,
+but they don't know because they don't know how to find them.
+Microcredit is very bad at identifying
+the good entrepreneurs because they perform
+very little screening, they discourage risk
+because you're borrowing, in any case, every week
+the same amount of money.
+The loans do not grow, so there is no advantage for you
+in succeeding more.
+And since there is this very, very strong focus
+on zero default, the loan officers
+would tend to discourage people from taking risky propositions.
+I've heard loan officers saying that their favored microcredit
+client is someone who takes a loan to say buy a TV
+or have a wedding and then will repay based off of a wage
+employment that they have.
+So this is like the opposite of taking risks for your business.
+So the question is, is it possible
+for a microfinance organization to identify
+better people who would benefit from money to grow
+their business?
+And here, there is a very interesting study
+by Natalia Rigol [INAUDIBLE] and Ben Roth
+where they're using the community information to target
+the high-ability entrepreneur.
+So what they did is they worked in Maharashtra,
+and they formed a group of entrepreneurs in periurban
+Maharashtra to rank their peers, in a group [INAUDIBLE]
+of six people they knew, on the metrics of profitability
+and growth potential.
+So basically, they asked, who is the best businessman
+in your group?
+Rank them.
+And then, they randomly distributed cash grants of $100
+to 1/3 of these entrepreneurs-- not just the most productive,
+just randomly across groups--
+to measure their actual productivities.
+And what they find is that people
+are quite good at finding out who
+is telling who is the most productive
+when the average return to $100 is 8% per month, which
+is very similar to the average return
+that we found for Sri Lanka.
+But in the group that is in the third, that
+is ranked in the top third by peer ranking,
+it's actually 17% to 27%--
+so much higher.
+So people are able to tell you if they want to.
+They are able to tell you who is productive.
+In fact, they are better than machine learning at doing that.
+So what they try is to say, well, we
+have a lot of information on these people.
+Let's try and predict the profitability based on machine
+learning.
+And then, this machine learning prediction
+is less good than just one person from the village
+telling you.
+The problem is that if they know that there is
+something at stake, they lie.
+So instead of telling you, reporting the most productive
+people, they tell you themselves,
+or they tell you their nephew, or their niece, or something
+like that.
+So what you need to do is to give them
+incentive to say what they really believe.
+So they implement something called the Bayesian Truth
+Theorem-- which is very complicated--
+which compares your report to second-order belief of report.
+But it doesn't matter.
+You just tell people, hey, give me the truth.
+I'll pay you as a function of how accurate you are.
+And I have a way to know that you didn't lie, so just tell me
+the truth.
+And people believe that.
+And in fact, you have a mechanism
+that's a very subtle mechanism.
+So they just say, you will be rewarded for truthfulness,
+and they do it.
+So that's the design the entrepreneurs either
+get a grant or not a grant.
+They form a group, either with high stakes or low stakes,
+to see whether people misreport when
+they know their report will be allocated to grant.
+And then, they have the mechanism
+for the Bayesian Truth Theorem mechanism
+to see whether they can incentivize truthfulness,
+boosting the no-stakes report and the high-stakes report.
+And the finding is that, in the absence of this mechanism,
+people lie in high-stakes, but with the mechanism,
+they don't lie in high-stakes.
+So it is possible to use the information that
+exists in the community to encourage people to, reveal
+what they know about how productive people are,
+people that have this information and are willing--
+it's possible for people to share it.
+PROFESSOR: So that's the first thing.
+So that's the first thing microfinance
+could do is to try to exploit this kind of product,
+to exploit the information that is around to identify
+the true entrepreneur, not assume, as [INAUDIBLE] tends
+to do, that everyone is an entrepreneur,
+but identify who the true entrepreneur are
+and lend money to them.
+The second thing they could do is
+to have a structure of the product that is a bit more
+forgiving to risk-taking.
+And one of the structure that is really not
+encouraging for risk-taking is the fact
+that you need to repay your loan as soon as you get it,
+like the next day.
+So imagine someone who has no money,
+and they want to start a little business making clothes.
+They need to buy the clothes.
+They need to buy the sewing machine.
+And they need to start making them and selling them.
+And it's going to take at least like two or three months
+to get that going.
+But they need to be able to reimburse
+their loan from the first week.
+So instead of doing that, someone could say,
+well, I'm not going to make the clothes.
+I'm just going to buy them off the market and resell them.
+So it's a business which has a lower margin
+but has an immediate turnover.
+Or likewise, if you want to buy a loan to get a [INAUDIBLE]
+or to get a cow, the cow only produce milk part of the time.
+What do you do the rest of the time?
+So maybe you do-- you can't really
+have a cow on a microcredit loan.
+So the product is not very good.
+They do that because it's much simpler to administer.
+It can be made cheaper, and therefore, they
+can lower the administrative cost.
+So in this experiment, what they do
+is that some people get normal contract with the repayment
+starting immediately.
+Some people get two months grace period
+before they have to repay.
+So what would you expect, both on the household side
+and on the microfinance organization side
+from giving this grace period?
+[INAUDIBLE]?
+STUDENT: People Might be able to make risky investments
+because they have more time for it
+to start creating some money.
+PROFESSOR: Yeah, so people would make
+more risky investment, which would increase, maybe,
+their profit.
+More risky, but they would do it because it's worthwhile-- more
+risky but more rewarding.
+So you might increase profit and consumption and so on.
+And from the point of view of the organization?
+STUDENT: Those might have higher default rates.
+PROFESSOR: You might have higher default rate.
+So let's look whether this is what we find.
+So this is a grace period dummy.
+You can see that the people who have the loan
+spend more on their business.
+
+And they spend less on nonbusiness spending.
+So they use more of the loan for business
+as opposed to consumption.
+And they're more likely to create a new business that
+didn't exist before.
+So this is very much your idea.
+And then, in term of default, they are--
+more likely, this is full loan not repaid.
+So they are less likely to repaid within eight weeks,
+within 24 weeks, within 52 weeks.
+And they have greater amount outstanding within 50 weeks
+of the due date.
+So, basically, they do default more.
+So what do you think the MFI does when they see this result?
+
+STUDENT: They don't like it [INAUDIBLE]..
+PROFESSOR: Thank you very much, but this is over
+because we are not in the business of making more profit.
+We are in the business of not losing money.
+And that's kind of the tension that
+exists in the microfinance world is
+this pure hatred for default, which
+leads to this super, super, super, super safe behavior,
+at the cost, in a sense, of the growth of their clients.
+So they aren't very good-- they are not
+very good at identifying people with good business opportunity.
+They are giving them a product that is stifling
+of business entrepreneurship.
+And so, as a result, maybe it is not surprising
+that the microcredit product, the way
+it is in the standard, vanilla, [INAUDIBLE] inspired product,
+hasn't really generated much of business growth.
+Which is not to say it's not being helpful
+because the point remains that people
+borrow at these high rates.
+And they do something with the money.
+They finance their weddings.
+They buy TV.
+They do their finance consumption good
+that might be very, very hard for them to get otherwise.
+But in a sense, they tend to use it
+as a very expensive way to save rather than as a way
+to finance product.
+And if that's what people need then, in a sense,
+you would think--
+when [INAUDIBLE]---- design for them savings product and then
+completely redesigned microfinance idea to really
+focus on the entrepreneur and on these entrepreneurship
+opportunities that do exist but need to be--
+are few and far between.
+You can't just shower the money around and hope
+to [INAUDIBLE] on them.
+You need to go and fish for them and nurture
+them, which require a completely different approach
+of the poor household finance.
+
+True or false? The poor default on their loans from moneylenders quite often; this is understandable considering the extremely high interest rates, highly variable incomes, and lack of profitable investment opportunities.
+
+
+
+True
+
+False
+
+
+The De Mel et al. (2008) study that gave cash to small businesses in Sri Lanka is evidence that the business of the poor…
+
+
+
+Have no good investment opportunities.
+
+Have some good investment opportunities.
+
+Are generally not viable.
+
+
+"Microfinance organizations are just like any other firm and don’t need their impact evaluated." What are some reasons why this argument doesn’t quite stand up? Select all that apply.
+
+
+
+Microfinance organizations are sometimes only profitable because they benefit from government subsidies.
+
+Microfinance organizations are usually among the most beloved institutions in many poor communities; taking them away would result in unrest.
+
+People might not understand the “price” (i.e., the interest payment) of the product they’re purchasing.
+
+
+Microfinance organizations typically require clients to start repaying immediately after receiving the loan. But Field et al. (2013) found that if they allowed clients to take a two-month “grace period” before they had to start repaying, the clients invested more money in their businesses and made much higher profits, on average. So why, after seeing these results, did microfinance organizations not adopt this policy?
+
+
+
+Survivorship bias creates a selection bias that taints the results: clients made more risky investments in their business, increasing likelihood of bankruptcy. If you take into account all the people who went out of business, the average profits are actually decreased by grace periods
+
+It also increased default rates, and microfinance organizations’ incentives are to minimize default rate above all else.
+
+The clients didn’t like the grace period, and missed the structured routine of the standard repayment schedule.
+
+
+
+
+
+PROFESSOR: So what are the potential barrier
+to credit for the poor?
+The first one is informational asymmetries.
+So the fact that the potential borrower
+knows more about themselves than the potential lenders.
+And that there are two kinds that could
+play a role in microcredit.
+One, the economics lingo for it is moral hazard.
+And the other, the economics lingo for it
+is adverse selection.
+So now let me translate what moral hazard is in English
+and what adverse selection is in English.
+So in English, moral hazard is the fact that I cannot observe
+your action once I have given you money.
+For example, you have a business.
+I've lent you some money.
+I don't really know what you're doing.
+First of all, you could run away with it.
+That's one thing you could do.
+Or you could undertake some investment
+but maybe a much more risky investment
+than you would have undertaken if it was your own money.
+So why would that be the case?
+Well, if you borrow the money, the contract
+is not that you repay a share to the borrower.
+The contract when you borrow money
+is that you give back whatever you have borrowed
+plus some interest rate corresponding
+to the cost of money plus some small change for operating
+a bank.
+So that's a fixed amount.
+Now, if you run a business and you run a very risky business
+and half the time you fail, then you have no money to reimburse.
+Then what can they do?
+They're not going to put you in prison for debt anymore.
+So basically, you won't reimburse.
+If you're doing very well, you repay your fixed amount
+and then the rest of it is for you.
+So the credit contract gives incentive
+to the borrower to undertake projects that are perhaps
+more risky than they would have undertaken
+with their own money.
+Because they are basically gambling
+with someone else's money.
+And they get the upside and they don't
+have to pay for the downside as long as there
+is limited liability, which is you
+don't break people's kneecaps when they're [INAUDIBLE]..
+So that's here the first difference
+between the informal credit market and the formal credit
+market, because the local money lender
+can threaten to break your kneecaps
+or can threaten to go and harass you or to be at your doorstep
+until you've reimbursed.
+Whereas the bank, what are they going to do?
+They cannot do that.
+Or if they do that, there was some scandal
+at some point of Citibank using bad guys to intimidate lenders
+into repaying their car loans.
+But when this became known, this was a real scandal.
+So the banks can't really do that.
+That's the first difference between--
+which make it possible for a moneylender
+to lend to people and not the bank.
+That's a first form of asymmetric information
+between lender and borrower.
+A second one goes under the word adverse selection,
+which is something similar to what we encountered when
+we were talking about insurance, which is the borrower might
+know more about themselves and about the project that they
+have than the lender.
+So for example, I know that my project is pretty good.
+So I know that mostly it's going to work out.
+So if I can use my own money, I'm
+going to use my own money to launch it.
+But if I'm not too sure, I think the project has a good chance
+to fail, then I would rather go with the bank's money,
+because again, if the project fails,
+suppose now it's not a matter of effort or taking the risk,
+but it just happens to be something
+I know about myself that I'm in a risky business.
+The fact that I have to repay will encourage the people
+with the most risky ideas to take the loan
+and will discourage people with very safe idea
+to take the loan.
+Because the people with the safe ideas
+know that they will have to repay most of the time
+because things will work out as they expected,
+whereas the people with the risky idea
+know that they won't need to repay most of the time.
+So those are two issues that might limit the ability
+for a bank who has an office very far away in the cities,
+et cetera, to lend to the poor.
+Another problem is simple.
+Is that lending to the poor is particularly costly.
+Why?
+Because a lot of the cost of administering a loan are fixed.
+So you have to go visit the business.
+You have to open a file.
+You have to keep that money separate from the other monies
+and so on.
+Regardless of the size of the loan, it's the same amount.
+That means that in proportion to the loan, it's bigger.
+So the cost per dollar lent of lending to the poor
+is larger than the cost per dollar
+lent of lending to a rich person,
+simply because for a rich person,
+you can give them a larger loan and it's
+spread over a bigger area, a bigger amount of dollar.
+So in proportion, a larger loan is cheaper than a smaller loan.
+So maybe the poor don't have projects
+that are productive enough to justify the high interest
+rate that you would need to charge them in order
+to spread out all these costs.
+And of course, these two things overlap,
+because if there is moral hazard or adverse selection,
+you need to spend a lot of effort trying
+to make sure that the person is not running away
+with the money.
+You cannot give them too much, because you want to make sure
+they have some skin in the game.
+So you may require a collateral to make sure
+that they have skin in the game, which means that a person is
+only going to be able to borrow up to some amount of the money
+that they can put as collateral.
+That's the way that the bank is going to make it work out.
+It's going to say fine, I'll lend you some money,
+but at least some fraction of the project
+has to be your own money.
+So if the project fails, you're going to lose that as well.
+Now, if that's the case, then a poor person
+who doesn't have much of a collateral
+can only get a small loan even if they have a big project.
+So the poor will tend to have small loans.
+But because the loans are small, the fixed cost
+of monitoring the loan will be spread
+over a smaller amount of money.
+So the interest rate will look higher,
+which first of all, means that some people will not
+find it worthwhile.
+Second of all, means that all of these problems of moral hazard
+will become even larger because now they know,
+oh no, I have this high interest rate.
+So that makes me want to default even more.
+So there is a multiplier effect coming from the moral hazard
+component, which means that if the interest rate needs
+to be high, they become even higher for the poor.
+PROFESSOR: So some facts that are
+consistent with this idea, prima facie, is that, first of all,
+the poor need to spend a lot of money to borrow.
+We have data that we cobbled together for the Poor Economics
+books with Abhijit Banerjee.
+In a sample of 13 countries, we look
+at various aspects of the economic lives of people
+living under $1 a day.
+And we find that people pay between 11% yearly to 93%
+yearly as interest rate in the sample.
+So that's a lot of money compared to,
+say, your mortgage rate now, which is--
+even though now the interest rates are high,
+it's more of the order of 5%.
+So that's the first factor, rates tend to be high.
+A second factor is that they are not high
+because the banks have to themselves borrow at high rate.
+There is a sizable gap between the lending rates
+and the deposit rates within the same subeconomy-- so
+for example, the same city or even
+the same industry within a city.
+So if you put your money into a savings account in India,
+you get barely enough to cover the inflation.
+Sometimes the real interest rates
+are negative for the savers.
+That is, you put money and you get less
+than the inflation in interest rate.
+So it's very cheap for banks to get funds from depositors,
+but then they lend it out at a huge interest rate,
+so there is a big gap in between the two.
+
+Another fact is that there is extreme variability
+in interest rates within the same subeconomy.
+So that means that you take, for example,
+auto lenders in a particular town, and one of them
+will borrow at 9% and one of them will borrow at 73%.
+You take textile companies in the city of Tiruppur
+in India, which is the maker of T-shirts,
+there are different types of people.
+There are people who are from there
+and people who have come from all over the countries
+because it's the maker of T-shirt,
+and if you want to do T-shirt, you go to do them in Tiruppur.
+The people who are local to the place
+have access to funds at a much cheaper rate than the people
+who come from away.
+Even though the people who come from away
+have come because they are particularly good at making
+T-shirts, and the prima facie, you
+would expect they are just better at it
+and their business grow faster and everything,
+they have access to much more expensive [INAUDIBLE]..
+Now all of this could be due to the fact
+that the interest rate could be very high
+because the bank realized that they are only
+going to be repaid very rarely.
+So if you expect to be repaid half the time
+and you get from your depositor money at 5%,
+you need to charge at least 10% so that on average, you're
+able to repay your depositors.
+So it could be a reason why the interest
+rates are very high, is because nobody pays them.
+And so first of all, people would
+be willing to accept this very high interest rate
+because they don't need to actually fork--
+they're not actually feeling very responsible for them.
+And second of all, the people could--
+the lender could say, well, I better
+charge higher interest rate, otherwise I won't be able to--
+my business will sink, my business as a bank.
+But that's not the explanation because all
+over the place in all of the reports, one thing that
+comes up is astonishingly low level of default
+within the informal sector.
+So to a bank, when people borrow from one
+of these subsidized bank and get subsidized loan,
+often they don't repay.
+The repayment rate I showed you before on the order of 40%.
+But if you borrow from the local moneylender,
+you do repay the interest rate.
+So the interest rates are super high,
+and people actually pay them.
+In most of the case, people do not
+borrow because they absolutely need the money, for example,
+for consumption purpose.
+Like we saw, Abu willing to pay very high interest
+rate because his family was starving.
+That happens.
+But a lot of the cases where people borrow,
+they borrow to finance their business.
+So they borrow because they want to finance--
+they want to buy inputs or they need production,
+they need to buy some clothes to make T-shirts,
+or they want to buy some seeds to grow some food
+or something like that.
+So that means that people must have access
+to fairly good investment opportunity
+and productive ideas because they
+are willing to borrow at this rate knowing they'll
+have to reimburse, and eventually for the most part,
+reimbursing them.
+So it must be, prima facie looks like, the poor have access
+to a very--
+at least some people have access to very productive investment
+opportunity that--
+and then they find some people to lend their money to do that,
+but that's all operating in this very informal sector.
+So there is a very nice study of one village in Pakistan,
+descriptive study from the '90s--
+yeah?
+STUDENT: [INAUDIBLE] there is a high variability
+in the moneylender's interest rate--
+PROFESSOR: Yeah.
+STUDENT: Why [? doesn't ?] it equalize?
+PROFESSOR: Right.
+Great question.
+So take the example of the Tiruppur--
+take the example of the Tiruppur T-shirt maker.
+And I gave you one dimension of this variability,
+that the local people have access to money
+at a much cheaper rate than the people who come from all
+over India to make T-shirts.
+So why do you think it's the case
+that the local people get access to money at a cheaper rate?
+
+Any suggestions?
+Yeah, Liam?
+STUDENT: [INAUDIBLE] involved in taking their background.
+PROFESSOR: Absolutely.
+So what is happening with the local people
+is that their parents, their uncles, their relatives, they
+all have money because it's a relatively rich farming
+community.
+And then when Tiruppur became a T-shirt place,
+they said, oh, we also want to get into this T-shirt business.
+And then they started establishing their kids,
+giving them money to start a T-shirt company.
+And so you might have wondered why
+do they give the money to their kids who have no T-shirt
+experience and maybe no T-shirt competence
+when there is all these people who are flocking into the town
+to make T-shirt and they could have actually
+invested the money with them?
+And the answer is exactly what you're
+saying, which is the asymmetry of information are less.
+When you're lending to your son, you know what they are up to.
+You can-- you have ways to persuade them to repay.
+Maybe they will want to or even if it's a distant relative,
+the local people have a better network of information.
+Whereas if it's someone who comes from far away,
+even though you think they're going to be pretty good at it,
+but you have nothing on them if they decide to take off and go.
+So that would be one reason.
+And then they there could be others of the same each--
+story has its own thing, but that would be one reason.
+It has nothing to do with productivity.
+In this case, in fact, it's negatively
+correlated with productivity.
+And everything to do with, in this case,
+informal social networks and so on.
+But you are exactly right to ask the right question
+because in economics, we don't think these things should
+be the case.
+In fact, a standard assumption in economics
+is that the prices play the role of signals
+to allocate the resources to the right
+Place.
+So all the interest rates should be equal within an economy
+because if you see an opportunity that pays more,
+you should invest there.
+And then as people invest there, invest in that opportunity,
+the price will go down, and all the interest rate
+will equalize.
+So a standard presumption of a credit market--
+and that would come out of most of the basic thinking
+in economics, would be that the interest rate would equalize.
+So it is very surprising prima facie
+and I'm very glad that Julie pointed it out, that there
+would be very diverse.
+It is something we should be baffled by.
+And so here, we find the same thing in [? Alim's ?] work.
+It's only 14 moneylenders in one market in Pakistan.
+It's well worth reading the paper.
+He collected very detailed data on what they do to lend money.
+And his idea is, are there-- because there was this concept
+and you hear it in [INAUDIBLE] discussion
+that he's really like as a real crusade against these people,
+the loan sharks.
+And in the Abu story, certainly the moneylender
+didn't appear to be a very sympathetic character.
+And what [? Alim ?] wants to do is to say, well,
+what is their business?
+Like how do they-- why are they charging that much?
+Is it the case that there is only one in the village
+and has huge monopoly power, and therefore,
+can extract this huge interest rate on people
+who really need the money?
+Or is the cost--
+or is it coming from somewhere else?
+So what we first find is that in this one village,
+there are 14 moneylenders.
+So there is a lot of competition.
+In principle, people could move from one to the other
+if they don't like the prices that are given somewhere.
+Then he describes every step of the lending process
+and priced it.
+So how long it takes you to visit the person's
+house or their business-- place of business for the first time,
+and to find out what they do and to generally monitor
+their activities.
+He finds that the average lending rate to people
+is 78.5% per year, so it is very high.
+Money is expensive for the money lender.
+They themselves, their cost of fund is 32%.
+Even though the bank rate is 10%--
+so clearly they are not able to get all their money
+from the bank, themselves get the money--
+themselves are credit-constrained.
+They get their own money and it is
+available at an expensive rate.
+We reproduce the fact that I was telling you is true on average
+because the standard deviation of interest rate
+is 38% across these 14 lenders.
+That means that interest rate of 2% and 152%
+are in the confidence-- in the 95% confidence range.
+So huge variability within the same village.
+And what it's but is it explained by default,
+no, because very few default. The median default
+rate for a particular lender is between 1 and 1/2 and 2%,
+and the maximum default rate in the sample is 10%.
+So in equilibrium, there is basically no default,
+but that is because people spend a lot
+of time doing ex-ante screening and ex-post monitoring.
+What [? Alim ?] finally concludes
+is that although there is competition,
+it's imperfect competition because there is so much entry
+cost for starting a relationship with a lender,
+that once you have one, they have a monopoly
+power over you exposed.
+Once all this screening is done, you
+don't want to move to another one
+and do the whole screening operation again,
+especially since what would the other lender think if someone
+arrived to them, they would think
+there is some adverse selection issues.
+They would think, well, why do you leave your existing
+relationship?
+Did something go poorly?
+Is it that you didn't--
+so there is potential adverse selection
+in leaving from a lender.
+So once people are stuck with someone,
+they are stuck with them.
+And that would be another reason why
+there is a lot of variability between lenders in how much
+they can charge, because once they have someone there,
+they basically have them.
+PROFESSOR: Here is another example
+that I wanted to give you, for how sometimes crazy
+the credit market can be.
+This is the credit to food vendors
+in India and the Philippines.
+So in both countries, this is a study
+that was done with people who are selling vegetables
+on market.
+For many people, the way it works is that in the morning,
+they go to the sellers, to the wholesalers of fruits.
+They take the older fruits on credit.
+And then they sell them during the day.
+And at the end of the day, they reimburse them
+with a 5% interest rate per day.
+You realize what 5%, like 5% interest rate per day,
+how much would it be in a month?
+
+Would it be-- sorry?
+STUDENT: From the chapter?
+PROFESSOR: Yeah, it's a lot.
+It's not 150% is the key answer.
+It's not multiplied because it's compounding.
+It compounds really, really, really, really, really fast.
+So the interest rate becomes enormous.
+So that's 5% a day.
+So what is in the book is this fact.
+What is not in the book is what they did, which is to try--
+and what they did and what happened.
+It's not that the book because it had not been done yet.
+What they did is that they provide
+a debt payoff to a group, debt payoff with financial education
+to a group and just financial education to a third group.
+And then they have a control group.
+And then they follow them four to six weeks after payoff
+and then a few months later and then a few months later, and up
+to two years later.
+And what they want to know is whether these people
+are in a debt trap, the people who are borrowing at 5% a day.
+Are they in a debt trap, which is there is nothing
+they can do.
+Once you start borrowing, there is
+nothing they manage to do to get out of it.
+And therefore, if that were the case, if I repay the debt,
+they would be very careful not to fall back into debt.
+And they would stay debt free.
+So they do that.
+They visit them again after four to five weeks.
+Many of them are still dead free.
+At four months, it's mostly gone.
+They're all back into debt.
+And at two years, there is zero difference
+between the treatment and the control.
+So what they found is that, first of all,
+the interest rates are huge.
+And people can live like that.
+So that means their activity has that level of suitability.
+It would take, it would seem very
+little we calculate that in the book, how much tea you
+would need to drink less in order to get out of the debt.
+And that doesn't happen.
+But more surprisingly, even if I get you out of your debt,
+people go back relatively rapidly.
+So in the article, they discuss many possible reasons
+why they fall back into debt.
+So what's your idea of what could be reasons why
+they would fall back into debt?
+
+Evan?
+STUDENT: You can think of a debt payoff as like a cash infusion.
+So they then, spend the money they
+have that normally go towards repaying their debt
+on something else that they might need because they
+are extremely poor.
+And then after that cycle, they're
+right back where they were, where the amount of money
+they have requires them to go back into debt.
+PROFESSOR: So that's right.
+So it doesn't happen exactly like that, because basically,
+our debt is repaid once.
+And it's repaid to the fruit seller.
+So for a while, they don't have a debt.
+But then you're exactly right with the idea
+with something else happens.
+So for example, there is a shock when someone gets sick.
+And then they don't have the money,
+that they have spent the money of yesterday
+buying the medicine.
+They don't have the money one particular morning.
+So they instead, borrow the vegetable
+that particular morning.
+And then they are back into debt.
+So shock happens.
+Shocks happen.
+Consumption needs arise.
+And then, people get back to where they were.
+STUDENT: If the shocks are generally
+the same across the population, why
+isn't the people who didn't have the debt end up more in debt?
+PROFESSOR: Yeah, so that's a great question,
+which is you would think then, OK, they have some debt.
+But they should still have less.
+Because at the end of the day, I still
+have given them that heads up, corresponding to one
+day worth of the food supply.
+
+And the shocks are the same.
+So it can't be just the shock.
+The mechanics is the shocks.
+But it has to be that they made a choice that
+is different as a function of the debt they had.
+So what the difference could be that there
+are credit constraints.
+So there is only so much the lender will give them.
+The vegetable wholesaler will only
+give them like a day supply, and that's it in the debt.
+So then they get that, so then they have to make due somehow.
+That's not a choice.
+So maybe the natural thing to do is
+to start borrowing again from them
+up to a point, where it doesn't become an option anymore.
+Then they do something more costly, for example,
+buying fewer of the medicine or not
+buying your kid the toy they wanted or something like that.
+So in that sense, it might be that people don't fully
+understand what is going on.
+They don't fully understand how much money
+they could make over time by avoiding this high cost
+borrowing.
+But they had a financial education,
+and it didn't seem to help.
+So maybe their financial education was bad.
+Or it could be that people are extraordinarily
+time-inconsistent.
+So in the present, the temptations are so high that
+you cannot not succumb unless it's not possible,
+because you are within your credit limit,
+or maybe a combination of all these things.
+And the study isn't really able to separate
+these various things.
+But what it does suggest is people
+are not into a debt trap.
+They chose to borrow at these rates.
+PROFESSOR: Let's now-- we have these facts, which
+were suggesting that there might be more
+hazard, adverse selection, lending to the poor
+being costly, how serious empirically those issues are.
+So the key inputs to answer this question
+are, number one, whether the market interest
+rates are higher than profit the poor could
+make with their businesses.
+So that would tell us whether it's hard to lend to the poor
+because it's just too costly.
+That's the number one point on the last question,
+whether it's too costly.
+A second thing that would be interesting to know
+is whether high interest rates increase adverse selection.
+So do I get more adverse selection
+with high interest rate?
+Do I have more default when interest rates are high?
+Is there coming from moral hazard
+or from people running away?
+And is there ex-ante moral hazard in the credit markets?
+Or are people taking more risk to start with when
+interest rates are high?
+
+So I'll go over a few studies that
+shed light on these things.
+So the first one is whether the high interest
+rates are the problems.
+So just as a reminder, we saw interest rates
+being very high and also very variable.
+
+Yet, the poor are willing to borrow at this very
+high interest rate.
+They borrow less, but they pay higher interest rate.
+Interest rates are--
+3% to 4% are very common.
+We saw the vegetable sellers being
+willing to borrow at about 5% per day.
+So we do see that the poor borrow less,
+but they borrow at super high rates.
+And in fact, the poor pay much more
+on their loan than the rich do.
+And it's not irrational because they do that even
+for production purposes.
+So it's neither irrational nor a crazy level of impatience
+or crazy level of needs.
+
+So it doesn't seem their fault that the poor are excluding
+themselves from the credit market,
+because they don't have very good project.
+
+And there is direct evidence on that from an experiment in Sri
+Lanka.
+I'll show that to you in a minute, very interesting
+experiment by Suresh de Mel from Sri Lanka, David McKenzie,
+and Chris Woodruff.
+What that did is that, shortly after the tsunami in Sri Lanka,
+there was money to help rebuild.
+So they had access to money-- these people--
+that could be kind of given away before it
+became fashionable to give money away to people.
+So they started from a census.
+They identified about 400 households,
+which had a small business.
+It could be a shop or it could be a small manufacturing
+business, with less than $1,000 in fixed capital.
+And in general, they have less than that.
+They have about $100 in machinery and stock.
+They conducted a survey and they offered a random prize drawing
+of a grant for the business of $100 to $200,
+depending on the randomization, either in cash or in kind,
+for example, an assets or stock.
+The cash crunch were unrestricted in kind
+where they went to the market with the person to buy.
+And then they collected multiple round of follow-ups.
+They had a very--
+the results were that these businesses actually
+seemed pretty profitable, at least for the smaller
+loan, the smaller grants.
+They found that the real monthly business profit increased
+by about 60% per year.
+So very high return, greater than the monthly interest rate
+that these people had to pay.
+So in this case, these businesses
+were not paying 5% per day, they were paying much less
+than that.
+And they had access to this profitable investment
+opportunity.
+So this is their profit without the grant, with the $100 grant,
+and with the $20 grant.
+Another thing that's striking is that the cost
+seems to be steeply decreasing because they don't seem
+to be able to use the 200,000 grant much more
+than, if anything the profit after $200 grant
+is smaller than the profit after $100 grant.
+These two are not statistically different,
+but that suggests that the returns are very concave.
+So there seem to be a lot of value to lend to--
+there would be a lot of value to give or to lend money
+to these small businesses.
+PROFESSOR: That means that the poor have profitable investment
+opportunity.
+So they should be willing to borrow,
+even if the interest rates are very high.
+And therefore, we should not see that they are super
+sensitive to the interest rate.
+So to answer this question directly,
+Dean Karlan and John Zinman worked with a credit firm
+in South Africa.
+So it's a consumer credit firm.
+So it's a bit different from this business lending.
+It's kind of halfway between a moneylender
+and a micro-credit enterprise.
+They are lending at a pretty high interest
+rate between about 8% and 12% per month,
+depending on your risk class.
+And this is the type of company that sends you this direct mail
+marketing.
+So the bank sent off a letter to offer credit
+at a specific rate, which was randomly varied by people,
+to about 55,000 former clients.
+So this type of direct mail marketing
+is something they used to do.
+But one thing that was new is that they were
+randomizing the offer rate.
+96% of people got an interest rate
+that was below what they were used to.
+And 4% were above.
+So the bank was a bit reluctant to offer higher interest rate
+than what people were used to.
+So they couldn't convince them to give too many.
+They also varied the suggested loan maturity,
+which is over how long you want to reimburse.
+Although that's something that they could choose.
+And so this is the take-up, which is
+the number of people who apply.
+So first thing I want you to note is that very few people--
+
+so this is the--
+sorry, forget it.
+This is normalized at 0.
+So this is whether the interest rate is lower or higher
+to what they're used to.
+And you can see that there is a small impact of the interest
+rate, but not really very high.
+You start getting-- so most of the people
+are here in this range because if you remember, 96% of people
+were offered interest rates lower
+than what they were used to.
+And 0 is normalized to what is their usual interest rate.
+So most people are below their usual interest rate.
+And that doesn't seem to convince them very much,
+between 5% below what you're used to per month,
+which is a large difference.
+It only increased the take-up by about one percentage point.
+So people are not very sensitive to the interest rate.
+Over a range, even when there is an increase,
+they are not very sensitive to the interest rate,
+either when it becomes higher, except when
+it's really much higher.
+So when the interest rate is 5% higher to what they're used to
+is where it really starts to go down.
+So over a range, over the rate that people are used to,
+people are not super sensitive to the interest rate.
+So that suggests that people are willing to-- the poor have
+opportunities.
+We saw that in the [INAUDIBLE] and McKenzie work.
+They are borrowing at very high rate.
+They don't particularly care about what
+the interest rate is.
+So there is scope for increasing the interest rate even higher
+than what they are today.
+
+So the clients seem to be more sensitive to interest rate
+increase.
+So the institution probably prices above the optimal
+level in terms of getting maximum results.
+
+The sensitivity to the repayment duration is much larger.
+So if you increase the suggested duration of repayment,
+people are very sensitive to that.
+So people don't seem to be very sensitive to interest rate,
+not very elastic.
+But there is one caveat to that, which
+is it's possible that they don't really understand what
+the interest rates are and that people are not
+sensitive to interest rate over this range
+not because they don't mind, because in any case,
+they are above whatever their project is worth,
+at least that much.
+And so they are willing to take a loan at these prices.
+It could also be that they just don't see it
+and that the organization, such as some
+of for-profit microfinance organizations,
+like Compartamos, which charge 100% a year,
+is actually taking advantage of people not understanding what
+prices are and obfuscation.
+So this is something that Muhammad Yunus is very upset
+about, saying that basically, they
+are no better than the moneylender we
+tried to displace.
+They are taking advantage to people
+because the reason why people are not
+very sensitive to interest rate is not because everyone
+has a good product.
+It's because they are not really understanding
+what the rates are.
+So most people say, well, if people
+are willing to borrow at this rate,
+why wouldn't I lend them at this rate?
+Again, in the traditional economics language,
+it's, why would you buy something you don't want?
+So if you're willing to borrow at this rate
+and you do reimburse, then it must
+be that you have a use of money that is worth it for you.
+Either it's consumption that you really want now
+or it's a great business opportunity.
+So why wouldn't I be lending them at this rate,
+if this is what it costs me?
+But what this implies, that people fully
+understand the interest rate.
+And it's not really obvious, first of all
+because they're not always very clearly presented.
+For example, in India, the microfinance organization
+presents the interest rate as flat.
+So basically, you borrow at the beginning of the year.
+And then you repay always the same thing.
+And this is what is presented to you as an interest rate.
+So you're saying, you borrow 100.
+And then you owe me 120, which you're
+going to repay every week in installments, 50 installments.
+So the interest rates are presented
+as to what you have to repay every week.
+But, of course, the capital goes down.
+So the interest rate, the flat interest rate is about half
+of the actual interest rate that people
+are paying because over the course of a year,
+their capital goes down.
+So the flat interest rate looks lower
+than what the real interest is.
+If I present you a flat interest rate of 24%, which is often
+what's given in a microfinanced MFI, that actually
+is, real interest rate, that is about double of that.
+
+So it's not clear that people understand the difference
+between, say, the flat interest rate and the actual interest
+rate.
+It's a little subtle.
+And it's not clear that they're paying
+a huge amount of attention to how much,
+what the interest rate really is.
+So to find it out and to find out
+how sensitive people are to marketing manipulation,
+in the [INAUDIBLE] experiment, they varied, at the same time,
+the price of the offer, which would be what people really
+care about, and other aspects of the offer
+letter with randomization that are very common in the mail
+marketing that you're getting or that have become also
+very common with A/B testing, variation
+in presentation that should not make
+a difference to your decision, but in fact turned out to be.
+So here is a letter, an example of the letter where
+they had the interest rate.
+So you had the suggested maturity, the loan amount,
+how much they would have to repay every month.
+So that's the actual interest rate.
+And then they had things like that,
+like a special rate for you.
+They had a photo, a photo of male, photo of female.
+So they're varied.
+No photo of men and women, language
+affinity, we speak your language, special rate for you,
+low rate, versus no blurb, suggested use,
+you can use it to do something special,
+whether they had various options or just one,
+whether the interest rate was explicitly disclosed.
+Or the client, like in the example I gave you,
+the interest rate was not really disclosed.
+You had to figure it out from your monthly repayment
+over this suggested duration.
+So whether there is obfuscation or not,
+comparison with competition in the last frame [INAUDIBLE]
+and whether there was cell phone raffles--
+so all type of things that are frequent
+manipulation that moneylender, payday lenders
+in the US, et cetera, will typically add to their offers.
+And they wanted to know if people
+fall for these kind of things.
+And the answer is that they do.
+Taken jointly, all of this manipulation affects the men,
+and in particular, putting a female photo as opposed
+to a male photo or no photo increased the loan ticket
+by 0.4 percentage point, which is more than
+the effect of one percentage point decrease in the interest
+rate, more than the effect of going from 8% to 7%.
+So that seems like little, 0.4%.
+But it's actually, compared to the elasticity,
+it's very large.
+Not giving a huge increase, the take-up by 0.6%.
+Maybe people feel constricted by a [INAUDIBLE]..
+Proposing only one example of loan
+increased the take-up by 0.7%.
+If you put two examples, people find it complex.
+They don't want to have to deal with it.
+The cell phone raffles, interestingly,
+decreases take-up.
+Maybe people think, do I really need a cell phone
+at this moment, or no?
+And then they don't take it if they don't want the cell phone.
+So although it's difficult to predict exactly what would
+matter, the point is that irrelevant manipulation
+seems to matter as much as the interest rate.
+And that suggests that the client awareness
+may be limited.
+And we cannot really fully understand why people take
+loans.
+And they might not take loans in their best interest
+because the loan is such a complicated product that
+is very hard for people to evaluate.
+PROFESSOR: The next thing that was also
+done in the context of this South African experiment
+is to try looking at effect of adverse selection moral hazard.
+So the adverse selection question
+is whether high interest rate attracts unreliable borrowers.
+The moral question or hidden action
+is whether interest rate induced unreliable behavior
+once you have the loan and whether it
+leads to exposed default because you're not able to pay.
+So how can we identify them?
+By definition, they are hidden.
+So it's not something we can easily find out.
+So what I did in this paper, still
+with our same African bank, is something super creative design
+to make progress on this question.
+So what they did is building on this idea of sending a letter,
+so everyone gets their letters with a different rate.
+We already know that the people who get a higher offer
+are somewhat less likely to repay
+and less likely to borrow.
+And they do repay less.
+So the proportion of loan past due
+goes down for people who get a low rate.
+So it's 10.5% of people are delayed
+repaying if they have a high offer
+and borrow at a high rate.
+And 8.2% of people who received the low offer
+and borrow at a low rate to repay.
+So is this moral hazard or adverse selection
+or we don't know?
+
+The fact that, so higher interest rates
+more default. Is that moral hazard, adverse selection,
+or simply liquidity constraint you can't pay? [? Evan? ?]
+STUDENT: [? I'm sorry. ?]
+PROFESSOR: You look like [? engaged. ?]
+So we see that it makes sense.
+People who have a higher interest rate
+repay less often than people who have the low interest rate.
+But I want to know whether it's moral hazard, so something that
+happens after the loan, or it's adverse selection, so
+something that reflects the selection of the [? client, ?]
+or we can't know.
+
+Yep.
+STUDENT: [INAUDIBLE] .
+PROFESSOR: OK, I'll take another vote.
+
+No, [? Robert, ?] so you have the-- so why is it
+adverse selection?
+
+Go ahead, go ahead, yeah, yeah.
+STUDENT: [INAUDIBLE] well, you said so [INAUDIBLE]..
+The group of people accepting is [? random ?] here.
+So this would probably be [INAUDIBLE] particular one.
+PROFESSOR: So that would be a moral hazard if it's after.
+Well, yes, it's true that the [? troupe ?]
+of people who offered a particular rate
+are randomly chosen.
+But not everybody accepts.
+In fact, a lot of people don't accept.
+So accepting to take the loan is very selected.
+And we have already seen that you
+are less likely to accept if the interest rate is higher.
+So in fact, the people who accept to take the loan
+are not randomly selected.
+And we can expect the people who accept
+to take the loan with a higher rate
+to be different than the people who accept to take
+the loan with a lower rate.
+And that may reflect adverse selection.
+That may or may not.
+So it could be adverse selection.
+On the other hand, once they take the loan,
+they have a higher rate to reimburse
+if they accept the loan.
+So that could have a causal effect
+on their choice of project.
+That could have an effect on their just liquidity
+availability.
+They need more liquidity to repay.
+So there could be moral hazard or exposed repayment burden
+effect.
+So we don't know because they [INAUDIBLE]---- yep.
+STUDENT: Can you separate them by saying
+you're going to offer everyone a high rate loan and then,
+of the people who accept that, randomly choose people
+to actually have a lower rate?
+PROFESSOR: Wonderful, exactly.
+So it's exactly what they did.
+And for doing that, they were really
+celebrated for a super creative design.
+So you reproduced it in five minutes
+of thinking about it in a class.
+So that's really excellent.
+So what they did is that they had a high offer, low offer.
+So you randomized into getting a high offer or low offer.
+And once people actually show up with their letter
+in the office, some of the high offer people
+are told, hey, good news.
+Today only, special offer, you can have the low offer.
+So they've already agreed to come for the high offer.
+So presumably, they'll take the low offer.
+They're even happier.
+And now we have all the good comparison.
+So people show up with different offer rate.
+And they end up with the same actual rate.
+So if I compare, say, [? Florida ?] and Lucas,
+[? Florida ?] coming with a higher rate than Lucas
+with a lower rate.
+But then [? Florida ?] gets the lower rate.
+They are selected differently because she agreed
+to come on this higher rate.
+So she is maybe from a slightly different pool.
+But then their condition expressed are the same.
+So they should neutralize moral hazard
+and give me adverse selection.
+Conversely, if I compare [? Florida-- ?] so suppose
+[? Florida ?] and Javier both came with a high letter.
+Javier comes into the office, and I give him
+the high interest rate.
+But when [? Florida ?] comes I've
+already offered her the lower.
+They are selected similarly because they both agreed
+to come at a higher rate.
+But she ends up with a lower rate,
+so the adverse selection is neutralized.
+And all I have is a moral hazard.
+So by comparing [? Florida's ?] to Lucas,
+I had adverse selection.
+By comparing [? Florida ?] to Javier,
+I have the moral hazard.
+So that is that's exactly what they did, and this
+was really, really a excellent idea
+that people have now used in various settings
+of surprising people with prices.
+So this is summarizing here comparing
+people who came with high offer rate, low offer rate.
+Nobody is offered a low offer rate initially
+and ends up with a high contract rate
+because those people would be upset.
+So that is [? empty. ?]
+Comparing the high contract rate to the low contract rate among
+people who initially got a high offer,
+I get the [? ex-post ?] effect.
+I'll explain to you what's in diagonal here.
+And comparing [? colon, ?] I get the adverse selection.
+So they add one more layer of things
+to separate moral hazard from just the fact that mechanically
+if you have to repay more it's harder, which is they offer
+dynamic incentive, which is to say, if you reimburse nicely,
+you will have access to this lower rate again in the future.
+So that's on top of that.
+Among people who are given a low rate, some of them
+are given dynamic incentives.
+Some of them are encouraged to continue to behave well
+to keep these offers.
+So they have the similar offer burden,
+but they get, in addition, an extra incentive
+to behave and to reimburse.
+So what do they find?
+We have half of the slides in this table
+and the other half in the next one.
+The selection effect, comparing the high offer low contract
+to lower offer low contract, they find some selection effect
+with more repayment difficulty in the high offer group,
+even though they end up with a low contract.
+Co-payment burden effect, they're
+finding a pretty large effect with the low contract
+people repaying more than the high contract people.
+And that seems to be due largely to this dynamic incentives
+where people who are given an incentive to behave well,
+this is where we find a larger effect.
+People who are given incentive to repay in order
+to continue this better terms in the future
+reimburse a bit more.
+So all that suggests that there is
+some amount of adverse selection and some amount of moral hazard
+coming, which is where we have the clearest evidence
+from the dynamic incentive offering the--
+increasing the repayment rates.
+So in summary so far, we found evidence from the Sri Lanka
+paper that the return to capital seems very high among the poor,
+that there is a [INAUDIBLE],, but almost everyone
+seems to benefit from a cash infusion in their business.
+They are very durable and growing effect of these loans.
+Nevertheless, people seem to need some encouragement
+to the project of growing the business.
+It's not always sufficient to give them just cash.
+It's not sufficient to reimburse directly.
+And if you remember early in the semester
+we looked at GiveDirectly experiment
+where people were just given cash.
+And for the most part, they don't
+choose to invest the money into a business.
+They choose to invest the money in their house
+or in consumption or things like that.
+So it seems that not everybody has an immediate business
+opportunity that they want to get into.
+PROFESSOR: So the great innervation of microfinance
+was to provide a market solution to increase and find basically,
+the innovation to increase capital among the poor.
+And they did that.
+So there are innovations that are new cell phones, software,
+and so on.
+Microfinance, if you want, was a process innovation,
+was inspired by what people were doing in the field,
+but was putting it together in like one package.
+The organizational innovations were group lending.
+Although at the beginning, was very central in the Grameen
+basic product.
+And it's sort of mostly gone away,
+with most organizations don't use group lending anymore.
+Dynamic incentives-- so similar to what
+we found in South Africa, where people are given a loan
+and then they get the next loan if they
+reimburse the first one.
+And they can progress and get larger and larger loans.
+The only lending to women is the idea
+that women need the money more because they have less access
+to other sources of credit.
+And they're also more reliable.
+They offer very simple products.
+So typically, it's one loan that's a bunch of money
+that you reimburse with interest in 50 equal installments
+from the first week.
+So I give you 100 plus an interest rate of 20.
+And you separate the 120 into 50 installments.
+And you reimburse that every week.
+The admin cost is much lower, by the fact that people are coming
+together in one place every week to reimburse,
+that the project is simple.
+They don't do any screening of the project or anything.
+They rely, to some extent, on social monitoring,
+and to some extent on this very regular coming.
+They provide very strong incentives
+to the loan officers, both for sourcing clients
+and for actually getting good reimbursement from them.
+They don't pay them very much.
+And there is a huge focus on zero defaults.
+So they don't tolerate defaults.
+The moment they see a risk of a default,
+they will wait and go back to the person, et cetera,
+because they think that there is the possibility that default
+will start snowballing into everyone defaulting
+at the same time.
+
+So the history is that in 1976, Muhammad Yunus
+created the bank.
+He was a Professor of Economics at the University
+of Dhaka in Bangladesh.
+And he started taking field trips with his students
+and saw this woman, and saw that there was a lot of potential.
+And he could lend to them, but then
+kind of over the years, refined this particular product.
+And it's expanded into a worldwide phenomenon.
+In 2016, they had 132 million clients,
+mostly women with very high repayment rate.
+He won the Nobel Peace Prize in the early 2000.
+And now, microfinance Institution
+tried to go further than just credit
+by providing other things, larger individual loans, saving
+products, insurance products, et cetera.
+But there has also been, after this peak of popularity
+in the 2000s, there has been a backlash against microfinance,
+with a documentaries talking about microfinance
+pushing people to suicide, a very negative press
+article appearing, in particular in the early 2010s.
+So you went from complete exaltation of microfinance
+to complete hatred of microfinance.
+And maybe we are somewhere in a much more moderate position
+now, where people don't think it's
+a solution to all the problems in the world,
+but it's also not the worst thing that
+has ever happened to the poor.
+And I think to some extent, the evidence that I'm
+going to discuss now that has mounted over the years,
+has made a difference in helping the world go back
+to this relatively middle of the road position of microfinance.
+So let's start with discussing the question of impact.
+
+Is it a good thing, or is it a bad thing?
+And it's interesting because in microfinance for a long time,
+microcredit organization had no interest in discussing
+the question of impact.
+So why is it-- what was the--
+Julie looked surprised.
+So can someone come up with a reason
+for why if you're a microcredit organization, what
+would be your reasoning to say, I
+don't need to worry about this particular question?
+
+Lucas?
+STUDENT: If there's demand for the product,
+and you can say that it doesn't matter
+because people could rationally make decisions that better
+them.
+So if they want microfinance, then they're
+getting microfinance.
+And microfinance would be helping them.
+PROFESSOR: That is true.
+But for example, if you're giving away textbooks,
+and people say I want--
+and you say, well people seem to want my textbook,
+so what's your problem?
+So there is one more piece of argument you need to make,
+which is different from say, an NGO gives away textbook.
+And they say, well, people are coming and taking my textbook,
+so that must be fine.
+So there is one little difference
+with microfinance to the example of giving away textbooks.
+
+Yeah, Liam?
+STUDENT: They have to repay them.
+PROFESSOR: They have to repay the loans.
+So it's a textbook argument.
+Someone could make an argument if they sold them at a price
+where they are making money or at least breaking even.
+So the argument was microfinance is like look,
+we are just a product.
+We are a product that people buy,
+and that they buy at the price that it costs us to deliver it.
+Because we are making money.
+So Mohammad Yunus has always been very, very, very keen
+to show that Grameen was financially sustainable.
+And at this point, then you're like, just another fact.
+Nobody is claiming that a car manufacturer needs
+to evaluate the causal impact of making cars,
+because people are buying it at the price they cost.
+It's only if you want the government to subsidize
+your car, say, because there are electric cars
+or something like, that you want to show
+the impact on the environment.
+And here, it was the same with microcredit.
+So since we are profitable, we are just
+like any other business.
+As long as we have clients, they must have some value out of it
+sufficient.
+And since we don't require funding,
+we don't need to be accountable to anyone but the clients.
+So that's why for many years, it was impossible,
+as we were growing and trying to evaluate things,
+it was really on the top of my list
+to find a partner to do a microcredit evaluation.
+And I couldn't.
+So what is wrong with that reasoning, if anything?
+Or is that reasoning convincing?
+
+STUDENT: I mean, I think it's like sound to some degree.
+But you could also say people go to loan sharks for money.
+That doesn't mean that loan sharks are good.
+I think there's less--
+like, this is not good.
+But also they maybe have no alternative,
+and that's why there's demand.
+PROFESSOR: Yeah.
+So one question is whether it is in fact good for them.
+So there could be a question of, there is an impact,
+but it's negative.
+And this is what was argued by this documentary that
+came in the 2010s, showing that it pushed people to suicide.
+And so on people are making mistakes
+when they're borrowing from microfinance.
+They're not paying attention to the interest rate,
+borrowing at higher rates than they expect.
+The microfinance are just like the loan shark,
+selling them product with photos that they don't need.
+And the impact is actually negative.
+So people would be better off not having this product,
+to the extent that we should regulate it away out
+of existence.
+So in other words, crack cocaine,
+people also make money in their business,
+and we still think we don't want to have crack cocaine around.
+I'm not saying that microcredit is like crack cocaine.
+But that's the argument that's being made is some--
+we have to look at the whole range of impact.
+If it turns out to be negative, that's a problem.
+And it could be the case, simply because the industry is
+a bit obscuring, obfuscating what they're actually
+interested in, maybe pushing people into getting loans
+they don't need, and so on.
+That's the first argument.
+What would be a second reason that people might still
+want to know the impact of microfinance?
+
+That is something you may or may not know for a fact.
+So if nobody has a second reason, I'll give it to you,
+but maybe you have an idea.
+
+Yeah?
+STUDENT: I think it's just that because there weren't research
+done when random other news that came in that wasn't actually
+back, there wasn't as much real backing
+for the benefits of these.
+So people just started defaulting on their loans.
+So it's not in the interest of the microfinance.
+PROFESSOR: Yeah, so it could be that it's actually,
+so that was more on the strategic point, which
+is strategically, the microfinance
+thought that impact evolution could only
+be bad news for them.
+Because everybody saw that microfinance was great.
+So they didn't want to wipe up the boat.
+And the fact is that, when people think that something
+is great without any empirical backing,
+they can change their opinion quickly.
+And having some empirical backing
+would have helped them, that's true.
+So that's from the strategic point of view,
+of why they should have agreed to have.
+But there is another substantive argument that
+is also being made in the book.
+
+That substantive argument is that
+the microfinance organizations are
+profitable because they operate in an environment that heavily
+subsidizes them.
+And in particular, in India, for example, there
+is something called the priority sector, which forces the bank
+to lend a good fraction of their portfolio,
+40% of their portfolio, to the priority sector.
+And microfinance is part of the priority sector.
+If they don't lend to either small businesses or agriculture
+or microfinance organization, they
+have to lend to the government at very, very low interest
+rate.
+And the bank know that they are pretty
+bad at lending to small firms.
+So they do it, but they lose money on it.
+And they prefer to lend to the microfinance organization
+at 8%, than to the government at 0,
+or to try themselves, to operate a small business lending
+operation that they lose money on
+because there is so much default and non-performing assets
+in the small business sector.
+So the microcredit organization, because of that priority sector
+regulation, have access to very, very, very low interest rate
+themselves.
+They can borrow at very low rate.
+And these rates are de facto subsidized.
+So in fact, the entire society is paying for microfinance
+to make money.
+So they can't say that--
+which may be fine.
+Someone took the decision to put the microfinance
+inside the priority sector, because they
+thought that there was a good reason,
+to think that it was a good thing to do for the poor.
+But the point is the moment you are subsidized,
+then it's like anything else.
+It's like school or immunization or textbooks or so on.
+We need to know what the impact is.
+It's just the subsidy is a bit hidden.
+And then, there is the last point in this slide,
+is the strategic point, which is many realize
+that the impact might be negative.
+PROFESSOR: So there has been a series of randomized control
+trials almost all run around the same time that aim to provide
+evidence on this question.
+And those RCTs became possible precisely
+because the language changed and the organization
+felt, oh, we better have something to say.
+There is a special issue of a journal that
+was published in 2015 with six of these studies, one
+in India, Ethiopia, Mexico, Mongolia, Bosnia, and Morocco.
+And there is one a little bit earlier
+than that which appears--
+excuse me-- which appeared in Science.
+So in these special issues, you have studies that
+are in different continent--
+in Europe, in Middle East, in Asia, in Latin America,
+in South Asia, in Southeast Asia, everywhere.
+There is urban and rural.
+So for example, Ethiopia is a very rural area.
+The study in India is in Hyderabad,
+which is a huge city.
+And they have two kind of randomization,
+one is place displaced based omission,
+which is you just randomize one neighborhood or one village
+and you make the product available and who comes, comes.
+And one is sort of randomization in the bubble,
+which is people are scored, are given a credit score.
+Individuals are given a credit score.
+And then the people who are evidently ineligible
+don't get the loan.
+The people who are obviously eligible get the loan.
+But people who are in the bubble, which is they
+are the borderline, you randomize.
+So that's another innovation of Dean Karlan, who
+is the innovation person for today of making randomization
+possible for businesses.
+Is to say, look for people in credit scores
+that are somewhere in the middle,
+you really don't know what you would like to, whether or not
+you should lend them.
+So why not randomize?
+So the first point is, the take up rate of microfinance
+are not enormous.
+So most microfinance organizations,
+when you ask them when you enter in an area,
+how many people borrow?
+They will tell you 80%.
+That's just a random word-- the focal point, 80%.
+80%.
+But in fact, it's not 80%.
+On average, the first stage is about 10 percentage point
+or so.
+So people are not so excited by the product in practice.
+So why is that a problem from the point of view
+of running an evaluation?
+STUDENT: There can be some sort of selection bias in there
+because 10% is like a really low threshold.
+PROFESSOR: So you definitely would have a selection bias
+if you compared the 10% of people who borrow to people
+in the control villages.
+You cannot do that.
+Because obviously these 10% are not
+comparable to people in control villages.
+So you would need to compare to 10% who
+borrow in control villages, but you don't know who they are.
+So you can't do that.
+So what you need to do instead to avoid that is what?
+
+STUDENT: Just randomly assign people.
+I don't know how you'd do it because if they don't want it
+randomly--
+PROFESSOR: So you cannot give it to them if they don't want it.
+But you can randomly sample people.
+And out of 10 people you sample, one would have borrowed.
+That means that creates two problems.
+One is you really need to survey a lot of people
+because a lot of them--
+your effect on getting microfinance,
+of being assigned to a microfinance village
+is quite low.
+So whatever effect of microfinance,
+basically is going to be divided by 10 in your estimates
+because you're going to compare 100 people out of which 10
+got microfinance, 200 people out of which 0 got microfinance.
+So it's like, you get your effect is
+diluted by a factor of 10.
+So that's a power issue.
+You need a lot of people and a lot of survey.
+And then it's also--
+so that's the main issue, that it leads to imprecision.
+And also, when you have something with very low
+take up, you kind of always are wondering--
+in fact, is this representative of what
+you would have if microfinance was
+much more widely available or more accepted
+or something like that?
+But in a sense, this is the state
+of the world, which is not specific to these places.
+
+So what does this study find?
+
+I'm going to-- so I'm going to first give you
+the overall point.
+Basically, nothing.
+So these studies, study after study after study
+find no impact--
+not positive, not negative, on the average person.
+Now, we have seven studies that were done independently.
+They each have enough power in principle
+to detect some effect in the study.
+But because of the sticker problem,
+they might not be super precise.
+So Rachael Meager, who at the time was a PhD student here,
+was interested in answering two questions.
+One is, can I combine all of these studies
+together to get the effect of microcredit around the world?
+Second, am I able to say whether the results are
+very different from one place to the other?
+Many of you have asked about randomized control trial,
+about the question of external validity.
+If I find a result somewhere, how much
+does that tell me of what I would find elsewhere?
+So here, it turns out we have a result.
+We have a study in Ethiopia.
+Is it informative about what happens in India?
+Well, we should have a way to know,
+because we have the study in Ethiopia
+and the study in India.
+So from these seven studies, can I say--
+first of all, what would be the effect in another country that
+is not in this list, on average depending on the data I have?
+And how confident am I that the results are, in fact,
+similar enough from place to place
+to give me a good sense of microfinance impact anywhere
+in the world?
+The difficulty in answering this question is the following.
+When we see variability from one place to the other,
+it could be both because there is noise.
+And here there would be a lot of noise
+because we don't, because so few people take microfinance.
+So if they happen to be really great in one village by chance,
+it would look good.
+So there is a lot of noise.
+And also because the effect might be different.
+So what Rachel did is to use Bayesian methods to tell us
+whether what is the effect for the next village,
+and what is the variability that I can expect on the effect.
+So basically, to separate the difference
+that I find from place to place between the component that's
+just random sampling noise and the component that
+is telling me the effects are quite different.
+Also, the advantage of doing that is
+that I can now shrink the estimate, which is I
+can for India.
+I have my point estimate for India.
+But I also have all the others.
+And I can say, well, to some extent what
+I find in the other countries is also informative of what
+happened in India.
+And I can use that to some extent
+once I know how much variability there is.
+So that's kind of the effort.
+We don't need to go into the detail of how it worked.
+But we can look at the results she finds.
+So this is across different--
+so this is the expected point estimate with the confidence
+range after shrinkage, so that when you use the other study
+to tell you what the effect is.
+And this is just pulling everyone and doing all this.
+And what you're finding is that basically, there
+is very little effect.
+Zero is here.
+And for nothing is the 95% confidence range
+doesn't include 0.
+So basically, we find no significant impact
+on temptation goods, on revenue, on profit, on expenditure,
+on consumption, or on consumer durables
+across all of these studies.
+The effects are not very negative.
+They're not very positive either.
+Just nothing happens on average.
+
+This is for profit looking at the effect
+for the countries by countries before and after shrinkage.
+So the Philippines was the first study to be done.
+It has a large point estimate and very large standard error.
+When I use the other countries to get some extra information
+for what the effect might be in the Philippines,
+I find something closer to 0 and more precise.
+And basically, this is profits on average.
+We never find any effect on profits.
+So basically, it's not super news for microfinance.
+And when these studies came out, we
+had a big event where we invited microfinance organization
+to present at the World Bank.
+And it was a bit of a kind of wake
+up call for the industry saying wow,
+our product is actually not working.
+And you couldn't have gotten that from one study,
+because you could always say, well, this one study,
+there is that problem, that problem.
+And in particular, ask the question of external validity.
+But here we have all of the studies showing the same thing.
+So that was the bad news.
+The good news is that there seem to be quite a difference
+between two sets of households, the household that had
+a business before and the household that didn't.
+When the household that had a business before microcredit
+came in, we have actually pretty positive effect
+for most countries except Mongolia and Mexico.
+Whereas the houses that did not have a business before
+have very, very tightly estimated zero.
+There is substantial heterogeneity
+in results across people.
+So the study tells us that in general
+for the average boy in the sample
+microfinance does not do very much.
+But there is a majority.
+Some people do succeed.
+And in particular, one measure of success
+is whether or not they had a business before.

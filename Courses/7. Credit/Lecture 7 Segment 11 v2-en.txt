@@ -1,0 +1,164 @@
+PROFESSOR: So that's the first thing.
+So that's the first thing microfinance
+could do is to try to exploit this kind of product,
+to exploit the information that is around to identify
+the true entrepreneur, not assume, as [INAUDIBLE] tends
+to do, that everyone is an entrepreneur,
+but identify who the true entrepreneur are
+and lend money to them.
+The second thing they could do is
+to have a structure of the product that is a bit more
+forgiving to risk-taking.
+And one of the structure that is really not
+encouraging for risk-taking is the fact
+that you need to repay your loan as soon as you get it,
+like the next day.
+So imagine someone who has no money,
+and they want to start a little business making clothes.
+They need to buy the clothes.
+They need to buy the sewing machine.
+And they need to start making them and selling them.
+And it's going to take at least like two or three months
+to get that going.
+But they need to be able to reimburse
+their loan from the first week.
+So instead of doing that, someone could say,
+well, I'm not going to make the clothes.
+I'm just going to buy them off the market and resell them.
+So it's a business which has a lower margin
+but has an immediate turnover.
+Or likewise, if you want to buy a loan to get a [INAUDIBLE]
+or to get a cow, the cow only produce milk part of the time.
+What do you do the rest of the time?
+So maybe you do-- you can't really
+have a cow on a microcredit loan.
+So the product is not very good.
+They do that because it's much simpler to administer.
+It can be made cheaper, and therefore, they
+can lower the administrative cost.
+So in this experiment, what they do
+is that some people get normal contract with the repayment
+starting immediately.
+Some people get two months grace period
+before they have to repay.
+So what would you expect, both on the household side
+and on the microfinance organization side
+from giving this grace period?
+[INAUDIBLE]?
+STUDENT: People Might be able to make risky investments
+because they have more time for it
+to start creating some money.
+PROFESSOR: Yeah, so people would make
+more risky investment, which would increase, maybe,
+their profit.
+More risky, but they would do it because it's worthwhile-- more
+risky but more rewarding.
+So you might increase profit and consumption and so on.
+And from the point of view of the organization?
+STUDENT: Those might have higher default rates.
+PROFESSOR: You might have higher default rate.
+So let's look whether this is what we find.
+So this is a grace period dummy.
+You can see that the people who have the loan
+spend more on their business.
+
+And they spend less on nonbusiness spending.
+So they use more of the loan for business
+as opposed to consumption.
+And they're more likely to create a new business that
+didn't exist before.
+So this is very much your idea.
+And then, in term of default, they are--
+more likely, this is full loan not repaid.
+So they are less likely to repaid within eight weeks,
+within 24 weeks, within 52 weeks.
+And they have greater amount outstanding within 50 weeks
+of the due date.
+So, basically, they do default more.
+So what do you think the MFI does when they see this result?
+
+STUDENT: They don't like it [INAUDIBLE]..
+PROFESSOR: Thank you very much, but this is over
+because we are not in the business of making more profit.
+We are in the business of not losing money.
+And that's kind of the tension that
+exists in the microfinance world is
+this pure hatred for default, which
+leads to this super, super, super, super safe behavior,
+at the cost, in a sense, of the growth of their clients.
+So they aren't very good-- they are not
+very good at identifying people with good business opportunity.
+They are giving them a product that is stifling
+of business entrepreneurship.
+And so, as a result, maybe it is not surprising
+that the microcredit product, the way
+it is in the standard, vanilla, [INAUDIBLE] inspired product,
+hasn't really generated much of business growth.
+Which is not to say it's not being helpful
+because the point remains that people
+borrow at these high rates.
+And they do something with the money.
+They finance their weddings.
+They buy TV.
+They do their finance consumption good
+that might be very, very hard for them to get otherwise.
+But in a sense, they tend to use it
+as a very expensive way to save rather than as a way
+to finance product.
+And if that's what people need then, in a sense,
+you would think--
+when [INAUDIBLE]---- design for them savings product and then
+completely redesigned microfinance idea to really
+focus on the entrepreneur and on these entrepreneurship
+opportunities that do exist but need to be--
+are few and far between.
+You can't just shower the money around and hope
+to [INAUDIBLE] on them.
+You need to go and fish for them and nurture
+them, which require a completely different approach
+of the poor household finance.
+
+True or false? The poor default on their loans from moneylenders quite often; this is understandable considering the extremely high interest rates, highly variable incomes, and lack of profitable investment opportunities.
+
+
+
+True
+
+False
+
+
+The De Mel et al. (2008) study that gave cash to small businesses in Sri Lanka is evidence that the business of the poor…
+
+
+
+Have no good investment opportunities.
+
+Have some good investment opportunities.
+
+Are generally not viable.
+
+
+"Microfinance organizations are just like any other firm and don’t need their impact evaluated." What are some reasons why this argument doesn’t quite stand up? Select all that apply.
+
+
+
+Microfinance organizations are sometimes only profitable because they benefit from government subsidies.
+
+Microfinance organizations are usually among the most beloved institutions in many poor communities; taking them away would result in unrest.
+
+People might not understand the “price” (i.e., the interest payment) of the product they’re purchasing.
+
+
+Microfinance organizations typically require clients to start repaying immediately after receiving the loan. But Field et al. (2013) found that if they allowed clients to take a two-month “grace period” before they had to start repaying, the clients invested more money in their businesses and made much higher profits, on average. So why, after seeing these results, did microfinance organizations not adopt this policy?
+
+
+
+Survivorship bias creates a selection bias that taints the results: clients made more risky investments in their business, increasing likelihood of bankruptcy. If you take into account all the people who went out of business, the average profits are actually decreased by grace periods
+
+It also increased default rates, and microfinance organizations’ incentives are to minimize default rate above all else.
+
+The clients didn’t like the grace period, and missed the structured routine of the standard repayment schedule.
+
+
+
+

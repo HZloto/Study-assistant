@@ -1,0 +1,226 @@
+PROFESSOR: Today we are going to talk about risk and insurance.
+
+So why talk about risk?
+Risk is a central element of the life of the poor.
+50% of the urban global poor run an agricultural--
+run a non-agricultural business.
+And 30-98% of the rural poor have a farm,
+so they run a business, too, depending
+on the country we looked at.
+Those who don't have a business also bear some risks.
+Of course if you run a business, you run all the risk.
+If the prices go up, you make less profit.
+If demand goes down, you make less sales.
+Even those who don't have a business
+are often in very risky situations
+because they don't have a salary that pays them a regular wage.
+Instead, they are working on a daily basis.
+So they can easily lose their job.
+And even if they don't lose their job,
+their wage could be set on a day by day.
+So the wage volatility is much higher in poor countries
+than it is in rich countries.
+So to give you an example from work by [INAUDIBLE],,
+you can see that the richer the country--
+this data is a little bit aged.
+This is data from for the '80s, but it's still true today.
+The richer the countries and the smaller the wage variability.
+So what's the wage variability?
+It's the day to day fluctuation in how much you're paid.
+So of course, if you're paid monthly, that's much stability.
+But more broadly from mostly people's wage stay the same
+or it only goes up.
+And in fact, in rich countries which
+are very much downward rigid, so they almost never go down.
+And if anything, go up.
+So that's the first aspect of volatility.
+Of course, we know from watching the news lately
+that food prices are also highly volatile.
+These days they are particularly high.
+If we look at the global food prices,
+the food prices have gone up tremendously in '21 and again
+in 2022.
+So that creates a new source of risk,
+both on the farmer side because when it's low
+and their product are not so valuable,
+but particularly on the consumer side
+because when prices are high, your money goes
+a little less far.
+And the thing is, food prices are
+high in developing countries because they reflect
+very high input costs, in particular,
+the cost of fertilizer, which is mainly made
+of energy and therefore, in a sense, oil.
+So the fertilizer price very closely track
+the prices of oil.
+And therefore, the input prices have gone up
+very much, which is one reason why
+the food prices have gone up.
+So the farmers are not better off
+because the food prices are high.
+But the consumers are worse off.
+And everybody else is poorer when the food prices are high.
+In fact, so the FAO is trying to estimate
+how many people at any given point in time
+are undernourished or are on the border of starvation.
+It's not starvation, but people who are close to that.
+And after tremendous progress until roughly the pandemic,
+where we see the number of people who are undernourished
+going down and down every year, there
+has been an increase since the pandemic, which
+has continued very much with the war in Ukraine
+and the increase in the food prices.
+These are probably the type of risk
+that you're more accustomed to hear
+about when we think about the life of the poor
+and the variability of their lives.
+But really, it goes on top of a life that
+normally is pretty risky.
+You are at risk of bad weather, a poor monsoon and your harvest
+is gone.
+For example, it was very hot in India last June and May.
+Conversely, it's flooded in Pakistan.
+Of course, there is a direct impact
+of the floods on people's lives.
+But it is also impact on the harvest and their businesses
+and so on.
+So there is a variability of environment.
+There is the variability of global food prices.
+There is a variability of demand, global demand
+or local demand for various goods.
+And unlike people in richer countries that
+are, to some extent, protected, the poor
+just get hit by that directly.
+So what does it do in--
+what does this type of shock--
+how does it interact with the poverty trap
+argument we listen to?
+So if you read the chapter on risk and insurance in the book,
+you would have heard about this woman, [INAUDIBLE],,
+who has a clothing business.
+And a small business of making clothes
+is very much an estuary business.
+Why?
+Because basically every time you reach a new threshold,
+you could become more productive and do more.
+So for example, you could start by just sewing stuff yourself.
+And then if you have enough money,
+you can jump a step with a fixed investment,
+buy a sewing machine, and have a slightly bigger business.
+And then there might be another step where
+you can buy a second machine, or you can buy an iron
+or you can move to different premises
+so you can hire more workers.
+So each of these things create a jump
+in the production function, which is a bit akin to--
+which is a bit akin to a ship, where
+you have a part of the production that's just not
+very, very productive.
+Here I wrote it concave, as we had in the ship.
+But it could even be like this.
+And then suddenly you have a big jump.
+If you manage to invest enough, suddenly you do more.
+So what happened to her is that she was doing pretty well.
+She was on the right side of the intersection.
+And then there was a theft.
+So this sets her back so much that then she
+isn't able to accumulate enough to put her business back
+in the trajectory that it was before.
+So to buy a second sewing machine,
+you need to accumulate enough to make this big, large investment
+or to move places, similarly.
+So if you are not able to do that, then you might,
+your business might remain very small.
+And you're simply not earning enough to make it worthwhile
+and to go above the sort of subsisting
+level of the business.
+So in the s-shaped world, this uncertainty
+that the risks are facing can not only just
+create fluctuation in how well they
+are doing at the point in time, but this fluctuation
+can have a permanent impact.
+And it's definitely something that many economists worried
+about in the context of the COVID-19 crisis,
+is that not only you would find people temporarily
+poor because they had to shut down their business
+during the lockdowns.
+But many of those people who have
+to shut down their business temporarily
+will never be able to climb back because it's
+kind of a lucky strike that allowed
+them to be above the threshold of the poverty trap.
+So this remains to be seen whether the economy
+and the individual trajectory post COVID-19
+recover quickly or not, because COVID-19 has immediately
+be followed by other economic shocks, which
+have so far prevented anybody from really catching up.
+So that is the first.
+That is one way in which this riskiness overlaps with level
+of why risk is not only the poor are exposed to more risk,
+but they are exposed to risk in settings which make themselves
+already different from what we experience in richer countries.
+Another way and where it might become--
+where it can become pretty dramatic
+is that when things go poorly, you
+might find yourself in a situation
+where you don't have enough to invest
+in everyone, to feed everyone.
+So when things go very poorly for you,
+when there is a very big negative shock,
+you lose your job or the harvest is bad,
+nobody needs someone to help them work in the field.
+And you need suddenly in the S-shape world
+it could be that it makes if you were
+to spread equally the resources in the family,
+nobody would have enough.
+So you choose to concentrate whatever
+little you have on some people.
+And then some people in a household
+find themselves completely abandoned.
+So evidence of that--
+there are two studies, at least, to show some evidence of that.
+One is an older study that looks at the impact of bad rainfall
+years on girls' survival.
+And it shows that in good rainfall years--
+this is in India--
+where the monsoon has been good, harvest is good,
+boys and girls have just the same chance
+to survive past their first year.
+But if a girl is born just before a bad rainfall year,
+they are less likely--
+she is less likely to survive than her brother or another boy
+in another family.
+Because in good years, people would kind of
+like to feed everyone.
+But when things become very tight,
+they make a choice that goes towards the boys.
+So the discrimination gets accentuated in bad years.
+So it's another way in which the risk that the poor experience
+sort of accentuate bad situations.
+It makes them even worse.
+Another example of that is a paper about Tanzania
+that shows that in drought years older women in villages
+are more likely to be called witches.
+And of course, this could be because people
+feel that, indeed, there has to be an explanation
+for this bad situation.
+And you try to look for a scapegoat.
+But when you think about it, that's
+a pretty convenient scapegoat.
+Because maybe the older women are not
+the one who are the most productive in the economy.
+So normally you would feed them.
+But in bad years, they become too
+hard to sustain for their families or for the village.
+So they are cast away as witches.
+And in fact, this paper, which is a paper by Edward Miguel,
+shows that the witches are often denounced.
+The people who are calling someone a witch
+are often people from their own family,
+who are the ones who are feeding them,
+who are the ones who said this she must be the witch.
+So just two example about how this risk overlays
+with s-shaped curve, either to have
+permanent impact of temporary shocks,
+or this unequal sharing of poverty that
+accentuates existing discrimination in households.

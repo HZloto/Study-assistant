@@ -1,0 +1,184 @@
+
+PROFESSOR: So this is for earnings.
+So if you stopped at earnings, you might think, well, it's OK.
+It increases-- four years of secondary school
+increased education, increased earnings a little bit,
+but not tremendously.
+A 12% increase is maybe not that large for four years
+of education.
+I mean, it's for one fourth of the kids.
+So for on average, one year of education.
+But we can look at the other benefits now.
+So part of the reason why these benefits are low
+is that this financial benefit is, of course,
+once the kids are educated, and they
+start being in the labor market, the labor market has
+to have a job for these people.
+And the economy in Ghana at the time--
+and now, of course, it's even worse.
+But the economy of Ghana over that period
+was went a little bit from crisis to crisis.
+So it was perhaps not the most conducive labor market
+for people to use these new skills
+that they acquired in schools.
+So the effect of education on earnings
+is maybe less of a done deal than we might have expected.
+Now, let's look at the other type of things.
+One is, I think Lucas mentioned the possibility
+of delayed childbearing for women.
+And, in fact, this is what you find here.
+The woman in the control group, at every year,
+even starting in 2009 when they are still in school,
+but certainly by 2013, 2015, '16, '17 are--
+the women and the control group are
+more likely to have had a kid--
+to have started childbearing.
+So if you went to school in 2018,
+it means by 2013 you're 17 years old.
+So you are still a teenager.
+You're less likely-- you're probability to have
+a child is 8% point lower if you're in the treatment
+group, 9% here, 10% here.
+And then it starts converging.
+And by 2022, the treatment group catches up
+to have at least one child, although there
+are fewer children total.
+So the idea that, interestingly, almost none of these children
+are wanted, as people say.
+Did you want to have a kid at the time?
+And they're like, no.
+So this is a reduction not only in the number of children
+but number of unwanted pregnancy, which creates,
+of course, welfare issues for the mom
+and for the children themselves.
+Second important result is child mortality.
+So, fortunately, most of the children who were born--
+so now our kids--
+these teenagers are not teenagers anymore.
+They almost all have children.
+So we have a whole sample of children--
+most of them fortunately have survived
+until we observed them.
+But 5% of them have died in the control group.
+So you can see the survival rate at any age
+is 95%, with 96% at one year and 94.9 at three years.
+And that's a 5% child mortality rate.
+In the treatment group, the kids is 2.4% more likely
+to be alive, that means 2.4% less likely to be dead.
+So it's a reduction in child mortality
+by half for winning the scholarship,
+so for a chance of having gone to secondary school of only
+about 25% larger.
+So it's a very large impact which
+you start seeing at one year and starts
+even more at three years.
+That's by 2019.
+2022, the results are similar.
+21% increase in the probability that the child is alive.
+And 20-- mainly driven by survival till three years.
+And no impact on the boys at all.
+So there is no impact on the children of the boys.
+All of the impact is coming from the children of the girls.
+And the third result is a cognitive scores.
+So this we did with the--
+working with the child psychologist at Harvard
+called Liz Spelke, who is a Director of the Child
+Development Lab, where they do all sorts of fun studies.
+I'm going to show you some other examples of those studies
+later today, where the kids are playing
+all sorts of games, et cetera.
+So she developed a series of child age-appropriate,
+culture-appropriate, context-appropriate cognitive
+tests for these kids.
+And we test the kids in a very narrow age window
+to control for the fact that the control kids tend to be older.
+And what you see is that looking-- so we test them
+either at 18 months, three years, five years, or seven
+years.
+At 18 months and three years, we don't see much of an effect
+yet.
+At five years, the students-- the kids of the winners
+have a 0.3 standard deviation higher test scores.
+So it's in standard deviation.
+So think of moving from the median
+to the 75th percentile of the distribution roughly.
+And by 7.47 standard deviation-- so
+think of that as moving till an even higher percentile
+in the distribution.
+So these are large effect.
+Again, remember, it's a chance of about 25%
+chance increase in the chance of completing secondary school.
+So if you multiply it by four, it's
+almost two standard deviation of gain for the winners.
+Looking at the children of the male, zero impact.
+So that's the one study on the benefits of education, which
+is perhaps the most robust that I know at this point because
+of the randomization taking place a long time ago
+and the ability to follow the kids--
+of the kids up to today, and to follow their own learning,
+and their forgetting the whole trajectory of what
+it is to get an education.
+And you can see, if we are looking just
+at the monetary benefits of education,
+it might not be worth it financially
+for government to finance education,
+just in term of monetary benefits.
+But if you now take into account the child mortality benefits
+and you value each life as its price for a statistical value
+of life, then it becomes a great investment
+from the point of view of the government
+because the cost per life saved ends up being much,
+much lower than the value of a statistical year of life
+as we are using in general calculation.
+So it seems that-- so it becomes suddenly a very valuable
+proposition to finance education.
+Moreover, you can compare how much
+it costs you to save a life to how much it costs you by,
+for example, subsidizing immunization
+with lentils or with cash, or paying for bed nets,
+or paying for prophylactic treatment of malaria.
+And it is more expensive, but not by that much.
+It is in the same order of magnitude
+to pay for scholarship just in term [? of girl ?] survival.
+So including this non-earnings benefit completely
+changes the story.
+Of course, there is an interesting puzzle
+of why it's only the mother's education that matters.
+So do you have suggestions for why it's only the mother's
+education that matters?
+
+Yeah.
+STUDENT: It may be they're the ones who
+are primarily responsible for the upbringing of the children.
+So they pass on more of their, I guess, children are at home
+and they would just naturally learn from the mother more?
+PROFESSOR: Absolutely.
+So the mothers end up-- so there are several things here.
+It's one, the mother end up being the primary caregiver.
+And when you look at mechanism for this increase in education,
+the way it works is, it's not that the kids are
+more likely to be enrolled.
+It's not that they live in much better material condition.
+The main mechanism we seem to find
+is that the caregiver is spending more time
+talking to the kids, and sharing books with the kids,
+and giving them permanent stimulation.
+And so, that happens--
+that's the educated mom.
+Now, with the boys, they could go and, because they
+are educated, marry a more educated mother
+or woman who would become a more educated mother and caregiver.
+But, in fact, they don't.
+So, interestingly, when we look at the partner of these kids,
+the partner of the educated girls
+are themselves more educated boys than in the control group.
+But the partner of the scholarship winners
+among the boys are not more educated women.
+So the women go for what's called
+assortative matching, which is if they are more educated
+themselves, their partner is also more educated,
+but the boys do not.
+So that's one of the reasons why it's the female parent who
+is the caregiver, and educating the boys
+doesn't give them access to more educated caregivers,
+or they don't choose more educated caregivers.

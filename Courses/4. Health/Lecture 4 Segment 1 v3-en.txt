@@ -1,0 +1,135 @@
+PROFESSOR: Today we are going to be talking
+about health and in particular about how people decide
+to invest in health and in particular preventive health
+and set up the stage to think also about how they are served.
+What's the market for health?
+What's the quality of health?
+What's the quality of public and private health
+options and so on?
+Let's start with a recap from the last lecture.
+So if you remember from last time,
+we saw that nutrition based poverty trap can arise
+but only if there is a very strong relationship
+between income and nutrition on the one hand
+and between nutrition and income on the other hand.
+So basically, what you need is the inherited
+income or the income you're starting in one period.
+If you inherit x or you start your day with x,
+you need to end up with more than x at the end of the day.
+So you need at some point that there is a very steep segment
+of the curve that is going to cross the 45 degree
+line from below.
+Otherwise, even if there is this double relationship that
+creates a mapping between today's income and tomorrow's
+income, if it's shallow enough, then that's
+not going to generate a poverty trap.
+And then what we saw last time in Professor Schilbach's
+lecture is that even when you control for endogeneity,
+we do find a pretty robust relationship of food
+expenditure to total expenditure.
+But the elasticity is below 1.
+It's about 0.8.
+So what this means is that if I increase your income by 10%,
+I increase your food expenditure by 8%.
+And in addition, not only this food expenditure
+is not going to be 100% additional calories,
+because how is it going to be divided?
+If I spend more on food, I'm going to spend more
+across two different things.
+What are these two things?
+
+Olivia.
+STUDENT: One of them was meat.
+PROFESSOR: Right.
+So not just meat, but generally calories
+that are more expensive.
+So when you're very poor, you're going to try and get--
+to buy yourself the cheapest bread and find
+nutritious food that are cheap.
+And when you become a bit richer,
+you can afford to buy food that is
+a little bit more expensive for getting the same nutrition.
+And roughly a rule of thumb is that it's
+divided about half and half.
+So if I increase your income by 10%,
+I increase your food expenditure by 8%.
+And this 8% is in turn divided into about 4%
+extra calories and 4% more expensive calories.
+So that gives us an elasticity that is closer to 0.4.
+Meanwhile, we have a relationship
+between food expenditure and productivity
+that is also positive.
+But the best we can tell is it's maybe again around 0.4.
+So the product of the two is going
+to be 0.016, which is very, very, very
+far cry from being 1.
+In other words, when I increase your income by 10%,
+I'm going to increase your productivity via this nutrition
+productivity channel just by 1.5% or so.
+So it is hard to imagine that we will
+be able to generate a nutrition based poverty trap based
+on just this phenomenon in general.
+It could still be moments where people
+are near starvation or at starvation
+where it will matter.
+And certainly in history, there has been
+moment where it had mattered.
+For example, Robert Fogel speaks about medieval Europe
+and points out that there were many people who
+were just begging, beggars.
+And one interpretation of seeing so many beggars in the city
+is that those were people who were actually
+too weak to do any meaningful physical work.
+So they were probably stuck in this exact nutrition
+based poverty trap.
+But today in the world, even in poor countries,
+in this kind of normal course of time,
+one can imagine that actually that may not be going on.
+But child nutrition might be a mechanism through which
+a poverty trap might emerge.
+This is because at one time, you do a one time
+investment in the child or could it
+even be a one time investment in the pregnant mother.
+So it's a child while in utero.
+That can generate long term impact not just
+one time but year after year after year after year.
+It's not the same as eating well today.
+That's going to make you productive.
+It's just changing your way of being in general.
+So one way to see it is to think about the capacity curve.
+You remember the capacity curve.
+It links my productivity to how much I consume.
+So how could we think about the childhood nutrition
+with respect to the capacity curve?
+So what we've seen before is that if you eat more today,
+that's movement along the curve.
+How should I think about child nutrition
+in the context of the capacity curve?
+Lucas?
+STUDENT: Could it be in terms of shifting the entire curve?
+PROFESSOR: Exactly.
+And where would you shift it?
+STUDENT: You would shift it so that there
+would be more output tomorrow for any given level today.
+PROFESSOR: Exactly.
+So we would shift it either to the left.
+So that's this big thing is coming up earlier.
+So it needs less to be in the good range, less income
+to be in the good range.
+Or you could shift it such that it's
+tilted upwards a little bit such that at any level,
+you're getting more productivity for the same amount
+of nutrition you're getting.
+So basically, we're talking about child nutrition
+as changing the machine that we are,
+making you more able to benefit from the nutrients
+that you're going to get your entire life.
+So if that's the case, that really
+changes the ball game altogether,
+because this very small amount of this increase in nutrition
+in the one time is going to generate dollars year
+after year after year, which could be
+many, many, many, many dollars.
+So the return to that investment would suddenly turn out
+to be much larger than 1.
+So let's see whether we can find something like that.

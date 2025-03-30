@@ -1,0 +1,2057 @@
+PROFESSOR: Today we are going to talk about risk and insurance.
+
+So why talk about risk?
+Risk is a central element of the life of the poor.
+50% of the urban global poor run an agricultural--
+run a non-agricultural business.
+And 30-98% of the rural poor have a farm,
+so they run a business, too, depending
+on the country we looked at.
+Those who don't have a business also bear some risks.
+Of course if you run a business, you run all the risk.
+If the prices go up, you make less profit.
+If demand goes down, you make less sales.
+Even those who don't have a business
+are often in very risky situations
+because they don't have a salary that pays them a regular wage.
+Instead, they are working on a daily basis.
+So they can easily lose their job.
+And even if they don't lose their job,
+their wage could be set on a day by day.
+So the wage volatility is much higher in poor countries
+than it is in rich countries.
+So to give you an example from work by [INAUDIBLE],,
+you can see that the richer the country--
+this data is a little bit aged.
+This is data from for the '80s, but it's still true today.
+The richer the countries and the smaller the wage variability.
+So what's the wage variability?
+It's the day to day fluctuation in how much you're paid.
+So of course, if you're paid monthly, that's much stability.
+But more broadly from mostly people's wage stay the same
+or it only goes up.
+And in fact, in rich countries which
+are very much downward rigid, so they almost never go down.
+And if anything, go up.
+So that's the first aspect of volatility.
+Of course, we know from watching the news lately
+that food prices are also highly volatile.
+These days they are particularly high.
+If we look at the global food prices,
+the food prices have gone up tremendously in '21 and again
+in 2022.
+So that creates a new source of risk,
+both on the farmer side because when it's low
+and their product are not so valuable,
+but particularly on the consumer side
+because when prices are high, your money goes
+a little less far.
+And the thing is, food prices are
+high in developing countries because they reflect
+very high input costs, in particular,
+the cost of fertilizer, which is mainly made
+of energy and therefore, in a sense, oil.
+So the fertilizer price very closely track
+the prices of oil.
+And therefore, the input prices have gone up
+very much, which is one reason why
+the food prices have gone up.
+So the farmers are not better off
+because the food prices are high.
+But the consumers are worse off.
+And everybody else is poorer when the food prices are high.
+In fact, so the FAO is trying to estimate
+how many people at any given point in time
+are undernourished or are on the border of starvation.
+It's not starvation, but people who are close to that.
+And after tremendous progress until roughly the pandemic,
+where we see the number of people who are undernourished
+going down and down every year, there
+has been an increase since the pandemic, which
+has continued very much with the war in Ukraine
+and the increase in the food prices.
+These are probably the type of risk
+that you're more accustomed to hear
+about when we think about the life of the poor
+and the variability of their lives.
+But really, it goes on top of a life that
+normally is pretty risky.
+You are at risk of bad weather, a poor monsoon and your harvest
+is gone.
+For example, it was very hot in India last June and May.
+Conversely, it's flooded in Pakistan.
+Of course, there is a direct impact
+of the floods on people's lives.
+But it is also impact on the harvest and their businesses
+and so on.
+So there is a variability of environment.
+There is the variability of global food prices.
+There is a variability of demand, global demand
+or local demand for various goods.
+And unlike people in richer countries that
+are, to some extent, protected, the poor
+just get hit by that directly.
+So what does it do in--
+what does this type of shock--
+how does it interact with the poverty trap
+argument we listen to?
+So if you read the chapter on risk and insurance in the book,
+you would have heard about this woman, [INAUDIBLE],,
+who has a clothing business.
+And a small business of making clothes
+is very much an estuary business.
+Why?
+Because basically every time you reach a new threshold,
+you could become more productive and do more.
+So for example, you could start by just sewing stuff yourself.
+And then if you have enough money,
+you can jump a step with a fixed investment,
+buy a sewing machine, and have a slightly bigger business.
+And then there might be another step where
+you can buy a second machine, or you can buy an iron
+or you can move to different premises
+so you can hire more workers.
+So each of these things create a jump
+in the production function, which is a bit akin to--
+which is a bit akin to a ship, where
+you have a part of the production that's just not
+very, very productive.
+Here I wrote it concave, as we had in the ship.
+But it could even be like this.
+And then suddenly you have a big jump.
+If you manage to invest enough, suddenly you do more.
+So what happened to her is that she was doing pretty well.
+She was on the right side of the intersection.
+And then there was a theft.
+So this sets her back so much that then she
+isn't able to accumulate enough to put her business back
+in the trajectory that it was before.
+So to buy a second sewing machine,
+you need to accumulate enough to make this big, large investment
+or to move places, similarly.
+So if you are not able to do that, then you might,
+your business might remain very small.
+And you're simply not earning enough to make it worthwhile
+and to go above the sort of subsisting
+level of the business.
+So in the s-shaped world, this uncertainty
+that the risks are facing can not only just
+create fluctuation in how well they
+are doing at the point in time, but this fluctuation
+can have a permanent impact.
+And it's definitely something that many economists worried
+about in the context of the COVID-19 crisis,
+is that not only you would find people temporarily
+poor because they had to shut down their business
+during the lockdowns.
+But many of those people who have
+to shut down their business temporarily
+will never be able to climb back because it's
+kind of a lucky strike that allowed
+them to be above the threshold of the poverty trap.
+So this remains to be seen whether the economy
+and the individual trajectory post COVID-19
+recover quickly or not, because COVID-19 has immediately
+be followed by other economic shocks, which
+have so far prevented anybody from really catching up.
+So that is the first.
+That is one way in which this riskiness overlaps with level
+of why risk is not only the poor are exposed to more risk,
+but they are exposed to risk in settings which make themselves
+already different from what we experience in richer countries.
+Another way and where it might become--
+where it can become pretty dramatic
+is that when things go poorly, you
+might find yourself in a situation
+where you don't have enough to invest
+in everyone, to feed everyone.
+So when things go very poorly for you,
+when there is a very big negative shock,
+you lose your job or the harvest is bad,
+nobody needs someone to help them work in the field.
+And you need suddenly in the S-shape world
+it could be that it makes if you were
+to spread equally the resources in the family,
+nobody would have enough.
+So you choose to concentrate whatever
+little you have on some people.
+And then some people in a household
+find themselves completely abandoned.
+So evidence of that--
+there are two studies, at least, to show some evidence of that.
+One is an older study that looks at the impact of bad rainfall
+years on girls' survival.
+And it shows that in good rainfall years--
+this is in India--
+where the monsoon has been good, harvest is good,
+boys and girls have just the same chance
+to survive past their first year.
+But if a girl is born just before a bad rainfall year,
+they are less likely--
+she is less likely to survive than her brother or another boy
+in another family.
+Because in good years, people would kind of
+like to feed everyone.
+But when things become very tight,
+they make a choice that goes towards the boys.
+So the discrimination gets accentuated in bad years.
+So it's another way in which the risk that the poor experience
+sort of accentuate bad situations.
+It makes them even worse.
+Another example of that is a paper about Tanzania
+that shows that in drought years older women in villages
+are more likely to be called witches.
+And of course, this could be because people
+feel that, indeed, there has to be an explanation
+for this bad situation.
+And you try to look for a scapegoat.
+But when you think about it, that's
+a pretty convenient scapegoat.
+Because maybe the older women are not
+the one who are the most productive in the economy.
+So normally you would feed them.
+But in bad years, they become too
+hard to sustain for their families or for the village.
+So they are cast away as witches.
+And in fact, this paper, which is a paper by Edward Miguel,
+shows that the witches are often denounced.
+The people who are calling someone a witch
+are often people from their own family,
+who are the ones who are feeding them,
+who are the ones who said this she must be the witch.
+So just two example about how this risk overlays
+with s-shaped curve, either to have
+permanent impact of temporary shocks,
+or this unequal sharing of poverty that
+accentuates existing discrimination in households.
+PROFESSOR: But nonetheless, you can
+see that there are all these limits to informal insurance.
+So the question is, why should the poor do it themselves?
+Why wouldn't there be formal insurance?
+So the magazine, Forbes, called microinsurance and unpenetrated
+natural markets.
+The poor need insurance.
+We've discussed it.
+Nobody can pay very much for insurance,
+but there are many people, so someone
+should be able to make money out of selling insurance
+to the poor.
+And yet, they don't.
+
+The attempt at providing things like health or weather
+insurance by for-profit company has been disappointing.
+If you remember, at the actual fair price, only 40% of people
+want insurance.
+But really, if you wanted to run an insurance,
+you'd have to share--
+to charge more than the actual fair price.
+You would have to charge more something like 14 CDs,
+and at 14 CDs, less than 10% want it.
+So why is that?
+
+Well, one reason is that providing insurance
+is inherently difficult. The first reason why it's difficult
+is because of moral hazard, the same moral hazard
+we saw before, which is the temptation that once you're
+insured, you're going to behave a little bit differently.
+The second problem is adverse selection,
+which is the people who are insured might know something
+that the insurer does not know.
+And the third is simply the risk of outright fraud
+that you can find in insurance.
+So let's take, for health insurance,
+how we might have all of this moral hazard,
+adverse selection, and fraud.
+So moral hazard, we've already seen that people already
+like curative care too much, so if, in addition,
+they don't have to pay anything for their care,
+they might get too much care.
+
+We also have seen that they get too little preventive care.
+They might get even less preventive care
+if they know that if something goes wrong,
+they will be insured against it anyways.
+So that's example of moral hazard
+in the case of health insurance that insurers
+are worried about.
+Another type of things insurers might be worried about
+is adverse selection.
+Suppose that-- and this is the big debate
+with the pre-existing conditions,
+is suppose that I know something about my health
+that the insurer doesn't know.
+Then if I know that it's something
+that means that I'm likely going to have large health
+expenditure very soon, I might be particularly wanting
+to sign up.
+So if the insurer doesn't know, then it's
+possible that they precisely don't
+want to insure the people who most want to be insured,
+and they have no way to measure that.
+And the third problem is fraud, which
+is that, perhaps, how do you prevent without very
+good regulation enforcement, how do you prevent doctors
+from charging for services which they do not actually perform?
+
+So what's the solution?
+The solution is to offer super simple product.
+To avoid moral hazard and fraud, you
+will only offer catastrophic health insurance
+so people do not break their leg because they have insurance,
+and they do not avoid accidents because they have insurance.
+So the type of product that tend to be offered in developing
+countries are hospitalization insurance, usually,
+in a networked hospital which has been vetted before.
+So you avoid both the fraud and the moral hazard
+of a lot of overconsumption of health care.
+So this is very partial insurance you're going to get.
+You're only insured against big things.
+And that, too, often, the insurance
+put a cap on how the big things can
+be so you're sure to not have to pay too often to very
+specific facilities where you control the pricing,
+and there is a limit on how much people are insured for.
+So that limits the exposure of the insurance company.
+To avoid adverse selection, you can make the insurance
+compulsory for a pre-selected group of people, which
+has nothing to do with health.
+So for example, it became fashionable
+at some stage to offer--
+for microcredit organization to offer
+micro-- to force their clients to take health insurance as
+well.
+So then the idea is that they've come for the credit,
+and then, they get the insurance as well as additional benefit
+that they actually have to pay for, but that's not a choice.
+Now, the risk is that they all run away
+from this, from the credit.
+So you could still get adverse selection in the living margin.
+
+So that's an example for health insurance.
+And you can see that that leaves you
+with products that are really very, very, very
+imperfect, where the coverage is going
+to be pretty limited, where you can use the insurance is going
+to be very limited, and a lot of people
+who don't happen to belong to an employer
+or school or a specific job end up being covered.
+So if that reminds you of the US situation pre-Obamacare,
+that's not an accident.
+This is exactly the same type of issues
+that the US is grappling with, was its health insurance.
+Another example of simple--
+of simple insurance to respond to potential--
+to these issues of moral hazard and adverse selection
+is crop insurance.
+So as we say, crop insurance we've seen already discussed.
+The crop insurance could be prone to a moral hazard
+and adverse selection.
+Someone who knows to be insured might exercise less effort,
+not take care of their crop.
+Or you could choose a insurance for a field that
+has a moral hazard problem.
+On the adverse selection side, if you
+know that the particular field is prone to disaster,
+you might insure that field and not
+insure the one that is always growing well,
+so that creates this potential for adverse selection
+and moral hazard if you were to give people a fully
+well-formed insurance process.
+So instead, what you have, instead of a proper crop
+insurance, you can--
+insurers tend to offer the type of product
+we've seen in Ghana, where they offer rainfall index based
+on a nearby weather station.
+People can buy as much or as little as they want.
+You can not have moral hazard.
+You can not have adverse selection.
+You can not have fraud, no administrative costs.
+So that seems to be like, the ideal product.
+PROFESSOR: But the problem is that nobody wants it.
+So even though it's the ideal product,
+it's not one that anybody is interested in buying.
+At some point in the sort of social business circle,
+it was all the rage.
+People were coming up with different products
+based on satellite.
+And so this, that, and the other.
+But basically, it's not something
+that anybody ever really bought at full price.
+So why is that?
+So actually, why is that?
+You have suggestion before I put on the slides?
+
+Why would people not buy this type of thing,
+either the simple health insurance or simple weather
+insurance?
+Someone is clearly willing to buy it, to offer it to them.
+Yeah, Christine?
+STUDENT: Because if you buy a product,
+you have to mean that something bad is going to happen to you.
+And so, if they buy it, but nothing bad happens to them,
+then they feel like they're losing money.
+PROFESSOR: Yes, great.
+So number one, it's something that happens in the future.
+And in addition, it's something bad
+that you don't like to think about.
+And we don't really like to think ahead
+about negative events.
+For example, in South Africa burial expenditure are huge.
+When people die, whoever stayed must do this huge ceremony
+and so on.
+And there exists burial insurance.
+But nobody buys it.
+And presumably, you're going to die.
+That's a known fact.
+But people don't like to.
+So it's not even much risk that you
+should get burial insurance.
+Whenever that happens, your relative
+will be spared the huge financial cost
+that it is to bury someone, but yet, people
+don't do it, presumably because they
+don't like to think about the fact
+that they are going to be dead.
+I can understand that.
+So that's a great point.
+
+What else could it be?
+Yeah?
+STUDENT: Yeah, I think that's an example of loss aversion.
+Because if something bad happens to you circumstantially
+and you pay, maybe this is totally a fantasy.
+But maybe you think it's external.
+And then if you pay because you entered this deal
+and you did well, then that's like--
+PROFESSOR: Exactly.
+So the loss aversion will sometime
+prevent you to buy the insurance.
+Because you're paying.
+You're doing something when things are well for you,
+you're paying a premium.
+And then most of the time, things turn out fine.
+And then you lose your money.
+And people don't like that.
+Compared to a loan, where you take money and you reimburse
+or savings, where if you put your money into the bank
+account, it's there when you come back,
+unless something really bad happened to the bank.
+With insurances, most of the time,
+you don't recover your premium.
+And because of the loss aversion,
+some people don't like that.
+Great, what else?
+
+Izine?
+STUDENT: Is it the lack of social proof?
+There's clearly a demand for insurance,
+because they have it amongst themselves, almost kind.
+But maybe just because they're not
+the same type of credibility that they're used to seeing.
+
+PROFESSOR: Absolutely.
+There could be mistrust.
+And you really need to trust your insurer.
+Because most of the time you give them money,
+and they don't give it back to you.
+And if you ever have experienced any problem in your house
+or in your car, you know that every time you
+try to get the insurance back, there is this argument,
+whether you're going to be repaid or not.
+And so, if you don't really trust the insurer
+to do this fairly and you're thinking they're big
+and I'm small and they are going to mistreat me,
+then you might be very reluctant.
+So I've worked on the evaluation or an attempt
+at evaluating, I guess, a successful attempt to evaluate
+a health insurance product that was given by a Microcredit
+organization to their employee and to their client.
+And they didn't want it.
+And in the first few villages, they were incidents.
+It was just an hospitalization insurance,
+in-network hospitalization insurance.
+So many people try to get-- they went to the wrong hospital,
+so they couldn't actually use the insurance.
+Then someone died, but they had not gone to the insurance.
+So their relatives didn't get any money,
+even though they had spent a lot on health care.
+And they had died.
+So they, in fact, were sick, but they were not hospitalized.
+So in these two incidents, people didn't get paid.
+So that got everybody extraordinarily suspicious
+of the insurance.
+So everybody refused to take the scheme.
+And they all left Microcredit, as a result.
+Not all, but something like 30% of clients
+just left the Microcredit organization
+to not have to buy the insurance.
+This is how much they hated it.
+And so, that's very much related to this mistrust argument.
+Angela?
+STUDENT: You just might have other, more urgent things
+to think about.
+It's not something-- not only do you not
+want to think of something negative,
+but you might just not really have the mental space for that.
+[INAUDIBLE] training and taking care of your kids.
+And it's a problem for another day until it's too late.
+PROFESSOR: Yes, so independent of the fact
+that you don't like to think about negative things, just
+a regular or time-inconsistent preferences
+would mean that you don't think about the future so much.
+And insurance is very much preventive that way.
+Samantha?
+STUDENT: I'm kind of going off that as well,
+just people wanting to spend their money in a different way.
+I know we saw people weren't spending as much on food,
+or even trying to buy like luxury goods like a TV
+when they might not even have money for that.
+So if you're not spending money on food probably
+when you need it, why would you pay for insurance and things?
+People just want a whole lot a lot of money.
+Then people might try to put that little bit of extra money
+they have.
+PROFESSOR: Yeah, there is a lot of other things
+that people have to take care of.
+And that might not be one of them.
+So I think I have everything here.
+So lack of understanding of how insurance work,
+mistrust, difficulty to think ahead about a negative event
+or something in the future.
+And also, because the product have
+to be so simple from the point of view of the insurer,
+it means that from the point of view of the people,
+it's actually very--
+it's full of holes.
+It doesn't cover everything that needs to be covered.
+Go back to my health insurance example.
+It only covers you as some hospital
+and for some conditions and to a point.
+And it's hard to understand when you even qualify.
+So this is a national hospitalization insurance
+scheme in India that's subsidized by the government.
+A research team subsidized it even further.
+And then they're looking at the effect
+of insurance enrollment on use of insurance when you're sick.
+And you can see that in the last six months,
+the people who are enrolled for insurance are only 4%
+more likely to use insurance than the people who are not
+enrolled.
+And there is a little bit of spillover, but not much.
+And then, 4% of them tried to use the insurance and failed.
+And then six months later, 3% have succeeded.
+Nobody has succeeded for the most serious events.
+And about 3% of them have failed to use it,
+tried but failed to use it for the most serious events.
+So the product end up being extraordinarily complicated
+to use.
+And that's one reason people don't want it.
+And in fact, when people experience insurance
+and when they have a success with insurance,
+meaning something happened to them and they get a payout,
+so this is in villages, where insurance
+was given to them for free.
+This is a weather insurance in China.
+You can see that if they get a payout in one year,
+they are more likely to buy the insurance again
+the following year.
+So successful insurance, success does
+lead to people understanding what the scheme is.
+And then they buy it again.
+So in this particular experiment,
+they had subsidized for one year.
+Regardless of whether people are subsidized or not,
+they are more likely to take it again if they had a good shock.
+But people were much more likely to actually have insurance
+if they were subsidized.
+So the early experience helped them get--
+the early subsidy helped get them
+experience with the product.
+
+So the complication is that the markets are
+limited in what they can offer.
+And it's limited precisely in the ways
+that makes what it can offer attractive to people.
+It can only provide very simple things, very restrictive
+things, but that's not what people-- people feel, oh, I
+bought insurance to have less risk.
+And what you give me is a sort of lottery ticket,
+where sometimes it works, sometimes it doesn't.
+And it feels like adding risks to risk.
+So in this context--
+and this is the last slide for today, what's
+the role for public policy?
+The obvious role is to complement the market
+to ensure social protection against health shock,
+against weather shock, against other source of income
+variability, and ensure everyone a minimum standard of living,
+which could take several forms.
+It could take food aid.
+It could be cash transfers.
+So for example, this ties to discussion
+about universal basic income.
+But think of it as universal ultra basic income,
+which is always step in when people are at starvation.
+It could be in the form of universal free coverage
+for basic health care, publicly provided
+insurance that again, is complete and free and costless
+for basic care.
+And for other things--
+so you could subsidize people to get rid
+of the worst kind of risk.
+And for the rest, people could have the option
+to buy extra insurance if they wanted.
+And there, you could subsidize the private insurance
+for a period of time, for people to understand and learn
+how this thing work over time.
+And this last experiment suggests
+that it might be successful.
+
+
+The car repair experiment provided evidence that…
+
+
+
+Poverty can cause stress.
+
+Stress can cause poverty.
+
+The poor have more stressful lives.
+
+The poor can better handle stress, since they’re used to it.
+
+
+True or false? One reason people don’t migrate as a way to cope with risk because people also face risk when migrating
+
+
+
+True
+
+False
+
+
+How might social networks interact with aggregate shocks? Select all that apply.
+
+
+
+Social networks can increase the risk of aggregate shocks because if your business relies on transactions within your social network, and if your insurance relies on informal borrowing within your social network, any shock could propagate throughout the network.
+
+Social networks can increase the risk of aggregate shocks because they provide data that is used to train algorithms that banks rely on to make lending decisions.
+
+Now that mobile money has made it easier for your social network to spread out across many locations, social networks can decrease the risk of an aggregate shock.
+
+Social networks could increase the risk of aggregate shocks if they contribute to the spread of misinformation that can hurt the like-minded people in that network exposed to it by leading them to make bad decisions.
+
+
+PROFESSOR: Another thing that is worth highlighting
+is that risk causes a lot of stress, of course, both when
+people experience it, and maybe even when people anticipate
+that things might go poorly.
+And first of all, it's not good for your health
+to be constantly stressed.
+When people are stressed out, they
+generate a hormone called cortisol, which
+is a fight or flight response that's evolutionarily suitable,
+like if you see a lion, you should be very stressed.
+And your adrenaline should go up,
+you should start pumping a lot of blood,
+and you should run away very fast.
+So that's why when we get stressed, if you have ever been
+stressed, you see you feel hot.
+And your heart beats faster.
+And you have physical manifestation of the stress.
+That's caused by this extent of increased cortisol.
+Now, this is good.
+We need it to be particular, to have this heightened
+attention and physical capacity when we are stressed.
+Because it's how we respond to danger.
+But some people have suggested that the cortisol itself might
+affect decision-making ability, that the cortisol itself
+might make people a little confused in making decisions.
+This is still [INAUDIBLE],, but it is something
+that has been demonstrated.
+
+But something that has been shown
+is that when what's called the scarcity problem or the packing
+problem, which is when people feel very concerned
+about, whether about a financial problem,
+they became extraordinarily focused on getting
+this financial problem fixed.
+And it becomes more difficult for them
+to think about other things.
+So this is an hypothesis that was put forward in particular,
+by Sendhil Mullainathan and Eldar Shafir in a book called
+Scarcity.
+And the anecdote or the analogy they gave
+is to packing a suitcase.
+So when you're trying to pack a suitcase
+to go on vacation, if you have a very big suitcase,
+you can think about everything you
+need to put in it without being worried about that.
+It will fit.
+If you have a small suitcase, the packing problem
+becomes more difficult and it gets hard to get it right.
+So you're making a mistake within the packing problem.
+So how does that translate in term of people being--
+decision making when people are poor?
+So here is an experiment that was
+done in Trenton, New Jersey.
+They go to a mall and they're asking people
+to think about it.
+They just collect people in the mall and say, hey,
+would you like to participate into a small research project?
+And they ask them what is their income,
+in general, how much they made last week, for example.
+Then they ask them to think about, just think about,
+imagine that your car gets broken.
+And you go to the garage.
+And for some people, it's a small problem,
+like a $50 problem.
+And for some people, it's a big problem, a $2,000 problem.
+Think about the randomized debt.
+And then they said, imagine you have this problem.
+I think about how you would fix it.
+Where would you find the money?
+Would you decide to-- would you actually fix the car?
+Do you have insurance, et cetera.
+So they asked people have to think about this situation
+and write down what they would do
+in response to this $50 problem or this $2,000 problem.
+And then right after that, they make
+them solve IQ-type puzzles.
+And what they find is that for rich people,
+it doesn't matter if they had to think
+before about a small problem or a big problem.
+They just do their IQ puzzles the same.
+For poor people, if they had to solve a small problem,
+their IQ is just as high as that of rich people.
+But if they had to think about a big problem,
+suddenly their measured IQ becomes much lower.
+So obviously, it's not that they become less intelligent.
+So basically, by the way, this puts
+a lot of doubt on measures of IQ or various kinds,
+because this shows that it's very responsive to feature
+of the environment, and they are not
+deep measures of who you are.
+But what this suggests is that for poor people having
+to think hard about a money problem has basically
+taken away all the bandwidth they
+had for this kind of intellectual hard things.
+And they don't have enough energy left
+to think about the IQ problem.
+So in the same way, of course, this is just about lab issues.
+This is about doing IQ tests.
+Maybe it's not so important in life,
+maybe they would be able to do something else better.
+But it at least, raises the possibility that the stress,
+the income stress takes so much space in people's brain,
+that it just makes it difficult for them
+to think about all the other important decisions
+that they have to take in their life that we've discussed,
+for example, health care decision, education
+decision, and so on.
+We're going to talk more about that
+when we talk about psychology and development
+in lecture later of the semester with Frank.
+But I wanted to mention it here because that shows
+the importance of risk, not just as oh, it's kind of sad,
+but that risk interact with being poor
+can potentially create these long-term damaging impact
+of temporary bad situation.
+STUDENT: Do you know the elasticity number?
+Like I'm curious if the cortisol, [INAUDIBLE]??
+PROFESSOR: Yes, so the cortisol link is a little bit--
+it's not fully established yet, as far as I can tell.
+Income to cortisol is clear.
+You do have a pretty strong reaction.
+You can measure cortisol.
+And it reacts, definitely reacts to periods of shocks.
+And what has not been so conclusively proven
+is that cortisol, that elevated cortisol
+does blur decision making.
+
+The scarcity thing, the fact that in period
+of income stress, you make worse decision,
+regardless of whether it's cortisol or something else.
+For example, there's just the fact
+that there's only so many stressful things we can think
+about in one time, is something you'll see much more
+about in the later lectures.
+But all of that is to say, well risk
+is pretty fundamental in the lives of the poor.
+The poor are exposed to so much more risk than we are.
+And in addition, the risk is more
+damaging in the poor person's life.
+PROFESSOR: So as a result, one could
+imagine that they would spend a lot of effort
+trying to cope with risk.
+So a first way to cope with risk would be to save and borrow.
+What are other ways-- which we are going to see a bit later.
+So the first thing you could do to avoid income risk
+or to mitigate income risk is to put money--
+save for a rainy day, or in this case,
+usually save for a dry day.
+
+Or to borrow when things are going poorly.
+What other things could you do?
+STUDENT: They have multiple sources of income [INAUDIBLE]
+PROFESSOR: Yes.
+STUDENT: [INAUDIBLE] some mechanical--
+PROFESSOR: Yes.
+So you could engage in risk reduction strategies.
+Having many, many jobs is one of them.
+So there is always something that basically you
+create your own portfolio of activity in the same way
+that if you're investing in a stock market,
+you shouldn't pick one, you should have a portfolio.
+You can try and reproduce that at the level of activities.
+What else could you do to cope with risk?
+Olivia?
+STUDENT: Like the strategic marriages,
+that they have other families they can depend on.
+PROFESSOR: Right.
+And so that's an example of--
+an extreme, perhaps, example of what strategy or implication?
+STUDENT: A diversification--
+PROFESSOR: That's a diversification of what--
+he was mentioning--
+Luke was mentioning the diversification of activities,
+and you're talking about the diversification of trading
+partners, which assumes something, which is true,
+but I would like you to spell out.
+STUDENT: Like [INAUDIBLE]?
+PROFESSOR: Or the ability to either borrow
+or exchange or something like that with a social network.
+So basically, another way that you can deal with risk
+is by having insurance, including insurance
+by having informal relationship with many people
+in a social network.
+Could be people from your village
+or it could be people in your extended family.
+And this paper by Mike [? Rosenzweig ?]
+showed that people are trying to marry their daughters far away
+so that the daughters are married
+into a family where the rainfall follows a different pattern.
+So if they are doing poorly, you're doing well,
+you're doing poorly, they're doing well,
+and therefore, you can help each other out
+to these bonds of marriage, which
+makes this poor family behave a bit like king and queens
+of the yesteryears who were trying
+to form the right alliance to help each other when they had
+problems.
+So those-- so this is the social network and informal insurance
+through the social network.
+What's another form of insurance people could potentially get?
+
+What do you have for--
+in case you have health shocks, do your parents pay for it?
+
+Yeah?
+STUDENT: Buy insurance?
+PROFESSOR: Yes.
+So if you have a health shock, your parents
+don't actually pay for it.
+You are presumably on your parents' insurance.
+So people have-- so in richer countries
+and perhaps also in poorer countries--
+that's what we are going to talk about, there is not
+only informal insurance, but potentially
+formal insurance, health insurance, weather
+insurance, car insurance, something like that-- a web
+of formal insurance.
+So those are all the strategies that people
+could employ in order to limit the risk that they face.
+So what I want to do in the rest of today
+is to go a little bit over this different strategy
+and seeing how effective they are.
+Angela?
+STUDENT: [INAUDIBLE] putting assets in general
+so you can try to accumulate assets.
+PROFESSOR: Yes.
+So this is the saving and borrowing strategy.
+In good time, you try and acquire assets.
+Could be financial assets or a cow or--
+and in bad times, you liquidate them.
+So you remember our friend Abu who
+liquidizes the tree when things were going badly.
+
+So what could you cope with risks?
+Well, the first thing you could do is try and borrow.
+In fact, again, going back to the above story,
+we see that when he faces shocks-- like, for example,
+when he has to pay for his mother's health care,
+the first thing he does is to try
+to borrow from the moneylender, from his landlord.
+But we will see--
+we'll have a unit on credit next week.
+We'll see that the ability to borrow
+is limited when you're poor-- precisely because you're poor
+and you don't have any collateral
+to put in front of it.
+So maybe if you're poor, it's just difficult or impossible
+to borrow.
+So let's assume that for a minute.
+And suppose that you cannot borrow,
+all you can do is to save.
+So you can try and invest.
+And you can put-- save on your mattress, save in a bank,
+try to invest in assets.
+Now suppose your income follows an IID process.
+Someone tells me what an IID process is?
+Kind of mixed jargon.
+
+Nobody knows or you're being shy?
+Just you haven't necessarily done--
+yeah?
+STUDENT: [INAUDIBLE] distributed?
+PROFESSOR: Excellent.
+Which means?
+STUDENT: Every process independent
+of each other and they all follow the same pattern.
+PROFESSOR: Exactly.
+So it means, for example, every period,
+you throw a ball from an urn and you say, well,
+today, your income is 100, and then you put it back in the urn
+every period, it's from the same round,
+so it's same distribution.
+And it's independent in this case
+because every time we draw, we put it back,
+we draw, we put it back.
+So as opposed to when there is correlation over time,
+for example, it could be they are--
+it could be that a good year is followed by another good year
+or that you have, for example, you have a spell of bad years
+or the opposite, good years always followed by a bad year.
+So this would be an example of process that are not ideal.
+Now assume that this is an IID process.
+Now what you want to do, then, is if you don't like risk--
+so you don't-- you feel--
+when you're poor, you would like to consume--
+the value of consuming a bit more
+is higher than when you are, in general, things
+are going better.
+So what you would like--
+this is what the notion of risk aversion recovers,
+is what you would like is to smooth out and avoid as many
+of the fluctuation of consumption as possible.
+So if you cannot borrow the way you're going to do that
+by-- if things are good, you're going to consume a bit and save
+a bit.
+If things are bad, you're going to draw into your assets
+and liquidate the assets and consume
+what you got this month, however little it
+is, plus a fraction of all of your asset.
+And what you can show is that in this settings,
+a simple rule of thumb is nearly optimal, which
+is nearly the best you can do, which is when you
+have very little, you consume--
+when you have very little cash on hand,
+that's your income plus your assets, you eat all of it.
+And otherwise, you save a fraction
+of what's above some threshold.
+So you leave some aside, and you consume some amount,
+and you save a fraction of what's left on top of that.
+So if you do that, things are going to-- your ability
+to smooth out your consumption is
+going to be really dependent on whether you have,
+by luck, through this IID process,
+happen to have a series of bad years or not.
+So here is an example where the researcher just
+drew a bunch of incomes.
+This is work by Angus Deaton.
+So he drew a bunch of income in an IID process with mean 100.
+Then he shows in each period, given how much you have,
+how much you save, and how much you consume--
+so this is how much you consume.
+And this is the assets you have, which
+is whatever was left from before plus the difference
+between your income and your consumption,
+which could be positive or negative.
+So either your asset accumulates in a period where you save.
+So you see a series of good year here allows the person
+to accumulate assets.
+Then there is a bad year and the asset draws down.
+And some other good years, they accumulate some more assets.
+Then there is one bad year, the asset goes to 0.
+The next year, the consumption is very low as a low point.
+Then they have a series of good years,
+they start accumulating assets.
+Then that allows them to keep the consumption relatively
+stable even though they have a series of bad years,
+but here is a very low-income stock, asset go to 0 here,
+consumption goes to very negative.
+And you see like that, that even the consumption
+is less bumpy than the income, so it goes some ways
+to be able to save and borrow.
+But you really can't avoid, with this strategy, some very bad
+years unless you hit the bad year
+so much that you're willing to accumulate like tons of assets.
+In which case, the average level of consumption is much lower.
+Here, it's around 60.
+The average level of consumption becomes much lower
+and you accumulate all of these assets.
+So with just your consumption, just savings
+if borrowing is not an option, the smoothing
+is going to be limited and it's going
+to be hard to avoid pretty miserable times.
+In addition, you might not have very good savings options
+to do that.
+So you might end up having to save
+in the form of, say, a cow, and then when you need to--
+when you need to eat, you have to liquidate the cow.
+So you sell the cow maybe at a low price or you eat it up.
+So this leads people to have all sorts of inefficient production
+strategy as well where suddenly, they find themselves
+without cows to plow their fields because they had to sell
+the cow in order to consume.
+So that's not an ideal strategy.
+We'll be talking more about savings as well,
+but we see already the limits of this strategy as a consumption
+smoothing method.
+PROFESSOR: So what else can they do?
+So as Lucas told us earlier, they can try and work more.
+Or I guess he was saying, he was talking about diversification.
+So I'm coming before we get to diversification.
+They could say, well, in bad times, you just work more.
+So in some sense, that's also what
+happens if you have for you, risks
+might be many tests at the same time.
+And you cannot insure against having too much homework
+at the same time.
+But what you can do is to put more hours of work.
+The thing is that unlike your own work on your own exam,
+which is going to improve your own grades,
+with the fact that other people are also working
+doesn't really affect you.
+Or maybe it affects you positively
+because there's no one to party.
+And there are people to do problem sets with.
+So in your world, if there is a shock
+in the sense of many homework, at least everybody
+is rowing in the same direction.
+But the problem with the pool is that if everybody
+start working together, what is going to happen to wages?
+So say, there is a drought.
+So therefore, profits of the farmer is very low.
+And they might want to be looking for a second job.
+And also, they fire people.
+They don't hire too many people.
+And then as a response, all of the workers say,
+oh, I better start and get a job.
+Then what's going to happen to the wages
+as a function of that?
+Yeah?
+STUDENT: The wages are going to fall.
+PROFESSOR: The wages are going to fall even further.
+So the response to the low wages is to work harder.
+But then that creates an extra labor demand
+that we don't know what to do with.
+And the wages are going to fall even further.
+
+And this is for the poor.
+That is going to affect them the most
+because the drop in consumption is more costly to the poor.
+So they are the ones who bring their labor at this moment.
+So this leads to an increase in risk.
+And again, not only risk cause poverty,
+but poverty also cause risk.
+Because it's the poor people who respond
+to an initial decline in the wage
+by working more, and therefore, exacerbate the initial fall
+in the wage.
+So she shows this result here, which is interesting,
+which shows that well, if you had access to other ways
+of insuring yourself, for example,
+if you could borrow or save, then you wouldn't--
+this is the wage.
+And this look at the wage elasticity.
+So when the wage is higher--
+this is log wages.
+So when the yield are double, the wage is about 16% higher.
+This is how we read this regression.
+And what it shows is that when the elasticity is lower
+in places, in areas where and period where
+there is banking available.
+So what this means is that in places where--
+suppose there is a bank.
+And when there is a bank, people can just borrow.
+So you only have the direct effect
+of the yield decrease on wages.
+And then, compare that to a place where there is no bank.
+In that case, you have that effect.
+And in addition, you have the extra reinforcement effect
+from the fact that everybody starts working together
+when the wage is low.
+So that shows that in places which have banks,
+the wages is going to be less sensitive to variation
+in the yield, because we don't have
+that extra effect of everybody flooding the job market
+and trying to get together precisely
+when the opportunities are not great.
+Yep?
+STUDENT: Why are we using logs on this [INAUDIBLE]??
+PROFESSOR: Log-log is something economists love.
+Because when you regress the log of wage on the log of yield,
+you can read the measure as an elasticity, which tells us
+if the yield increased by 10%, the wage
+will increase here by 1.6%.
+So it makes it very easy to interpret what the changes
+on guessing on graphics.
+Whether or not that is in fact, the exact functional form
+that the relationship between wage and yield follow,
+it's not clear.
+Maybe one should try to be a little bit more flexible
+and see what is the best shape.
+But I'm telling you as a matter of practice,
+this is something people like in order
+to recover directly on elasticity,
+going from person to person.
+Then whichever way, you then you can
+talk about the yield of cotton and the yield of millet
+in the same way.
+It's unit free.
+Elasticities are convenient that way.
+Wages also become unit free.
+It's not, the wages you can express in rupees or dollars.
+Once you put in log-log, it's person to person.
+It's unit free and very versatile measure.
+Excellent question.
+So that's an-- yes?
+STUDENT: Yeah, so you mentioned at the beginning
+that among the poor, there's a higher
+prevalence of small business owners and things like that.
+So I guess similar to increasing demand for labor,
+do you ever see a case where there's
+I guess, more businesses start, and it actually
+helps the community and kind of spurs, I guess,
+the local economy?
+Or is that not a possible product risk?
+PROFESSOR: When things don't go well,
+or where you start a lot of business cropping up?
+So, I don't know.
+I haven't seen this study.
+I could imagine that there are effects going both ways, which
+is on the one hand.
+For example, the wage worker loses their job,
+so they need to do something.
+So starting a small business is a way of buying yourself a job.
+On the other hand, this is also not the time-- when
+the conditions are low, it's not the time
+where you can use part of your savings to buy a stock.
+So I don't know which way it will--
+and on the other hand, when conditions
+are bad is also when some businesses are
+going to go under.
+So I don't know which way the balance goes.
+It's a good question.
+
+So this is what you do.
+One strategy to prevent risk is OK, if there is a bad shocks,
+you're going to try and work more.
+The other thing you could do ex-ante,
+and this is what Lucas was talking about,
+is try to avoid risk.
+So knowing that risk is ever present
+and that would be very costly, the poor try to avoid it.
+So for example, risk aversion, this aversion for risk
+could lead people to avoid profitable, but risky
+investment, for example, avoid to use new seeds that you need
+to buy, and just use the seed that you already have
+that are produced by the crop.
+So that would prevent you to use hybrid seeds,
+for example, which could be much more productive if they work.
+But you would have lost all your investment if that didn't work.
+Or you could diversify your portfolio of activities.
+So each person in the family has several jobs.
+And you could migrate for a short period of time
+to create this--
+not just by marriage, but also people
+looking for jobs elsewhere when things go poorly.
+And keep the rest of your family home
+instead of moving everyone to the city, where maybe, that
+would allow you to invest in a much better,
+in looking for a much better job.
+But moving the whole family is costly.
+And then what if it doesn't work out, and so on and so forth.
+So this is a way of reducing the risk
+to always move by small periods of time, which is something we
+see a lot of in poor countries.
+So all these strategies are perfectly rational.
+You would expect people to take them.
+But of course, they contribute to maintain people in poverty,
+because they prevent them to do what they would like
+to do to maximize their income, and what they would do if they
+thought they could be insured.
+So I want to give you two examples.
+One is agriculture and avoiding costly investment
+in agriculture.
+And the other is about migration and reluctance to migrate.
+PROFESSOR: So for agriculture the example I want to give you
+is a study by [? Dean ?] [? Karlan ?] and [? Chris ?]
+[? Udry ?] in Ghana.
+They were marketing a simple weather insurance program.
+I'll describe to you why the weather insurance programs are
+so simple that exist in the world ,
+but we'll do that just a little later in the lecture.
+Now, for now, it's sufficient that I describe to you
+what the program is.
+So what the program is is that if the water--
+if the rainfall falls below a certain level,
+I'm paying you some amount of money
+that's a function of how much insurance you've purchased.
+So for example, you look at the size of your field,
+you buy $1,000 worth of insurance.
+If the rainfall at the nearby weather station
+falls below some level, I give you $10 per $1,000 your bought,
+or $100 per $1,000 you bought--
+whatever the right ratio is.
+So that's very, very simple.
+It doesn't involve any visit by the insurance person
+to your house to verify damage.
+You're going to get paid regardless
+if the weather falls below a threshold,
+and you're not going to be paid if the weather is not
+above the threshold, even if you are still doing poorly.
+You could be doing poorly for some other reason.
+For example, it could rain too much,
+and then you're not covered by that because this is a drought
+program.
+So that's the structure of this program.
+For a reason that will also explain a little later
+in more detail, these products are not particularly popular.
+They are not even popular at all.
+So this product, the actually fair price of this product
+is 9.5 cedis per acre.
+So for one acre of land, you would purchase--
+it would cost 9.5 Ghana cedis.
+What does it mean, the actually fair?
+Do you know?
+We could try and guess it if you don't know for a fact.
+Olivia?
+STUDENT: I guess that's what it would cost for them to actually
+pay out on the insurance.
+PROFESSOR: Yeah, exactly.
+It's on average the insurance neither loses nor gains money.
+So in an instance, they will always
+charge you a bit more than what's actually fair
+because they need some small change
+to operate the insurance--
+pay salaries, and profits, and so on.
+But so this is the actually fair, 9.5.
+At 9.5 Ghana cedis, not very many people want it.
+Less than half people want it.
+So what they do is that they go to farmers,
+and they offer this insurance at different prices
+to see how much people want it.
+And so one first point, which we'll elaborate in more detail
+a little later, is that people don't really want it.
+But that gives you a chance for a simple experiment,
+which is, well, what about I offer it to you for free?
+Then people are like, sure, I'll take it free if it's free.
+So what they do in their city is they offer it
+at these different prices, from 14 cities,
+to which would be the full cost with profit and from 2 to 0.
+And at 0, they have a take-up of 100%, versus 40% at 9.5 cedis.
+
+Then, what they do is that they look at what farmers
+do once they have insurance.
+Since they randomly offer the insurance for 0,
+they can compare.
+You're much more likely to be insured if you were
+offered the insurance for zero.
+So we can see whether, on average, the people who
+are in this group where they got it for free
+behave differently than the people who had to pay for it.
+Very few of them ended up actually paying for it.
+What do we find--
+or, what do they find?
+Looking at, so they have-- this is their first treatment,
+the insurance treatment.
+They also offer a loan for people to buy inputs,
+and then they offer both together.
+And what they find for spending on fertilizer
+is that if they offer together a loan which
+makes it possible for people to purchase inputs
+and the insurance program, they get
+a 47% increase in spending on fertilizer
+relative to the control group.
+If they offer only insurance, they don't find an effect--
+presumably because people cannot afford it.
+But interestingly, if they offer people a loan--
+so enough money to afford it--
+people also don't take it up.
+People also do not.
+So people need both credit and insurance
+to be willing to invest in chemical fertilizer.
+So they need to know presumably, if, one, they
+don't have insurance, they don't want
+to engage in risky strategies that
+are profitable in the short--
+in the longer run, but with a chance that
+it doesn't work out.
+So of course, I haven't showed you.
+I haven't showed you yet that, in fact, it is profitable.
+So in fact these are mostly subsistence farmers,
+so the notion of predictable predictability or profitability
+is not that they are making more money;
+it's that they have enough food.
+There is more food for their household.
+And indeed, they find that the households that
+were given credit and insurance are
+43% less likely to report that they have missed
+a meal in the previous year.
+It only happened to 12% of them versus 21% of them
+in the control group.
+So having access to this insurance gives them
+the possibility to--
+they need both the insurance and the credit.
+But having access to the insurance and the credit
+gives them the possibility to invest
+in better agriculture, more productive
+agricultural practices, and to feed their family better.
+And this is a setting where there was no shock,
+so it's not the direct effect of the money
+once there was a shock.
+Eventually, there was no shock, so nobody got a payout.
+But it's ex ante, knowing that this risk is there,
+that leads you to take this very careful strategy that ends up
+lowering your income.
+INSTRUCTOR: Here is the other example.
+This is the idea that people--
+one possible strategy to mitigate the risk
+would be to migrate.
+But the problem is that migrate also carry out some risks.
+So one of the potential strategy to limit the fluctuation income
+is to take a risky strategy.
+And if you are already poor, and therefore already
+very reluctant to take on any risk,
+you might not want to do that.
+And this was illustrated beautifully by a paper
+by Mushfiq Mobarak in Bangladesh and other co-authors
+in Bangladesh during the Monga season.
+So the Monga season is the dry season in
+between harvests when incomes are very, very low
+and calorie consumption is very, very low.
+So if you remember Abu-- this was many years ago
+in Bangladesh, but in places--
+in some places in Bangladesh just before the harvest,
+it's not that different, even today.
+The level of calorie consumption is
+on the order of 1,300 calories, 1,400 calories per person,
+so truly insufficient.
+So Mushfiq Mobarak and his co-author
+were puzzled by the fact that people are not
+migrating to the city when there are
+jobs because the jobs in the city
+are not nearly as seasonal.
+Or for that matter, they could migrate
+to another rural area that doesn't have quite
+the same calendar, and they could work in the fields there,
+but relatively few people do it.
+So what they do is that they give people
+a short-term migration incentive.
+So it's a voucher.
+It's roughly the cost of the bus ticket, which people
+can get if they agree to move to the city
+during the Monga season.
+So think about subsidizing your migration.
+So that's hopefully how the program works.
+So the poor individuals, those who have less than half
+an acre of land, who have household members who
+have missed meals during the lean season,
+are given the transportation subsidy.
+Then the ones who want, which is about half of them,
+move to an urban area with better wages.
+They make more money.
+They send some of them home.
+The impact that they see on the households that stay at home
+is about 30% to 35% increase in household expenditure
+and increase in calorie consumption of 750 calories.
+So that's basically the difference
+between being near starvation and being properly fed,
+about one extra meal per person and per day, so
+a pretty large effect.
+And then after that, they return home,
+and it continues like that.
+So that suggests that migration is
+an effective coping strategy.
+And the puzzle, in a way, is, OK, this is an effective coping
+strategy.
+Why isn't it in your portfolio of coping strategies?
+And why are people not doing it that much on their own?
+And in fact, even after doing it once, only half
+of the people who do it once do it
+again on their own the next year.
+And one reason-- so in the paper, they talk about the fact
+that this is this worry about the risk,
+the risk of migrating.
+But you can feel the tension because if you're
+so risk-averse, then you should feel particularly miserable
+when your consumption level is very low.
+So on the one hand, you're worried
+about the risk when you go to the city,
+but on the other hand, precisely the same type
+of people who would be worried about the risk
+should be the ones who are very miserable to be
+feeling particularly poor.
+So that suggests that there is something not entirely coherent
+in our attitude to risk.
+And one possible explanation is something
+called loss aversion, which was introduced by Kahneman
+and Richard Thaler--
+Kahneman and Tversky.
+Sorry.
+You can read-- if you're interested in reading more
+about that, you can read this book, Thinking
+Fast and Thinking Slow, which is very nicely written
+and has a lot of things about psychology,
+including this idea of loss aversion.
+And the idea of loss aversion is that we
+hate to be doing something that makes something worse.
+
+So we are quite miserable.
+We don't eat properly.
+Our children are missing meals, but at least
+it's not our fault. It's the lean season.
+And we don't want to be taking an action that
+could potentially take away from what we have.
+So people suffer more from taking an action that
+fails than from not taking an action that
+could lead to a success that is comparable or even greater.
+So that makes people very reluctant to do something.
+That makes people more reluctant to undertake these activities
+that could have a lot of upside potential but potential
+downside risk.
+I don't want to be the ones who are paying $20 for the bus
+ticket, go to the city, and they find nothing,
+and they have to come back in shame.
+So let me stop here with this point which
+you can ponder about for the next five
+minutes of the break, which is, but where is insurance?
+We have discussed these various coping strategies
+at the individual level.
+We've seen that when you manage to get there and insure
+the poor, they, in fact, take advantage.
+In fact, they have an example--
+in the Monga paper, they introduce
+a sort of insurance instead of the bus ticket,
+and that seems to work also.
+So we see that insurance does seem to change
+the way people behave.
+So where is insurance?
+We see that risk is costly for the poor.
+We also see that insurance would help them greatly.
+So why are they not insured by official insurance companies
+or by their friends and relatives?
+Stay tuned for the second half of this lecture
+after our five-minutes break.
+PROFESSOR: All right, so what is insurance?
+So let's talk first about informal insurance, which
+is what people can do between themselves without having
+access to a bank or an insurer.
+
+So imagine two farmers, Ahmad and Bijou.
+And they grow crops.
+And they have an ID process.
+And their income can be either high or low,
+both with probability 0.5.
+And then they can come into--
+so if they don't share, their income
+are going to be either high or either low.
+But they can come into an agreement,
+where, when Ahmad is high and Bijous is low, they share
+or vice versa.
+So now you could have with probability 0.5,
+they have the average income, which was not available to them
+before.
+Which probability-- so the average between high and low,
+with probability 1/4, they have low.
+And with probability 1/4, they have high.
+So obviously, income is not coming from elsewhere.
+So the average income they're receiving over a period of time
+is always going to be the same as they had
+before, 0.5 high times 0.5 low.
+But is their welfare higher once they've
+entered that arrangement?
+You have a guess?
+STUDENT: Yes.
+So because you probably-- because there's less marginal
+benefit for every additional dollar earned.
+The difference-- even if the monetary value
+is the same between low and average and average and high,
+you'd much rather make the transition from low to average
+than you would from average to high.
+Because that means you're not missing meals,
+rather than you get to buy [INAUDIBLE]..
+PROFESSOR: Exactly.
+So one way to think about it is that your utility function
+is a concave function of how much money you have.
+Because you really don't like to have nothing
+or to have very little.
+So the marginal effect of $1 on your welfare
+is higher at low level than at high level.
+So we could draw the curve like this as a concave curve.
+Before they entered in the insurance,
+they had either the low point or the high point.
+And now, from time to time, half the time,
+they have the medium point.
+And because your curve is like an arc and the--
+in the without insurance, their utility
+is the average of the high and the low.
+So it's on the bow of the arc.
+Whereas if they can now share their utilities, from time
+to time, on the arc itself.
+So it is higher than being on the bow of the arc.
+And if it's many of them who enter into this arrangement,
+then they are basically-- they are able to be always
+at the average.
+Because between all of them decided process average,
+they always get the utility of the average.
+And the utility of the average is on the arc
+as opposed to being on the string that is between the two.
+And therefore, it's higher.
+So that's the advantage of an informal insurance arrangement.
+Even two people can do better by sharing risks
+than staying separate.
+So this is something that people have long
+suspected was going on, that people in a village
+would, in this way, share risk.
+And we have examples in history of mutual assistance society.
+But a paper by Chris Udry in the early 1990s
+was the one that really showed a very concrete example of how
+this works in practice.
+So he actually, when he was a graduate student,
+PhD student in economics, he spent a year in Nigeria.
+And he interviewed people all the time.
+Like he went and interviewed, went to one particular village.
+And he interviewed people every month.
+And every time he asked them who they given money to
+and who they are receiving money to,
+and what he found there is a very dense network of loans,
+so what people describe as loan.
+But what you noticed is that these are not
+loans in the strict sense of the term.
+In that, when you do badly, then you
+don't have to reimburse your loan.
+And it's not treated as a default. But when you do well,
+you reimburse more.
+And moreover, when your lender does badly,
+you reimburse more to them.
+So that's not your traditional home mortgage.
+How much you're paying on your mortgage
+doesn't depend on whether Bank of America or whoever
+gave you the mortgage is doing.
+It depends on what you owe them.
+So in a typical loan situation, the payment
+is only contingent on the history.
+And they're giving you money in the past.
+You need to give it to them now according to the schedule
+of the contract.
+And the contracts are not indexed
+on how much you're making or whether you've
+lost your job or whatnot.
+Whereas here, they call these things loans.
+But for example, someone is never called--
+someone-- what they call a default
+is if someone has money but doesn't reimburse.
+If someone doesn't have money and, therefore, they
+don't give you any money back, it's not a default.
+So this suggests that these loans operate
+very much as is when things go well for,
+you give money into the pool.
+And when you-- so it's one mechanics
+of making this work pool.
+So this shows, for example, how much is paid in interest rate.
+So if the borrower doesn't have a shock,
+they're paying 20% in interest.
+If they don't have-- if they have a shock,
+they pay nothing that month or, in fact, a negative interest
+potentially.
+If they don't have a shock, they're repaying after 67 days.
+If they have a shock, 72 days.
+On the lender side, if your lender doesn't have a shock,
+you don't give them more.
+You give them less.
+But if they have a shock, you give them more.
+So that's the part that is funny.
+That I mean, that kind of shows that it's
+a system of transaction that has an insurance purpose.
+It is how much you're repaying to your lender
+depends on the state of the lender and not just
+the state of you.
+So that's a very interesting setup.
+That's an example.
+There have been other examples.
+There is a very celebrated paper by Rob Thompson, who
+is my colleague in the department, that
+shows that people's consumption is much less
+volatile in a village than their income
+and is, instead of being just correlated
+with their own income, is correlated
+with the impact of everyone else in the village at the time.
+So it's another example of showing basically
+of this that you basically get the average of the village
+instead of getting just your own shock.
+STUDENT: This is a bit of a side question.
+But do you know who first implemented formal insurance?
+PROFESSOR: No, I don't know who implemented
+first formal insurance.
+You can imagine that this always-- you
+could imagine that there were all
+in the first hunting-gathering societies
+started doing it already.
+I mean, this is something which someone doesn't
+have to come up with the idea.
+Or this is something that probably evolved
+as we evolved as societies.
+Yeah.
+It's not implemented by someone outside of the village.
+This is entirely informal web of, in this case,
+entirely informal web of relations.
+And the structure that it takes, so at a conceptual level,
+is we are putting the money together.
+And we are sharing it.
+The form that it takes vary from place to place.
+So in the [INAUDIBLE] case, it's entirely
+decentralized by this set of bilateral loans.
+In other settings, for example, one
+of my very first trip to developing countries, I was 18.
+And I went to Madagascar.
+And I was kind of just hanging out with the local NGO there.
+And what they were--
+what people were doing in the village
+is that they were putting rice into literally a basket,
+like a big thing, a big storage facilities.
+Whenever they had extra rice, it went
+into that storage facility.
+And then they got it from it when they needed money.
+So that was another way of implementing
+the same pooled system.
+So the different ways of implementing
+these informal solidarity are probably
+as varied as the number of villages in the world
+or something like that.
+So what's differently?
+It is happening.
+You also, of course, see that within extended families.
+When there is a health shock, people
+will help out and spring up for these health shocks.
+When someone is unemployed, they can maybe
+move into their relative's and so on.
+So that's something that you do find in formal--
+in both poor and richer countries.
+But there are a number of limits to this informal insurance
+schemes related to the fact that the contracts are
+written nowhere.
+And the enforcement capacities are pretty limited.
+You can't call the police on your borrower
+if they refuse to give you more on their informal loan
+when you're not doing well.
+
+PROFESSOR: So what are the limits?
+The first one is what economic jargons, we call moral hazard,
+which is the idea that you cannot completely monitor what
+people are doing on their farms.
+So what if the income depends on the effort on the farm,
+but other people cannot observe it?
+So suppose for example, that it's
+the case that how much you produce really
+depends on your effort, and you're insured.
+What's the danger?
+
+Yeah?
+STUDENT: [INAUDIBLE] way you're going to get the income,
+and you won't have to pay.
+PROFESSOR: Yeah, so the temptation,
+if you know that people are going to help you anyways,
+is to say, well, I'm going to do a little less.
+But then, anticipating that, what
+are other people going to do on their own field,
+they are also going to do a little less.
+And so now, everybody is going to do less.
+And so everybody will have less money to share.
+So you might end up being with less, so much less money
+on average that even if it's less risky,
+you're still down in term of welfare.
+
+STUDENT: [INAUDIBLE] negative monopoly?
+PROFESSOR: That's called moral hazard.
+STUDENT: What's that?
+PROFESSOR: That is called moral hazard.
+I never really understood what moral hazard means.
+But it means that.
+It means you have negative-- you have
+perverse incentive in the process from the insurance.
+So that's not ideal.
+If worse comes to worse, you could find yourself
+in a situation where people are--
+nobody is doing anything.
+And therefore, people are worse off
+than they would be without the insurance.
+So what could be the solution then, to avoid--
+you could say, well no we are not going to work together.
+And that's it.
+But what would be an intermediate solution?
+Yeah?
+STUDENT: You can [INAUDIBLE],, only let people access
+the insurance program once you know that they work--
+the income from the farm, which is dependent on effort
+certainly, it's certain amount.
+So that you show that they're contributing, as well as taking
+out the system.
+PROFESSOR: So you could try and select
+people, which have either less moral hazard,
+or who are rich enough that the moral hazard is compensated
+by the fact that they do enough.
+That could be a possibility.
+So then, some people are going to be left out of the scheme.
+What would be another possibility?
+Yes, Esther?
+STUDENT: [INAUDIBLE],, some unavoidable into this,
+that makes them, poor, but not like generally
+covered to your everyday life.
+So if you just need some [INAUDIBLE] for everything.
+You have [INAUDIBLE].
+PROFESSOR: Absolutely.
+So what you can do, what the insurance scheme could do
+is to do something maybe similar to the weather insurance I
+described, which is not insure you to reach you
+to the level of income that you have achieved,
+to make sure that it's always the same,
+but to insure you when there is a shock that has happened
+to you, that can be seen.
+So for example, if your field was invaded by crickets,
+there is nothing you can do against the crickets.
+That's not something that's subject to moral hazard.
+So if your field was invaded by crickets,
+we'll come and help you out.
+Or if you got sick, if you break your leg, obviously, it's
+not your fault. It's not something
+you brought onto yourself.
+We'll come and help you out.
+So we are going to insure you for that part of your income
+process that is not under your control.
+That's great.
+So that's definitely a first thing you could do
+or a second thing.
+The first one is selection.
+The second one is restricting the insurance
+to observable sources of risk.
+And what could be a third one, a little bit along the same idea?
+
+Lucas?
+STUDENT: You can see that It's not necessarily all distributed
+equally.
+It's like you pay in a certain percentage of what you get.
+So it's still kind of dependent on your work.
+If you make more, you get more.
+But you [INAUDIBLE].
+PROFESSOR: Exactly.
+The third thing you can do a little bit along this line
+is to say, well, we are going to provide you with insurance.
+But we want to preserve the incentive.
+So we're going to keep you holding a part of the risk.
+So when you're doing poorly, we're going to give you some.
+But that's not going to bring you to the average level.
+And when you're doing well, we're
+going to take some to redistribute to the people who
+do poorly, but not everything.
+And we can perhaps, pick a level of insurance that
+creates a good balance between removing a part of the risk,
+so you're not left with the entire risk.
+That makes you unhappy.
+And at the same time, leaving part of the risks because that
+preserves the incentive that makes you work hard.
+So in each of these three situation,
+you're going to be in the same situation, which is insurance
+is not going to be complete.
+Either it is not going to touch everybody.
+Some people are going to be entirely left out
+of the scheme.
+Or it's going to only cover risk, some kind of risks.
+Or it's going to cover a variability of income
+up to a point only.
+That's the first problem.
+The second problem, here is your second economic jargon
+of the day is limited commitment.
+Virginia?
+STUDENT: So has there been studies
+on how much of the insurance you need to have a stake in,
+or how much of the pain you need to have a stake in
+to work your hardest?
+PROFESSOR: Yes, there are empirical studies of--
+there are empirical studies of this type of topics,
+in particular, trying to understand,
+which is what you do observe in practice in villages
+is imperfect insurance, and trying to understand
+why the insurance is imperfect and the extent to which
+it's responding to moral hazard and how much people need
+to have a stake and so on.
+Yeah, there is an empirical literature
+that tries to get at that, it's difficult for the reason
+that we're going to see in a minute, which
+is many of the limit to insurance come
+to the same conclusion, that insurance
+is going to be limited.
+And unlike happy families, which are all
+the same and unhappy families, which
+are different in all the ways, with insurance,
+all the unhappy insurance arrangements
+are pretty much partial insurance arrangement.
+And it's extraordinarily subtle to distinguish,
+possible, but subtle.
+So and your question is one degree further.
+STUDENT: Yes, what does the curve look like?
+PROFESSOR: Yes, exactly.
+So there are studies on that.
+That's something that economists are very interested,
+because economists love to study incentives and response
+to perverse incentives.
+So there are studies of that.
+But a bit hard to get, but it's possible.
+So, limited commitment-- so what's limited commitment?
+So let's go back to a world where income is just exogenous.
+So income is given to you.
+There is no effort that you need.
+So when you are doing well in a particular moment,
+it is your turn to give money to the pool,
+to give money to a friend.
+
+At this point, what would be the foundation?
+
+Yeah?
+STUDENT: To keep the money instead of putting it back.
+PROFESSOR: It's to keep the money instead
+of putting it back in the pool.
+So first of all, your income could be hidden, in which case,
+you would just stash it.
+Or even if your income is visible, you could say sorry,
+I don't feel like it today.
+And what prevents you to--
+if you cannot hide your money, what prevents you to just say,
+no, I won't give you money today?
+I don't feel like it.
+Yeah?
+STUDENT: [INAUDIBLE].
+PROFESSOR: Yeah, so that's what you could do.
+So you could-- so what prevents you to succumb to your one
+degree or one step above me, ahead
+of me, what prevents you to succumb
+to this temptation is that your friends are not
+going to be happy.
+So what they can do is to say, so for example, I
+don't know if you cook together in dorms.
+If the day where you turn to cook you
+say you don't feel like it, then your cooking arrangement,
+what's the first reaction of the cooking arrangement,
+if you refused to cook the one day where
+it's your night to cook?
+
+Yeah?
+STUDENT: It's like a warning.
+PROFESSOR: They're like, you're really like,
+don't do this again.
+And they are a bit like, maybe you have to produce an excuse.
+And there is some amount of social opprobrium.
+That's fine.
+And then if you again don't do it next time, it's your turn.
+
+Yeah?
+STUDENT: [INAUDIBLE] when everyone--
+PROFESSOR: Yeah, they might say, sorry, you're
+not part of the cooking arrangement anymore.
+The deal of the cooking arrangement
+is when it's your turn to cook, you cook.
+So same thing with the informal insurance process.
+There are only two things that--
+nobody can put you in prison.
+There is no network, there is no formal contract, or so on.
+So all they can do is number one, they can be nasty to you.
+Or they can be some social opprobrium.
+And number two, they can kick you out.
+So then, we are going to Virginia's point, which is OK,
+so you could say, fine, I am happy.
+I will just strikeout on my own.
+So then what you're going to do is
+to compare the value of staying in the scheme for the time,
+for infinite amount of period potentially,
+to the gain that you have today.
+And we can see that there is a tension.
+Because the more risk there is in the system,
+the more valuable the arrangement is.
+So people are more incentive to want to stay inside it.
+But on the other hand, when it's very risky,
+it's also when some people get super high realization.
+And it's very tempting to stay.
+So what will make this type of scheme explode
+is number one, if people are very impatient.
+Because then, the extra income they are getting today
+is so valuable that it's tempting to just take
+it and run away if people are impatient.
+And the second thing is if they expect that someone else might
+do that in the future.
+So there is a bit of a chicken and egg
+issue with going back to your cooking arrangement system.
+If you think that tomorrow, the person who is in charge to cook
+will also not cook, then you're saying,
+well, that arrangement is not working very well.
+So there is a possibility when perception goes badly
+of the whole thing collapsing onto itself.
+Similarly for social insurance arrangement,
+if you anticipate that it's fragile, then it's fragile.
+It's a self-fulfilling prophecy, that if nobody trusts
+other people, then the value of behaving well
+yourself is lower.
+And therefore, you will behave less badly, and therefore,
+not trusting people.
+People behave in untrusting ways.
+So you can have multiple equilibria, where
+everybody trusts each other.
+And the system work very well, and suddenly
+collapse of this informal system.
+And then here, if a bank arrive or a microfinance possibility
+arrive suddenly, they make the value
+of staying in the system a little less high,
+because there is the possibility of insuring yourself
+against the wrong thing.
+If a road comes or you have the possibility of migrating,
+and so it could be that introducing this option, which
+gives you cover against the worst outcome
+actually leads to the collapse of informal solidarity
+arrangement.
+Because they suddenly make the informal solidarity
+arrangement less valuable.
+And therefore, people who are doing well in a given day
+might feel that they want to not do it.
+Then again, you could solve the problem
+by telling someone who is doing well
+today, OK, from now on, don't give us too much.
+Don't give us everything you have.
+Give us just enough to make it worth it for you to stay.
+And again, you notice that we have an imperfect insurance,
+incomplete insurance, because those who are doing well,
+it is not at all because of the moral hazard thing.
+But those who are doing well end up
+keeping more, so that they can feel it
+valuable to stay in the system.
+So for a completely different reason than moral hazard,
+you again, end up with insurance that
+will look pretty incomplete.
+Now, that's a second way of having,
+a second element to insurance.
+Insurance also becomes limited when
+people can hide their income, because then they
+don't give it away.
+So you need to have schemes that leaves a sufficient stake
+in for people to declare how much income they haven't shared
+it.
+
+PROFESSOR: Reasons why people are going to incompletely pool
+their incomes within villages.
+But in addition, even if they were able to completely pool
+the income within villages, that's
+not going to provide them full cover
+against risk because a part of the risk is aggregate.
+So if you take, for example, the weather.
+People share the same weather.
+That doesn't mean that the weather has
+the same effect on everyone.
+Some people might have fields that are more sloppy
+or different type of soil, and so
+there is still some residual differences between people
+within the same village, but there is still a lot
+of the risk that is common.
+So to go back to Darren's definition of IED,
+the stock within the village might have a very strong
+common component.
+And just one IED error added on top
+of that, that might be responsible for only 10% or 20%
+of the overall viability of the income.
+In that case, they can be insured,
+their informal insurance arrangement
+is going to insure them for this part,
+for this residual risk that's not common to everyone, that's
+not aggregate to the village, but they're
+going to be left holding the risk of the aggregate shock.
+So that's a problem.
+So there is potentially quite limited scope for insurance.
+And this scope might become even more limited by the fact
+that moral hazard, for example, may
+be bigger among people who don't know each other very well.
+So people will tend to form insurance arrangement
+with close neighbors or with families,
+and therefore they will have even more correlated shock.
+So the fact that you have moral hazard
+limited commitment trust, needing to trust people,
+and so on reduces the set of people
+with whom you can form an insurance arrangement,
+and it reduces in a way that is actually
+going in the direction of limiting the scope that we have
+for insurance in the first place.
+
+So that's-- another problem is that not only people have
+aggregate shocks, but because in social networks they are depend
+on each other, the shocks might also propagate through
+the network.
+So, for example, during the financial-- during the COVID
+crisis, there was these articles coming
+about how when one business closes,
+all the people who were dependent on this business also
+closed.
+So people in a social network are also
+in a production network together,
+they are buying from each other, working for each other,
+and so on.
+So not only there is aggregate shocks
+because we share a common shock, but precisely because we
+are a social network, which allows
+us to form the insurance, we have this web of relationship,
+we also have a propagation of the shocks
+that are coming to this economic relationship
+between each other.
+So all of that means that almost by construction,
+informal insurance is going to leave people with a lot of--
+with a lot of risk to hold.
+
+Then there are also issues.
+So some of this, by the way, is not fixed over time.
+Some of this can be improved and can
+be improved by technologies.
+For example, in many African countries
+now in particular all over East Africa,
+there is access to mobile money on people's telephone.
+So a lot of people have access to this account where
+they can quite easily send each other money by the phone,
+even to long distance, which didn't
+use to be the case before.
+So what this has meant is that this has really allowed people
+to form insurance relationships in places where they were--
+where they might have uncorrelated stock.
+For example, before if your son went to the city
+or if your cousin went to the city, they were in the city,
+but you would have-- they only would
+have to come every six months or so to bring back money.
+And so you couldn't really rely on their income
+to provide insurance against what
+was happening in the village.
+And likewise, it was hard for you
+to give them money in case something went poorly for them.
+But now with M-PESA, M-PESA is the way
+that this system is called in Kenya, people,
+for example, who have a son in the city
+or even a village member in the city,
+can send money through their phone
+when things are going badly in the village and good for them,
+or can receive money on his phone
+while he is, for example, in between jobs.
+So [INAUDIBLE] in the Sloan School
+as shown that the introduction of M-PESA
+via the diffusion of the agents that
+are able to offer these processes
+has allowed people to diversify their informal insurance
+networks and has improved the informal insurance situation
+tremendously because people are not anymore
+constrained to form insurance between a group of people
+who share a lot of aggregate shocks.
+So that's an example of these things actually improving.

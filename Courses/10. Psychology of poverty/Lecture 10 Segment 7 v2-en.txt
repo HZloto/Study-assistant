@@ -1,0 +1,306 @@
+
+PROFESSOR: So let me continue.
+Now, you might say, and we talked about this a little bit
+already, that one psychological effect of poverty
+is worries about money, as well as anxiety and depression.
+But there's lots of other things potentially going on.
+There's sleep deprivation.
+People might worry a lot about money and therefore--
+or other things in their lives-- and therefore might not
+be able to sleep, as well as their sleeping conditions might
+just be very adverse.
+People might be quite stressed.
+We talked about physical pain a bit
+already, noise, environmental pollution, heat, stigma,
+social exclusion, dignity, substance abuse,
+mental distress, self esteem, et cetera.
+There might be lots of other things, other ways
+other than worries about money in which-- that
+might have call them psychological effects
+in some ways.
+I think of this as effects that might make it difficult
+for you to concentrate or to pay attention and so on.
+One of the things that we have studied recently in India
+is sleep deprivation.
+This is a paper with Pedro Bessone and Gautam Rao, Heather
+Schofield, and Mattie Toma.
+Now, so what do we actually know about the effects of sleep?
+So sleep-- we spend a lot of time sleeping,
+MIT undergrads less so.
+But, in general, people spend a lot
+of time sleeping in their lives.
+Expert-- and this is perhaps important for you to know.
+Experts recommend 7 to 9 hours of sleep per night.
+Any of you get 7 to 9 hours of sleep currently?
+Oh, more than I would have thought.
+I guess it's not finals season yet.
+So about a third of US adults report sleeping
+six or fewer hours per night.
+And so there's lots of lab experiments
+and observational studies that show impacts of sleep
+on-- or sleep deprivation on cognition, health, happiness,
+a little bit on wages, a little bit on decision making,
+some work on test scores.
+For example, if you look at-- and this is,
+I think, mostly on high schools.
+If you change, for example, the start time
+in a high school from 7:00 AM to 8:00 AM,
+test scores tend to go up, the reason being
+that people go to bed at a fixed time, usually.
+And if school starts at 8:00 instead of at 7:00,
+kids essentially get more sleep.
+If kids get more sleep, they do better in school.
+Nearly all of this evidence is from rich countries.
+A lot of it is also lab experimental evidence.
+What does this mean?
+This is like a sleep lab where you--
+in a sleep laboratory where you go inside, you're wired,
+you spend three, four days in the actual sleep lab.
+Your brain is wired in various ways.
+You sleep in the sleep lab for several days.
+There's often a treatment group and a control group.
+Treatment group sleeps very few hours-- sometimes
+doesn't sleep at all.
+Control group sleeps as usual, or at least as usual
+as you can sleep in a sleep lab.
+And then, usually, people look at effects
+on cognitions and the like.
+There's very little field evidence,
+in the sense of evidence of long-run interventions
+where people sleep in their own homes.
+And now if you look at-- if you read books about sleep,
+for example, Matthew Walker's book on why we sleep,
+you get the impression that, if we just slept a little more,
+the world would be a much better place.
+Health care burden would plummet.
+Mental health would get better.
+Businesses would be more productive.
+People would be healthier.
+Roads would be safer.
+Children would be smarter.
+Everything would be great.
+And so there's very much this notion
+that people under-invest in sleep.
+And if we could just get people to sleep more,
+that would be great.
+Notice that that's all based on evidence from rich countries.
+That may or may not be true.
+I'm going to show you some evidence from India that's
+potentially quite different.
+But when you read the evidence from rich countries,
+you get the impression that sleep is really important
+and there's a sleep deprivation epidemic, If you want.
+And if we could only get people to sleep more,
+things would get a lot better.
+Now, one thing that becomes very apparent
+if you look at websites such as Gapminder or Dollar
+Street, which I think you remember from, I think, case 1
+or from one of the first lectures--
+when you look at people's conditions,
+and I encourage you to actually do
+that-- if you look at people's homes,
+in particular, sleeping conditions, the beds and so on,
+you see hugely different environments
+of people's places.
+You see, essentially-- this is here the Howard family
+in Colorado earning--
+this is, I think, family income about $4,650 per month.
+So I think this is four or five people.
+They have really nice curtains, really nice mattress,
+pillows, plush, and so on.
+And it seems very comfortable.
+And one would be very tempted to take a nap right now,
+especially at 2:00 PM in the afternoon.
+Instead, you see here the Shah family,
+which usually is people's living room as well as their bedroom,
+where many people sleep in the same room.
+People sleep on the floor.
+There's dust, noise, mosquitoes-- many different
+sort of factors that interfere with people's sleep.
+So people's sleeping conditions are
+dramatically different among the rich compared to the poor.
+And that raises two key questions.
+One question is-- well, now, A, do people actually just sleep
+less and worse in some ways?
+So is sleep among the poor worse compared
+to sleep among the rich?
+And, two, if we could increase people's sleep in some ways,
+would that have returns or important effects
+on people's lives?
+And, in particular, you might say,
+well, Matthew Walker would say, well, increasing sleep
+for anybody is just amazing.
+Now, it might be that that's true for the US.
+But perhaps it's not the case if your sleep environment
+looks like this.
+If your sleep is really disrupted and so on,
+perhaps then increasing your sleep
+might actually not have very high returns.
+And this is what we were trying to do.
+We're trying to do three things.
+We're trying to, first, objectively
+measure people's sleep quantity and quality in Chennai.
+This is a city in India.
+Then we wanted to look at interventions
+to increase people's sleep, as well as measure
+the impact of these interventions,
+then, on people's outcomes.
+So what we were doing is we--
+first, we tried to document people's sleep deprivation
+and find alarmingly low quality of sleep.
+What does this look like?
+So you might have an Apple Watch or other types of Fitbits
+or the like that essentially track your sleep over time.
+So the way this works is-- essentially,
+you have some wristband type of watch
+that measures sleep through your motion.
+And what you get is some pictures
+that look something like this where you see-- this
+is your entire time in bed.
+This person went to bed at something like 11:00 PM,
+got up at something like 7:00 or 8:00 AM.
+So it wasn't bad, in this case--
+I guess seven hours and 53 minutes.
+You see in gray people's sleep time.
+This is the time asleep.
+Any minutes in gray are minutes where the person--
+the sleep watch thinks that you're asleep.
+And in red you see awake times.
+This is-- if you have an Apple Watch or the like,
+this is what your sleep might look like in the US,
+something like--
+and then there's a measure here--
+what's called sleep efficiency.
+This is the fraction of time that somebody spends in bed
+that they're actually asleep.
+Were we actually sleeping, as opposed to being in bed awake?
+Often, there's some sleep latency period here.
+When people go to bed at first, of course
+they don't fall asleep immediately.
+But once they're actually trying to sleep,
+people still wake up sometimes.
+Often, they wake up for a little bit.
+Sometimes they don't even necessarily
+notice or remember that.
+Sometimes people get up and use the bathroom or so.
+But this is a typical night for a typical person,
+say in the US.
+This is, in fact, a very unusually good night
+in our sample.
+This is about the 99th percentile.
+So this is-- the top sleeper in our study sleeps like this.
+But this is-- for comparison, this
+is what your night's sleep roughly
+might look like if you're a good sleeper.
+Notice this person has nine awakenings.
+And the longest sleep episode, uninterrupted sleep episode,
+is 202 minutes.
+Now, the typical night in Chennai among participants
+looks something like this.
+So here you see this person also spent about seven hours, 45
+minutes in bed.
+This is one particular person for one particular night.
+And you see, essentially, the night
+is riddled with awakenings.
+The person wakes up all the time.
+The longest-- so there's 31 awakenings
+of at least one minute, so 31 different bars here.
+Red bar is-- the longest uninterrupted sleep episode
+is about 45 minutes.
+That's about here.
+Compare that to this type of person, who gets about--
+some sleep streaks of about at least three hours overall.
+Given that we think one sleep cycle takes something
+like, I think, 90 to 120 minutes,
+this person has essentially no uninterrupted sleep cycle
+at all.
+In particular, the person also unlikely--
+we are not very good at measuring sleep quality,
+but quite likely this person also
+doesn't get a lot of deep sleep, just because this person wakes
+up a lot.
+So here's 31 awakenings, lots of awakenings.
+Particularly, sleep efficiency is about 69%.
+That's way, way lower than what you would find in the US.
+In the US, you would find something
+like sleep efficiency of 90% is normal.
+Anything below 85%-- if you went to a sleep doctor,
+that person would tell you you have a sleeping problem.
+We need to fix it somehow.
+This here is the typical person in a typical night in Chennai.
+Now, what are these people?
+Who are these people that are in our sample?
+These are essentially lower middle class participants
+that we hired for an office job to work on a data entry job
+for about a month.
+So these are not the poorest of the poor.
+These are not people who sleep on the street.
+These are people who are relatively poor.
+They have reasonably good levels of education.
+But they live in relatively poor living arrangements,
+often with four or five people in the same room, and so on.
+Here's another way to put this.
+So the actigraph-- this is the measure--
+that's the sleep watch that measures people's sleep.
+You see here, essentially, sleep time--
+these are hours per night.
+When you ask people's self-report--
+when you just ask them how many hours did you sleep,
+people would say something like seven, 7.2 hours in our study.
+This is, in fact, quite similar to what you would find
+in the US or in India overall.
+But that's self-reported.
+That's what people say.
+Now, notice that when you ask people how much did you sleep,
+people often don't remember how often they woke up.
+And often they confuse time in bed and time asleep.
+Really, what we're interested in is time asleep,
+not how much time did you spend in bed.
+So when you look at the objectively measured sleep,
+this is now using the actigraphs.
+This is the fraction of people in our sample.
+Objectively measured sleep is about 5.6 hours.
+So the average person sleeps about 5 and a half hours
+per night.
+There's lots of people here who sleep like four hours, five
+hours, and so on.
+Notice this is a weekly average for people in our sample.
+So that means, essentially, they have some nights
+that are even worse than that.
+But, on average, they sleep something like four,
+five hours overall.
+And that's very little.
+Sleep expert would say you should sleep something
+like seven to nine hours.
+Now, what's preventing people from sleeping well?
+We have three categories of reasons.
+One is environmental conditions--
+mosquitoes, noise, heat, cold, light, bathroom usage,
+you have somebody else in the room,
+uncomfortable condition, and so on.
+Then there's mental distress, worries, insomnia, bad dreams,
+and so on, as well as physical distress, physical pain,
+disease hunger, thirst, and so on.
+There's lots of reasons here.
+Now, what we were-- in our study we tried to do the following.
+We tried to essentially provide people
+with ways to improve their environmental conditions.
+In particular, we gave them mattress, earplugs, eye shades,
+table fan, blanket, and pillow to try and see-- can we
+make people's environmental sleep conditions better
+that help them sleep better at night.
+So we provided-- so we had-- so we have a sample of people,
+about 500 people, whom we recruited for a month
+to work for us in data entry.
+And then we have different treatment group.
+There's a control group who gets no intervention.
+There are some night sleep treatment groups
+where people get either information that say, look,
+sleep is important for you.
+Doctors say you should be sleeping more.
+They get these devices, as I said,
+mattress, earplugs, eye shades, table fan, and so on,
+as well as-- some people also get some incentives
+to sleep more.
+We say, if you sleep more hours, as measured by your watch,
+then we're going to pay you some money to do so.

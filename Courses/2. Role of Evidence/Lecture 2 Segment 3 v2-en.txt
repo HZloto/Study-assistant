@@ -1,0 +1,251 @@
+PROFESSOR: So given how important impact evaluation
+is for charities but also for government and perhaps
+primarily for government because they have so much more money
+to spend on people than anybody else,
+how come we don't have too much impact evaluation?
+And the reason is that it is, unfortunately, very difficult.
+So with needs assessment, we can just go and spend
+some time talking to people, thinking about their problem,
+describing it.
+And we'll get our needs assessment.
+With process evaluation, we can do
+that as the program is running.
+Make sure that we have good accounts
+and go and interview people and do field visits.
+But with impact evaluation, it was already
+reflected in our conversation.
+We are trying to compare what did happen to people under
+certain conditions-- for example,
+they received a school meal--
+to what would have happened to them
+had they not received the school meal
+or had they received something else instead.
+
+So that requires them to have knowledge
+of counterfactual, which is something that did not happen.
+So some people did not get school meal.
+And we would like to know how well they would have
+done if they got school meals.
+Some people did get school meal.
+And we would know-- we would like
+to know what would have happened to them
+if they got the school meal.
+And we can see the points.
+We don't have both.
+Like it's not-- we don't have both.
+So two counterfactual for any one person is not observable.
+So it's different from a lab situation.
+For example, if you do a chemistry experiment,
+you have your chemistry situation.
+You can change the condition and assume
+that nothing else changed.
+In reality, time happened.
+And sometimes it's pertinent.
+But if you control very well your environment,
+you can kind of go from having something to not have it,
+introducing a reagent to your Petri dish
+or not having the reagent.
+Similarly, in physics, you can light a switch.
+And the condition changes.
+But in the true world, when conditions change over time,
+many other things change.
+So we never observe the true counterfactual for anybody.
+And that's the problem.
+And that's why impact evaluation is so hard.
+So it's really a problem of missing data.
+And how do we find--
+how do we go about finding this data?
+So the key goal of program evaluation methods,
+including randomized control trials,
+is going to construct or mimic a counterfactual
+as best as we can in the condition of the real world.
+So that's the game that we are trying to play.
+So we observe an outcome over time.
+Let's say we observe it.
+And then the program takes place.
+And then maybe we observe it again.
+So for example, we see enrollment in schools.
+And then over time, then we start putting--
+we put our school meals.
+And we come back one year later.
+And we look at enrollment.
+And we say, wow.
+It's increased.
+So one could say, well, that's going
+to be my treatment effect, my estimate of the treatment
+effect.
+So that's the first possibility.
+The problem is that we need to identify the counterfactual,
+which is what would have happened
+in the absence of the program.
+So you can see here with the graph,
+maybe in the absence of the program,
+enrollment would have increased anyways.
+Or perhaps because other thing happened,
+perhaps it would have declined.
+But you know something would have happened.
+And that's the thing we don't see.
+So that's the counterfactual.
+And we want to compare the observed enrollment
+after the program was put in place to what
+the counterfactual would have been.
+And that's going to be our treatment effect.
+And the issue is we don't have it.
+So what can we do?
+We will not see a child both with or without a school meal
+at the same time.
+We will not see a school both with or without a school meal
+at the same time.
+So we don't observe the counterfactual.
+So what would be a first possibility?
+
+Yeah?
+STUDENT: Take control groups and run randomized control trials.
+PROFESSOR: So that would be that's a possibility.
+We're going to get to that in a minute.
+That might not be the most natural one
+because it requires to think about it in advance.
+And it's to put the program in place
+and to follow people that you don't even give programs to.
+So what might be a more obvious thing, what
+most people would have done?
+
+Just before taking 1473.
+Yeah?
+STUDENT: Compare the behavior of the child
+before the trial started to the behavior of the child after.
+PROFESSOR: Yeah.
+So you could do--
+so let me.
+You could do the difference between those who--
+so that's not the one.
+Let me start by this one.
+You could start by saying, well, let me compare the treated kids
+to the control kids.
+So we have the treated kids are people
+observed in the community with the treatment.
+And controls are other kids I observed,
+which happen not to have perceived--
+not to have been treated.
+So that's the simple difference.
+But there might be problems with that,
+which is, if you have not initially
+thought about doing it as an experiment,
+the people in the control group might have been different
+even in the absence of the school meal.
+For example, suppose that you only
+give the program in very poor schools.
+And then you pick, as your control group, other schools
+in the area.
+Then which way is it going to bias?
+It's going to make my treatment effect appear too small or too
+large, if you pick for the program the poor school
+and you compare them to other schools in the area?
+STUDENT: Too large.
+PROFESSOR: Too large.
+Do you agree too large is the answer?
+STUDENT: [AUDIO OUT] is too small.
+Because if you're working-- if you're only
+giving it to the poorer school, then you have less resources.
+So it would naturally be lower than the control group anyway.
+PROFESSOR: What is your--
+what is the-- you said too large.
+So what was your--
+STUDENT: It would make your effect seem too large.
+Because if you only gave it to the poorest people,
+they have the most incentive to participate in the program.
+PROFESSOR: Exactly.
+So you're answering a different question.
+And you might both be correct.
+You probably-- you are both correct, I think, potentially.
+One is that if I just compare the attendance in the schools
+that got the program to the schools that did not
+get the program, the treatment effect
+might appear too small because these children are poorer
+in the treatment school, in the schools that got the program.
+And therefore, maybe they go less to school,
+right, compared to school in the area in general.
+So that difference is smaller than it
+would have-- it's smaller than the true treatment effect
+because it combines the fact that kids who are poor
+go to school less and the fact that there might be a treatment
+effect.
+What you are saying, which is also true,
+is that but the treatment effect might
+be very large among these people who are poor.
+So I am potentially capturing a very large treatment effect,
+larger than it would have been in the population overall.
+So I'm estimating.
+If I estimate the treatment effect among poor schools
+and if I manage to estimate it very well,
+I'm going to get a larger treatment
+effect than I would have been in the population as a whole.
+But the problem is that I'm not even estimating the treatment
+effect among poor schools.
+I'm comparing the outcome of poor schools
+to the outcome of rich schools.
+And they are different because of the program
+and because of many other things.
+Now we could do another sort of thought experiment, which
+is suppose that you give the program to you
+select a set of schools, for example, poor schools.
+And in this set of schools, you let the head teacher
+apply for the program.
+And then you're going to compare the schools where
+the head teacher applied to the school where no one applied.
+In that case, would the treatment effect
+appear too large or too small potentially?
+Sorry.
+
+STUDENT: Too large.
+Because they are already taking the initiative.
+So they might have been taking other initiatives
+to do more for their kids anyway.
+PROFESSOR: Exactly.
+So these head teachers are among the poor schools.
+So you've now controlled for working only in poor schools.
+So that's good.
+But among the poor schools, the teachers
+who have the initiative to apply for this program,
+they are maybe gung ho and enthusiastic.
+And maybe they applied to another program
+where they also get uniforms.
+And all of that, you're not capturing.
+So your treatment effect might appear to be too large.
+Yeah?
+STUDENT: I don't think it's as straightforward as that.
+Like I think there could be another reason
+why they might feel the initiative
+to apply in that sense.
+Like maybe they were like, even relative
+to the other poor schools, like doing worse at that point.
+And so they felt like their back was against the wall.
+And they had to apply.
+PROFESSOR: Absolutely.
+I fully agree with you.
+This is I gave you one story where it is too large.
+But there could be a reasonable story where, in fact, it's
+too small because it's only the head teacher of the very
+miserable school that really took
+the initiative because they felt their kids needed it the most.
+So we can't even be sure.
+The point is that we can't even be sure
+because we don't know what would have happened.
+There is any number of things that
+are very difficult to control that explain why the treatment
+effect might be different.
+And you can see that you come up with too large and too small
+both for two suggestions that I made, which-- and in all cases,
+you had very reasonable ideas.
+So we don't know.
+So that's a problem.
+So comparing treated schools to another set
+of schools that happens to not be treated might not work out.
+So that's what we call the selection bias, which
+is the people who select into a program,
+either because they are selected to be for their characteristics
+or because they self-selected into a program,
+are different than people who don't select into the program.
+So this is what we have here, which is perhaps
+the control group people would have been higher
+in the absence of the program or would have been lower.

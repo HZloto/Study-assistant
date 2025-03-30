@@ -1,0 +1,2024 @@
+
+PROFESSOR: Today, what we are going
+to do is going to be really helpful for setting up a frame
+and for us to use for the entirety of this class, which
+is how do we think about evidence
+and why the power of evidence in changing policy
+and in particular the power of randomized control trial.
+So the first part of it is, why are social experiments helpful
+is they help us finding out what works.
+
+But why do we need to know what works?
+In this class, you're going to see many instances where
+we are going to talk about randomized controlled trials,
+or social experiment, or randomized experiments.
+Today, what we are going to do is
+to discuss what is a randomized experiments
+and why they are important--
+[INAUDIBLE]
+So let's be concrete first.
+Let's take one example, one policy problem
+that if you are a policymaker you
+might be interested in addressing,
+which is trying to get kids to come to school more regularly.
+First of all to be enrolled in school but also to show up.
+So if you are a policymaker, what might you consider?
+What could work?
+
+STUDENT: Transport.
+PROFESSOR: You could offer transport to people.
+STUDENT: You could add incentives
+like the deworming or free bednets or something.
+PROFESSOR: You could have incentives for people
+to come to school.
+One way in which people do it is, for example,
+by offering school meals in the school
+or transfer to the parents.
+You could add a deworming, which is not necessarily
+just an incentive, right?
+When you deworm a kid, you may-- in fact,
+that might be a counterincentive because they don't particularly
+want to take a medicine.
+But on the other hand, they get less sick,
+and therefore they'll come more often.
+Or you could have straight, kind of good incentive
+like providing bed nets for example.
+Yes.
+STUDENT: You could launch like informational campaigns
+for the parents.
+PROFESSOR: You could launch informational campaign
+where you would inform parents, for example, about the benefits
+there is to go to school.
+What else would you do?
+
+Yep.
+STUDENT: You could offer to feed the kids.
+Like two meals a day.
+PROFESSOR: Yes.
+You could offer to feed the kids.
+You could give school meals at the school, which,
+A, would act as an incentive, and, B, would make sure
+that they have enough to concentrate and to fight
+diseases.
+Yeah.
+STUDENT: Pay the families if the kid attends school.
+PROFESSOR: Yes.
+You could give a financial incentive
+in the form of a small payment or a large payment actually.
+This has been done, for example, to make
+financial assistance, cash transfer, social cash transfer,
+conditional on showing up in school.
+STUDENT: It's kind of more long term,
+but if you improve the resources of teaching
+and the quality of education at school,
+parents might be more likely to send their kids there.
+PROFESSOR: You could increase the value
+of sending kids to school by increasing
+the quality of education.
+So you could hire a better teacher.
+You could train the teachers better.
+You could have more resources in the school.
+That makes education more helpful,
+and therefore people would show up more.
+STUDENT: The government could offer a pathway
+to a higher-paying job than normal.
+PROFESSOR: You could-- which would
+be conditional on education.
+Yes.
+So you could, for example, say that they are--
+if a particular child reaches some level of education,
+they would be entitled or they would have a chance
+to get a higher job.
+So, for example, in India, it has
+been done for lower castes, formerly disadvantaged castes,
+and still disadvantaged in reality.
+But there are special classes of employment
+that are reserved for some castes or some other groups,
+but they also need to have some minimum level of education.
+So in practice, this serves as that.
+STUDENT: Make it illegal not to go to school
+or some kind of punishment.
+PROFESSOR: Absolutely.
+You could [INAUDIBLE] education compulsory.
+
+Someone mentioned-- one the first idea that was mentioned
+was the idea of reducing transport costs.
+That can be done in a number of ways-- for example,
+by building schools, by adding school bus,
+by letting people board.
+And as we think about cost of education,
+there might be other costs that parents
+have to face, like uniforms or books or something like that.
+You could pay for all of these things.
+So there are many, many ideas of what
+you could do to increase school participation.
+You mentioned a bunch.
+Now, suppose that you are given full freedom
+to pick the best of these policies
+or maybe a combination of the best of these policies.
+And then, whatever is the best policy,
+the government commits to scale up in the countries.
+You are given some time to figure it out--
+let's say three to four years to come up with the best plan--
+and you're given some money--
+some resources-- to try things out.
+What questions do you need to answer
+about each of these policies to know whether to recommend
+them or not?
+
+STUDENT: To actually increase learning, not just attendance--
+so they increase test scores.
+PROFESSOR: So you need to know their impact--
+their first order impact-- which is attendance but also
+potentially the second order impact,
+which is what you might care about,
+which is learning absolutely.
+But you need to know their impact.
+What else might you want to know?
+STUDENT: If the policies are doing
+any harm to the community.
+PROFESSOR: Yes.
+Is anybody-- it's a form of impact as well,
+but is there unintended consequences,
+not just on the people who get it
+but who are directly exposed but perhaps on other people?
+STUDENT: How easy is it to implement both in terms
+of cost and scalability?
+PROFESSOR: Absolutely.
+Is it feasible?
+What are the costs?
+Is it hard to implement?
+Is it a policy that is popular in a country that people
+[INAUDIBLE].
+All of that enters into the feasibility of the program.
+STUDENT: Unrelated to that, but how sustainable
+the policy is-- like if you can keep
+it going for a number of years.
+PROFESSOR: Yes.
+So it's related because it's the cost.
+It's the ease of implementation.
+But that feeds into this question of how long
+can you keep it going.
+STUDENT: If there are gaps in who's still not going to school
+and what fills those.
+PROFESSOR: Yes.
+So not only what is the average impact but how they impact
+varies across different segments of the population.
+Are there groups that you are completely isolating that you
+could reach to other policies or perhaps that you cannot reach
+in any ways?
+That's the [INAUDIBLE].
+STUDENT: Just how effective your policy is to reach the goal
+you want to have compared to the absence
+of that specific policy.
+PROFESSOR: Yes.
+STUDENT: So really, just a comparison
+to see how compared to the input you're putting
+and to the absence of that policy and what the result of
+[INAUDIBLE].
+PROFESSOR: Exactly.
+So that's the very nice way to spell out
+the very notion of impact, which is
+what is the outcomes with the policy compared to not doing
+anything, or potentially, in fact, compared
+to doing something else.
+You could have-- since you have an area of policy
+that you have to choose from, what
+are the ones that work the best, and what
+are the ones that work the best for the money
+that you are putting in?
+So, for example, if we choose-- so
+we can see that there's a lot of questions to ask.
+So if we pick just one example--
+someone mentioned school meals.
+So if you mention school meals--
+I think you picked that idea of school meals--
+for school meals, how do we--
+go back to the suggestions you had
+and try and make it concrete.
+What do we need to know about school meals?
+
+If I propose I want to test--
+I want to try out-- school meals,
+at the end of my try-out period, what
+do I need to know if I should go ahead and recommend the school
+meals?
+STUDENT: How much did it cost you?
+PROFESSOR: How much it costs.
+Absolutely.
+
+STUDENT: [INAUDIBLE] increase [INAUDIBLE] after [INAUDIBLE]..
+PROFESSOR: Exactly.
+So the way you spelled it exactly
+is the increase of attendance after the school meal.
+That's already very specific.
+I like also the way that Angela [? spelled ?] it
+as saying what is the attendance with the school meals compared
+to what it would have been without the school meal.
+So that's the effect of the school meals on attendance.
+And someone mentioned before, as long as we are at it,
+we might be interested in other things, like learning and stuff
+like.
+Yeah.
+STUDENT: Maybe you could not only
+do the effects but the trend line of the effect.
+Because what if it's some policy the media effect is really good
+and it's starting to go down, so you--
+[INTERPOSING VOICES]
+PROFESSOR: Yes.
+So we might want to look at the effect over time.
+That's related to the question of sustainability
+that I think you raised, which is do I get permanent effect,
+or is just some enthusiasm for two years And--
+STUDENT: You'd want to control group
+to see the direct effect of this removal.
+PROFESSOR: Right.
+So it's not something we want to know,
+but it might be something that is going
+to be needed in finding out who wants
+to know how there is an impact.
+STUDENT: Is it scalable?
+Can you do it on a very large scale.
+PROFESSOR: Is it scalable?
+So that's related to how hard is it the implementation was.
+In the case of school meals, there is the procurement--
+how hard and easy it was to get the food to make the meals to
+is there a lot of wastage?
+Is there corruption?
+Are kids lacking food?
+Are parents lacking food.
+And all of these things go into this idea of will we
+be able to scale it up.
+Yep.
+STUDENT: [INAUDIBLE].
+I was going to say, in this case,
+since you want to come up with the best plan,
+you should compare the school meal plan to other plans
+as well.
+PROFESSOR: Exactly.
+So we might say, well, we need that for school meals,
+and we need a control group that doesn't get school meals.
+But then, how about the other things you've proposed?
+School meals or school bus?
+School meals or deworming?
+School meals or uniform?
+School meals or money to people?
+All of these questions we're going
+to need to answer potentially for a number of the options
+that are in front of us.
+STUDENT: Oh, I just want to say that we
+can compare how school meals were related
+to performance of students.
+PROFESSOR: Yes.
+So not only-- this comes back to we
+want to know not just the effect on attendance
+but the effect on performance.
+Which could go either way because it
+could be that people attend because of the school meal
+but they don't learn anything, in which case
+that's not worth it.
+Or, in fact, because they have the school meals,
+they learn even better.
+So the impact is greater than what we might
+expect from attendance alone.
+STUDENT: Just overall sentiment about the policy as well--
+like talking to different people and seeing
+if they're excited about the idea of getting meals
+for the school.
+PROFESSOR: Exactly.
+So what do people think about it?
+What do teachers think about it?
+What do children think about it?
+What do parents think about it?
+Is it something that they view positively or not?
+Because that's going to, of course,
+count into entering sustainability, the ability
+of scalability, and so on.
+So I don't know if I answered all-- if I put on the board
+all the questions you asked but I think a fair amount.
+One thing we didn't say is whether they
+are better nourished, whether they come to school,
+whether who gets the benefits is something
+you raised when we were talking about it in the abstract.
+But you didn't raise in the case of the school
+meal, but are the poor kids the ones who really benefit or do
+we leave people out--
+the people whose parents cannot send them to school even with
+the school meals?
+Do the kids learn more?
+Et cetera.
+PROFESSOR: Let's start by organizing these questions.
+There are different types of questions in this list
+and in everything you've raised.
+Some of these questions are needs assessments.
+So needs assessment, is it really needed?
+For example, is nutrition really a barrier for kids
+to come to school, or is it the case that [INAUDIBLE] and food
+is not the problem?
+People prefer to eat at home anyways,
+and you need to do something else.
+So that's your formative time where you're saying,
+is there even a need for this policy?
+Many things can probably be ruled out at that stage.
+Then there is the process evaluation,
+which is how is it going?
+Is this policy implemented and run as we hoped?
+So which kind of questions in what I raised come
+into under process evaluation?
+In what we discussed earlier, what
+are the type of things that you could consider to be a process
+evaluation question?
+
+Yes.
+STUDENT: Whether there's food wastage.
+PROFESSOR: Exactly, whether there is food wastage,
+whether the food's actually even needed, and so on,
+would be processed information questions.
+And then there is an impact evaluation question
+which you raised in various ways by already providing me
+a solution to the impact evaluation question.
+But does it make a difference compared
+to doing nothing or compared to doing something else that is
+in a potential menu of option?
+So it needs evaluation.
+We might ask ourselves, who is the targeted population?
+Is it for everyone?
+Is it just for the poor?
+We need to answer this question because that's
+going to affect the final budget of the program
+as well as equity consideration.
+We need to ask ourselves, what's the nature
+of the problem being solved?
+
+So what is the reason why kids are not going to school,
+and will school meal really solve it?
+So this goes back to your idea of asking
+people what they think.
+What is it that prevents them to come there
+to bring their kids to school, and is a school meal
+going to be addressing this barrier or not?
+We need to answer this question-- why?
+
+STUDENT: I guess if you don't know
+what the problem is, you're much less
+likely to be affected policy.
+If you find out, oh, the school meals are not
+going to help the kids regardless-- like,
+the parents don't believe that it will help.
+They're not going to send them, even if you do.
+PROFESSOR: Absolutely.
+You could try.
+There are many cases where you dream up a program from Boston,
+or even from the capital of a country
+that it seems to make sense from your point of view,
+but it really doesn't make any sense
+from the point of view of the experience
+of the people on the ground.
+And then to start with, it's very unlikely
+that there would be any impact of such program.
+So here, for example, it could be that some policymakers
+really think people are so poor that they
+can't feed their kids.
+But in fact, it is really not a constraint.
+But what's really important for people
+is that kids can go safely to school every day,
+in which case, just from the formative research
+and the needs assessment, you will understand
+it's not even necessary to try it out.
+And then how the service fits the environment,
+and how do you embed this program in the existing
+machinery of providing a school?
+So for example, if there is a school meal,
+someone has to cook it.
+Who is going to cook it?
+Are the teachers, are they going to be comfortable cooking it,
+or do schools have kitchens?
+Do they have water?
+Do they have a place for kids to wash their hands,
+and so on, and so forth?
+The type of implementation question
+that might seem very pedestrian and boring,
+but nobody thinks about and is often the difference
+between success and failure.
+So this is your needs evaluation,
+and it's going to come up before you do anything
+to even give you an idea of whether or not
+this is something you might want to consider.
+And that's very important, because a lot of things
+could be culled out with good needs evaluation.
+For example, the idea of putting computerized computers
+in schools, which you could do a needs assessment
+and realize 90% of the schools don't have electricity,
+so computers don't need to be sent.
+Once you have done that, if the program has launched
+another type, another series of questions we ask
+have to do with process evolution.
+Are the services delivered in the way you intend?
+Are you spending the money?
+Are you actually delivering the meals
+or is the food wasted or lost somewhere?
+Are the children actually eating them?
+Can you do better?
+In the process evaluation, can you do this better?
+Can you improve the cost effectiveness
+of the way you deliver the program?
+Can you replace, for example, expensive inputs
+with less costly alternative?
+Can you replace costly inputs with labor?
+Can you play with delivery methods.
+For example, in school meals, a big debate
+is whether you should cook the school
+meal in a centralized kitchen and send them
+to all the schools or whether the kids should--
+or whether each meal should be cooked in the school itself.
+I don't have an answer to this question,
+but it's going to affect the cost.
+It's going to affect the quality.
+It's going to affect the desirability in ways
+that needs to be documented.
+And then once you send the meals,
+are children spending the entire day-- children and teachers
+spending the entire day cooking and eating instead of learning?
+Are the services reaching the right population?
+For example, someone asked whether there are hole
+in the coverage of the program.
+Suppose that you are only able to implement such a program
+in pretty well-organized communities.
+then it could be that with this kind of program,
+you're actually reaching the places that
+are the wealthiest and not the places which have
+a real large absentee problem.
+So all of that can be done by once the program
+is up and running.
+So the needs assessment, you should do before one policy--
+you in your capacity as figuring out the right solution
+would do before you even launch the program.
+The process evaluation can be done
+as the program is moving along.
+And it's typically done--
+for most programs, it's done more or less while,
+but it's part and parcel of running programs.
+
+And then you have-- at the end, you
+have a satisfaction services.
+You can ask a teacher, student responses to them.
+And usually, you stop there-- or one stops there.
+So you do all of these things.
+You write a report.
+You wouldn't do such a thing because you
+would have taken this class.
+But the auditor comes, and do all these things,
+write a report, and say, it's a A-plus program or an A program,
+or a C program in term of how well it's being run
+and it's cost-effective--
+
+the way it's managing its budget, and so on.
+But then, of course, there is the impact evaluation,
+which is what you guys have raised,
+which is the key question, what we really
+want to know in order to recommend this policy is
+suppose I manage to do it properly
+and implement the program in a way that is scalable,
+that's not too expensive, that's well-received.
+Do the school meals cause the students
+to attend to school more?
+That's my challenge.
+And then we could ask, what's the effect on attendance,
+on attending school is both being enrolled and attending
+regularly.
+So what's the effect of enrollment versus attendance?
+What's the effect on learning, or perhaps what's
+the effect on health?
+Who is the effect on who?
+When you ask about are they whole in term
+of the impact of this program, it's not just about coverage,
+but it's also about differential effects.
+Yeah.
+STUDENT: I feel like we also need
+another impact question regarding the post policy
+impact.
+Like, what happens after we stop subsidizing
+meals and that kind of thing?
+PROFESSOR: You could ask the long-term effect,
+although maybe your government could
+be interested in potentially doing it forever.
+But I think you have exactly the right question, which
+is, what's the dynamic effect over time?
+The first question that you raised
+was whether or not-- how long the effect
+lasts over time, assuming the program stays in place.
+And you could also ask yourself, I've done a one-shot program.
+Does the program stay in place later,
+or is it that it needs to be sustained over time?
+So that would be another absolutely other impact
+question.
+So impact across people, impact over time.
+
+Impact evaluation is really important.
+You would think it's obvious that when we run a program,
+all of the needs assessment and process evaluation question
+are really key.
+But really, the proof of the pudding
+is whether or not the program makes a difference.
+Is there a difference as it's being run,
+or as you point out, a difference that maybe lasts
+even longer than the program?
+But does it make a difference compared
+to having done nothing or compared
+to doing something else that I could do with the money?
+
+So although that seems like it would be a very natural thing
+to do, it is actually really a part and parcel
+of running a program.
+Usually, you run a program.
+And if you're lucky, you have a process evaluation,
+but you don't have an impact evaluation.
+And as a result, we have surprisingly little hard
+evidence on what works.
+And the evidence that we do have is often
+based on asking general impressions,
+or how the process evaluation pans out,
+or what people kind of say about it.
+And yet it's a pretty essential question for the debate on aid,
+but also on public policy.
+Do we know that anything that can be done is working?
+How do we identify what works?
+How do we maximize the return to dollars
+and how to pick what really works?
+So since I taught at MIT, there is a very strong presence
+of a computer science.
+If there is a very strong presence of computer science,
+there is a very strong presence of people
+who are going to go into tech.
+And among people who go into tech,
+there is a very strong presence of effective altruism.
+And the idea of effective altruism
+is that you are going to make a lot of money
+and then spend it in the best way possible to help people,
+to help the poor.
+Impact evaluation is critical to any effective altruism mission,
+because otherwise, how do you know that you're putting
+the money to the best use?
+It's also, of course, critical to any good policy-making,
+so it's a critical question for government.
+The reason I raise it is that it is very likely that people that
+many of you will be exposed, if you haven't been already,
+to the idea of effective altruism.
+And you will see that we have a champion of effective altruism
+in the room.
+You can go talk to her.
+And you will then know that in order
+to even to be able to go to effective altruism,
+there is a notion of effective.
+And that's related to impact.
+
+Then you have an organization like GiveWell,
+for example, whose motto is, we search
+for the charities that save or improve life the most
+per dollar.
+So for that, we need to have an idea of exactly the same type
+of the questions that we were asking ourselves virtually.
+What is the policy that will increase enrollment or learning
+the most per dollars?
+For that, we need impact.
+We need for each policy, what is their impact compared
+to doing something else?
+And, of course, what is the cost?
+Once we have impact and cost, we can do cost-benefit.
+PROFESSOR: So given how important impact evaluation
+is for charities but also for government and perhaps
+primarily for government because they have so much more money
+to spend on people than anybody else,
+how come we don't have too much impact evaluation?
+And the reason is that it is, unfortunately, very difficult.
+So with needs assessment, we can just go and spend
+some time talking to people, thinking about their problem,
+describing it.
+And we'll get our needs assessment.
+With process evaluation, we can do
+that as the program is running.
+Make sure that we have good accounts
+and go and interview people and do field visits.
+But with impact evaluation, it was already
+reflected in our conversation.
+We are trying to compare what did happen to people under
+certain conditions-- for example,
+they received a school meal--
+to what would have happened to them
+had they not received the school meal
+or had they received something else instead.
+
+So that requires them to have knowledge
+of counterfactual, which is something that did not happen.
+So some people did not get school meal.
+And we would like to know how well they would have
+done if they got school meals.
+Some people did get school meal.
+And we would know-- we would like
+to know what would have happened to them
+if they got the school meal.
+And we can see the points.
+We don't have both.
+Like it's not-- we don't have both.
+So two counterfactual for any one person is not observable.
+So it's different from a lab situation.
+For example, if you do a chemistry experiment,
+you have your chemistry situation.
+You can change the condition and assume
+that nothing else changed.
+In reality, time happened.
+And sometimes it's pertinent.
+But if you control very well your environment,
+you can kind of go from having something to not have it,
+introducing a reagent to your Petri dish
+or not having the reagent.
+Similarly, in physics, you can light a switch.
+And the condition changes.
+But in the true world, when conditions change over time,
+many other things change.
+So we never observe the true counterfactual for anybody.
+And that's the problem.
+And that's why impact evaluation is so hard.
+So it's really a problem of missing data.
+And how do we find--
+how do we go about finding this data?
+So the key goal of program evaluation methods,
+including randomized control trials,
+is going to construct or mimic a counterfactual
+as best as we can in the condition of the real world.
+So that's the game that we are trying to play.
+So we observe an outcome over time.
+Let's say we observe it.
+And then the program takes place.
+And then maybe we observe it again.
+So for example, we see enrollment in schools.
+And then over time, then we start putting--
+we put our school meals.
+And we come back one year later.
+And we look at enrollment.
+And we say, wow.
+It's increased.
+So one could say, well, that's going
+to be my treatment effect, my estimate of the treatment
+effect.
+So that's the first possibility.
+The problem is that we need to identify the counterfactual,
+which is what would have happened
+in the absence of the program.
+So you can see here with the graph,
+maybe in the absence of the program,
+enrollment would have increased anyways.
+Or perhaps because other thing happened,
+perhaps it would have declined.
+But you know something would have happened.
+And that's the thing we don't see.
+So that's the counterfactual.
+And we want to compare the observed enrollment
+after the program was put in place to what
+the counterfactual would have been.
+And that's going to be our treatment effect.
+And the issue is we don't have it.
+So what can we do?
+We will not see a child both with or without a school meal
+at the same time.
+We will not see a school both with or without a school meal
+at the same time.
+So we don't observe the counterfactual.
+So what would be a first possibility?
+
+Yeah?
+STUDENT: Take control groups and run randomized control trials.
+PROFESSOR: So that would be that's a possibility.
+We're going to get to that in a minute.
+That might not be the most natural one
+because it requires to think about it in advance.
+And it's to put the program in place
+and to follow people that you don't even give programs to.
+So what might be a more obvious thing, what
+most people would have done?
+
+Just before taking 1473.
+Yeah?
+STUDENT: Compare the behavior of the child
+before the trial started to the behavior of the child after.
+PROFESSOR: Yeah.
+So you could do--
+so let me.
+You could do the difference between those who--
+so that's not the one.
+Let me start by this one.
+You could start by saying, well, let me compare the treated kids
+to the control kids.
+So we have the treated kids are people
+observed in the community with the treatment.
+And controls are other kids I observed,
+which happen not to have perceived--
+not to have been treated.
+So that's the simple difference.
+But there might be problems with that,
+which is, if you have not initially
+thought about doing it as an experiment,
+the people in the control group might have been different
+even in the absence of the school meal.
+For example, suppose that you only
+give the program in very poor schools.
+And then you pick, as your control group, other schools
+in the area.
+Then which way is it going to bias?
+It's going to make my treatment effect appear too small or too
+large, if you pick for the program the poor school
+and you compare them to other schools in the area?
+STUDENT: Too large.
+PROFESSOR: Too large.
+Do you agree too large is the answer?
+STUDENT: [AUDIO OUT] is too small.
+Because if you're working-- if you're only
+giving it to the poorer school, then you have less resources.
+So it would naturally be lower than the control group anyway.
+PROFESSOR: What is your--
+what is the-- you said too large.
+So what was your--
+STUDENT: It would make your effect seem too large.
+Because if you only gave it to the poorest people,
+they have the most incentive to participate in the program.
+PROFESSOR: Exactly.
+So you're answering a different question.
+And you might both be correct.
+You probably-- you are both correct, I think, potentially.
+One is that if I just compare the attendance in the schools
+that got the program to the schools that did not
+get the program, the treatment effect
+might appear too small because these children are poorer
+in the treatment school, in the schools that got the program.
+And therefore, maybe they go less to school,
+right, compared to school in the area in general.
+So that difference is smaller than it
+would have-- it's smaller than the true treatment effect
+because it combines the fact that kids who are poor
+go to school less and the fact that there might be a treatment
+effect.
+What you are saying, which is also true,
+is that but the treatment effect might
+be very large among these people who are poor.
+So I am potentially capturing a very large treatment effect,
+larger than it would have been in the population overall.
+So I'm estimating.
+If I estimate the treatment effect among poor schools
+and if I manage to estimate it very well,
+I'm going to get a larger treatment
+effect than I would have been in the population as a whole.
+But the problem is that I'm not even estimating the treatment
+effect among poor schools.
+I'm comparing the outcome of poor schools
+to the outcome of rich schools.
+And they are different because of the program
+and because of many other things.
+Now we could do another sort of thought experiment, which
+is suppose that you give the program to you
+select a set of schools, for example, poor schools.
+And in this set of schools, you let the head teacher
+apply for the program.
+And then you're going to compare the schools where
+the head teacher applied to the school where no one applied.
+In that case, would the treatment effect
+appear too large or too small potentially?
+Sorry.
+
+STUDENT: Too large.
+Because they are already taking the initiative.
+So they might have been taking other initiatives
+to do more for their kids anyway.
+PROFESSOR: Exactly.
+So these head teachers are among the poor schools.
+So you've now controlled for working only in poor schools.
+So that's good.
+But among the poor schools, the teachers
+who have the initiative to apply for this program,
+they are maybe gung ho and enthusiastic.
+And maybe they applied to another program
+where they also get uniforms.
+And all of that, you're not capturing.
+So your treatment effect might appear to be too large.
+Yeah?
+STUDENT: I don't think it's as straightforward as that.
+Like I think there could be another reason
+why they might feel the initiative
+to apply in that sense.
+Like maybe they were like, even relative
+to the other poor schools, like doing worse at that point.
+And so they felt like their back was against the wall.
+And they had to apply.
+PROFESSOR: Absolutely.
+I fully agree with you.
+This is I gave you one story where it is too large.
+But there could be a reasonable story where, in fact, it's
+too small because it's only the head teacher of the very
+miserable school that really took
+the initiative because they felt their kids needed it the most.
+So we can't even be sure.
+The point is that we can't even be sure
+because we don't know what would have happened.
+There is any number of things that
+are very difficult to control that explain why the treatment
+effect might be different.
+And you can see that you come up with too large and too small
+both for two suggestions that I made, which-- and in all cases,
+you had very reasonable ideas.
+So we don't know.
+So that's a problem.
+So comparing treated schools to another set
+of schools that happens to not be treated might not work out.
+So that's what we call the selection bias, which
+is the people who select into a program,
+either because they are selected to be for their characteristics
+or because they self-selected into a program,
+are different than people who don't select into the program.
+So this is what we have here, which is perhaps
+the control group people would have been higher
+in the absence of the program or would have been lower.
+
+PROFESSOR: So RCT stands for--
+STUDENT: Randomized Control Trial.
+PROFESSOR: Randomized control trial.
+So the idea we asked here is that, OK,
+I want to understand the allocation to either getting
+the program or not getting the program.
+So I'm going to take a set of schools.
+And I could select poor schools, or I could select
+poor schools who have applied.
+Or I could have different groups in fact
+because I might be interested in the effect
+for poor schools in the effect for richer schools to compare.
+But then within my lot of, say, poor schools where someone
+applied, I'm going to randomly assign whether or not
+they get the program or not.
+That now creates a comparison group
+that's not systematically different
+from the participant group--
+one that's not subject to selection bias.
+And therefore, I can compare treatment and control.
+
+So why is that true?
+That's true because of the law of large number.
+Of course, any individual is different.
+So any individual school might is still going to be different.
+So if I decided between two schools,
+and I picked one to be treatment and one to be controlled,
+there could still be any number of differences
+between these two schools and between the students who
+study at these schools and their conditions.
+So if I compare what happened to my two schools,
+I will still be hard pressed to say it's only
+coming from the program.
+It could, in fact, be coming from any number of factors.
+But when I have a large number of schools,
+this idiosyncratic differences should
+even out across my entire set of schools.
+And that means that, on average, there
+is no reason why a treated school would systematically
+have higher or lower attendance than a control school
+except that the program took place.
+So we can take, say--
+so how large is large is an interesting question
+that we are not going to get into right now.
+But 200 we can consider to be reasonably large.
+And we are going to randomly split them into groups of 100.
+And then we can split them and measure participation
+in school, test scores, all of the things you said.
+We can start splitting by the level of poverty in the school,
+by something about the teachers, by the characteristics
+of the students.
+And we'll get a rigorous measure of impact.
+So the question is, how large is large?
+And it has to be large enough that you can
+apply the law of large number.
+That is where differences will even out.
+So 2 is clearly not large enough.
+I would argue in the case of schools,
+10 will not be large enough.
+And then the question is whether is 20 going to be large enough?
+Is 100 going to be large enough?
+Is 10,000 really too much money to be spent just
+on an experiment?
+That's going to determined to be--
+that's going to be highly dependent on the outcome
+and on how variable it is.
+So if you have very precise outcome, then
+even a small sample, any difference you
+can say really coming from--
+is coming from the treatment.
+If you have things that are super noisy, like,
+how much people consume, for example,
+which vary across a number of factors,
+you're going to want to have much larger
+samples to make sure all of this randomness evens out.
+Yeah.
+STUDENT: Is like villages opting out of the study
+often a problem?
+PROFESSOR: That's an excellent question.
+So when you randomly assign, say, chicken
+to vaccination program against avian flu,
+they have no say in whether or not they participate.
+So when you do a randomized evaluation
+in veterinary science, it's pretty simple.
+It's exactly what I'm saying.
+You take your 1,000 chicken, and you randomly assign them
+to treatment and control.
+With human beings, it gets much more complicated
+because they will choose whether or not
+they want to participate at an individual level
+and at a group level.
+So here, for example, a school could say, thank you very much,
+but I'm not interested in participating the experiment.
+Either they don't want to be in the treatment group,
+or they don't want to be in the control group.
+So they don't want to share data if they are not treated.
+So this poses some--
+both of these caused problems.
+And both of these caused problems
+that are statistical problem that can
+be handled to a certain extent.
+So for example, if people reject the program--
+so you offer your school meal program,
+and the teacher says I'm not interested.
+When you do your analysis, you are still
+going to say, well, let me treat them
+as I have-- my program is not really doing a school meal.
+My program is offering the school meal to the school
+because that's the only thing I can really do.
+And people will take it or they won't take it.
+So we call that intention to treat.
+I had the intention to offer this program.
+And we compare people who were intended
+to treat to people who were, in fact, treated.
+And sometimes, the opposite can happen,
+which is a control school teacher might
+see that, oh, there is this school meal program,
+but I'm not part of it.
+Let me see whether I can find it elsewhere.
+Maybe there is another organization
+that will give it to me.
+So some of the people and the control group
+might end up being treated as well with school meals.
+Again, you're going to keep them for analysis
+purpose in the control group.
+And you're going to hope to maintain
+a difference between the two that is sufficient
+that your intention to treat will
+be related to a difference in actual treatment.
+
+STUDENT: How can you tell if the two groups are actually
+separate groups?
+Because perhaps there are connections between villages.
+So if you apply treatments to one village,
+it could spillover to a village that's
+supposed to be in the control group,
+making them naturally different.
+PROFESSOR: So this is another excellent question,
+which is all of this works really nicely, as long
+as there is no interaction between villages.
+But sometimes, there might be interaction between villages,
+which would lead to--
+which might lead to contagion between the two.
+So for example, it's less clear with school meals,
+but take the example of--
+actually, let me see if I can make it work with school meals
+since we are talking about school meals.
+
+Yes.
+So suppose that you start from a setting where
+a participation in school is really extraordinarily
+low, where people haven't really started to come to school,
+and then you introduce school meal in 100 schools.
+And the students stop coming.
+And once they stop coming, they realize that actually there
+is all sorts of interesting things that happen in school.
+And then they talk to their friend and they say,
+you know what?
+You should go to school.
+Even if you don't have a school meal,
+there are other things that are quite cool about what's
+happening in school.
+And in this way, they persuade their friends
+in the control group that there are other reasons
+to come to school.
+Then your treatment effect of the school meal,
+is it going to be too high or too low?
+STUDENT: Too low.
+PROFESSOR: It's going to appear to be
+too low because the fact of being near a treated school
+has a positive effect, so the control group moves up.
+So that's an example that would work with school meal.
+A less contrived example is--
+
+and actually a real example is, there
+have been many, many evaluation of deworming
+programs inside schools.
+And what they did is that they randomized
+at the individual level inside each school.
+So that's nice.
+You give deworming to some kids and not some other.
+It's very easy to organize.
+You don't have to get many schools to get many kids.
+But what was the problem with that design?
+
+STUDENT: Kind of they want the entire community.
+PROFESSOR: Yes.
+By deworming half the kids, you've dewormed everyone.
+Warms are extraordinarily contagious.
+So if half of the kids don't have worms, then, first of all,
+they're going to get it back from the control group,
+but also they'll just be much fewer worm
+in the entire community.
+So Michael Kremer, a few years ago one,
+of his most famous project is one
+with Ted Miguel where they moved from individual level
+randomization within school to school level randomization
+to control the externalities.
+And even then, they showed that there is still externalities
+even across schools because of one's
+traveling even within the village.
+So you need to pay attention to this potential externalities
+that might bias your results.
+And again, there are things we can do.
+And along the way when we study various programs,
+we are going to see them.
+Yeah.
+STUDENT: How much do we know of the change in people's behavior
+once they know that they're part of the program?
+So for example, do they instinctively or consciously
+or consciously perhaps change their behavior
+once they know they're part of the treatment group or control
+group?
+And how do we control that?
+PROFESSOR: So another excellent question
+is the very fact that you're part of an experiment,
+changing your behavior in a way that would not spill over
+to when the program is permanent.
+So that's a little bit related to the question that you asked
+earlier, which is, it a one-time effect,
+or is it something that we can expect
+to see have an effect for over the long period of time?
+If it's really due to the excitement
+of getting this special program for a year,
+then it might not last.
+So this is called Hawthorne effect.
+Apropos by some experiment where supposedly they
+were trying to-- they were experimenting
+on the lighting in factories.
+And so they wanted to see whether when the light is
+higher, people are more productive, perhaps
+because they are more happy or more.
+And they did this-- so supposedly, when they did that
+and they informed people, people became more productive
+just by being observed.
+I'm saying supposedly, because there
+have been re-evaluation of the original author and effect.
+And it is also an experiment.
+And it is argued that there is no author
+effect in the original [INAUDIBLE] experiment.
+But the point remains valid, which is if you do find--
+if there is, in fact, it is temporary effects then,
+your evaluation in the confines of the experiment
+might not spill over more generally.
+In practice, when they have been measured,
+they seem to be very, very limited
+and last for like one weak or something like that,
+and then things go back to normal
+so that it might not be a problem in many settings.
+But it is something that we need to keep an eye on.
+PROFESSOR: Once we have done this experiment,
+once we have the concept of doing this experiment--
+and all of your questions were wonderful in terms
+of going from the 30,000 feet description
+to actually how they work in practice, which is where
+a lot of [INAUDIBLE] get made.
+But still many people have done experiments.
+And we can start thinking about how
+to combine the results from these experiments
+to compare cost effectiveness across programs so
+that our givewell charity, or our effective altruists
+or government can actually pick not just
+the most effective, but the most cost effective method.
+The ideal way to do it if you had a lot of time and money
+would be to run one experiment which
+had all of the possibilities at the same time.
+But it is difficult. So typically, the way
+we try and compare programs is by accumulating
+many experiments that we're running various contexts
+and putting them on a common scale.
+So for example, for participation of education,
+you might be interested in how many extra years of education
+do you get by spending $100 in a particular program?
+There are many ways in which you could do that.
+You guys have mentioned various things.
+One that is very popular is conditional cash transfer.
+So when people receive cash transfer that
+are conditional on school participation,
+you could provide school uniforms.
+You could provide school meals.
+You could de-worm children.
+That's the discussion we were having.
+And for all of this, you can ask the same question,
+which is, how much extra years of education
+do you get for having spent $100 or $1,000 on this program?
+So for this, you need the impact evaluation,
+which tells you how much extra years of education
+you got in the context of the experiment.
+And you need to have all of the costs
+and then to take them on average over the number of people
+who were treated.
+So for example, to treat--
+de-worming is super cheap.
+So the cost per child per year is about $0.50.
+And then if you treat a child, if you treat an entire school,
+that will cost you $0.50 multiply by 500 kids,
+and you'll get x number of extra years of education by comparing
+the absence rate in the de-wormed school
+to the non-de-wormed school.
+So there are a number of things that
+have been compared, school health, incentives
+for students, informing parents about returns to education.
+This is nice because all of you proposed this.
+And then once we have that, we can
+do a cost benefit analysis, which will require the needs
+assessment.
+It will require the process evaluation
+because we need all the money that has been spent,
+including what potentially has been wasted.
+And it requires the impact evaluation.
+So all of these are inputs into the cost-benefit analysis.
+So the needs assessment gives you the metric
+for defining the cost-benefit ratio, what's important,
+enrollment, or learning, for example, or both.
+The process evaluation gives you the cost of all the inputs.
+And the impact evaluation gives you the quantified benefits.
+And then when you have that for many programs,
+you can use the cost of the program
+to calculate how much it would cost to do it for 1,000 kids.
+Use the pogrom impact to calculate
+how much extra years of education
+you would have gotten per 1,000 kids.
+So for example, for the cost per child for de-warming is $0.50.
+The increase in year of education if you de-worm
+is 0.15 years.
+So de-worming costs $3 per extra year of education induced
+of $0.50 per year.
+And for this $0.50, you get 0.15 years.
+So it will cost you $3 per extra year of education.
+So this is very different from the rating agency,
+like Charity Navigator, gives you
+a cost estimate for agencies.
+But they don't relate it to the impact.
+So they will still like de-worming
+because it's so cheap.
+But if you don't follow it to the impact,
+you could do things that are extraordinarily cheap,
+like sending letters to people.
+If the letters will only work, it
+will still only worth doing if it makes a difference.
+On the other hand, you could do something very expensive,
+but has a tremendous effect over people's lifetime,
+even if it's one shot.
+Then it might still be worth it doing it.
+So the cost is not sufficient to say whether you want
+or not to do this problem.
+You have to have the cost and the impact.
+And this is one way to do this.
+So for the cost per extra year of education induced,
+we compare these various intervention primary or--
+this is the primary or secondary school conditional cash
+transfer in Mexico.
+You can see it has its own scale because per year of education
+induced, it is very expensive, $6,000 for the primary school
+CCT and $1,000 for secondary school CCT,
+even though secondary school is more expensive,
+but it has a larger effect.
+And then all of the things to the left
+are things that have been evaluated
+in Kenya and India, which gives you
+the cost of doing school uniform per extra year of education,
+doing scholarship for girls, providing
+an extra teacher in India, or providing de-worming
+both in India and Kenya, and finally, our school meals.
+And you can see that it is de-worming
+that turns out to be the cheapest
+way to increase education.
+And what is funny is that it is not even
+an education intervention.
+And the thing that looks to be the most direct, like providing
+girls scholarship or conditional cash transfer,
+they are effective, but they are less cost effective.
+So the intuitions we might have going into problems
+are usually a little off because if we
+think we want to keep school kids in school,
+we have to do things that have to do with schools directly.
+But in fact, there might be things
+to do that, in this case, has to do with health and as
+even larger.
+PROFESSOR: So when we started, I gave you
+the rationale for doing impact evaluation by asking you
+to think of a policy problem.
+And by telling you a government wants
+to pick the best policy to fight absenteeism and encourage
+enrollment.
+And you can help them do that.
+But then I also mention that, in fact, impact evaluation
+is not that frequently part of the policy process.
+So you might ask yourself legitimately,
+how do you go from evidence to policy?
+And does anybody care about the results of a randomized control
+trial, and are the type of limits
+that we have discussed about randomized trials,
+are they standing in the way of actually making policy using
+randomized control trials?
+
+So here's the strawman.
+And to be honest it's not a ridiculous strawman,
+or at least I don't think it's a ridiculous strawman
+because my idea when moving into randomized evaluation
+would be that it would work more or less like that.
+But it's a strawman for reasons I'll explain.
+So the strawman would be you're interested in these school meal
+questions.
+You run a small well controlled experiment.
+Such experiments have been run in several countries perhaps.
+You find your result. You prepare a shiny policy brief
+with a colorful photo.
+And you peddle the results to policymakers.
+
+They are convinced, and they adopt the program.
+And they scale it up.
+So that might sound naive, but that's a little bit the way
+I was thinking when I started doing
+randomized evaluation that this is
+roughly the way it would work.
+And this strawman has been subject to all sorts
+of critics.
+First, is that, oh, this small well controlled experiment
+are gold-plated.
+People are getting very excited to be part of an experiment,
+for example, or the staff is excited
+and they do it very well.
+But once you scale it up, it's not going to scale up as well.
+It doesn't last.
+The samples are too small.
+The results, you have them in one place.
+But how do they are valid in another place?
+They might not replicate elsewhere.
+They might not even-- if they are
+issues like non-compliance like spillovers,
+like people attrition, they might not even
+be valid internally.
+But even if they are valid for your experiments,
+how do you know that what works in India will work in Kenya?
+How do you know what works in Kenya will work in Mexico?
+And should you also apply the same thing in the US?
+Then those could be really important questions.
+Even if you were convinced that these results were valid
+internally and externally, once you prepare your policy,
+your policy brief, maybe it doesn't come at the right time.
+Policymakers always have their priorities.
+They don't care.
+Nobody's going to pay attention.
+And if they decide to adopt it, and they adopt it at scale,
+the result once adopted at scale might
+be totally different from what you've
+estimated in the experiment for the reasons
+we mentioned already, but also because once you do things
+at scale everything changes.
+Suddenly, you might have market effect, for example,
+school meal might lead to an increase
+in the price for cereals that they provide in the school.
+So prices for food increases.
+Or if everybody goes to school more, the returns to education
+will fall down.
+So there are this general equilibrium effect
+that you didn't have in your experiment
+that you will see in practice.
+There are also political and economy effect
+that you couldn't capture at a small level, implementation
+difficulties that will only be met
+when we are moving at scale.
+So basically, it's hopeless to go from a small experiment
+to a large one.
+So obviously, I don't fully believe
+in either the strawman or the critics,
+otherwise I wouldn't be where I am.
+And the reason is that it's really not the way that policy
+influence works.
+The first one is that it's not true
+that you move from one experiment,
+and then with one experiment you convince the world.
+You need more than one.
+So let me tell you one example.
+For each thing that I'll tell you
+what is important to affect the policy process,
+I'm going to give you an example of a topic.
+So one example to demonstrate that you
+don't need one small experiment but several is microcredit.
+So microcredit was a big deal when you guys
+were in primary school.
+It was Muhammad Yunus received the Nobel Peace Prize in 2006.
+It was microcredit, microfinancing
+changed world measurably.
+It was supposed to solve everything, et cetera.
+Then towards 2010, the tone started to shift.
+There were new stories about a debt trap
+for microcredit clients, people committing suicide because
+of too much pressure from microcredit agency, the limits
+of microcredit, the Bangladesh case.
+And what was striking in this is that we didn't really
+have evidence to say one way or the other.
+Because during the Google period of microcredit,
+the microcredit organizations were really keen
+that there should not be an evaluation.
+They thought things were going very well.
+They were generally making money because people reimbursed.
+So the argument was why, do you need to evaluate?
+Because we are making money anyway,
+so we are just like a market like another one.
+So they refused to do evaluation for the most part.
+And then the people who didn't like microcredit also
+didn't need evaluation, because they
+were doing their description and isolated some terrible cases,
+and then generalized across the whole microcredit portfolio.
+So the first evaluation that we have conducted
+were precisely when you started to get
+this shift from super hype to criticism
+of microcredit movement.
+And some microcredit organizations
+started being interested in showing
+that they had positive impact.
+So two evaluations were conducted
+in India and the Philippines.
+In Philippines, they found small positive effect.
+In India, I was involved in this evaluation,
+we found no impact across the board.
+But India is a very unique context.
+We did a study in Hyderabad, which
+is a hotbed of microfinance, basically where
+they invented microfinance, or at least for India.
+Since Muhammad Yunus kind of regenerated in Bangladesh
+first, and then it came to India.
+In India, Andhra Pradesh and Hyderabad
+are really, really important for microfinance.
+So you could say, well, the people
+who were not part of the experiment had a chance to get
+money elsewhere, for example.
+So maybe this is too special.
+So what we did when we got this India result I was involved
+in the experiment, is we took the decision to not communicate
+about the results whatsoever.
+So just lie low and wait until other study came up
+from different contexts, which were not as intensely
+blanketed by microcredit organization,
+to see whether this was different.
+
+And then I set my antennas out, and waited for other studies
+to come up.
+And different team came up with different studies.
+One study came up in Ethiopia.
+One study came up in Mongolia.
+One study came up in Bosnia.
+And when there was enough, I contacted all the teams.
+And I said, why don't we publish them all together in one
+place with the same outcomes?
+So someone can actually compare in very different contexts
+the impact of microcredit on the same variable.
+So they agreed.
+And what you have here in blue are
+the effects estimated in each of these things on profit,
+along with confidence interval.
+And the bottom line from the blue
+is that there is not a single site where the confidence
+interval doesn't meet 0.
+So it looks like all of the effect,
+so you can see how the Philippines had
+this modest positive effect, but also very
+large standard errors.
+Are and then all the other sites basically are close to 0,
+except perhaps Bosnia.
+Once you have these different studies,
+you can also do a little bit more than just comparing them.
+You can ask yourself questions like,
+are the effects really different statistically.
+Are the effects very different from one study to the other,
+or do all the studies want to say the same thing?
+And my student, [? Rachel Meager ?]
+worked on that, actually and she's
+working with a lot of people in the CS department here at MIT.
+
+And they started looking at the effect,
+or she looked at the effect, for example,
+for profit across all the sites.
+And you can see basically it's a 0 everywhere.
+And then pulling all of the sites together,
+what type of effect do you find on revenue, profit,
+expenditures, consumption, consumer durable,
+and also [INAUDIBLE] goods, or are people wasting the money
+or on the contrary wasting less money,
+once they have microcredit?
+And the bottom line once again is
+that basically across none of the outcomes
+do you find much of an effect, particularly when
+you exploit the fact that you have all of these studies
+together to get to a more precise estimate, which is what
+she's doing in the red curve.
+So the conclusion of her work was that with seven studies,
+we can know that number one, all of the studies
+seem to be saying roughly the same thing.
+And number two is that there is not
+much of an effect of microcredit,
+either positive or negative, on average.
+That said, there are some people who
+benefit and seem to benefit across sites,
+and there are the people who started
+with having already a business, so the really
+entrepreneurial people.
+So we learned something finally.
+Having learned that, so we now started
+communicating a lot on these results,
+because we were confident in them.
+We are confident they were not exceptional.
+We also could make our case because we
+were across continents, rural and urban contexts, richer
+and poorer places, and so on.
+So these studies got published and what
+was really impressive is that even
+the press was able to see the delicate balance that, OK, it
+doesn't have great impact.
+But it's not terrible either.
+It doesn't do harm.
+And there are some people who benefit.
+So for example, the Economist Magazine titled
+to say a [? Partial Model. ?]
+So it is not terrible.
+It is not perfect.
+It's a bit of a difficult message
+to convey in the media, who prefers
+to have something drastic to say one way or the other.
+But it becomes possible once you have several studies
+in different contexts.
+
+So then it moved from maybe it allows
+us to have all of these results, first it changed the debate,
+and then it changed microfinance.
+Because one of the things that people
+realized having done that is that what's important
+is not so much to say whether microfinance as implemented
+following the Muhammad Yunus model of a group of five
+exactly doing that works or not.
+What is more interesting is how you make it work better.
+For example, do you go beyond microcredit
+to think about microfinance--
+transaction, savings, insurance, ultra-poor programs--
+various things that we are going to see in this class actually.
+You move from does it work or not to how to make it
+work better, because you have enough clarity
+on the first question which is in the current setting it
+doesn't work great.
+How can we make it work better?
+Focus on heterogeneity, creating methods
+to identify real entrepreneur and to help them,
+since we saw that for them it makes a difference.
+So what makes economics useful is
+that we get a result in the current state of affairs
+microcredit is not good, or not great, but we don't stop there.
+We use what we know to try and work
+with microcredit organizations to develop better
+versions of the same program.
+And this is really now the way that the field
+has been moving on this question of microcredit.
+And it would not have been possible with one study,
+find the answer, move forward.
+PROFESSOR: So that's the first thing, which is don't really
+typically go from one study in one
+context to very general conclusion
+that you blast to the world.
+The other, and for that, I want to take the example of teaching
+at the right level, which we'll study in details in class,
+is that when you have a proof of concept,
+when you have your first well done experiment,
+in order to go from your proof of concept
+to something that is scaled up at a national level
+or at large scale level, it takes
+a number of steps, including you, often, in my experience,
+redoing experiments at that larger level,
+where all of the problems that might happen when you try
+to implement something at scale, including lack of enthusiasm,
+including whether things persist over time,
+and so on, you will be able to experience.
+And if you experience them, then you
+have a chance to solve them.
+So I'll give you the example for teaching at the right level
+very briefly because we'll redo it in class in details.
+The big problem is that around the world,
+most students now go to school.
+But they don't learn very much.
+For example, this is pre-COVID, it's
+become much worse with COVID, less than half
+of the kids who finish primary school can
+read at the level of grade 2.
+So there could be any number of problems.
+But there are-- and there are actually a number
+of experiments to show us that it's not that kids cannot
+learn.
+They are perfectly smart enough.
+It's not just inputs.
+
+It's not the teachers who don't care.
+It's not the parents who don't care.
+It's something simpler than that.
+It is that the curriculum is not adapted to the kids who
+are in front of the teachers.
+That the curriculum is very, very demanding.
+And the teachers are forced to complete
+the curriculum, no matter what.
+So they teach at this high level.
+And only a couple of kids can understand what
+is going on in the classroom.
+And everybody else is lost.
+So if that's the answer, then--
+if that's the problem, then the answer
+is that, oh, you should teach at the right level.
+And the organization Pratham, which
+is led by these two wonderful people, Dr. Banerji and Dr.
+Chavan, they developed this program
+where kids are grouped by level of achievement.
+And then they are taught at that level.
+And the groups are frequently reformed.
+
+So that's the idea of the program.
+And we've been working with them for about 15 years
+to evaluate it.
+First, we had the proof of concept in urban areas,
+then in rural areas.
+Then a little bit later, you will see it appear in Ghana.
+Then we started working to try to scale it up
+inside the government system.
+During the summer first, and then
+with a government teacher during the year.
+And then in Ghana, and then what was interesting with this one
+is that it didn't--
+in school, it was done in the opposite way
+that you would normally do an experiment.
+So in an experiment, you start, you don't have the program.
+Then you select a few schools and you run the program.
+The way we run at scale experiment
+is that Pratham was going to run in Bihar,
+was going to do the project in Bihar,
+which is a state in India, in an entire district.
+And in fact, several district, four or five districts.
+And we randomly took out some schools
+where they didn't run it.
+So now, you're running the program
+at scale minus a few schools.
+And what we found is nothing.
+We found no difference between the school we had left out
+and the school where Pratham was intervening.
+And it was very shocking because it's
+a program that we had evaluated in many places
+and always been working.
+So we were puzzling over that.
+And we realized that the problem is teachers
+were telling us it's nice.
+I like the program.
+I like having been trained in teaching this way.
+But I don't have time because I have
+to complete the curriculum.
+So basically, there was a political economy problem
+which we didn't have in the small experiment
+because we could be with them and work with them.
+But in the full scale implementation,
+the spirit was lost because they were still
+under the same pressure to complete the curriculum.
+So having learned that, which we could not
+have learned if we had not run the experiment at scale,
+we decided that we were going to work with Pratham to change
+the program and to now include the teacher supervisor as part
+of the program, train them as well.
+So that the supervisor could support and monitor
+the teacher in the implementation of the program.
+And also reserve a specific block of time,
+either in the day or in the year,
+in order to implement the program.
+And when we did that in Haryana in 2012, 2013,
+we found the effect came back inside the school system.
+So now, we had a program that we were ready to scale up.
+And to scale up in a form that could
+where the graph could work inside an existing government
+system.
+So after that, there was scale up in India.
+The program now touches something
+like 6 million children in India every year.
+And then with a grant from one of these effective altruism
+type bodies in Africa.
+So the African team went to India.
+And the Indian team went to Africa.
+And there is a Pratham-led new organization
+called Teaching at the Right Level Africa
+that is helping countries across the continent
+to adopt the program.
+So that's the way in which--
+that's an example of you don't just write your policy brief
+and step down.
+There are a lot of problems with scale up, which can themselves
+be treated as this engineering/plumbing
+problem of trying to make the solution work on a large scale.
+INSTRUCTOR: Another type of things
+we do is where in order to reach scale
+is to work with government who are themselves already working
+at scale.
+
+I've already made a decision that they want to do something
+but are confronted with what I call plumbing problems, which
+are issues of implementation.
+So things are not going the way they would like them to go.
+I'll give you an example.
+It's a program in Indonesia, huge program
+of social support to families, called the RASKIN program.
+They provide rice to families at very subsidized prices.
+The program is financed by the center,
+but it's implemented locally by local officials.
+And the center was concerned that a lot of the rice
+is stolen along the way or disappears,
+and the people do not get the rice that they are entitled for
+or they pay too much money compared to what
+they would be entitled for.
+So what they decided to do, what the government wanted to do
+is to give every household a card that tells them
+what they are entitled to-- how many kilos and at what price.
+And their idea was that if the household have that,
+they will know to advocate for their own rights.
+And they asked researchers to help evaluate that card.
+And so they went to see a group of researchers, including
+Indonesian researchers and researchers from MIT,
+and they said, yes, great idea.
+But as long as we are going to evaluate this program,
+why don't we try to see which version is the most effective?
+So this is the card that they sent and they had posters
+for advertising the card.
+And they tried out four aspects of the card.
+First of all, which information is present on the card?
+So the card looks very, very similar on the slides.
+But there is a tiny difference.
+Do you see it?
+
+Sorry.
+STUDENT: The agency or [INAUDIBLE]..
+INSTRUCTOR: Yeah, so the agency is there in both cases.
+I guess it's not the same agency,
+but imagine it's the same agency.
+But in the content of the card.
+It's in Indonesian, but you can still see the difference.
+STUDENT: More information on the right card.
+INSTRUCTOR: Exactly.
+One piece of critical information
+is on the right card, which is what?
+You see it?
+It is very small and Indonesian, but it's a number.
+And this number is the price.
+So one card has the price.
+And one card doesn't.
+That's one thing they changed.
+The other thing is they changed who gets the card.
+So in some villages, everyone who was eligible for the card
+got it.
+In some villages, they only gave it
+to about half the households, and they
+wanted to see if there would be spillover of information
+across the other households.
+In some villages, on the contrary,
+they had those posters everywhere in the village
+to create a common knowledge.
+So the idea is that if you have a card, you know have a card.
+But if you have a card and there are posters,
+you know you have a card, you know that the village official
+knows that you have a card, and the village officials
+know that you know that they have a card.
+So this changes the bargaining when
+there is common knowledge about the information that is there.
+And, therefore, it might potentially improve the outcome
+further because it places the villager in a stronger
+position.
+And the last thing is that they wanted
+to see whether it was about villager bargaining
+or it was about the perception that someone is monitoring you
+from above.
+So in some cases, they gave just a card to the villager.
+In some cases, the card was attached
+with clipping coupons that the villager would
+give to the program officials.
+And there was this idea that the coupon
+could be collected and monitored so that
+would serve as a way of monitoring from above.
+And what they found is, number one, all of these versions
+work to some extent.
+On average, the poor family gets 26% increase in subsidies
+through getting more rice at a lower price.
+It's driven by a reduction in leakage
+that is not by some other poor family not getting it,
+but from the officials themselves
+getting less corruption.
+And it is very cost effective.
+It's very cheap to distribute these cards.
+So it's $1 for $8 increase in subsidy.
+They also found the best version,
+which is to distribute it to everyone
+and to put the posters.
+And they found that the clipping coupons, et cetera,
+didn't really make a difference.
+So the channel was mostly going through improving
+the bargaining position of the villagers, who
+now could advocate for their rights in a stronger way.
+Having found this result, the government,
+which, after all, wanted to do something in the first place
+and had contacted them to help them evaluate the program,
+just rolled out the program starting in 2013
+to almost 16 million families, reaching
+60 million people total.
+After that, they've continued the partnership.
+The government of Indonesia very frequently
+contact them to improve service delivery with other evaluations
+of their programs.
+PROFESSOR: So the example of the [INAUDIBLE] program Indonesia,
+the program is their program.
+The idea of the [? card ?] is their idea.
+But there is a lot of question mark about how
+to make the idea work the best.
+I had a similar example about pollution
+in India, where we were contacted
+by the lawyer of the pollution control agency in Gujarat.
+Gujarat is one of the fastest industrial growing
+place in India.
+But unfortunately, as a result, it's
+also one of the most polluted place on Earth.
+Some of the industrial estates in Gujarat
+are some of the most polluted place in term of air pollution
+and in term of water pollution.
+So many years ago, citizens had a trial.
+A citizen had a lawsuit, lodged a lawsuit,
+saying the government is not doing enough
+to fight pollution.
+And the court agreed.
+And they ordered the government to set up
+a system in place of third party audit for pollution.
+The idea of this program is that the firms that
+are in the most polluting sectors, for example, chemical
+product, dyes, that kind of sectors,
+must contract with an agency that needs to audit them
+every year, visit them three times a year,
+and write a report to say how polluted they are
+and what they can do about it.
+And this report is given to the government
+and can be used to prosecute the firms and so on.
+So these are examples of these auditors doing their job.
+The reason why we were contacted by the lawyer
+is that the firms had finally sued the government, saying,
+you're not even using the data or doing anything with it.
+So it's just a useless tax.
+But the reason why they were not using it
+is because the system was almost defunct
+because the reports were perceived
+by everyone to be unreliable.
+And so the first thing we did is to check whether they
+were, in fact, unreliable.
+So we followed auditors.
+So this is a bunch of firms where the auditors went.
+And these are what the auditors report.
+So this is for one particular pollutant,
+which is suspended particulate matter, SPM.
+It's the type of things that goes into your lung
+and makes you cough and a table.
+The threshold that the government authorizes
+is in red.
+And you can see that 73% of firms
+pollute just below the threshold.
+So that could mean one of two things.
+The first one is firms are very, very good at targeting
+their pollution exactly right.
+Or the second explanation could be what?
+
+Yeah?
+STUDENT: They'd be lying about that pollution reporting.
+PROFESSOR: Yes, that they, in particular, the auditors,
+would be lying about the reporting.
+So how would you find out which is which?
+
+Any idea?
+STUDENT: You could go measure yourself
+at a bunch of different locations [INAUDIBLE]..
+PROFESSOR: Exactly.
+So that's exactly what we did.
+Well, we didn't go ourselves.
+We sent university students to go
+right after the auditors in an engineering school, naturally.
+They went right after the auditors
+and they collect the same data, so about one week later
+maximum in the same firms.
+And this is what they found.
+So this is the distribution of firms
+of that the students found.
+So now, there is not this excess--
+this number of firms that are exactly below the threshold.
+The firms are all over the place.
+Many are polluting much, much more than what the report says.
+But some even are polluting less.
+So the conclusion is that the auditors are really
+not doing their job.
+Now, let me tell you a bit more about the program
+to maybe help you find a reason for why they're not
+doing their job.
+Another program, each company must select an auditor
+and pay them.
+There is a whole little cottage industry
+of auditors who have sprung up to meet this demand.
+So they come.
+They offer their service.
+The firm pays them.
+They do the report.
+And then maybe next year, the firms rehire them or not.
+They can change auditor.
+So given that, why do you think this program is not working?
+What seems to be a flaw in the program?
+STUDENT: If you're an auditor and you fail a company,
+you're probably not going to get rehired.
+But if you pass the company, you probably will.
+PROFESSOR: Exactly.
+And so clearly, there is a conflict
+of interest, where it is in the interest of the auditor
+to provide a good report.
+And now, if you're going to fail on the data
+anyways, then why bother collecting the data at all?
+You can actually provide very cheap audit if you don't even
+go, which is why you even see--
+you don't see the firms that are actually polluting very little
+because no one goes measuring.
+If you're going to fake the data afterwards,
+why bother collecting it?
+So this is what happened.
+So how would you reform the system?
+
+STUDENT: You can have the government
+pay the auditors or the auditors get paid some other way.
+PROFESSOR: Yes.
+But they didn't want to do that because they like the principle
+that the polluter should pay.
+STUDENT: Have the different firms to pay some sort of tax
+to the government and then the government
+would go and hire the auditors.
+PROFESSOR: Exactly.
+So once we have the government, so the firms could pay a tax
+or could pay into a pool.
+And then the pool could pay the auditors.
+And once you have done that, how could you
+structure it to have the best incentive possible
+for the auditors?
+STUDENT: You could probably randomly assign the auditors
+to different firms and not tell them
+which ones are done too so there's no chance of bribery
+or [INAUDIBLE].
+PROFESSOR: Exactly.
+So you could, instead of getting the firm to choose the auditor,
+you could randomly assign the auditor.
+And then you could do one last thing, which is now the auditor
+respond to the incentive of the firm.
+So you, at least, you drop that by randomly assigning
+them and reassigning them every time.
+You could do one step better to improve
+the incentive of the auditor.
+
+STUDENT: I'm hesitant about this because it's
+a waste of auditors.
+But you do two per, and they both
+benefit if they have the same answer.
+PROFESSOR: Exactly.
+You could say, well, now you are going to check
+the veracity of your report.
+So your version is very extreme.
+But a less extreme version is you
+could say there is going to be random backchecks.
+And over the course of your year,
+you're going to be backchecked at least for, say, 20 or 30
+of the reports you're doing.
+I'm going to measure the quality.
+And your continuation in the scheme or even your payment
+is going to be a function of the veracity of your reports.
+So you see, you guys are a very smart bunch.
+But in the conversation, we can figure out roughly
+how to change it.
+So we propose just that, random assignment of auditors,
+backcheck auditor for accuracy, and payment based on accuracy.
+And the firms is not on the slide,
+but the firm actually-- it is on the slide.
+It is a fixed payment to the auditor
+based from a central pool.
+So the firm are paying.
+But they are not choosing who to pay.
+So we proposed that to the government.
+It was a bit complicated because you
+had to check that it was legal to do that because they were
+operating under a court order.
+But after many, many hours spent playing Tetris
+on the couch of the waiting room of the various government
+officials, this got approved.
+And then we, of course, being who we are,
+conducted an experiment for our proposed reform.
+So a random subset of the firms were randomly assigned
+to the new system, while the other one kept the same.
+So this actually that I showed you is in the control group.
+
+The auditor report to the top.
+So this is now the treatment group.
+And you can see that the distribution in the treatment
+group is much more even between various levels of pollution.
+And compared to the backcheck the excess mass just below
+the threshold has almost disappeared.
+So that again helped convince the government
+to change the system, which they had in the books anyway
+and wanted to work because it's not that we came up
+with the idea of doing this.
+We just helped them running it better,
+which is what they wanted to do in the first place.
+And many evaluations are of that kind.
+
+Too much in particular, people from here
+think of working with people in poorer countries,
+we have to bring our truth to them.
+But in fact, it is not the way it
+works because many people have excellent ideas,
+and they have a very, very good understanding of the context
+in which they are working.
+But there is always so many questions
+in the detail of the running of the program that
+are not understood.
+And these are often what makes the difference between success
+and failure.
+And it's by working together with the partner,
+combining what you may have learned from other things,
+some first principle economic thinking like we did together,
+thinking about the auditors, that you
+have kind of decent ideas to improve programs at the margin
+and run them better.
+
+
+You decide to install plumbing in your village. Now, you want to measure the impact. Which of the following is the true counterfactual?
+
+
+
+Your village just before the plumbing was installed
+
+A nearby village whose observable characteristics (demographics, income, health, etc.) are virtually identical except that it didn’t install plumbing
+
+A group of randomly selected similar villages
+
+Your village in the hypothetical world where it had not installed plumbing
+
+You correct for the migration effect in your plumbing impact analysis, and come to the conclusion that the $1 million you spent on plumbing prevented 1,000 people from dying from disease. Compare this to other public health interventions you’re aware of and select the one that is the most cost-effective.
+
+
+
+A deworming program that prevents one death for every $2,000 spent
+
+A vaccination drive that prevents 30 deaths for every $100,000
+
+A public sanitation (handwashing, wearing masks, boiling water, etc.) information campaign that prevented 8,000 deaths by spending $10 million
+
+Plumbing (1000 deaths prevented, $1 million spent)
+
+
+At first, why was Teaching At The Right Level less effective once it had been scaled up?
+
+
+
+The initial impact evaluation was poorly run.
+
+Statistical noise means that any impact evaluation may find a false positive. It turns out that the initial impact evaluation was a false positive, and once the program had been scaled up, this became apparent.
+
+The perceived incentives of the teachers were poorly aligned with the goals of the program.
+
+Once the program received more attention in the media, the increased scrutiny made teachers feel like their skills were being questioned, causing them to deliberately sabotage the program.
+
+
+The evaluation of the Raskin program in Indonesia demonstrated what?
+
+
+
+Subtle details in program design might make a big difference.
+
+The best way to fight corruption in any setting is common knowledge.
+
+The posters decreased effectiveness because people are ashamed when their neighbors find out exactly how poor they are.
+
+The evaluation of the pollution monitoring in Gujarat demonstrated what?
+
+
+
+The pollution auditors in Gujarat are hopelessly corrupt.
+
+Misaligned incentives can undermine a well-intentioned program.
+
+Government is too inflexible and slow-moving to make a difference in something as tricky as pollution.
+
+

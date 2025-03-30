@@ -1,0 +1,109 @@
+
+PROFESSOR: Reasons why people are going to incompletely pool
+their incomes within villages.
+But in addition, even if they were able to completely pool
+the income within villages, that's
+not going to provide them full cover
+against risk because a part of the risk is aggregate.
+So if you take, for example, the weather.
+People share the same weather.
+That doesn't mean that the weather has
+the same effect on everyone.
+Some people might have fields that are more sloppy
+or different type of soil, and so
+there is still some residual differences between people
+within the same village, but there is still a lot
+of the risk that is common.
+So to go back to Darren's definition of IED,
+the stock within the village might have a very strong
+common component.
+And just one IED error added on top
+of that, that might be responsible for only 10% or 20%
+of the overall viability of the income.
+In that case, they can be insured,
+their informal insurance arrangement
+is going to insure them for this part,
+for this residual risk that's not common to everyone, that's
+not aggregate to the village, but they're
+going to be left holding the risk of the aggregate shock.
+So that's a problem.
+So there is potentially quite limited scope for insurance.
+And this scope might become even more limited by the fact
+that moral hazard, for example, may
+be bigger among people who don't know each other very well.
+So people will tend to form insurance arrangement
+with close neighbors or with families,
+and therefore they will have even more correlated shock.
+So the fact that you have moral hazard
+limited commitment trust, needing to trust people,
+and so on reduces the set of people
+with whom you can form an insurance arrangement,
+and it reduces in a way that is actually
+going in the direction of limiting the scope that we have
+for insurance in the first place.
+
+So that's-- another problem is that not only people have
+aggregate shocks, but because in social networks they are depend
+on each other, the shocks might also propagate through
+the network.
+So, for example, during the financial-- during the COVID
+crisis, there was these articles coming
+about how when one business closes,
+all the people who were dependent on this business also
+closed.
+So people in a social network are also
+in a production network together,
+they are buying from each other, working for each other,
+and so on.
+So not only there is aggregate shocks
+because we share a common shock, but precisely because we
+are a social network, which allows
+us to form the insurance, we have this web of relationship,
+we also have a propagation of the shocks
+that are coming to this economic relationship
+between each other.
+So all of that means that almost by construction,
+informal insurance is going to leave people with a lot of--
+with a lot of risk to hold.
+
+Then there are also issues.
+So some of this, by the way, is not fixed over time.
+Some of this can be improved and can
+be improved by technologies.
+For example, in many African countries
+now in particular all over East Africa,
+there is access to mobile money on people's telephone.
+So a lot of people have access to this account where
+they can quite easily send each other money by the phone,
+even to long distance, which didn't
+use to be the case before.
+So what this has meant is that this has really allowed people
+to form insurance relationships in places where they were--
+where they might have uncorrelated stock.
+For example, before if your son went to the city
+or if your cousin went to the city, they were in the city,
+but you would have-- they only would
+have to come every six months or so to bring back money.
+And so you couldn't really rely on their income
+to provide insurance against what
+was happening in the village.
+And likewise, it was hard for you
+to give them money in case something went poorly for them.
+But now with M-PESA, M-PESA is the way
+that this system is called in Kenya, people,
+for example, who have a son in the city
+or even a village member in the city,
+can send money through their phone
+when things are going badly in the village and good for them,
+or can receive money on his phone
+while he is, for example, in between jobs.
+So [INAUDIBLE] in the Sloan School
+as shown that the introduction of M-PESA
+via the diffusion of the agents that
+are able to offer these processes
+has allowed people to diversify their informal insurance
+networks and has improved the informal insurance situation
+tremendously because people are not anymore
+constrained to form insurance between a group of people
+who share a lot of aggregate shocks.
+So that's an example of these things actually improving.

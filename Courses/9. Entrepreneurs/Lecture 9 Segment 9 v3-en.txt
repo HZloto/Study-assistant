@@ -1,0 +1,214 @@
+PROFESSOR: The cost benefit analysis
+has actually two key issues.
+The first one is costs.
+We talked about this already.
+It's really, really, really expensive.
+That's a lot of money for somebody
+who earns like $1 a day, spending like $2,000 on a goat
+and other types of things.
+That's very expensive.
+Because, again, the outside option
+is just giving people that money directly.
+So you have to justify that with relatively long returns.
+And so here, for example, it's only worth
+it if the benefits persist long into the future.
+And Bandiera et al, after four years, consumption is about 11%
+higher.
+So in the cost benefit analysis, they
+assume that consumption increases last until year 20.
+And then likely it's going to be profitable to do so.
+Of course, it depends also a little bit
+on your interest rate.
+What would you do with the money in terms of if you just put
+the money into a bank account?
+If you get really high interest rates,
+that's a better idea than if it's not.
+So the depreciation rate of benefits turns out to be key.
+As I said, here, if anything, the benefits
+increase over time.
+So it's sort of negative depreciation.
+It's actually getting better over time.
+So likely, that's worth doing.
+The second part, and this is our friend
+that we get back to from the beginning of the lecture,
+these programs have highly heterogeneous returns.
+So what you can do is you can look at quantile treatment
+effects.
+So say you essentially find some way of ordering people
+into people who have the least benefits all the way
+until all the people have the most benefits,
+and look at whatever the returns for those people.
+And that's sort of complicated, and don't
+want to get too much into this.
+But what you essentially see here is on the y-axis
+is people's treatment effects.
+And on the x-axis is sort of like organizing people
+into different groups and looking
+at the people who benefit or likely benefit
+are going to be on the right.
+The people who benefit the least are going to be on the left.
+Now that's not always monotonically
+strictly increasing, because there's also noise in the data.
+But by and large, what you should see is that on the right
+people benefit more than on the left,
+if they're sort of heterogeneous treatment effects.
+That's to say, if there's some people who
+benefit a lot more than others, this curve
+should be increasing.
+If everybody benefits the same, this curve
+should be essentially flat.
+If everybody had the same benefits
+and would do exactly the same, you should see this curve
+being flat.
+But what you see is by and large that this curve is really
+sort of increasing, in particular for things
+like productive assets, in particular
+for household assets, but also for consumption expenditures.
+This effect here is about close to 100.
+Of course, it gets noisy.
+And here it's like essentially close to zero,
+essentially there are some people--
+you see the confidence interval sort of includes
+zero, which essentially is to say we can't reject,
+we can't say for sure that there's no effect.
+It could just be by chance that this is a little bit higher
+than zero because the confidence interval, sort
+of the uncertainty is large enough that we can't really
+say this is a positive effect.
+In contrast, here it seems to be clearly people are benefiting.
+People have clearly higher assets and so on.
+So that's to say, in these types of programs, some people
+benefit a lot more than others.
+Now if you could just figure out who these people are
+and identify those people directly,
+maybe what we should be doing is provide
+these assets and this type of program
+to those types of people.
+And then for the remaining ones, perhaps we're going to say,
+here's cash or other types of support.
+And that would be a better use of everybody's money
+because the people of high returns
+would essentially invest and get the benefits
+of this program, the large benefits of the program
+for them.
+While everybody else who doesn't have these large returns
+would just get other types of consumption benefit.
+But the crucial part, of course, now
+is to try to figure out how do we identify the people
+with the highest returns?
+Now how would you find out who has the highest returns?
+
+You come to a village, where you have done this program before--
+in a village or different places.
+You have your data.
+Now how do you figure out who are the people
+with the high returns?
+Yeah.
+STUDENT: Just ask people.
+PROFESSOR: Yeah.
+So we learned about this a little bit already.
+This is what I mentioned before from [? Esther, ?]
+you can just ask people.
+Now what are the problems or what
+are the good and bad things about asking people?
+STUDENT: Like local people and villages
+will have insights that you don't know about,
+the people of village.
+But they're also not necessarily financial experts.
+So they might think that some indicator
+of someone being a good businessman
+isn't actually that helpful.
+PROFESSOR: Right.
+So they have a lot more information than I would have,
+because they've lived there all their life.
+My neighbor kind of knows whether I
+would run a good or bad business from just interacting with me.
+Maybe run a business before.
+Maybe you have seen me do stuff.
+You kind of know people in your neighborhood,
+in particular, in these types of villages.
+Now you're saying-- exactly right.
+People might not necessarily have the right calculation
+to use the right metric in terms of-- you're
+interested in profits or increases
+in consumption in the long run, but that might not necessarily
+be what people are picking up when they look at,
+does your neighbor seem competent in doing stuff.
+Kyle.
+STUDENT: They also might be biased [INAUDIBLE]
+PROFESSOR: And why might they be biased?
+STUDENT: They might think is better [INAUDIBLE]..
+
+PROFESSOR: Exactly.
+So the crucial issue potentially is that, if you ask me,
+you have a bunch of money, you are like great program
+that you could give to people.
+You come to my village and ask, who's
+going to be the best entrepreneur?
+I'm going to say, I'm going to be amazing.
+I'm the best entrepreneur in the village.
+You should give me the money.
+Now everybody will say that potentially.
+And if they don't say that, they might
+say their uncle, or their sister,
+or their son are really amazing entrepreneurs, or their friends
+potentially.
+So the issue is essentially incentives in the sense
+that if you know that this information will
+be used in certain ways later for the allocation of assets,
+or this program or money in general, then
+people will bias their responses towards themselves potentially.
+You could say maybe you can't pick yourself
+or the like, but also towards people in their family
+and friends and so on.
+That's right.
+Any other concerns or things or issues?
+Now, what do we do about that?
+
+Yeah.
+STUDENT: You have to get them to tell you the truth.
+So somehow [INAUDIBLE]
+PROFESSOR: Yeah.
+So there's essentially ways in which
+you can do that in that sort of complicated methods
+that don't want to get into.
+But essentially, you want to incentivize people.
+And the way you might be able to do that is
+there's a complicated thing that Drazen Prelec and co-authors--
+Drazen Prelec is at MIT Sloan--
+has come up a few years ago.
+And that essentially is called the Bayesian truth serum,
+that essentially is a way to incentivize you in ways that
+use everybody else's responses.
+And it's sort of an incentive-compatible thing.
+That's really hard to understand,
+and I'm not sure I understand it.
+But essentially, the bottom line from that
+is that's an incentive-compatible way
+of asking people.
+And so the best thing for you in those types of incentives
+is to essentially try to tell the truth.
+And so what this paper was then trying to,
+or the next paper I'm going to tell you,
+was essentially trying to do that.
+So one thing you could do is ask people in the community.
+Another thing, you can essentially
+do subgroup analysis.
+In some sense you can say, look at women versus men
+and old people versus young people,
+and different types of businesses, and so on.
+You can just essentially try to see, do certain covariates
+to certain demographic or other characteristics
+of the people in your sample that you have in treatment
+and control.
+Do those covariates predict whether people
+have high returns?
+And for that, you don't need to ask people.
+You just use your data.
+You can go back here and say, look,
+we have here some people who have really high returns.
+Some people have really low returns.
+What are the characteristics of the people
+with really high returns?
+People to the really low returns?
+And we could use that.

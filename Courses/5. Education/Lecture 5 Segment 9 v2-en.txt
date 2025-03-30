@@ -1,0 +1,192 @@
+PROFESSOR: The second example of the schools being
+unable to leverage the math that exists in the world
+is even more egregious because it should be more visible,
+and kids should have been used to that
+is, if you've ever been in a developing country in a city,
+you'll see sometimes there are kids
+who are selling in market--
+not babies, like teenagers selling in markets.
+Sometimes they go to school in the morning.
+They sell in the afternoon.
+Sometimes they've now stopped schools,
+or they do that in the summer.
+But you see a lot of kids selling on markets.
+And if you have seen them, you would also
+notice that they are very good at it.
+They can compute very quickly and give you your change.
+So I was always puzzled as to one,
+do they really compute, or do they know things by heart?
+And they just have a schedule in their mind
+of how much 100 grams of tomato, 200 grams, 250, 300, 500,
+the common quantity of tomatoes cost.
+And they just pick in the menu and they don't really
+calculate.
+Or do they really calculate?
+And my second question was, is it
+the case that maybe the kids who end up working in markets
+end up being the kids who are very, very good at math?
+And so it's a selection.
+So the first question is it real?
+Do they really know how to count?
+And second question is, is it just because it's
+very selected subset?
+So in order to answer this question,
+we completed two studies--
+one in Kolkata, one in Delhi--
+where we went to market.
+We is not me, but Indian people from our team.
+They went and bought vegetables.
+So they went three times.
+Three pairs of shoppers went and bought each time two items--
+so say, tomatoes and eggplant-- in funny quantities
+so that it really requires a calculation.
+So 300 gram of tomato, 450 gram of eggplant.
+And then they gave the kid 500 rupees
+and asked for the change.
+OK, so this is not a usual--
+you have to do your multiplication,
+and then you have to add up, and then
+you have to do the subtraction, you have to give the change.
+You have to do that fast.
+So we did that in Delhi, in Kolkata, three transaction
+and in Delhi.
+And after we had done that a little bit later on someone
+came to the child and asked them if they were willing to do
+little math games with us.
+So that's the source of the data.
+And then in Delhi we also went to schools
+and did the opposite.
+We played math games with them and then
+we set up a fake market and asked them to sell
+stuff, similar operation.
+So what did we find?
+The first one is that kids are, in fact, very good at math.
+They get things right about 95% of the time.
+
+The calculation is correct 95% of the time.
+Sometimes there is a mistake, but you can tell them.
+So with correction, 95%.
+Without, 92%.
+In Delhi, they are much less good.
+The kids, the school kids, are much less good
+than the market kids.
+The school kids get it right about 50% of the time.
+So the market children are, in fact, good at math,
+and they are better than the school children.
+The second thing is that it's not
+just that they can do their own things, it's they can do other.
+When we were playing the games, we
+were giving them some other exercises.
+Suppose that your tomatoes are not 25 rupees a KG,
+but 28, then how much would it cost, and so on.
+They make more mistakes than if it's their own thing.
+And the further away it is-- for example,
+if you go from tomato to carrots, it's a bit harder.
+And from things sold in kilos to things sold by unit,
+it's a bit harder.
+So every time you go a bit further
+from their sphere of expertise, they make more mistakes.
+But by and large, they still get it right.
+Even when it's far away, it's not their goods,
+it's not their type of unit, and it's not the price,
+they still get it right 60% of the time.
+But now, if you ask them the other question, the thing
+about division, the type of division I showed you before
+or the type of subtraction I do, suddenly they're gone.
+32% of the Calcutta kids can do a division.
+50% of them can do a subtraction.
+About half can-- I'm sorry, 15% of the Delhi kids
+can do a subtraction.
+
+15% of them can do a division.
+And about half can do a subtraction,
+which is crazy because 95% can do
+two multiplication, an addition and subtraction correct.
+But with the other test, only half can do a subtraction.
+So what is going on here?
+What's going on is they see the test.
+They see that, you're asking me math question.
+I'm not good at math.
+That's why I'm not in school actually.
+And in fact, they are good at math,
+but they are not-- the moment you show them school math,
+they're trying to bring up the algorithm.
+They're trying to write things down.
+They do the algorithm the wrong way.
+They get the place value wrong.
+Whereas in their own work, they actually
+have developed methods that work well.
+And they aren't mixed up by the half-baked
+method they've learned from the schools
+and not fully understood.
+So that suggests that the school is
+unable to take advantage of the flexibility of these children.
+Note that when they can round, they are able to get problems.
+They make less mistakes if things are say, 49% or 51%
+because it can be rounded.
+So that's the thing for the market kids.
+For the school kids, not only they get it wrong half
+the time, but they also get it-- even when they get it right,
+this is how they arrive at the answer.
+They do the algorithm extraordinarily inefficient.
+They spend half an hour to answer the problem, which they
+wouldn't have in the market.
+So the conclusion is that the school
+are unable to leverage or recognize existing knowledge,
+either abstract or concrete.
+So they are quite bad at selecting kids as well,
+not just producing knowledge.
+And in addition, what little they teach
+is not useful for life.
+Because even kids who are able to do
+division and subtraction aren't able to put
+it to use in everyday life.
+So that is the problem we have with schools
+in developing countries.
+
+A lot of people are trying to figure out what this is about.
+I want to tell you what it's not about.
+It is not about the fact that children are unable to learn.
+Why we know that?
+Well, because they learn the market
+the mathematical games just as well as the Cambridge kids.
+It is not because teachers are underpaid because they
+are, in fact, relative to other, overpaid.
+And it is not either because they are lazy
+or they don't understand their job.
+The main problem that seems to be happening in developing
+countries is what we've called the Tyranny of the Curriculum,
+which is the way teachers understand
+their job is to be teaching the curriculum, no matter what.
+The curricula in a lot of developing countries
+are coming straight from the colonial power that
+have imposed very strict and demanding curricula
+for a small elite of students who
+were going to be their clerks in the future.
+When education system were expanded,
+the curricula haven't changed.
+So you have situation like that, slip grade 4 curriculum
+in Haryana in India, where I hope
+you are good about your table up to 15
+because that's the November program of grade 4 in Haryana.
+So the level of what the kids are supposed to in grade 4--
+and remember, these are kids who cannot add or subtract--
+is completely crazy.
+It corresponds to some dream of someone
+that the education system should do
+to an illusion of elite that, to some extent,
+is emphasized as well by the parents.
+Because the parents think of schools
+as producing kids who might go to get a government job
+and don't necessarily have in mind the benefits
+that you get from just learning to read and write
+in your everyday life, like we saw with the kids.
+And that's the core of the problem
+of the education quality in developing countries.
+And hence, the solution has to be
+about trying to break that in the everyday practice.
+So what we'll do in the case on Monday
+is to think about-- to start from this definition of what
+the problem is or this statement of the problem,
+and to think about what are possible solutions
+to bring to improve the quality of education in this context.

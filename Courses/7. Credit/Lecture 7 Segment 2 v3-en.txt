@@ -1,0 +1,147 @@
+PROFESSOR: So what are the potential barrier
+to credit for the poor?
+The first one is informational asymmetries.
+So the fact that the potential borrower
+knows more about themselves than the potential lenders.
+And that there are two kinds that could
+play a role in microcredit.
+One, the economics lingo for it is moral hazard.
+And the other, the economics lingo for it
+is adverse selection.
+So now let me translate what moral hazard is in English
+and what adverse selection is in English.
+So in English, moral hazard is the fact that I cannot observe
+your action once I have given you money.
+For example, you have a business.
+I've lent you some money.
+I don't really know what you're doing.
+First of all, you could run away with it.
+That's one thing you could do.
+Or you could undertake some investment
+but maybe a much more risky investment
+than you would have undertaken if it was your own money.
+So why would that be the case?
+Well, if you borrow the money, the contract
+is not that you repay a share to the borrower.
+The contract when you borrow money
+is that you give back whatever you have borrowed
+plus some interest rate corresponding
+to the cost of money plus some small change for operating
+a bank.
+So that's a fixed amount.
+Now, if you run a business and you run a very risky business
+and half the time you fail, then you have no money to reimburse.
+Then what can they do?
+They're not going to put you in prison for debt anymore.
+So basically, you won't reimburse.
+If you're doing very well, you repay your fixed amount
+and then the rest of it is for you.
+So the credit contract gives incentive
+to the borrower to undertake projects that are perhaps
+more risky than they would have undertaken
+with their own money.
+Because they are basically gambling
+with someone else's money.
+And they get the upside and they don't
+have to pay for the downside as long as there
+is limited liability, which is you
+don't break people's kneecaps when they're [INAUDIBLE]..
+So that's here the first difference
+between the informal credit market and the formal credit
+market, because the local money lender
+can threaten to break your kneecaps
+or can threaten to go and harass you or to be at your doorstep
+until you've reimbursed.
+Whereas the bank, what are they going to do?
+They cannot do that.
+Or if they do that, there was some scandal
+at some point of Citibank using bad guys to intimidate lenders
+into repaying their car loans.
+But when this became known, this was a real scandal.
+So the banks can't really do that.
+That's the first difference between--
+which make it possible for a moneylender
+to lend to people and not the bank.
+That's a first form of asymmetric information
+between lender and borrower.
+A second one goes under the word adverse selection,
+which is something similar to what we encountered when
+we were talking about insurance, which is the borrower might
+know more about themselves and about the project that they
+have than the lender.
+So for example, I know that my project is pretty good.
+So I know that mostly it's going to work out.
+So if I can use my own money, I'm
+going to use my own money to launch it.
+But if I'm not too sure, I think the project has a good chance
+to fail, then I would rather go with the bank's money,
+because again, if the project fails,
+suppose now it's not a matter of effort or taking the risk,
+but it just happens to be something
+I know about myself that I'm in a risky business.
+The fact that I have to repay will encourage the people
+with the most risky ideas to take the loan
+and will discourage people with very safe idea
+to take the loan.
+Because the people with the safe ideas
+know that they will have to repay most of the time
+because things will work out as they expected,
+whereas the people with the risky idea
+know that they won't need to repay most of the time.
+So those are two issues that might limit the ability
+for a bank who has an office very far away in the cities,
+et cetera, to lend to the poor.
+Another problem is simple.
+Is that lending to the poor is particularly costly.
+Why?
+Because a lot of the cost of administering a loan are fixed.
+So you have to go visit the business.
+You have to open a file.
+You have to keep that money separate from the other monies
+and so on.
+Regardless of the size of the loan, it's the same amount.
+That means that in proportion to the loan, it's bigger.
+So the cost per dollar lent of lending to the poor
+is larger than the cost per dollar
+lent of lending to a rich person,
+simply because for a rich person,
+you can give them a larger loan and it's
+spread over a bigger area, a bigger amount of dollar.
+So in proportion, a larger loan is cheaper than a smaller loan.
+So maybe the poor don't have projects
+that are productive enough to justify the high interest
+rate that you would need to charge them in order
+to spread out all these costs.
+And of course, these two things overlap,
+because if there is moral hazard or adverse selection,
+you need to spend a lot of effort trying
+to make sure that the person is not running away
+with the money.
+You cannot give them too much, because you want to make sure
+they have some skin in the game.
+So you may require a collateral to make sure
+that they have skin in the game, which means that a person is
+only going to be able to borrow up to some amount of the money
+that they can put as collateral.
+That's the way that the bank is going to make it work out.
+It's going to say fine, I'll lend you some money,
+but at least some fraction of the project
+has to be your own money.
+So if the project fails, you're going to lose that as well.
+Now, if that's the case, then a poor person
+who doesn't have much of a collateral
+can only get a small loan even if they have a big project.
+So the poor will tend to have small loans.
+But because the loans are small, the fixed cost
+of monitoring the loan will be spread
+over a smaller amount of money.
+So the interest rate will look higher,
+which first of all, means that some people will not
+find it worthwhile.
+Second of all, means that all of these problems of moral hazard
+will become even larger because now they know,
+oh no, I have this high interest rate.
+So that makes me want to default even more.
+So there is a multiplier effect coming from the moral hazard
+component, which means that if the interest rate needs
+to be high, they become even higher for the poor.

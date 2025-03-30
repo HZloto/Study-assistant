@@ -1,0 +1,249 @@
+PROFESSOR: So this is joint work with a [INAUDIBLE]..
+This is a study in rural India, where
+we try to look at are these financial concerns--
+is worrying about money, does this
+get in the way of being productive at work?
+And so what we consider here is financial strain,
+we call it, which is periods of cash shortfalls.
+So as you already learned a lot about in class
+is that being poor doesn't just mean that the levels of income
+are low, but it also means often there's
+a lot of variance and lots of shocks.
+There's lots of unexpected shocks,
+which is, say, health shocks or the harvest is bad and so on.
+But there's also a lot of predictable cycles.
+This is the end of the month, so before harvest,
+which is, essentially, say, when people run out of money
+at the end of the month, so the end of a harvest cycle.
+So when you harvest as a farmer, in particular
+when you have cash crops, after the harvest,
+you get a bunch of cash from selling your crops.
+And then you have to use that money for about a year
+or even longer to live on.
+So at the end of this harvest cycle before the next harvest,
+people are going to be relatively poor.
+At the beginning of the harvest cycle
+or after the harvest has actually been done,
+people tend to be relatively rich.
+And so we know that essentially there's
+predictable changes in financial strain, both
+for unexpected shocks, but also for expected variation.
+So for example, if you look in the US
+at people who are on food stamps,
+you will see that they eat a lot more calories at the beginning
+of the month compared to the end of the month
+because they run out of money at the end of the month.
+That's also true if you look at farmers.
+At the beginning of the harvest season,
+once they have just harvested, they're relatively rich.
+At the end of it, they're relatively poor.
+
+Then this financial strain entails mental costs, even when
+expected income is coming.
+So for example, if you look in the US,
+the fraction who feels financially insecure
+drops by 53% at the beginning of the month.
+So these are people who often--
+they know exactly at the beginning of the month,
+they're going to get either food stamps or other types
+of benefits.
+They know that's going to happen,
+yet once they receive the money, their financial insecurity
+falls by quite a lot.
+And so if you have been--
+I think today is the last of the month.
+So if you receive some regular money from somewhere,
+you might be able to sympathize in the sense
+that once you receive money, once money is in your bank
+account, you feel a lot better than
+before because now you can spend it.
+You're flush with money and relatively rich compared
+to the day before or days before when you're relatively poor.
+In India in our setting, about 86% of people in our sample
+feel worried about their finances
+in the annual lean season.
+What's the lean season?
+The lean season is when people essentially
+don't have much to do because essentially people have already
+planted.
+And now, they're sort of waiting for the harvest.
+And there's just not much to do.
+So there's not much agricultural work.
+But there's also not much other jobs that you could do.
+And so now, there's a literature that
+looks at the cognitive consequences of poverty
+and financial strain.
+There's some papers that show impacts
+on lab measures of cognition.
+That's to say if you look at people before harvest
+compared to after harvest, there's
+some evidence that shows that people essentially
+have higher levels of cognition before harvest
+compared to after harvest.
+Now, what we're going to try and ask
+is whether these forces have economically important effect.
+Is it, in fact, the case that if we reduce
+people's financial strain, would workers become more productive?
+And so what we're going to try and look at
+is in particular worker productivity.
+Why do we look at worker productivity?
+Well, because labor income is sort of
+depends crucially on worker productivity.
+If you work somewhere, if you're more productive,
+you're going to earn more money and particularly in places
+when you're paid piece rates.
+So we're going to look at whether relieving people's
+financial stress makes a person more productive at work.
+This is a field experiment with 408 manufacturing workers
+in rural India.
+What we're going to do is to alleviate financial constraints
+in an experiment, we're going to vary the timing of income
+and then look at productivity, as well as some measures
+of people's attention.
+So we're going to look at is attention really something that
+changes as people are working?
+Now, how do we do that?
+We have a sample of workers in rural [INAUDIBLE]..
+They are in the lean season, meaning
+they have very little work to do in agriculture, but also
+in manufacturing.
+They have something like seven, eight days
+of work in the past month.
+And they get these intermittent short term contract jobs.
+They're paid about $3 or $4 per day.
+That's often people's family income.
+Now, what is the work task?
+The work task is to make these disposable plates
+for restaurants that look something like this.
+I also try to do these myself.
+My plates did not look like this.
+So what do you have to do is you have to use these leaves.
+And you see these small sticks here made out of wood,
+and you have to sort of stitch them together
+into round plates.
+These are used in restaurants for curries
+or other types of things.
+So you really don't want to have any holes in your leaf plates.
+And so the leaf plates have to be round.
+They have to be a certain size.
+And they also can't have any holes as well.
+And so that's kind of a relatively attention heavy task
+that we chose, in part because we're interested in if people
+are really distracted because they worry about money,
+are they now doing worse at this job?
+People are incentivized to get a piece rate per production.
+What does this mean?
+Essentially, it means the more of these leaf plates
+you make complete that are sort of satisfying quality
+standards, the more money you earn.
+This is we hire people for two weeks.
+And during those two weeks, essentially,
+the experiment or the work at our experimental site
+is people's primary source of income at the time
+and the bulk of their monthly earning.
+They don't have much other work to do.
+And so now they get this job.
+That's a good job for them for two weeks.
+And they don't have much else to do.
+So people are highly motivated.
+Stakes are pretty high.
+People want to be productive.
+Now, you might say, well, are people
+really worried about money?
+When you ask people about do you have outstanding loans,
+lots of people have outstanding loans.
+If you ask people can you come up
+with about 1,000 rupees for an emergency quickly,
+most people say it's very hard for them to do so.
+1,000 rupees is about, I think at the time, maybe something
+like $15 or the like.
+So people really are very cash constrained.
+They have lots of loans.
+And they also are not really able to deal with shocks
+easily.
+When you ask them, well, what are you worried about?
+They say, well, I worry about daily expenses,
+about loans, health issues.
+Sometimes marriage of daughters in particular
+comes up because it's very expensive, but also
+debt and other types of expenses that people
+are concerned about.
+Now, people, when you ask them, how worried are you,
+lots of people say they're really worried.
+About 70% say they're very worried about money.
+And importantly, people also seem
+to bring these worries with them to work.
+So if you ask them on a randomly-- on one day,
+we essentially ask people at the end of the workday, what
+did you think about doing work, about 70%
+say they thought about the work task, which is good.
+That's what you're supposed to do.
+But about 50%, In fact, say they worry about their finances
+here.
+And that's a pretty high number, considering that they're not
+really-- it's not like thinking about work, about your finances
+at work, helps you doing the work you're doing, if anything,
+of course, it distracts you.
+So now what we're going to do is we're
+going to vary the timing of when workers receive
+their expected wage payments.
+So we're going to have some workers who
+receive a cash infusion of liquidity and others have not.
+Notice that we're not changing any incentives to work.
+So people's overall wealth is going
+to stay the same, as well as their piece rate
+incentives that they receive.
+Now, you might say, well, why should this do anything,
+despite-- everybody knows that they're going to be paid.
+Everybody is going to pay overall roughly the same.
+So why should this make a difference?
+Well, people can pay for urgent expenses.
+They can reduced order debt that they have.
+They also might feel less vulnerable to shocks
+and the like.
+They might just have a bunch of money in their pocket,
+and they might feel richer because of that.
+So here's what the experiment looks like.
+There's a treatment group and the control group,
+treatment group down here, control group up there.
+Everybody works for 12 days, consecutive days
+in the experiment.
+Everybody is paid on day one because we
+wanted to have a first payment to get people to essentially
+trust us and think this is the work
+site that actually pays people.
+The control group is then paid on day 12
+for all of their remaining work that they have done.
+The treatment group instead is paid on day eight
+for their work until then.
+They are paid essentially for their work on day two
+to day seven.
+They're paid on day eight.
+So they're getting a bunch of cash.
+Now, that's quite a bit of cash because remember,
+people don't have a lot of work anyway.
+And that's a pretty well paid job.
+So the treatment group gets a bunch of cash here.
+And now what we can do is we can look
+at what we call the post-pay period,
+we can look at the treatment group versus the control group.
+Treatment group has been paid a lot.
+Control group has not been paid a lot.
+And we can look at people's productivity.
+Notice that we can also look at at the beginning of the study,
+everybody is exactly the same.
+We only tell people on day five whether you're paid
+on day eight versus on day 12.
+And so now we can look at, we can compare people
+before the payment period, before in the first few days.
+This is a randomized control trial.
+We can look for are these two groups the same?
+And they should be the same because on average
+because we randomized.
+Then we can measure announcement effect.
+When I announce you that you're going
+to be paid earlier than expected,
+are you going to be more productive?
+And then crucially, are we going to look
+at the post-payment period, when we look at
+are people more productive now they have more cash in hand?

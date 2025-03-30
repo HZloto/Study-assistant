@@ -1,0 +1,170 @@
+PROFESSOR: So how do parents choose education level
+for their children?
+We're not going to spend a huge amount of time on that.
+But what are the types of things that a parent will
+take into account when they're in that calculation, when
+they think about educating their kids?
+
+Yep.
+STUDENT: Expected returns.
+PROFESSOR: The expected returns, financial and non-financial.
+And what else?
+
+On the one hand, there is the return.
+Lucas?
+STUDENT: I think there might be some social pressure that's
+there.
+PROFESSOR: Social pressure could be
+a reason where you pick an education level that's
+not the one you want.
+Yeah?
+STUDENT: Whatever they can afford.
+PROFESSOR: Exactly, the cost.
+So it's both whether you can afford it
+and whether I want to afford it.
+So returns and costs are the two things that matters.
+So in the cost category, you have the distance
+to school, the direct cost, whether or not
+there are scholarships to offset some of this scholarship.
+Conditional cash transfer is, in a sense, a negative cost.
+It's money that, in some countries,
+in particular in all of Latin America,
+some cash transfers that poor families get
+are conditional on kids attending regularly.
+So it creates a negative cost to go to school
+because you need to go to school to get the scholarship,
+to get the cash transfer.
+And this can offset opportunity cost, which
+is if you are not in school, you could be working, for example.
+Balancing that is Astrid's point about school.
+Another negative cost of school is that it's also
+child care for the child.
+And then the other thing is return.
+So the question here you might ask is,
+is it really true that people are paying attention
+to the return to education?
+So there, I think it's Olivia who mentioned this experience.
+Do you want to talk about the back office processing
+operation in India?
+I don't remember it exactly.
+But I think what happened was they were saying, like,
+oh, if you're educated, you can work at this office.
+And then the parents are educating more girls
+because they saw that educating them
+had some sort of direct return.
+Exactly, it's exactly what happened.
+So here, the puzzle is on-- the game
+is like, how do we create exogenous variation, variation
+that's random, in the returns to education?
+And the way they did it is by saying, well, in Delhi,
+all around Delhi, there are these BPO offices, or back
+office processing operations.
+So it's the people whom you call if you have something
+you need with your credit card.
+And someone calls you and says, I am John.
+And I'm always like, you're not John.
+And I am not Robert, either, because we each talk
+with our respective accent.
+In fact, once I was calling about the internet
+of my friend, Rohini.
+And the person on the phone tells me they are John.
+And I said, and I am Rohini.
+And then we both laugh because clearly, he wasn't John.
+And I wasn't Rohini either.
+But anyway, so these people talk to you
+on the phone to interpret image, X-rays, that kind of stuff,
+any work that can be done remotely.
+So Rob Jensen, who is an economist now at Yale,
+ran an experiment where he teamed up with a BPO
+to organize recruitment campaigns
+in randomly-selected villages.
+Within 100km or so of Delhi.
+So in order to work in the BPO, you need to be educated.
+So people would realize that, oh,
+there is value in educating the kids because then they
+can work in this BPO.
+And then what they find is that if you look at the younger
+girls, even though relatively few of the older girls
+went, so it doesn't create a direct income
+effect for the families, but focusing on the younger girls,
+their parents were more likely to keep them in school
+or to enroll them in training.
+They also fed them more.
+Their BMI was a little bit higher.
+And these kids also actually married later
+and had fewer children down the line.
+So this suggests that people are sensitive about return
+to education.
+One caveat here is that although they
+are sensitive to return to education,
+they are not very good at anticipating
+what they might be.
+So remember the Ghana experiment?
+We found that the increase in probability to get a government
+job was about three percentage points for the lottery winners.
+Multiply that by 4 because the increase in probability
+of going to school is 25%, so that's a 12 percentage point,
+but the parents think that if you complete secondary school,
+you're very, very, very likely to get a government job.
+And as a result, they think that--
+[COUGHS] excuse me.
+As a result, they think that the returns to education are huge.
+So do you remember the increase we found in Ghana on earnings?
+More or less, what was it?
+10%.
+About 10%, yes, multiplied by 4 because it's
+the increase corresponding to 25 percentage,
+about one year of education.
+That's 40%.
+That's not bad for secondary.
+But the parents think it's going to be 275%.
+So the parents have a completely misguided view
+of what the returns to education are.
+And that might explain why kids are spending out in schools,
+is that parents have completely bought in education
+as a way of ensuring a better future to their children.
+Unfortunately, these jobs are actually few and far between.
+So even though you have more kids
+to complete secondary school, the jobs
+don't appear out of thin air.
+So they are all competing for the same number of jobs.
+And they are not very likely to get them.
+And as a result, one of the reasons
+why the effect on earnings are in fact low
+is because too many children, once they graduate, wait
+and hope that they could get into tertiary education
+now, which now, they understand is
+the ticket to a government job.
+So in 2013, 43% of the control group
+was hoping to get into a secondary school,
+into tertiary.
+So basically, the entire population
+of the control group who got access to secondary school
+wanted to continue.
+And there is a 24 percentage point increase
+in the treatment group.
+In 2017, four years later, still almost 49% of them
+planned to apply to tertiary.
+And there is a 15 percentage point difference.
+In 2019, still 36% of students of the control group
+planned to apply to tertiary school.
+So there is still a huge hope that something comes up
+and they get access to a tertiary education
+spot, which is the key, they think,
+to get into the government.
+And so that's a little bit-- that ends up,
+this kind of looming of the government job,
+not just as a way of earnings, but I
+think it's Samantha who mentioned that
+as a way of working a very comfy job, in a sense.
+You don't have to work very hard.
+And you don't have to be in the field.
+And you have security and employment and all that.
+That attracts.
+That has so much allure that, for some of the education
+graduates, it ends up going into education
+for the wrong reason because of misleading opportunities,
+and therefore a waste of talents.
+Once these people are educated, they just
+wait around and hope that they can get into government job
+at some point.

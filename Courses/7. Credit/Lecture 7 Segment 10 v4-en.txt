@@ -1,0 +1,150 @@
+
+PROFESSOR: Rachel Meager looked at this question
+of heterogeneity a bit more across studies,
+because every study individually can look at, oh,
+are there people who benefit?
+So what she did is to propose new methods
+to allow her to look not just at the effect on average,
+but the effect of various quantiles of the distribution.
+So what's the people who benefit the most,
+do they actually benefit?
+And what she finds is that for most people, up till 95%,
+you can really say that nobody benefits.
+The 95% is like nobody.
+Then, from the 95% who have the least effect,
+they have no effect.
+And for the top 5%, it's very noisy.
+It's more noisy than-- you don't know, it could be big.
+Something for profit, you can see 0,0,0,0.
+For the people at the low 5%, it could have hurt them.
+Who knows?
+For the people at the high 5%, it might have helped them.
+You don't know, but there is too much noise to say.
+So until 75th percentile, there is clearly no effect.
+After that, no generalizable evidence.
+The data is too noisy to tell.
+But however, there is strong and generalizable evidence
+there again that a household with prior business do better.
+And then, what we did in Hyderabad, one of the studies
+in India, is we continued to follow
+the household for a while, and after six years,
+for the people who had a prior business,
+we're seeing a pretty large impact on assets--
+pretty large impact on assets and revenues
+that are doubled for people who had
+a prior business in villages where microfinance was offered
+versus not.
+So that is not something that's very
+helpful for the microfinance organizations
+because, once they are in place, they don't know that someone
+has a prior business.
+But it is something that is interesting for us,
+the researchers, because it tells us there
+are people who are entrepreneurs,
+who are gung-ho entrepreneurs, who would benefit
+from microfinance.
+And if we found a way for microfinance organizations
+to find them, they would, in fact, potentially
+have a large effect.
+So the question is, how do we find them?
+
+The problem with microfinance is that microfinance
+is too plain vanilla.
+It's too one-size-fits-all.
+It's hard for microfinance organization
+to identify the true entrepreneurs.
+We know they exist because we can find them in the data,
+but they don't know because they don't know how to find them.
+Microcredit is very bad at identifying
+the good entrepreneurs because they perform
+very little screening, they discourage risk
+because you're borrowing, in any case, every week
+the same amount of money.
+The loans do not grow, so there is no advantage for you
+in succeeding more.
+And since there is this very, very strong focus
+on zero default, the loan officers
+would tend to discourage people from taking risky propositions.
+I've heard loan officers saying that their favored microcredit
+client is someone who takes a loan to say buy a TV
+or have a wedding and then will repay based off of a wage
+employment that they have.
+So this is like the opposite of taking risks for your business.
+So the question is, is it possible
+for a microfinance organization to identify
+better people who would benefit from money to grow
+their business?
+And here, there is a very interesting study
+by Natalia Rigol [INAUDIBLE] and Ben Roth
+where they're using the community information to target
+the high-ability entrepreneur.
+So what they did is they worked in Maharashtra,
+and they formed a group of entrepreneurs in periurban
+Maharashtra to rank their peers, in a group [INAUDIBLE]
+of six people they knew, on the metrics of profitability
+and growth potential.
+So basically, they asked, who is the best businessman
+in your group?
+Rank them.
+And then, they randomly distributed cash grants of $100
+to 1/3 of these entrepreneurs-- not just the most productive,
+just randomly across groups--
+to measure their actual productivities.
+And what they find is that people
+are quite good at finding out who
+is telling who is the most productive
+when the average return to $100 is 8% per month, which
+is very similar to the average return
+that we found for Sri Lanka.
+But in the group that is in the third, that
+is ranked in the top third by peer ranking,
+it's actually 17% to 27%--
+so much higher.
+So people are able to tell you if they want to.
+They are able to tell you who is productive.
+In fact, they are better than machine learning at doing that.
+So what they try is to say, well, we
+have a lot of information on these people.
+Let's try and predict the profitability based on machine
+learning.
+And then, this machine learning prediction
+is less good than just one person from the village
+telling you.
+The problem is that if they know that there is
+something at stake, they lie.
+So instead of telling you, reporting the most productive
+people, they tell you themselves,
+or they tell you their nephew, or their niece, or something
+like that.
+So what you need to do is to give them
+incentive to say what they really believe.
+So they implement something called the Bayesian Truth
+Theorem-- which is very complicated--
+which compares your report to second-order belief of report.
+But it doesn't matter.
+You just tell people, hey, give me the truth.
+I'll pay you as a function of how accurate you are.
+And I have a way to know that you didn't lie, so just tell me
+the truth.
+And people believe that.
+And in fact, you have a mechanism
+that's a very subtle mechanism.
+So they just say, you will be rewarded for truthfulness,
+and they do it.
+So that's the design the entrepreneurs either
+get a grant or not a grant.
+They form a group, either with high stakes or low stakes,
+to see whether people misreport when
+they know their report will be allocated to grant.
+And then, they have the mechanism
+for the Bayesian Truth Theorem mechanism
+to see whether they can incentivize truthfulness,
+boosting the no-stakes report and the high-stakes report.
+And the finding is that, in the absence of this mechanism,
+people lie in high-stakes, but with the mechanism,
+they don't lie in high-stakes.
+So it is possible to use the information that
+exists in the community to encourage people to, reveal
+what they know about how productive people are,
+people that have this information and are willing--
+it's possible for people to share it.

@@ -1,0 +1,328 @@
+PROFESSOR: The next thing you're going to look at,
+and it's is a different way of looking at this,
+we're going to look at the impact of food subsidies.
+So Jensen and Miller is a famous study that looked at this issue
+in a different way.
+They searched for what's called a Giffen good--
+a good whose consumption increases
+when the price increases.
+Why are Giffen goods surprising?
+Why is that an odd thing?
+Yeah.
+STUDENT: It doesn't really follow a classic notion
+of supply and demand.
+PROFESSOR: Mostly demand.
+How?
+STUDENT: Generally.
+PROFESSOR: What is the law of demand?
+STUDENT: Demands goes down.
+PROFESSOR: Yeah.
+Demand, if you took 1401 or any other econ class,
+they will tell you demand curves tend to slope down.
+As in if things get more expensive,
+you consume less of it.
+As in, like, if I increase the price of something,
+you're going to demand less of it.
+Now, Giffen goods are an exception
+to this, where essentially as you increase the price,
+people's consumption of it increases.
+This is a little bit like a unicorn in economics.
+People always had-- this is a conceptual thing
+that people thought existed but nobody's ever seen one.
+It turns out Jensen and Miller in fact found one,
+at least in the study I'm going to show you about.
+OK?
+Now, as I said, we expect demand curves to slope down.
+Now, how is it possible that as a price of a good increases,
+people's consumption increases as well?
+What must be true or what's going on?
+Yeah.
+STUDENT: That the higher price is
+an indicator of some sort of impressive quality
+perhaps, so people are ready to pay that higher
+price [INAUDIBLE],, but they also expect that food to be better
+[INAUDIBLE].
+That price should reflect some of the--
+PROFESSOR: Right.
+So it could be that there's a signal of quality and so on.
+I think this study is trying to abstract from that.
+You're exactly right that the price
+could be a signal of quality.
+What could also go on?
+Let me ask differently.
+For example, suppose we reduce the price of something
+and you eat less of it.
+What could be going on as well?
+Or can somebody-- somebody know what income and substitution
+effects are in economics?
+Olivia.
+STUDENT: Yeah.
+I mean, it could be something like a luxury good.
+Like we talked about lobster I know in 1401.
+So even if price increases, you're going to consume more
+or there's a lack of substitutes.
+PROFESSOR: Right.
+So essentially, when a price of a good increases,
+there's two effects going on.
+One is what's called a substitution effect.
+You want to consume less of this good
+because it has become more expensive
+relative to other goods.
+OK?
+You choose between apples and bananas.
+Apples become more expensive.
+You're going to choose more bananas compared to apples
+just relatively because it's a better deal to eat bananas
+compared to apples.
+That's a substitution effect.
+OK?
+The substitution effect is always a negative, in the sense
+that as the price increases you want less of it.
+But then there's an income effect.
+So normal goods have a positive income effect.
+You consume more as income goes up.
+Inferior goods have a negative income effect.
+You consume less as income goes up.
+What's going on here potentially is that people become richer,
+and now they switch away to other types of goods.
+So this would be in the case of rice
+or other types of basic food that we just saw--
+as people become richer, they choose, essentially,
+to eat other types of goods, or as they become poorer
+or they eat more of it.
+So in this case, for example, here, what we have seen
+is, as people become richer, they eat less of, say,
+[INAUDIBLE] and so on.
+Which is to say, that's an income effect that's negative,
+which is people become richer, and now they
+switch to other types of goods.
+And so, now, here, Giffen goods now
+are inferior goods with an income effect
+that is so strong that it dominates the substitution
+effect.
+That is to say, it becomes more expensive
+and now you would think people eat less of it.
+But now, there's still the negative income effect, which
+is to say you consume less as--
+right.
+So normal goods have positive income effects.
+Inferior goods have negative income effects.
+So you consume less as income goes up.
+Now, if I increase the price of a certain good,
+now, essentially, you have less money
+available, and for an inferior good which has negative income
+effects, having less money available
+leads people to eat more of it.
+OK?
+And so, that's to say, there might
+be situations where people--
+certain things become cheaper.
+So if I make a certain good cheaper for you,
+you would think that you should eat more of it.
+But now, by making certain goods cheaper for you,
+you also become richer.
+You can afford more overall because you
+have to spend less money on that good.
+Now, essentially, as you feel richer,
+you substitute to other types of goods.
+And so, now, if you start eating shrimp instead of rice,
+if I make the price of rice cheaper for you,
+you might eat actually less rice despite the price
+of rice going down.
+Does that make sense?
+So I'm going to show this in a specific context.
+So the goods that people look at in China was rice,
+and they found that in cities where the price of rice
+is higher, people consume more rice.
+And they argue that, well, really should see the opposite.
+But it seems to be that if the price goes up,
+people actually consume more of it.
+Now, why is that not conclusive?
+I think for two reasons.
+One could be that that's for supply reasons.
+In rich cities, maybe people just
+charge higher prices and people eat more there anyway.
+Or it could be that perhaps prices
+are a quality signal in some ways,
+and people perceive the quality of rice
+to be higher when the price is higher.
+So now, what they do is they do an RCT to look at this more
+specifically.
+So they have a sample of households in Hunan in China,
+and they randomly choose a subsample of them.
+They give people vouchers to reduce the price of rice
+to this random subsample for more than a month's supply.
+They make sure that the households do not exchange
+or trade these vouchers.
+So otherwise, you just give people money.
+And then, after six months, they ask household detailed
+questions about their consumption of rice, wheat,
+and other stuff.
+OK?
+So now, what have we done here-- or what
+have they done in this study-- they reduced the price of rice.
+And now, the substitution effect should
+say people should be eating more rice.
+Rice becomes cheap, therefore it's a better deal
+to buy rice-- you should eat more rice.
+But the income effect might go the other way.
+You reduce the price of rice.
+People become richer relatively--
+they have more money available to buy things.
+And so, now, they might switch to other types of goods.
+And that's the income effect going the other way
+potentially.
+And what this test is now, they kind of look at,
+well, is the income effect sufficiently large to overcome
+the substitution effect?
+And that's exactly what they find.
+So when the price of rice decreases
+by 10% due to these vouchers that people are given,
+rice consumption decreases by 2.5%,
+and the elasticity is in fact negative.
+That's to say, Jensen and Miller found a Giffen good.
+That is to say, households consume more now
+of other goods.
+So households with a subsidy report
+increased consumption of seafood and maybe meat.
+And so, what's happening here is that people
+get a subsidy on rice, they spend less money on rice
+overall, and they use this extra money to not spend it on rice,
+but rather they spend it on other types of goods,
+including seafood and meat.
+OK?
+And that's the definition of a Giffen good.
+Now, why does this matter here?
+Well, what we're interested in is the income effect.
+We're interested in what happens as people become richer.
+Do they spend more money on nutrition?
+And what in fact we see is, well, it
+doesn't seem to be the case.
+And in fact, for some goods, not only is the elasticity not
+above one, but in fact it might even be negative.
+Yeah.
+STUDENT: So this-- the rice example
+is proving that if the price of a product
+increases the demand doesn't increase.
+But Giffen good is when the price increase the demand also
+increases.
+So I don't know why this one is a Giffen good.
+PROFESSOR: So the price is going down,
+and then now people are in fact eating less of it.
+So what people are doing--
+not only are they not increasing their consumption of rice,
+but in fact they're eating less.
+STUDENT: But isn't the definition of Giffen
+good is when price increase the amount--
+PROFESSOR: Ah.
+Sorry.
+You can-- this is both directions.
+So if the price-- so sorry.
+I defined it the other way around,
+and maybe that's confusing.
+So what I wrote here is as the price increases,
+consumption increases.
+Conversely, as the price decreases,
+consumption decreases.
+That's supposed to be equivalent.
+Yeah.
+So here, in this case, we find that through the subsidy
+the price decreased, and people now
+decreased their consumption.
+Now, that's interesting for two reasons.
+One is that there must be essentially a negative income
+effect.
+As in, as people become richer, they substitute away from rice
+to other things.
+And second, it tells you something
+about targeted subsidies.
+So if you want to do nutrition policy and so on,
+many countries have food price subsidies
+to encourage greater nutrition.
+That is to say, for example, India
+has a national subsidy for rice and rice-consuming regions.
+Now, what do the results from Jensen and Miller
+suggest for such policies?
+What are these policies doing now?
+
+Yeah.
+STUDENT: They're actually not affected at all.
+[INAUDIBLE] to increase the consumption of rice [INAUDIBLE]
+actually decreasing.
+PROFESSOR: Exactly.
+So if it's really the case, and if you're
+sort of in this Jensen and Miller world,
+then not only are we not doing very much,
+but in fact it might even be counterproductive.
+As in to say, if households consume less rice and more
+shrimp, but shrimp are not very nutritious per dollar spent,
+the effect on caloric consumption of subsidizing rice
+might not be large, and it may even be negative.
+OK?
+And this is in fact what Jensen and Miller found in Hunan.
+This is not only the case for calories but also
+for other nutrients.
+Going back to your point, maybe people
+are eating worse nutrients potentially.
+And so, we want to be very careful
+with these types of subsidies.
+In addition, what do we learn from about the effect of income
+on caloric consumption in this population?
+Well, it must be negative.
+People are now actually eating--
+since shrimp are worse calories compared to rice, people
+eating less rice, more shrimp.
+And now, people, actually as they become richer,
+they eat fewer calories.
+OK?
+So that's to say, that's another sort
+of red flag for a theory of the nutrition poverty trap.
+As we increase people's income, people
+don't seem to be eating more nutrition.
+Now, you might say, wait a minute.
+Didn't you just show me that the Engel curves are positive
+previously?
+Right?
+Previously, I showed you-- let me go back to this.
+Previously, I showed you the Engel curves for India.
+And I showed you, as people become richer,
+people eat more calories.
+And the slope was something like 0.35.
+Which is to say, if you gave people 10% more income,
+you should see a 3.5 increase in people's caloric intake.
+Now, I'm showing you a different study in India and China
+that says, in fact, look, this income elasticity
+might in fact be negative.
+So how are these things consistent?
+What could be going on?
+
+Let me ask differently.
+What comparisons are we making here versus what comparisons
+did we make previously?
+
+This is within and across people.
+
+STUDENT: Within.
+PROFESSOR: It's sort of within in some sense.
+Some people-- I'm randomizing some people into subs.
+It's across people, but I'm subsidizing
+some people versus others.
+But I'm holding constant everything else.
+You're randomizing people to be very similar treatment
+and control, and then we change people's food prices
+in some ways and look at what happens.
+So it's holding constant ideally everything else.
+Well, in the previous graphs that I
+showed you was across people.
+We're comparing poor versus rich people,
+and that slope could be very different from a slope
+that we find here.
+Notice that in addition, of course, also
+very different settings.
+This is India versus China.
+And it could also, in fact, in another setting,
+in Gansu Province, Jensen and Miller
+did not find evidence of a Giffen good.
+That's to say that this elasticity might be positive,
+but in some cases it could be negative,
+in some cases it could not.

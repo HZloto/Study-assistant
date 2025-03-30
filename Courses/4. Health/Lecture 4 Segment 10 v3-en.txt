@@ -1,0 +1,225 @@
+PROFESSOR: Another thing that this
+leads to is for us to start in particular this discussion we
+had about how people react to curative
+care versus preventive care.
+Should make us think about whether you would want health
+to be provided publicly or privately.
+So [INAUDIBLE] had a very strong idea about it.
+He pointed out that health care is
+a credence good, which substantial asymmetric
+information.
+One way to say it in plain English
+is that health care is like being a garagist.
+The people who fix your car, a car mechanic, they
+know a lot about your car that you don't know.
+And therefore, you go and you say, oh, they say,
+oh, your car, it's all broken.
+I have to change this and I have to change that
+and it's going to cost you a ton of money.
+And you're like, I don't know.
+You have to trust them.
+So that's car mechanic is another credence good.
+So health care is people understand much less
+than the doctors that they have and learning is very difficult.
+And in addition, there are externalities because health
+status, a lot of diseases are contagious.
+Not quite all of them.
+As a result, people will have low demand
+for things that are good for them
+and high demand for things that are good for others.
+So you cannot rely on individuals to make all
+the decisions that are right for society.
+They will tend to be under-immunized and take
+too much antibiotics.
+So for all these reasons, you would
+imagine that unregulated private health care would treat people
+badly and to over provide medication.
+So [INAUDIBLE],, who is one of the great godfathers
+of genomics, told us it is a general social consensus
+clearly that the laissez faire solution for medicine
+is intolerable.
+So comparing to that, what do we have in developing countries?
+We indeed have a terrible private health sector.
+Terrible.
+Terrible as in 77% of the private provider
+in rural areas in India have no medical degree.
+
+There's no medical degree at all.
+So you guys could just start establishing yourself
+as a doctor, and you would be much more qualified
+than the average providers that call themselves a doctor.
+Of those who have a degree, only 4%
+have what we would call an MD and the other
+have this kind of different either lower
+or alternative medicine degrees.
+In the average village, there are
+three providers with no degrees, less than one with some degree,
+and only 20% with an MD.
+The public providers are more qualified
+and they offer free services, but they only
+have 1/5 of the market share.
+And even if there is a public health center right there,
+they still have only about 1/3 of the market share.
+So in comparison to the [INAUDIBLE] thing,
+what [INAUDIBLE] told us is--
+[INAUDIBLE] told us, well, given the structure
+of what health is, the private sector would
+be so bad that there should be no private sector.
+And half of that is true.
+The private sector is terrible.
+But it is completely dominant.
+So what's going on here?
+So the first thing you might ask is, OK, they're not qualified,
+but maybe they know-- maybe despite not
+being formally qualified, they have
+a lot of relevant experience.
+So for that we can try and ask vignettes.
+So a vignette is a standardized patient
+that's proposed to a doctor.
+If one day you do medicine and you do board exams,
+you will do a vignette, which is basically a case that's
+proposed to you on paper.
+And you have to study it.
+For example, you describe, I'm describing to you the vignette.
+It's known to be fictional.
+A women come to the clinic with a child who has
+diarrhea for the last two days.
+What do you do?
+So here the right answer is to ask me about stool
+to figure out if there is blood.
+Is it dysentery or a virus?
+Do they have fever?
+In this particular case, it is all the indications
+are that it is viral.
+There is no fever.
+There is no blood in the stool.
+The right solution is oral rehydration solution.
+So [INAUDIBLE] who did a lot of studies
+on using these vignettes, so on the vignette for diarrhea,
+this is the type of things that people should have done,
+question they should have asked, exam
+they should have performed.
+Again, this is just in a dialogue.
+I'm interviewing [INAUDIBLE].
+So what do you do?
+And she should tell me, well, ask the patient
+if there is blood in the stool.
+Check the fontanel to see whether the child is dehydrated
+and so on.
+And what you can see is that-- so here the doctors
+are ranked by how competent they are,
+which is how well they answer to the vignette on average.
+And what we see is that in India,
+for example, even if you take the most competent doctor,
+they ask the question about blood in the stool less
+than half the time.
+They almost never check the fontanel.
+They ask about fever 60% of the time.
+And they ask the frequency of stool maybe 60% of the time.
+That's the best doctor in the sample.
+And the worst one basically did none of that.
+So across countries, there are two conclusions.
+The first one is that the average quality is low
+and the second is there is a lot of heterogeneity.
+And the third, which summarizes the two,
+is you have to be above median to do less harm than--
+to not do harm.
+You remember the slogan of doctors.
+Don't do harm.
+And this, you have to be only the top half of doctors
+do not do harm when they're faced with a vignette.
+So they don't do much.
+The second thing we can ask is, well, they don't know much.
+What do they do?
+So how do we know what people do, what doctors do?
+There are two things you could do.
+You could just sit next to them while they do their work.
+So I don't know if you've been to your GP and they tell me,
+oh, there is someone who is just looking what I do,
+like a resident.
+So you could likewise have a researcher just
+sitting there looking at what they do.
+One could imagine that if they are observed, maybe
+they work a little bit harder.
+So that's going to give you an upper bound of how good
+the doctors, how well they work.
+And then there is another method that can be done,
+which is to say send standardized patient, which
+in other words is like an audit study.
+So send someone to the doctor who pretends to be sick.
+So for example, to ask about diarrhea,
+someone comes to another village or someone comes to a village
+and say, I come from this other village
+and there is a child who has diarrhea.
+What do I do?
+So the doctors think that we are talking about a real child.
+Or someone presents themselves and they have chest pain
+and panicked.
+
+Doctor, help me.
+Like that.
+After this is finished, you go and debrief the doctor
+saying this person was actually fake.
+So what do we find?
+So from direct observation is on average,
+they spend two minutes.
+If you look at Delhi for example,
+from direct observation, they spend
+two minutes with the patient.
+They ask one question.
+They perform one exam, and they give you two medicine.
+So that's your visit.
+Quick and efficient.
+So that's how much effort is being given.
+These are results from doing standardized patient
+across different countries.
+So these are, for example, the person
+showing up with chest pain or discussing the case
+of a child with diarrhea.
+This is assessing whether at the end of the day
+you got the correct treatment.
+So in India, various places in India, and then this
+is China and Kenya.
+So in Kenya, it's not bad.
+Half of the doctor gives you at least some correct treatment,
+although 20 gives you only the correct treatment and 30
+gives you something in addition that you don't need.
+In India, it's somewhere between 10% and 30%
+who gives you correct treatment.
+You can see that you get a lot of over treatment,
+a lot of incorrect treatment, many antibiotics.
+55% in Kenya, 67% steroid in some cases.
+Very few referrals.
+So these doctors not only do they know very little,
+but they don't treat very well.
+So all of that is in the private sector.
+Why do people still choose the private sector?
+Incorrect treatment costs the patient a lot of money.
+70% of the cost of the visit is antibiotic or another drug
+that you don't need.
+
+And yet people go to the private doctor.
+So in Udaipur, you're going to see the film next week,
+only one out of five visitors to the public sector.
+In Madhya Pradesh, 90% of the visits are to a private doctor.
+And then in Delhi where it's the city,
+there is on average 70 private provider within 15 minutes
+walk, which indicates that there is demand for them.
+So people much prefer the private sector.
+So why?
+Well, one response is given by one
+of these standardized patient visits in Madhya Pradesh.
+And I'm going to summarize it rapidly.
+What they find is that although the public doctors are better
+trained, so they know more, they perform,
+they have better diploma, they perform better on vignette,
+but they spend even less time with the patient.
+And as a result, they don't treat any better.
+On balance, they are not more likely to get
+to the correct treatment, perhaps even slightly worse.
+So one of the reasons why people continue
+to go to the private sector is the private doctor
+exercise a little bit more effort.
+And although they know less, they
+are able to use whatever little knowledge they have
+a little bit more effectively.

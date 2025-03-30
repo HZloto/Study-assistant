@@ -1,0 +1,143 @@
+Now we're going to talk about different ways
+to increase savings.
+We're going to talk about addressing
+external constraints.
+This is people don't have savings accounts.
+And then, next, we're going to talk
+about addressing internal constraints-- people find
+it difficult to save regularly, for example,
+due to self-control problems or people within the household.
+Let me briefly tell you about the access to savings study,
+and then I'm going to take a break for a few minutes.
+So a first study that's a very simple and very nice
+study by Pascaline Dupas and John Robinson--
+Pascaline Dupas, already you know from various [INAUDIBLE]
+studies from before that come across you before--
+is just the question of do people not have a secure place
+to save, and does that lead to a worse business success?
+So these are bicycle, taxi drivers, men in market vendors,
+women in Kenya, Western Kenya.
+And they are asked to keep financial diaries and logbooks.
+And then the research question that the authors were asking
+is, do people not save because they don't have
+a secure place for the money?
+And does not having a secure place for your money
+impede business success?
+So is it, A, just not having money,
+does it lead to lower savings?
+And then does that have sort of downstream consequences--
+sort of a version of what you're asking somewhat differently.
+Does it affect people's lives in some way--
+in this case, their business?
+So what they do is the treatment.
+So it's treatment and control-- that's a randomized control
+trial--
+that in the treatment group, the authors or the study team
+paid for the application fee and minimum balances
+for accounts at a local bank.
+They go to a local bank, started a bank account.
+You can put in your money there, and they pay the application
+fee and minimum balances.
+This is a no-interest bank account with sizable withdrawal
+fees which means, essentially, the actual interest rate
+is actually negative, as in if you put in 100 Kenyan shillings
+and take them out a week later, you have to pay a fee.
+So you get less than 100 back.
+So the interest rate is actually negative.
+So if you put in money here, that means,
+really, you really do not have a different place
+to put them the money.
+That seems to be you even accept the negative interest rate.
+So now what they do is then they just measure take-up--
+how much money are people putting in there?
+This is a CDF, a cumulative distribution function.
+It's very easy-- how do we read this?
+Essentially, what the y-axis shows
+is the percent of people who have a certain amount saved
+or below.
+For example, what you see here is there--
+
+so these are women in red and men in blue.
+So you see here that, essentially, about 50%
+of people for both men and women have essentially saved nothing.
+They put in zero money overall.
+And then you see, for example, for different amounts--
+so for example, here, you see this is 60%.
+So 60% of people have essentially
+saved something like 200 shillings and less,
+meaning that the remaining share of the people, 40% of people,
+have saved at least 200 shillings.
+And then these are two graphs because the axes
+are very large.
+But essentially, what you see here,
+then, is you see the distribution for women
+is much further to the right than it is for men.
+That is to say, a lot of the men actually don't say very much.
+Something like 95% of men save something
+like less than 5,000 shillings.
+So that's not very much.
+When you look at women, women save a lot more.
+So something like 90% of women save 50% of less-- means,
+like, 10% of women save something
+like 5,000 shillings or more.
+And when you look at something like 10,000 shillings,
+about something like--
+so this is the share here-- something
+like 7% of people save at least 10,000 shillings.
+That is to say, a large fraction of people--
+so a lot of people here at zero.
+They saved exactly nothing.
+They don't use this account at all.
+For many people, it's actually not useful at all.
+Nothing happens.
+But there's a share of people in particular in women that
+save a lot of money in there.
+You can see here, these are people--
+this is something here--
+a few of these data points, essentially 40,000-50,000
+shillings or more.
+So some women, in particular, have a lot of money
+that they save in this account.
+And this, then, leads to increased overall savings.
+So at the end of the study, they measure people's
+overall savings, including what's in this account--
+increased productive investments and increased
+private expenditures.
+What does that mean?
+So people save more money in this account.
+They have more overall savings.
+Then they make more productive investment.
+They invest more in their business.
+And then, as a result, later, they have more money overall,
+including more money for private expenditures
+for their own consumption.
+And that's true for some fraction of women.
+So there are some of these market vendors, female market
+vendors, that essentially have no safe place
+to put their money anywhere.
+So they prefer to put their money--
+somewhere like 10-15% of women, they prefer to put their money,
+and a lot of money, into these savings accounts that have no
+interest but have a negative--
+have a fee.
+So they have essentially negative interest overall.
+And that allows them to expand their business,
+to invest more in their business,
+to have more overall savings, and to have
+higher expenditures at the end.
+So that suggests there is really important barriers
+to savings investments for women,
+in particular market women in this context, that
+seem quite important.
+That doesn't seem to be the case for men.
+It's not quite clear where this difference is coming from.
+Perhaps it has to do with constraints
+within the household, which is to say maybe
+for men within the household, it's
+easier to say no to things to their spouse
+or to other members in the family or their neighbors
+and so on.
+Well, for women, it might be much harder because the husband
+comes and says, I want the money now,
+and then it's very hard to avoid that
+without violence or other types of problems.

@@ -1,0 +1,344 @@
+PROFESSOR: So there is one paper that's-- actually,
+it's a series of paper now-- that explores that
+in the context of deworming.
+So why would we study deworming to think about nutrition?
+That's not a nutrition intervention,
+it's a health intervention.
+So why would it be a good way to look at nutrition?
+Angela?
+STUDENT: So whether children have deworming or not,
+it impacts their ability to absorb the nutrients
+and micronutrients in food.
+So if they have worms, [INAUDIBLE]..
+
+PROFESSOR: One can think-- precisely-- one
+can think about the worms as basically
+competing for the nutrient with the child.
+That's maybe not the best conversation
+to have at 1:00 in the afternoon.
+But so, basically, a child, by removing the worms
+from a child, I am making more nutrition
+available for this child.
+And, in fact, deworming has long been
+suggested that it could be a good way
+to reduce anemia in children, improve nutrition in children.
+So, in 1999, there was a study by Edward Miguel
+and Michael Kremer--
+Michael Kremer, who got the Nobel Prize in 2019.
+One of his seminal studies is precisely
+this one, so of studying this 1999 intervention.
+The study was undertaken in the short run to look at-- before
+the control group was treated--
+to look at the impact of the deworming program on school
+participation.
+And then, so we're going to quickly look at that.
+But then, even more relevant for us,
+to look at the long-term nutrition and health
+impact of deworming, they looked at them-- at the same kids
+again in 2016 and 2021 where they are now adults
+10 years later and then 20 years later, they are looked again.
+They were able to follow 7,500 kids who
+were in school at the time of the deworming program.
+By that time, they all have been dewormed.
+But some kids benefited from deworming for three years
+and some kids for just one.
+So this is going to be the difference.
+We are really going to compare less deworming versus more.
+So in the original program, the decision
+was taken to randomize at the school level.
+And the schools were assigned in these three groups.
+The first group received deworming program starting
+in 1998, the second group in 1999,
+and the last group in 2001.
+So in the long-term impact--
+in the short-term impact is going
+to-- there are going to be able to compare group one to group
+two and three, and group one and two to group three.
+And for the long-term impact, they
+are going to pool together one and two, which they are going
+to compare to group three.
+Why do we randomize at the school level?
+
+Yes.
+STUDENT: If you randomize them in the individual level,
+then they won't infect other students in the school.
+PROFESSOR: Exactly.
+So this is a discussion we had when
+we talked about randomization.
+When you randomize at the individual level,
+the kids who have not been treated
+could reinfect the kids who have been treated.
+And, also, the kids who have been treated, in some sense,
+help the kids who have not been treated
+because they have fewer worms.
+And worms are extremely contagious.
+So when you have a contagious disease like that,
+you cannot randomize at the individual level.
+You have to randomize the whole group.
+You have to treat the whole group in order
+to make sure that you capture the full effect.
+Otherwise, basically, your treatment and control
+will even out by sharing their worms.
+So that's the reason to randomize at the school level.
+That raises a problem, which is, suppose that you now
+wanted to do this experiment.
+Could you take three large schools
+and randomize one school in group one,
+one school in group two, and one school in group three?
+
+Even if they were-- you had thousands-- suppose
+you go to big schools and you have
+thousands of kids in each school,
+but you have only three schools.
+
+Yes.
+STUDENT: No, because then there could be
+some factors within the school.
+And so, you're not averaging over many schools [INAUDIBLE]..
+PROFESSOR: Exactly.
+So [? Vaishnavi ?] said, the problem you have
+is that if you randomize only three schools, even
+though on average there should be the same because you've
+randomized them, there could be something
+different about the school.
+For example, they are in a different geography.
+In one of them, thunder struck, so you
+have the school is broken.
+In one of them the director is better and so on.
+So if you randomize at the school level,
+even if you have many kids within a school,
+you have to think about many schools.
+Cut a long story short, roughly the level of randomization
+is your number of effective observation.
+
+So what are the results?
+Well, in the short run, when they compare the treated
+to the untreated school, they found a first direct effect
+on anemia and on weight.
+So it seems that there was a first order
+effect on nutrition.
+And there was also an effect on absenteeism.
+So 25% reduction in absenteeism.
+So kids spend more time in school
+because they were sick less.
+So that's the short-term effect.
+In the long run--
+and so, these are the results-- the effect
+for 2016, so about 10 years after the treatment.
+You can see how the effect worked by comparing treatment
+to control.
+So these are distribution densities.
+So this is basically the fraction of people
+that you see at each of these levels,
+if you will remember from your probability and statistics
+class in high school or here.
+So if I look, for example, at this one, what
+happened to the distribution of the working hours
+for the treatment group compared to the control
+school among the boys?
+
+So you want to look at the graph that is at the top left corner.
+
+Yes, Claire.
+STUDENT: The treatment shifted the curve towards the right,
+indicating that there are more hours worked in the treatment
+group compared to the control group?
+PROFESSOR: Absolutely.
+What we see in the treatment group
+is that the treatment distribution
+moves to the right.
+So there are more of the hour-- more of the larger hours
+are observed.
+This is how you want to read a density, which
+is, you're more likely to see this higher hours worked
+in the treatment group compared to the control group.
+So they worked more.
+We also see a shift to the right of the log earnings function.
+So they are also earning a little more.
+Similarly, for the women, you see
+there are a lot of women who just are working very little.
+But you start seeing a bump of women,
+you start seeing more chances for girls
+to be working some meaningful hours in the treatment group.
+And you're seeing the earning curve also shifting
+to the right.
+So you're more likely to observe larger earnings
+in the treatment group.
+So it looks like we are looking 10 years later.
+And these kids who were dewormed three years instead of one
+have earnings that are larger.
+And they are more likely to work.
+Yeah.
+STUDENT: How do you think about statistical significance
+for these graphs?
+PROFESSOR: Oh, yes.
+So nothing about this graph tells us
+anything about statistical significance.
+So that's a great question.
+So to do statistical significance,
+well, we could test that.
+They are tests for statistical significance
+of an entire distribution.
+So, for example, first order stochastic dominance.
+But you can also say, well, let me compare means.
+And let me see whether the means of the two distribution
+are statistically significantly different.
+And this is exactly what we find--
+what we see in this table-- what we examine in this table.
+So, actually, this table also combine the 2016 follow-up
+and the 2021 follow-up.
+So this is looking somewhere between 10 and 20 years
+after people have been treated.
+We can now compare--
+so each of these number coefficients-- number lambda,
+each of the number in the column is the difference
+between treatment and control along with the standard error
+of this difference.
+So we can now answer--
+in parentheses, so the coefficient
+that's not in parentheses, for example,
+the 0.09 here is the difference between treatment and control
+or between dewormed three years or two years versus one.
+And in parentheses below is the standard error.
+So now we can answer your question
+of how we think about statistical significance.
+Do you know how to tell us whether this difference is
+statistically-- what we need to do
+to know whether this difference is statistically significant
+or not?
+STUDENT: Yeah.
+I'd have to look at the equations again.
+But it's, you subtract them and square them in some way.
+PROFESSOR: So, yeah it's done-- it's even simpler than that.
+In this case, you basically divide one by the other.
+I'm giving you the formula.
+But you will have to-- as Javier said,
+you will have to go back to your statistics course
+to remember why it's true.
+You want to divide one by the other.
+If this ratio is greater than two,
+it's significant at 5% level of confidence.
+This means, there is only a 5% chance
+that you think it's different-- that you
+have found that it's different from zero,
+but, in fact, it is not.
+So there are only 5% chance of a--
+here you don't even need to divide by anything
+because they generously provided stars.
+So they give you one or two stars
+when it's significant at the 1% level or at the 5% level.
+So if we look at the full sample, adding the two years,
+the coefficient is actually--
+so it's a difference in 9%.
+The people who were deworming for two years
+have 9% higher earnings, but it's not quite significant.
+Focusing on older kids who are more likely to be earning
+money, because they are in the labor market,
+we find larger effect of about 20%.
+And that's highly statistically significant.
+By dividing 19 by 0.08, I find something greater than 2.
+So it's quite significant.
+So we can be sure that it's significant.
+We can compare that to the mean.
+So this is the mean log income.
+Then looking at the different outcomes,
+we see that we reproduce something
+similar for wage earnings, for farm profits, kids
+who were dewormed have higher farm profits.
+That's true both for the younger and-- for everyone and for just
+the younger kids.
+And then, hourly earnings, which is how much you're making,
+your productivity, how much you're
+making per hour that you work, is 32% higher
+among the older kids, 14% for the entire sample.
+And that is statistically significant.
+And then, they also look at various things.
+They are more likely to have migrated.
+They work longer hours.
+They work more days.
+And this is for this two years of treatment.
+So, overall, it's quite remarkable
+that you-- first of all, I want to point out,
+it's quite remarkable that they were
+able to follow over 7,000 kids for 20 years in rural Kenya.
+And it was a large amount of work.
+And if you go on Ted Miguel's web page,
+you will see him describing how he looked for them on boats.
+And some of them were in London.
+And they interviewed them by Skype from London,
+and so on and so forth.
+So they were able to conduct a very good follow-up
+of these kids.
+Second of all, it is remarkable that we still find a difference
+in earnings and in productivity of these children
+20 years later.
+And that indicates that this deworming treatment had
+a long-term effect, which could be via the effect on education
+or it can be via the effect on health--
+the direct effect on health.
+The fact that we see impacts on, for example,
+on farm productivity suggests that there might be something
+having to do more with your straight physical strength.
+
+Once you do that, you can start asking yourself
+the question of whether as a government
+deworming is something that is worth doing financially.
+You remember, when we were doing--
+when we were discussing why do randomized evolution
+in the first place?
+That came up as a fundamental reason why you want to do that.
+Should we invest in deworming as opposed to something else?
+So, for example, GiveWell, one of the organization
+that helps people choose what to do try and look
+at the cost of an intervention compared to the entire benefits
+that someone could experience in their lifetime.
+And, similarly, the government could do that.
+It doesn't mean they are going to be able to recoup
+this money in any way.
+So it's not a fiscal investment.
+But it's telling you whether the investment is worth it
+from a social perspective.
+So these are the costs that you're
+experimenting in the few years.
+So since there are costs, it's negative benefits.
+So they are very low because it's really not
+very expensive to deworm.
+The pills themselves are near free.
+You just need to send them to the schools
+and train the teachers and so on.
+So it comes to about half a dollar per child per year.
+So these are the costs that you have to pay.
+Then you start getting earning gains.
+So they assume that these earning gains
+that they evaluate in their table starts at year 10
+and finishes at year 25 when people retire.
+That's pretty conservative because maybe they'll
+work longer.
+And then they add the consumption gain.
+So with just the earning gain, you have a rate of return--
+implied rate of return of 40%.
+That means it's like--
+if you wanted to put your--
+if you wanted to instead put your money in--
+invest your money somewhere, you would
+have to invest it in a security that
+brings 40% a year to be good enough
+to do this instead of that.
+So this is comparable to investing
+in a stock that brings 40% a year, which
+is not easy to find.
+So most things do not cost that much.
+And what you have here is what you
+would need-- what they estimate is earning gains of about $80
+over a working life of 15 years from 10 to 25.
+They also calculate the number that
+would be sufficient to break even to make it worth it.
+So maybe your alternative is a security that pays 10% a year.
+That's generous, but maybe this is
+what you could do putting the money on the stock market.
+If the earning gain had been $8, you would break even.
+But the estimate is something closer to $80,
+you'd much more than break even.
+So that shows that this childhood investment type
+things can have this kind of just spectacular effect
+compared to doing anything in adulthood.

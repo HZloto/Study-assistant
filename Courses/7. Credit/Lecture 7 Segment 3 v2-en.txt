@@ -1,0 +1,257 @@
+PROFESSOR: So some facts that are
+consistent with this idea, prima facie, is that, first of all,
+the poor need to spend a lot of money to borrow.
+We have data that we cobbled together for the Poor Economics
+books with Abhijit Banerjee.
+In a sample of 13 countries, we look
+at various aspects of the economic lives of people
+living under $1 a day.
+And we find that people pay between 11% yearly to 93%
+yearly as interest rate in the sample.
+So that's a lot of money compared to,
+say, your mortgage rate now, which is--
+even though now the interest rates are high,
+it's more of the order of 5%.
+So that's the first factor, rates tend to be high.
+A second factor is that they are not high
+because the banks have to themselves borrow at high rate.
+There is a sizable gap between the lending rates
+and the deposit rates within the same subeconomy-- so
+for example, the same city or even
+the same industry within a city.
+So if you put your money into a savings account in India,
+you get barely enough to cover the inflation.
+Sometimes the real interest rates
+are negative for the savers.
+That is, you put money and you get less
+than the inflation in interest rate.
+So it's very cheap for banks to get funds from depositors,
+but then they lend it out at a huge interest rate,
+so there is a big gap in between the two.
+
+Another fact is that there is extreme variability
+in interest rates within the same subeconomy.
+So that means that you take, for example,
+auto lenders in a particular town, and one of them
+will borrow at 9% and one of them will borrow at 73%.
+You take textile companies in the city of Tiruppur
+in India, which is the maker of T-shirts,
+there are different types of people.
+There are people who are from there
+and people who have come from all over the countries
+because it's the maker of T-shirt,
+and if you want to do T-shirt, you go to do them in Tiruppur.
+The people who are local to the place
+have access to funds at a much cheaper rate than the people
+who come from away.
+Even though the people who come from away
+have come because they are particularly good at making
+T-shirts, and the prima facie, you
+would expect they are just better at it
+and their business grow faster and everything,
+they have access to much more expensive [INAUDIBLE]..
+Now all of this could be due to the fact
+that the interest rate could be very high
+because the bank realized that they are only
+going to be repaid very rarely.
+So if you expect to be repaid half the time
+and you get from your depositor money at 5%,
+you need to charge at least 10% so that on average, you're
+able to repay your depositors.
+So it could be a reason why the interest
+rates are very high, is because nobody pays them.
+And so first of all, people would
+be willing to accept this very high interest rate
+because they don't need to actually fork--
+they're not actually feeling very responsible for them.
+And second of all, the people could--
+the lender could say, well, I better
+charge higher interest rate, otherwise I won't be able to--
+my business will sink, my business as a bank.
+But that's not the explanation because all
+over the place in all of the reports, one thing that
+comes up is astonishingly low level of default
+within the informal sector.
+So to a bank, when people borrow from one
+of these subsidized bank and get subsidized loan,
+often they don't repay.
+The repayment rate I showed you before on the order of 40%.
+But if you borrow from the local moneylender,
+you do repay the interest rate.
+So the interest rates are super high,
+and people actually pay them.
+In most of the case, people do not
+borrow because they absolutely need the money, for example,
+for consumption purpose.
+Like we saw, Abu willing to pay very high interest
+rate because his family was starving.
+That happens.
+But a lot of the cases where people borrow,
+they borrow to finance their business.
+So they borrow because they want to finance--
+they want to buy inputs or they need production,
+they need to buy some clothes to make T-shirts,
+or they want to buy some seeds to grow some food
+or something like that.
+So that means that people must have access
+to fairly good investment opportunity
+and productive ideas because they
+are willing to borrow at this rate knowing they'll
+have to reimburse, and eventually for the most part,
+reimbursing them.
+So it must be, prima facie looks like, the poor have access
+to a very--
+at least some people have access to very productive investment
+opportunity that--
+and then they find some people to lend their money to do that,
+but that's all operating in this very informal sector.
+So there is a very nice study of one village in Pakistan,
+descriptive study from the '90s--
+yeah?
+STUDENT: [INAUDIBLE] there is a high variability
+in the moneylender's interest rate--
+PROFESSOR: Yeah.
+STUDENT: Why [? doesn't ?] it equalize?
+PROFESSOR: Right.
+Great question.
+So take the example of the Tiruppur--
+take the example of the Tiruppur T-shirt maker.
+And I gave you one dimension of this variability,
+that the local people have access to money
+at a much cheaper rate than the people who come from all
+over India to make T-shirts.
+So why do you think it's the case
+that the local people get access to money at a cheaper rate?
+
+Any suggestions?
+Yeah, Liam?
+STUDENT: [INAUDIBLE] involved in taking their background.
+PROFESSOR: Absolutely.
+So what is happening with the local people
+is that their parents, their uncles, their relatives, they
+all have money because it's a relatively rich farming
+community.
+And then when Tiruppur became a T-shirt place,
+they said, oh, we also want to get into this T-shirt business.
+And then they started establishing their kids,
+giving them money to start a T-shirt company.
+And so you might have wondered why
+do they give the money to their kids who have no T-shirt
+experience and maybe no T-shirt competence
+when there is all these people who are flocking into the town
+to make T-shirt and they could have actually
+invested the money with them?
+And the answer is exactly what you're
+saying, which is the asymmetry of information are less.
+When you're lending to your son, you know what they are up to.
+You can-- you have ways to persuade them to repay.
+Maybe they will want to or even if it's a distant relative,
+the local people have a better network of information.
+Whereas if it's someone who comes from far away,
+even though you think they're going to be pretty good at it,
+but you have nothing on them if they decide to take off and go.
+So that would be one reason.
+And then they there could be others of the same each--
+story has its own thing, but that would be one reason.
+It has nothing to do with productivity.
+In this case, in fact, it's negatively
+correlated with productivity.
+And everything to do with, in this case,
+informal social networks and so on.
+But you are exactly right to ask the right question
+because in economics, we don't think these things should
+be the case.
+In fact, a standard assumption in economics
+is that the prices play the role of signals
+to allocate the resources to the right
+Place.
+So all the interest rates should be equal within an economy
+because if you see an opportunity that pays more,
+you should invest there.
+And then as people invest there, invest in that opportunity,
+the price will go down, and all the interest rate
+will equalize.
+So a standard presumption of a credit market--
+and that would come out of most of the basic thinking
+in economics, would be that the interest rate would equalize.
+So it is very surprising prima facie
+and I'm very glad that Julie pointed it out, that there
+would be very diverse.
+It is something we should be baffled by.
+And so here, we find the same thing in [? Alim's ?] work.
+It's only 14 moneylenders in one market in Pakistan.
+It's well worth reading the paper.
+He collected very detailed data on what they do to lend money.
+And his idea is, are there-- because there was this concept
+and you hear it in [INAUDIBLE] discussion
+that he's really like as a real crusade against these people,
+the loan sharks.
+And in the Abu story, certainly the moneylender
+didn't appear to be a very sympathetic character.
+And what [? Alim ?] wants to do is to say, well,
+what is their business?
+Like how do they-- why are they charging that much?
+Is it the case that there is only one in the village
+and has huge monopoly power, and therefore,
+can extract this huge interest rate on people
+who really need the money?
+Or is the cost--
+or is it coming from somewhere else?
+So what we first find is that in this one village,
+there are 14 moneylenders.
+So there is a lot of competition.
+In principle, people could move from one to the other
+if they don't like the prices that are given somewhere.
+Then he describes every step of the lending process
+and priced it.
+So how long it takes you to visit the person's
+house or their business-- place of business for the first time,
+and to find out what they do and to generally monitor
+their activities.
+He finds that the average lending rate to people
+is 78.5% per year, so it is very high.
+Money is expensive for the money lender.
+They themselves, their cost of fund is 32%.
+Even though the bank rate is 10%--
+so clearly they are not able to get all their money
+from the bank, themselves get the money--
+themselves are credit-constrained.
+They get their own money and it is
+available at an expensive rate.
+We reproduce the fact that I was telling you is true on average
+because the standard deviation of interest rate
+is 38% across these 14 lenders.
+That means that interest rate of 2% and 152%
+are in the confidence-- in the 95% confidence range.
+So huge variability within the same village.
+And what it's but is it explained by default,
+no, because very few default. The median default
+rate for a particular lender is between 1 and 1/2 and 2%,
+and the maximum default rate in the sample is 10%.
+So in equilibrium, there is basically no default,
+but that is because people spend a lot
+of time doing ex-ante screening and ex-post monitoring.
+What [? Alim ?] finally concludes
+is that although there is competition,
+it's imperfect competition because there is so much entry
+cost for starting a relationship with a lender,
+that once you have one, they have a monopoly
+power over you exposed.
+Once all this screening is done, you
+don't want to move to another one
+and do the whole screening operation again,
+especially since what would the other lender think if someone
+arrived to them, they would think
+there is some adverse selection issues.
+They would think, well, why do you leave your existing
+relationship?
+Did something go poorly?
+Is it that you didn't--
+so there is potential adverse selection
+in leaving from a lender.
+So once people are stuck with someone,
+they are stuck with them.
+And that would be another reason why
+there is a lot of variability between lenders in how much
+they can charge, because once they have someone there,
+they basically have them.

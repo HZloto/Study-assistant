@@ -1,0 +1,290 @@
+PROFESSOR: So then next--
+we talked about this a little bit already.
+Are these businesses profitable?
+How would you measure profits?
+
+How would you find out?
+Or what's tricky about measuring profits?
+
+Yeah.
+STUDENT: Opportunity costs.
+PROFESSOR: Say more.
+Opportunity costs, what are those?
+STUDENT: Like, when you're making stuff
+for rich countries for more money,
+the [INAUDIBLE] best of the day if possible could have
+done something better with it.
+It's one of the ways to measure profitability
+so that you-- part of the nature work on some
+of those-- interest rates are really high.
+So it's impossible to use interest rates to do this.
+So you'd have to find other ways to measure profitability.
+PROFESSOR: Right.
+So you're saying the bar, essentially,
+is very high because interest rates are high.
+And you want to compare an investment of, say,
+$100 or $1,000 or $1 million, you want to say,
+what returns should you get if you invested in, say, the stock
+market.
+Or, what is the return that you have to pay?
+And you're saying that the interest is higher,
+and therefore, it might not be profitable or--
+STUDENT: Like, comparatively.
+PROFESSOR: Right.
+So interest rates are high, that's exactly right.
+But now, how would you measure whether it's profitable
+overall?
+How do we measure profits?
+Yes, Julie.
+STUDENT: So should you subtract like--
+if you have a wage.
+PROFESSOR: Yeah.
+And so what's tricky about that?
+
+STUDENT: They might not be able to get a government job
+or something with a comparable wage.
+PROFESSOR: Yeah.
+So if I run my banana shop, you asked me, what are my profits?
+I'm going to tell you, here is my revenues--
+how much have I sold?
+Here are my costs--
+how much did I pay for inputs?
+Maybe I paid some employees.
+Maybe I have some rent to pay for my little shop,
+or maybe I own it myself.
+But the crucial part, essentially,
+is labor costs and how do I account for that.
+I spent all day in my shop, and I'm
+saying I'm working eight hours a day or 10 hours a day
+or whatever.
+Now, the question is, how do we value that, right?
+And so that's different from, like,
+in rich countries, where if you look at any other company--
+because there, people are just paid their salary.
+Everybody is paid their salary-- maybe sometimes not the owner.
+But the vast share of people essentially
+is paid some salary, so we can just
+look at the wage bill and measure
+how much are people paid.
+So then the profits are essentially
+revenues minus costs, which include
+capital costs and labor costs and any other costs that
+are there.
+But here, labor costs, the vast share of labor costs
+are essentially unpaid in some ways.
+And so then that makes it much trickier.
+So how would you go about this?
+If I told you I'm working 10 hours--
+I don't have a job otherwise.
+I'm just working in my business.
+How would you go about trying to measure my labor costs?
+
+Yes, Moni.
+STUDENT: Get sort of a minimum cost for everyone.
+And if that person spends their own time, then--
+PROFESSOR: Yeah, exactly.
+You have to do something-- you have to find some measure.
+People have tried to do different assumption.
+One assumption is to say just use the minimum wage.
+And just say that's like, in some sense,
+a lower bound how much you should be paid
+is the minimum wage.
+Another version of that would be just the going-market wage,
+is to say, how much is a typical person with your qualification
+paid who's working in the labor market?
+All of these are imperfect because there's often
+selection involved.
+There's a reason why I'm working in my banana business
+as opposed to in the labor market, being paid.
+That could be because I'm more qualified or less qualified,
+or more productive, less productive, motivated,
+and so on.
+But it's a pretty good approximation.
+So once you do that, once you measure household labor priced
+at a minimum wage, most businesses essentially
+lose money.
+Now, I think Kyle was saying already
+is, like, well, on the other hand,
+they pay high interest rates, so the marginal returns must
+be high.
+What do I mean by this?
+I mean by this, people take loans.
+Many businesses take loans.
+Interest rates are very high, and these loans
+are often paid back.
+That must essentially mean that if I'm taking $100 loan
+and I'm paying a 20% interest rate,
+that must mean that the rate of return on that investment
+is at least 20%.
+Because otherwise, I would eventually not
+be able to pay back or would not take that loan anymore
+in the future.
+So essentially, rates of return are
+high when people invest in their business.
+They make actually quite a bit of money
+because that allows them to pay back their loans.
+Now, how are these things consistent?
+So on the one end, I'm saying the marginal return
+to capital is high.
+On the other hand, I'm saying that these businesses
+lose a lot of money.
+How do these things fit together?
+I'll you think about this for a second.
+
+Yes.
+STUDENT: Marginal return might be high, but total return low.
+So it doesn't really--
+the two things can coexist.
+PROFESSOR: Yeah.
+So the marginal return might be high,
+but the average return-- or essentially, there's
+lots of fixed costs involved.
+So, for example, if I work myself in this business,
+my labor cost's actually pretty high
+because I could work somewhere else
+and make some money at least.
+And now I invest a little bit.
+I make a very high return investing, right?
+Because the first investment, the marginal return
+is very high.
+But if I invested a lot more, perhaps returns
+would be going down.
+Or essentially, the small scale--
+this is, I think, what Zion was saying earlier--
+the scale is too small to make up for the labor or the fixed
+costs that I might have.
+OK?
+So the small scale doesn't make it profitable.
+Now then the next question, of course,
+is, well, why are we still stuck at this small scale?
+So why are people not investing more in growing their business?
+
+Yes.
+STUDENT: I know one thing talked about in the reading was
+a lot of these businesses-- we were saying earlier-- only
+have one employee now.
+But as you grow your business, you also
+have to start paying more employees.
+That's additional cost.
+And it's just hard to manage running a bigger business
+if you only run such a small business before.
+PROFESSOR: Right.
+So one issue is--
+the reason you might say why people have so many family
+businesses and so on is because supervising other people
+is hard.
+There's often not a lot of enforcement in courts.
+And there's not a lot of trust, in some ways,
+perhaps because of that.
+So then if you wanted to hire seven other people,
+it would be hard to monitor them and make sure that they're
+doing what they're doing.
+And so, therefore, people just say it's not
+worth doing that expanding.
+That's one broad argument.
+And that's why people often have family labor
+because they trust their family more,
+and that's sort of more reliable, potentially.
+Of course, you might also have your incompetent uncle
+in your small firm whom you'd rather not have,
+but you have to do that because of family pressures.
+That's one reason.
+Any other reasons?
+Yeah.
+STUDENT: Because there's sort of, I think,
+a threshold you reach, where if you've made more investment--
+for example, in fixed costs or whatever--
+the marginal return would be extremely high.
+But then it's risky.
+And then you have three of those on your hands,
+so which one you pick?
+So you don't really know.
+So you'd rather keep them, all three at the threshold,
+where you still make money with them
+but it doesn't get too expensive,
+and it's not too risky.
+PROFESSOR: Yeah.
+Essentially, that's our old friend, the poverty trap,
+if you remember.
+And this is, in some sense, some form
+of a poverty trap argument, which
+is to say there's essentially two technologies or two
+different production functions or things
+that you can invest in.
+One is-- this is sort of the curve p here that you see,
+where, essentially, returns are very high initially,
+and then they flatten off very quickly.
+And it gets very, very flat.
+So once you invest more and more,
+essentially, it's not worth doing.
+It gets very flat.
+And then there's a different technology,
+which is the one here that starts at q,
+that starts much further out.
+So think of this as, like, a much more complicated
+technology.
+You need big machines.
+You need lots of money and so on.
+If you could invest in that technology,
+you would need a lot of money.
+And it's only worth investing in this technology
+if you have a lot of money or using that technology
+if you have a lot of money.
+You buy a big machine.
+And if you invest a lot of capital,
+then you're going to make a lot of money
+and become potentially quite rich.
+If you use technology one, you're
+going to be stuck at point m.
+You're not going to go anywhere.
+Notice then you need a bunch of money
+to be able to use the second technology.
+You need a lot of investment in capital.
+And then you want to end up here at this point up there.
+OK?
+And so that's essentially to say that the reason that people
+are not investing is because they're
+sort of in this technology.
+Now, if they had a huge amount of money,
+they could switch technology, do something
+more complicated and so on.
+Often, perhaps, that also requires a lot more skill,
+and that's more complicated.
+And you have manage people, you have complicated
+production processes and so on.
+So if you could use this other technology,
+that'd be really helpful and profitable.
+But many people are not able to do that for reasons--
+A, they don't have the capital.
+And, B, perhaps it's also a complicated thing
+to do that requires a lot of skill
+and you need to be a very savvy investor or entrepreneur.
+And so there's actually some evidence for, at least,
+the limited scope for growth in this technology
+here, the technology 1.
+There's a very nice paper by [INAUDIBLE] et. al.
+that look at what people call cash drops for entrepreneurs,
+where essentially, they just drop money on entrepreneurs
+and say, here's $250 or here's $500.
+Do with it whatever you want to do.
+You can invest in your business.
+You can do whatever you want with it.
+And then they track people's profits afterwards.
+And what they find, they find very high returns.
+They find something like 60% return
+on average on the first $250 compared to a control group
+who doesn't get this money.
+But then if you look at-- there's
+another group who received $500.
+And among those who received $500,
+many people only invest 250, or about half of this,
+and then just don't invest the rest-- presumably
+because maybe there's high returns at the margin.
+Like here, there's high returns here,
+but then it flattens out very quickly.
+So then people don't bother to invest further
+in their business.
+And then perhaps $250 are not enough to go on this train here
+to technology number 2.
+Does this make sense to people?
+This is also explained in detail in the book if you remember.

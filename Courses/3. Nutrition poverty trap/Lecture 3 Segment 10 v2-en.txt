@@ -1,0 +1,243 @@
+PROFESSOR: What can we do now to reconcile this?
+Really what we would want is evidence of unconditional cash
+transfers.
+Ideally what we were looking for is all along, which is to say
+suppose I dropped some money from the sky
+and gave it to people, what would happen
+to people's caloric intake?
+OK.
+And this, as you already learned a little bit
+about from GiveDirectly in class on Monday,
+GiveDirectly is this NGO that essentially gives people
+unconditional cash transfers.
+What does that mean?
+Essentially, they give people money unconditionally
+and transfer them to people's phones.
+And what unconditional means essentially
+people can do with this money whatever they want.
+OK.
+And so now what we can do is we can look at these cash transfer
+RCTs.
+And we can look at now as people get more money
+through this RCT, do they actually
+spend more money on calories?
+OK.
+And so now here's the RCT.
+This is an RCT done in Kenya in collaboration
+with GiveDirectly.
+What they were doing is they were looking they recruited
+poor households in Kenya.
+How do you how do you know whether somebody is poor?
+
+How would you choose whether people are poor?
+Whether they should be in your sample?
+
+Yeah.
+STUDENT: The bottom 10% of income.
+PROFESSOR: Yeah.
+But how would you practically do it?
+
+Go around and ask people?
+Or how would you figure out whether somebody's poor?
+STUDENT: If they're receiving like welfare from government.
+PROFESSOR: You could look at, do they
+receive government transfers?
+Lucas.
+STUDENT: You do kind of a physical survey.
+So one, asking them how much they make.
+And also looking at what they have in their home,
+and doing based on that.
+PROFESSOR: Yeah.
+Exactly.
+You can look at people's assets.
+The trouble is like if you go around and asking like,
+how poor are you, and people know that you're
+going to give them $1,000, people will tell you
+they're very poor potentially.
+And so what GiveDirectly was trying to do
+is looking at sort of fixed characteristics
+of people's houses.
+In particular, they're looking at,
+for example, what kind of roof do you have on your house.
+And that's kind of hard to change in the very short run.
+And people with certain houses are
+deemed to be poor enough to qualify for this study
+and others were not.
+But that's kind of broadly you're
+looking for assets that are hard to change.
+So some people were then randomized
+to receive cash transfers.
+It's more complicated than that.
+But there's a pure control group that essentially just getting
+nothing.
+And there's a treatment group who are giving a treatment--
+meaning they get essentially a bunch of money.
+There was other random variation.
+And for example, if there was like a male and female person
+living in that household, some households
+were randomized in the treatment group
+to get where the male person received the transfer.
+In other households, the female person and others,
+they just had only one person.
+There's also a variation in whether the transfer was
+monthly versus lump sum.
+And there was also some variation in how large
+the transfer was.
+Some people were getting small transfers,
+and others were getting large transfers.
+Notice you might wonder about ethical issues here.
+Potentially, is that fair or is it OK to do this?
+Well, notice that GiveDirectly, at least at the time,
+didn't have enough money to give money to everybody.
+So then the question is like, whom
+should you give money potentially
+among the many people who might really benefit from it?
+So then randomizing seems like a fair thing
+to allocate these resources.
+At the time, there was still some randomization
+within villages.
+Like some people in the village were getting money,
+and others did not.
+They're not doing that anymore precisely
+because they're worried about people getting upset
+or people getting really sad.
+And like your neighbor got a lot of cash and you didn't.
+So now any of these studies that they're doing essentially
+is only across villages, which have mitigates these concerns
+at least to some degree.
+But anyway, what we're trying to look for now
+is well now some people are getting money
+and others do not.
+We're going to look for now is how much does
+people's consumption change.
+In particular interest in people's caloric intake.
+So what we're going to look at we're
+going to look at people's consumption in the treatment
+and control group.
+This is a typical regression table
+that's in some sense you don't need
+to know too many details of.
+But in some sense, very simply these tables typically
+have a control mean, which is how much does the control
+group spend on food or other types of items in this case.
+This is all per month in US dollars.
+So the control group for example spends about $104 per month
+on food.
+Then there's a treatment effect in column 2,
+which is the difference between treatment and control.
+OK.
+So this is going to say how much more does the treatment
+group spend on food compared to the control group.
+And then columns 3 to 5 we're going to ignore mostly.
+These are the additional effects of whether there's
+a female versus male recipient, whether there's
+a monthly versus lump sum transfer, and so on.
+Then there's a standard error of this difference, which
+essentially sort of tells you something about how
+precise this effect is.
+And then there's little stars next to the number, which
+should say, well, is this statistically significant?
+Is this to say if we did this experiment 100 times
+without any treatment, how often would it
+be the case that we would find treatment
+effects of this magnitude?
+Could this be just by chance?
+And if there's three stars here that essentially
+means that it's very, very unlikely that these differences
+are rising just by chance.
+Anyway.
+So what we see here is that the key thing
+I want you to focus on is transfers increased total food
+expenditures by $19.46.
+And this is about 18.6% relative to the control group.
+OK.
+So you give people a bunch of money.
+They increase their food expenditures.
+Now, overall, expenditures increase by 22.6%.
+This number here overall expenditures are here $35.66.
+Relative to $157.61.
+That's to say, overall expenditures
+increase by about 22.6%.
+And food expenditures by about 18.6%.
+What is our elasticity or what can we
+say now about this elasticity of food with respect
+to expenditures?
+
+Yeah.
+STUDENT: It's like a little under one.
+PROFESSOR: It's a little bit under one.
+It's something like 0.8.
+Notice that I'm using sort of expenditures and income
+interchangeably.
+What's missing here is like durable expenditures,
+which you can abstract from.
+But let's just say if you have something like--
+if you spend $35.66 how much of that goes towards food?
+And the answer is like about 19.46.
+And the question is, does this proportionally more or less
+than what you did before?
+The answer is less than disproportionately.
+It's about 0.8.
+OK so the overall.
+So what we're going to do here now is to say,
+well, we have this increase of 18.6%.
+Now one issue is that one thing you could do
+is just say take the income transfer-- people are giving
+something like $300 or $500.
+Just divide the increase in expenditures by the transfer.
+But that's not quite right because this
+is monthly expenditures, and people
+spend the transfer over time.
+So really what we want is like we
+want to divide the proportional increase in food expenditures
+by the proportional increase in nondurable expenditures.
+That is to say food expenditures increased by 18.6%.
+Overall expenditures increased by about 22.6%.
+The ratio of the two is about 0.8.
+OK.
+That's to say, again, we have an elasticity of below 1.
+Now does that make sense what we're doing here?
+We're seeing how much are people increasing their expenditures?
+By what percentage do overall expenditures go up?
+Do we see food expenditures that are disproportionately large
+compared to that?
+Now I'm talking to you about food expenditures.
+Is that the right thing to look at?
+What do we want to look at instead?
+
+Yeah, Olivia.
+STUDENT: Caloric intake.
+PROFESSOR: Caloric intake.
+Really, this is food expenditures.
+And why do we want to look at caloric intake instead?
+STUDENT: This is to where we can't--
+nourishment.
+Like malnourishment.
+And food expenditure, you could be spending more like we
+saw in the last example.
+PROFESSOR: Yeah.
+Yeah.
+And so if we're interested in caloric intake,
+do we expect this a lot larger or smaller?
+
+Yeah.
+STUDENT: I think it was smaller in [? the last one. ?]
+PROFESSOR: Smaller.
+Right.
+Because you essentially start eating more expensive food.
+Notice that we actually see a little bit of this.
+If you look at the effect on cereals,
+it's about a 10% increase.
+Like 0.23 divided by 22.5.
+When you look at the effect on fish and meat,
+you see essentially it's 5 divided by 12.9.
+That's much larger.
+That's to say we see already some
+of this substitution happening.
+So now what then [INAUDIBLE] et al. did,
+they looked at food prices and estimates of calories
+in the area.
+And try to look at can we back out,
+based on what people reported, can
+be back out what people's caloric intake is.
+And by doing that they find an elasticity of about 0.6.

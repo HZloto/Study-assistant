@@ -1,0 +1,2506 @@
+PROFESSOR: This is lecture 3 of 1473.
+Today, we're going to talk about the nutrition poverty drop
+and whether it exists.
+We're going to talk about, for a large part, of what we're
+going to call the capacity curve and the idea of a poverty trap.
+So we can understand what is a poverty trap.
+And what are the conditions for a poverty trap to emerge?
+And we're going to use this concept of the poverty
+trap the same way we use the concept of RCTs
+throughout the class.
+So we're going to apply, then, the idea of the poverty trap
+to nutrition today.
+But throughout the class, we're going
+to use the concept of a poverty trap
+to think about all sorts of other issues as well.
+Then we're going to, in the second half,
+then we're going to think about, well,
+is there, in fact, a nutrition poverty trap?
+Is there a poverty trap posed by nutrition or people
+not eating enough, or as much as they perhaps could?
+We're going to first look at do the poor spend everything
+on food?
+Or what do actually food expenditures
+look like for the poor?
+And we're going to look at two directions
+of a causal impact between nutrition,
+between caloric intake and income.
+We're going to first look at the impact
+of increased income on food expenditures
+and caloric intake.
+That is to say as people become richer, as we increase
+people's income, do people actually eat more
+or how much more?
+And second, we're going to look at the other direction.
+We're going to look at the impact of increased
+caloric intake on productivity and income.
+As people eat more, do they, in fact, become more productive
+and earn more money?
+So first, to set the stage, I want
+to go back and talk a little bit about malnutrition and famine.
+And sort of to say that while severe famine may be history,
+so we are not in much of history of the world
+has had very severe famines across the world, that
+might be a history in the sense that that's not
+a common phenomenon, unless there's conflict or other types
+of severe issues that arise.
+Malnutrition is very much not history and quite common
+across the world.
+If you look at the UN agency the FAO in Rome,
+they try to look at how many people are undernourished
+in the world in 2020.
+They would say between 720 and 811 million people
+were estimated to be malnourished.
+Let me ask now, how do we measure this?
+So how are they coming up with these numbers?
+
+How would you determine whether somebody is malnourished?
+Yeah?
+STUDENT: If they're getting under a certain amount
+of calories a day?
+PROFESSOR: Yeah, so you can try to figure out
+what is a requirement a caloric requirement that a person has.
+How many calories should you consume in a given day?
+And then we can try to measure, through food diaries
+or the like, we can try to measure
+how people are below or above what
+we think is that threshold.
+And that's exactly, in fact, what the FAO does.
+Angela?
+STUDENT: [INAUDIBLE]
+
+PROFESSOR: So there's two parts to this, exactly.
+We're going to focus on mostly today,
+we're going to focus mostly on caloric intake,
+do you eat enough calories.
+But you're exactly right.
+Calories are not just calories.
+Some food is very helpful in other ways, be that like iron
+or other types of avoiding anemia, et cetera.
+That could be a very useful in avoiding
+diseases, and so on, and so forth.
+And you might say you might have enough calories.
+But you have-- you're malnourished
+in terms of some characteristics of certain types of food
+that you don't eat.
+Today, we're going to focus mostly
+on caloric intake, overall caloric--
+how many calories are people eating.
+Next week, when we talk about health,
+Esther will talk in part also about the quality
+of food, what type of food are people eating,
+be that childhood nutrition but also for adults.
+And could it be that the quality of food
+or the types of food that people eat, beyond caloric intakes,
+are important.
+Today, we're going to just talk about do
+you have enough calories in the sense that are you hungry
+because you don't eat sufficiently many calories.
+I want to emphasize that measuring these requirements
+is tricky.
+It's really hard to figure out how many calories does somebody
+need to function well.
+So the whole approach of trying to measure
+exactly what that threshold is and how that threshold changes
+over time is quite tricky, in part
+because things change in terms of how much physical labor are
+people doing.
+Hygiene and other types of conditions changed as well.
+That maybe what used to be a caloric requirement
+might be different now because people are not
+losing that many calories by being
+sick, or diarrhea, et cetera.
+Be that as it may, there's symptoms of malnutrition.
+Anemia, this is like low iron, low BMI, small and thin
+children.
+What is BMI?
+Yeah?
+STUDENT: Body mass index.
+PROFESSOR: Body mass index.
+And what do we measure-- how would you measure my BMI?
+How would you find that out?
+STUDENT: You basically take a combination
+of your height, your weight, and then you
+compare that with other people in your same age range.
+PROFESSOR: Exactly, it's a function of essentially height
+per weight.
+And then there's a threshold again
+where you say if your BMI, I believe it's 18.5,
+if your BMI is below 18.5, for example,
+you would say have low BMI.
+And if your BMI is above 30, I believe,
+then it would be like people are categorized as high BMI
+or overweight in some ways.
+That's exactly right.
+But we're going to look at-- not going
+to look at just how much do people weigh because people,
+of course, some people are tall and other people are not.
+So we're going to look at that proportionally or in relation
+to people's height.
+That's exactly right.
+Now, recent increases in food prices,
+inflation in particular, have made things worse
+in terms of malnutrition.
+What you see here is the graph goes until 2017.
+And so if you look at this graph further,
+you would see some increase in malnutrition.
+So why is an increase in food prices particularly bad,
+perhaps, for the poor?
+There's two reasons for that, potentially.
+
+Compared to everybody else.
+Yeah?
+STUDENT: Spend a higher percentage of income
+on food, generally.
+PROFESSOR: Exactly, so A, the poor don't have that much money
+to start with.
+But they also spend a higher percentage
+generally on food as part of their budget.
+And so now, they're disproportionately
+affected if food prices go up compared
+to other prices of other goods that they consume less,
+that the rich consume more of.
+And second, what's the second issue that
+might arise because of this?
+And this is very much the story of [INAUDIBLE]..
+What could happen once people eat less?
+Yeah, Lucas.
+STUDENT: Well, they become less productive in work.
+They're more susceptible to health issues.
+PROFESSOR: Exactly, there could be a vicious cycle.
+There could be an impact on people's nutrition
+or their capacity to work.
+And as a result, there might be sustained effects.
+You might be in some vicious cycle of low caloric intake
+and low nutrition, low income and productivity.
+And therefore, that goes on and on.
+People are trapped in poverty potentially.
+And this is a very important idea
+in development economics, which we're going
+to now consider more closely.
+PROFESSOR: What can we do now to reconcile this?
+Really what we would want is evidence of unconditional cash
+transfers.
+Ideally what we were looking for is all along, which is to say
+suppose I dropped some money from the sky
+and gave it to people, what would happen
+to people's caloric intake?
+OK.
+And this, as you already learned a little bit
+about from GiveDirectly in class on Monday,
+GiveDirectly is this NGO that essentially gives people
+unconditional cash transfers.
+What does that mean?
+Essentially, they give people money unconditionally
+and transfer them to people's phones.
+And what unconditional means essentially
+people can do with this money whatever they want.
+OK.
+And so now what we can do is we can look at these cash transfer
+RCTs.
+And we can look at now as people get more money
+through this RCT, do they actually
+spend more money on calories?
+OK.
+And so now here's the RCT.
+This is an RCT done in Kenya in collaboration
+with GiveDirectly.
+What they were doing is they were looking they recruited
+poor households in Kenya.
+How do you how do you know whether somebody is poor?
+
+How would you choose whether people are poor?
+Whether they should be in your sample?
+
+Yeah.
+STUDENT: The bottom 10% of income.
+PROFESSOR: Yeah.
+But how would you practically do it?
+
+Go around and ask people?
+Or how would you figure out whether somebody's poor?
+STUDENT: If they're receiving like welfare from government.
+PROFESSOR: You could look at, do they
+receive government transfers?
+Lucas.
+STUDENT: You do kind of a physical survey.
+So one, asking them how much they make.
+And also looking at what they have in their home,
+and doing based on that.
+PROFESSOR: Yeah.
+Exactly.
+You can look at people's assets.
+The trouble is like if you go around and asking like,
+how poor are you, and people know that you're
+going to give them $1,000, people will tell you
+they're very poor potentially.
+And so what GiveDirectly was trying to do
+is looking at sort of fixed characteristics
+of people's houses.
+In particular, they're looking at,
+for example, what kind of roof do you have on your house.
+And that's kind of hard to change in the very short run.
+And people with certain houses are
+deemed to be poor enough to qualify for this study
+and others were not.
+But that's kind of broadly you're
+looking for assets that are hard to change.
+So some people were then randomized
+to receive cash transfers.
+It's more complicated than that.
+But there's a pure control group that essentially just getting
+nothing.
+And there's a treatment group who are giving a treatment--
+meaning they get essentially a bunch of money.
+There was other random variation.
+And for example, if there was like a male and female person
+living in that household, some households
+were randomized in the treatment group
+to get where the male person received the transfer.
+In other households, the female person and others,
+they just had only one person.
+There's also a variation in whether the transfer was
+monthly versus lump sum.
+And there was also some variation in how large
+the transfer was.
+Some people were getting small transfers,
+and others were getting large transfers.
+Notice you might wonder about ethical issues here.
+Potentially, is that fair or is it OK to do this?
+Well, notice that GiveDirectly, at least at the time,
+didn't have enough money to give money to everybody.
+So then the question is like, whom
+should you give money potentially
+among the many people who might really benefit from it?
+So then randomizing seems like a fair thing
+to allocate these resources.
+At the time, there was still some randomization
+within villages.
+Like some people in the village were getting money,
+and others did not.
+They're not doing that anymore precisely
+because they're worried about people getting upset
+or people getting really sad.
+And like your neighbor got a lot of cash and you didn't.
+So now any of these studies that they're doing essentially
+is only across villages, which have mitigates these concerns
+at least to some degree.
+But anyway, what we're trying to look for now
+is well now some people are getting money
+and others do not.
+We're going to look for now is how much does
+people's consumption change.
+In particular interest in people's caloric intake.
+So what we're going to look at we're
+going to look at people's consumption in the treatment
+and control group.
+This is a typical regression table
+that's in some sense you don't need
+to know too many details of.
+But in some sense, very simply these tables typically
+have a control mean, which is how much does the control
+group spend on food or other types of items in this case.
+This is all per month in US dollars.
+So the control group for example spends about $104 per month
+on food.
+Then there's a treatment effect in column 2,
+which is the difference between treatment and control.
+OK.
+So this is going to say how much more does the treatment
+group spend on food compared to the control group.
+And then columns 3 to 5 we're going to ignore mostly.
+These are the additional effects of whether there's
+a female versus male recipient, whether there's
+a monthly versus lump sum transfer, and so on.
+Then there's a standard error of this difference, which
+essentially sort of tells you something about how
+precise this effect is.
+And then there's little stars next to the number, which
+should say, well, is this statistically significant?
+Is this to say if we did this experiment 100 times
+without any treatment, how often would it
+be the case that we would find treatment
+effects of this magnitude?
+Could this be just by chance?
+And if there's three stars here that essentially
+means that it's very, very unlikely that these differences
+are rising just by chance.
+Anyway.
+So what we see here is that the key thing
+I want you to focus on is transfers increased total food
+expenditures by $19.46.
+And this is about 18.6% relative to the control group.
+OK.
+So you give people a bunch of money.
+They increase their food expenditures.
+Now, overall, expenditures increase by 22.6%.
+This number here overall expenditures are here $35.66.
+Relative to $157.61.
+That's to say, overall expenditures
+increase by about 22.6%.
+And food expenditures by about 18.6%.
+What is our elasticity or what can we
+say now about this elasticity of food with respect
+to expenditures?
+
+Yeah.
+STUDENT: It's like a little under one.
+PROFESSOR: It's a little bit under one.
+It's something like 0.8.
+Notice that I'm using sort of expenditures and income
+interchangeably.
+What's missing here is like durable expenditures,
+which you can abstract from.
+But let's just say if you have something like--
+if you spend $35.66 how much of that goes towards food?
+And the answer is like about 19.46.
+And the question is, does this proportionally more or less
+than what you did before?
+The answer is less than disproportionately.
+It's about 0.8.
+OK so the overall.
+So what we're going to do here now is to say,
+well, we have this increase of 18.6%.
+Now one issue is that one thing you could do
+is just say take the income transfer-- people are giving
+something like $300 or $500.
+Just divide the increase in expenditures by the transfer.
+But that's not quite right because this
+is monthly expenditures, and people
+spend the transfer over time.
+So really what we want is like we
+want to divide the proportional increase in food expenditures
+by the proportional increase in nondurable expenditures.
+That is to say food expenditures increased by 18.6%.
+Overall expenditures increased by about 22.6%.
+The ratio of the two is about 0.8.
+OK.
+That's to say, again, we have an elasticity of below 1.
+Now does that make sense what we're doing here?
+We're seeing how much are people increasing their expenditures?
+By what percentage do overall expenditures go up?
+Do we see food expenditures that are disproportionately large
+compared to that?
+Now I'm talking to you about food expenditures.
+Is that the right thing to look at?
+What do we want to look at instead?
+
+Yeah, Olivia.
+STUDENT: Caloric intake.
+PROFESSOR: Caloric intake.
+Really, this is food expenditures.
+And why do we want to look at caloric intake instead?
+STUDENT: This is to where we can't--
+nourishment.
+Like malnourishment.
+And food expenditure, you could be spending more like we
+saw in the last example.
+PROFESSOR: Yeah.
+Yeah.
+And so if we're interested in caloric intake,
+do we expect this a lot larger or smaller?
+
+Yeah.
+STUDENT: I think it was smaller in [? the last one. ?]
+PROFESSOR: Smaller.
+Right.
+Because you essentially start eating more expensive food.
+Notice that we actually see a little bit of this.
+If you look at the effect on cereals,
+it's about a 10% increase.
+Like 0.23 divided by 22.5.
+When you look at the effect on fish and meat,
+you see essentially it's 5 divided by 12.9.
+That's much larger.
+That's to say we see already some
+of this substitution happening.
+So now what then [INAUDIBLE] et al. did,
+they looked at food prices and estimates of calories
+in the area.
+And try to look at can we back out,
+based on what people reported, can
+be back out what people's caloric intake is.
+And by doing that they find an elasticity of about 0.6.
+PROFESSOR: So now, let me just summarize then what we saw.
+So most studies that we have seen
+have shown that there's a pretty robust increase
+in food expenditures to total expenditures.
+So if you increase people's overall expenditures,
+food expenditures go up.
+Notice that the exception was the Jensen and Miller
+case that we saw, which might be a unique situation that's
+not commonly happen very much.
+But be that as it may, really any studies that have shown you
+have an elasticity, that is clearly below 1.
+That is to say, if you increase expenditures by 1%,
+you will see food expenditures go up by less than 1%.
+By something like 0.6% at best.
+OK?
+Now, as people become richer, they
+don't increase caloric consumption proportionally,
+in part because they substitute to other types of food,
+perhaps because it tastes very good.
+Now, this will make, essentially, the capacity curve
+quite shallow because, essentially, it's
+not the case that when people earn more money, they become--
+they eat a lot more, and therefore they
+become more productive.
+Now, of course, the missing-- what's missing here?
+What do we still need to do?
+So now I've shown you, if income goes up,
+nutrition goes up but by not very much.
+What's the other piece that we need now?
+
+Yeah?
+STUDENT: So the impact of increased calorie intake
+on productivity.
+PROFESSOR: Exactly.
+And now we look for this.
+Well, it turns out we actually don't
+have a lot of great evidence for this.
+Now one question you might first ask
+is, well, why are people not eating more as they get richer?
+Why they don't seize every available opportunity
+to eat more if they can do so?
+Well, maybe it's just the case that, in fact, it's
+not particularly productive, as in maybe the productivity
+gains of eating more are actually not that large.
+And then if that's the case, well,
+why not just eat yummier food or food
+that you like better just because it's not
+going to make a big difference for your productivity anyway?
+And that's what we're going to look for now,
+is we look at estimates of impact
+of calories on productivity.
+There's actually very few studies that exist.
+There's one study by Strauss, 1986,
+that studies the impact of calories on productivity
+in Sierra Leone.
+This is not an experiment, but Strauss uses the fact
+that people eat less when the price of food goes up.
+So they look at like, for exogenous reasons,
+the price of food goes up, and now people eat less.
+And now, can we see people being less or more productive?
+Here's what they find.
+He finds, essentially, that productivity goes up
+as a function of nutrition.
+That's good.
+But again, we see some elasticity
+of about something like 0.4.
+We see essentially this function is concave.
+It's not S-shaped at all.
+It's not convex in any case.
+The elasticity is highest among the poorest,
+but it's about 0.4 among the poorest.
+That's nowhere near 1.
+It's 0.4.
+So people do become more productive as they eat more,
+but this productivity increase is not super large.
+Now, there's some others.
+There's very few other studies.
+But broadly, other studies find very similar results.
+What do they find?
+So here's-- Strauss finds an elasticity of 0.4.
+I should say, these are, I think,
+farm workers or people doing very physical labor.
+So we think, if you look at nutrition increasing
+people's productivity, this is really
+where you should look at.
+If you think you're not strong enough to do certain work,
+if you're a farm worker and so on,
+that's maybe the maximum effect on productivity
+that you might be able to find for at least caloric intake.
+There's some experiment by Wolgemuth with Kenyan road
+workers where some people were given--
+some were given some food and others were given more food.
+And you find an elasticity of something like 0.5.
+There's, in fact, even a recent RCT
+that finds no effect of increasing
+caloric intake on productivity in flower plants in Ethiopia.
+Why exactly it is we don't quite know.
+But I think the main takeaway for this
+is the elasticity is clearly below 1.
+Now we have, essentially, estimates of two elasticities.
+We have an elasticity of increasing income
+on caloric intake.
+That elasticity is below 1.
+We also have an elasticity of increasing caloric intake
+on income or productivity.
+That's also below 1.
+Now once you put these things together,
+once we multiply these two elasticities,
+we get something like 0.54 times 0.6, which is about 0.3.
+What I was telling you, what we really need
+is we need to intersect the 45 degree lines from below.
+We need a slope of above 1.
+But instead, we have a slope of max 0.3.
+Now, there's a bit of a question,
+for whom does that exactly apply?
+But even if you look at different subsamples and types
+of people, essentially this elasticity is clearly below 1.
+That is to say, we don't think there's
+a nutrition poverty trap going on,
+at least in that formulation.
+And notice that I haven't even talked about the fact
+that increased productivity might not even
+lead to larger wages.
+We looked at productivity here, but it
+could be that even if people become more productive,
+they're not even paid that much more because the landlord
+or whoever, their boss, just pays them the same
+or not much more.
+So overall, what's the summary?
+It's, well, overall, this evidence
+suggests that a nutrition poverty trap is unlikely.
+And so any policies that you come across
+that sort of says, well, the big problem
+is that people are not eating enough calories,
+is likely misguided.
+So if you just say, well, feed people
+because if we feed people they will become more productive
+and become richer, that's not right.
+Now you might say, people are not eating enough,
+and therefore we want to help them in the short run
+because that's bad if people are starving and so on.
+That's, of course, very well warranted.
+You might want to do that.
+But it's not the case that you can expect the long run
+effect of these types of intervention
+through giving people more food or more money to eat.
+Now, of course, this is not the end of the story.
+So far we talked about very much short run effect of nutrition,
+of caloric intake.
+And as I said, there might be different things going on.
+In particular, there could be longer run effects.
+This is, I think, what Zion was saying earlier about
+there could be improved micronutrient, iron,
+et cetera, intake and so on, that if adults
+eat better type of food, maybe in a year or two from now
+they become more productive, potentially.
+Second, I think this is most importantly--
+and there's in fact some evidence that suggests that
+there could be very high returns--
+is child nutrition and more broadly child health.
+That could be a very important mechanism through which
+a poverty trap could emerge.
+And the idea here is you provide a child in the short run
+or even like one-time investment, be
+that, for example, in utero, when the child is very young,
+the child is fed well, or maybe some programs
+such as deworming, which improve how much food people can
+essentially keep in their body or what
+happens to the nutrients that they're eating.
+Doing that short run or one-time intervention
+is potentially increasing people's capacity
+over their entire lifetime.
+That is to say, you do a deworming program or a food
+program for mothers and children as they're
+very young, that might make them healthier,
+helps them stay in school, makes them stronger,
+helps them learn more in school, and therefore, they
+will be more productive for the rest of their lives.
+And in fact, that's what [INAUDIBLE]
+going to talk about next week.
+There is good reason to believe that maybe
+these types of investments have much, much higher returns.
+And so, therefore, there could be some nutrition or health
+poverty trap, in fact, going on, just not
+in the way that we had hypothesized
+in the first case--
+in the first place about nutrition and caloric intake
+overall.
+
+Given the existing evidence on the income elasticity of calories, if there were a calorie-based poverty trap, what would we need to find for the effect of increased calorie intake on productivity? If you eat more calories…
+
+
+
+… you’ll be much less productive.
+
+… you’ll be somewhat less productive.
+
+… you’ll be somewhat more productive.
+
+… you’ll be much more productive.
+
+
+
+
+You have used 1 of 2 attemptsSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+11.2
+1/1 point (graded)
+What does the evidence suggest about the effect among the poor of increased calorie intake on productivity? If you eat more calories...
+
+
+
+… you’ll be much less productive.
+
+… you’ll be somewhat less productive.
+
+… you’ll be somewhat more productive.
+
+… you’ll be much more productive.
+
+True or false? A positive feedback loop (a.k.a., virtuous cycle) — e.g., more income today means even more income tomorrow which means even more income the next day, etc. — is sufficient to create a poverty trap.
+
+
+
+True
+
+False
+correct
+Show answer
+Submit
+You have used 1 of 1 attemptSome problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+5.2
+1/1 point (graded)
+True or false? A negative feedback loop (a.k.a., vicious cycle) — e.g., less income today means even less income tomorrow which means even less income the next day, etc. — is sufficient to create a poverty trap.
+
+
+
+True
+
+False
+correct
+PROFESSOR: Now, you have read chapters 1 and 2 of Poor
+Economics, and you have come across, hopefully, the story of
+[INAUDIBLE].
+What is the story of this person,
+and what is the idea of the nutrition-based poverty
+trap that he talks about?
+
+Lucas?
+STUDENT: I think kind of the main idea
+is like he doesn't have enough money for food
+and then because he doesn't get proper nourishment,
+he gets weaker and he can't work,
+and then, again, he can't get food.
+He's even weaker.
+He can work even less, and just like--
+PROFESSOR: Right.
+Exactly.
+That's very similar to the story of Abu
+that we had in the first lecture.
+Now, talking about nutrition specifically,
+you're exactly right.
+He doesn't have work.
+Why does he not have work, or what's his explanation?
+STUDENT: I'm not sure what it was initially,
+but he becomes too weak to do most manual labor.
+PROFESSOR: Yeah.
+Anybody remember why he is not working?
+Yeah?
+STUDENT: Was he too old?
+PROFESSOR: I don't think so, but possibly.
+STUDENT: He said he was depressed.
+PROFESSOR: He was also depressed,
+and what was going on with wages?
+There was some theory about wages
+or some ideas about wages.
+What did he say about wages?
+Evan?
+STUDENT: They said that all the landowners fired
+a lot of the workers due to price inflation,
+and so he couldn't get a construction
+job because he was too old.
+PROFESSOR: I see.
+STUDENT: And he kind of kept losing money
+and didn't want to pay [INAUDIBLE]
+PROFESSOR: Right.
+And in part, I think the wages were also-- some of the things
+that he could do, the wages were too low
+for him to have sufficiently much food.
+Because he didn't have a job.
+He was too old to qualify for certain jobs,
+but then, some jobs that he could potentially do
+were just not enough for him to eat sufficiently,
+and therefore, he was weak, and therefore, he
+couldn't work well, and so on.
+So the idea is very much like with your wage,
+with the work that you do, you earn money,
+and with that money, you can buy food.
+Food gives you strength, and that
+allows you to get wages, OK?
+That's very much like a cycle that he describes.
+He doesn't have well-paid work.
+Therefore, he doesn't make enough money.
+Because he doesn't have money to buy food,
+he doesn't eat enough, and because he doesn't eat enough,
+he's weak and he cannot find work.
+So he's sort of trapped in this cycle
+of low caloric intake, of low food intake,
+and low productivity.
+And the idea is that, well, if you fix one of the two things--
+if you gave him some money or if you had some land, for example,
+things would be different.
+How might things be different if you had land?
+Suppose you had like a piece of land
+that he could use for various things.
+How would that change his life?
+Olivia?
+STUDENT: So like we had seen in the other story
+I think two weeks ago-- you know,
+like the guy who planted the jackfruit tree.
+If he could do something like that,
+that would give him additional income.
+If he was already able to work on top of that,
+it would help [INAUDIBLE]
+PROFESSOR: Exactly.
+So land could help him, or if you were rich in other ways,
+if he had inherited income or if he just
+had some money available.
+Otherwise, he could rent the land
+or he could grow some things on this land.
+Potentially, of course, maybe that would take a while,
+but maybe he could just rent out the land
+and get some income from that.
+Then he would have enough income to buy food,
+so he would eat more, and then he would be more productive,
+and then maybe he would find some other jobs as well.
+So you would be able to do work and afford doing the work
+because he would have more caloric intake
+that he wouldn't be able to do if he didn't have land,
+for instance.
+So there's a relationship between income today--
+how much the person earns today--
+or income tomorrow or maybe next week, very much in the short
+run.
+Similarly, this could be also related
+to the wage level or the ability of the poorest people to work.
+This is what we just talked about.
+If you don't have land, for example,
+if you're just very poor, you just
+don't earn enough for a given wage,
+if wages are very low, to eat sufficiently many calories,
+and therefore, the people might be less productive,
+and then they will not be hired because they are not
+productive to start with, in contrast to somebody who
+is richer who perhaps has land or other resources
+available to them.
+Now, what we're going to do is we're
+going to try to analyze this more rigorously in some ways
+and trying to take this argument very seriously
+and trying to say, well, what are, in fact, the conditions
+that we can write down that lead to such a poverty trap?
+And the idea that we're going to use or the concept
+that we're going to use is what's
+called the capacity curve that I have a version of which I
+have drawn out here.
+What is the capacity curve?
+What does it show?
+Yeah?
+STUDENT: I guess it shows the relationship between income
+and your ability to work--
+I guess the steep slope kind of showing how a certain income is
+most optimal.
+PROFESSOR: Yeah.
+Let's start with what it shows.
+Exactly right.
+You said it's a relationship between income on the x-axis.
+This could be past or current income.
+Let's say it's current income.
+And work capacity on the y-axis, which is like how much can you
+work, which would be like productivity
+or, how much can you produce if I hired you as a worker?
+So what would be your output be if you
+worked on my farm or anywhere else as a worker, OK?
+And so the idea is that if you have more income,
+that'll allow you to increase your productivity,
+and the mechanism is, of course, increased nutrition, OK?
+We talked about this already.
+And so now, what explains the shape of this curve?
+Why does it look the way it does?
+
+That's my hypothesis, but Rodrigo, yes?
+STUDENT: Yeah.
+So I guess it's kind of showing the poverty
+trap because if you make low income, you can't work,
+so therefore, you can't make as much income,
+so you're sort of trapped on the left side.
+PROFESSOR: Yeah.
+We're going to talk about the poverty trap in a second,
+but let's talk about the shape first.
+Why is it flat to start with, and why does it
+get steeper later?
+What is the idea of that?
+STUDENT: I guess as it gets-- as you get more income,
+you're able to afford more food, so you can get more nourished
+and therefore be more productive.
+PROFESSOR: That's exactly right.
+As you get more income, you get more food
+and therefore become more productive.
+That explains why the curve is upward sloping.
+Now, what explains why it's first flat and then gets
+steeper?
+Julie?
+STUDENT: So I think the first part is probably flat
+because even at your poorest, you would probably
+take whatever amount of your income
+you needed to not be truly starving.
+So I think that's why it doesn't go
+even lower at the bottom left.
+And then at the top right where it's flat again,
+I think is because once you have enough money
+to eat however you like, there would be no reason to eat more.
+PROFESSOR: Right.
+So at the left, you're saying it's somewhat flat
+because if you're very poor, you're
+going to just spend almost all of your money on food,
+and if you get a little bit richer,
+maybe reduce the money that you spend on food,
+so you're not going to actually get much more productive.
+And you're saying on the right as you get really rich,
+at some point there's like only so much you can eat
+and perhaps then it also flattens out.
+Angela?
+STUDENT: So there seem to be two points of inflection
+or three parts in which it is divided.
+So the first part, whether you earn very little or a bit more
+doesn't really change because either way,
+you're not going to get many calories in.
+So basically, your capacity will decrease
+by one by a very increasing rate every single additional units
+you have.
+[INAUDIBLE] increasing returns because there's
+[INAUDIBLE] where really that is where the difference is made,
+so that's where the [INAUDIBLE] the person who
+eats sufficiently to produce.
+And then there seems to be a part where it kind of flattens
+because your productivity is not going to be incredibly much
+impacted whether you eat 2,000 calories or 2,100, 200
+[INAUDIBLE] The difference is way more marginal than it would
+be for that [INAUDIBLE].
+PROFESSOR: Right.
+So let me summarize this.
+So essentially, there's a biological explanation
+as well, in the sense that you say,
+once you have very little food and you eat a little bit more,
+it's not going to help you very much
+to be more productive because your body is very weak.
+You just need the calories to survive.
+If you have more money and buy more food,
+it would just not increase your work capacity very much,
+even if you increase your caloric intake by some.
+There's a question about how much
+are people actually increasing their caloric intake.
+[INAUDIBLE] needs to say the body just needs
+these calories to survive.
+You're not going to be able to work productively.
+But at some point, you reach this level
+where additional calories make you stronger.
+You're better to work hard and so on.
+That's when the curve gets very steep.
+But at some point, that again flattens off
+because at some point, there's only so much you can eat.
+Think of this as like having one meal per day,
+two meals per day, three meals per day.
+And at some point, once you have three meals per day,
+it's not going to get any more and going
+to be more productive by having a fourth or fifth meal.
+But going from meal one to meal two
+or to meal three of the day, you might
+increase your productivity by quite a bit.
+So this is very much this idea.
+The first few calories are used by your body just to survive.
+They do not make you stronger.
+But when you start eating enough to survive,
+the next calories give you strength.
+And so the idea then is depending
+on how rich you are-- so [INAUDIBLE],, for that matter,
+who's very poor, may not have enough to eat
+to be very productive.
+But if he could eat more-- if he were richer--
+he would eat more, and he would be more productive.
+That is essentially his story.
+Does that make sense?
+
+Now, why might the curve have just depicted shape?
+We already talked about this.
+Work capacity is severely impeded
+at low levels of income.
+It does just not matter whether you're like really, really poor
+or just somewhat poor.
+Maybe it just doesn't change very much in your productivity.
+So additional income makes a little difference
+at low income levels.
+But then there's a stark increase
+in the work capacity at immediate income level,
+and then at some point, there's only
+small, small additional effects of additional incomes
+at higher level.
+That's what we just talked about, OK?
+PROFESSOR: This is about nutrition now.
+But notice on the left-hand side, we have-- on the y-axis,
+we have work capacity.
+On the x-axis, we have past or current income.
+So I was telling a story about nutrition,
+but you could also come up with other stories potentially.
+What other channels could there be other than nutrition?
+We're going to focus on nutrition today.
+I just want to point out that this capacity
+curve or this idea very much applies
+to all sorts of other mechanisms or topics as well.
+So what other channels could create a similar relationship?
+Yeah.
+STUDENT: Shelter.
+PROFESSOR: Shelter.
+And how?
+STUDENT: I guess like a similar thing.
+Like in the same way food could contribute to their health,
+having a good shelter, like a place to sleep,
+could contribute to their health and productivity.
+And there's probably a positive correlation
+between how good of a shelter they can have
+and their amount of income.
+PROFESSOR: Yeah, so you're talking about shelter
+and the idea being that shelter is good for your health.
+It helps for your sleep.
+It helps for maybe for anxiety or other types of diseases
+that you might get, or like physical threats or other types
+of issues that you might expose to if you
+don't have enough shelter.
+The poor might not have shelter.
+They might be homeless.
+And therefore, as you become richer,
+you might become more productive.
+There's a bit, then, a question of why
+there might be an S-shaped curve or a linear curve.
+But you're exactly right, shelter could be one mechanism,
+more broadly, I guess, exposure to environmental conditions,
+such as sleep, but also pollution, et cetera.
+What else.
+Yeah.
+STUDENT: Medicine, like medical care.
+PROFESSOR: Yeah, so broadly speaking, health.
+So I talked about nutrition, which is, of course, related
+to health.
+But you could also say health care more broadly.
+It could be any types of medicine
+that you have available that the poor just don't have available.
+They're sick often.
+And this is exactly what Esther, in fact, is
+going to talk about next week.
+And then as you become richer, you
+might get then sufficiently rich that you
+can afford health care and good health care,
+and you become a lot more productive.
+And as you become very rich, maybe then the additional money
+doesn't matter so much anymore for your productivity.
+That would be an example of health
+creating this relationship.
+Uh-huh.
+STUDENT: It could be a relationship
+with your access to transportation
+to and from work.
+PROFESSOR: Yeah, access to transportation, infrastructure
+more broadly.
+And how would that work?
+STUDENT: Say you're poor, you don't really
+have the money to get the access to transportation.
+But as you have an increase in income
+to the point where eventually you
+can afford that transportation, and then your work
+capacity increases, which [INAUDIBLE] there's
+no really gain from having more access to transportation.
+PROFESSOR: Yeah, for example, you
+might say you live outside of the city,
+it's very expensive to live in the city.
+You then need to get access to reliable transportation
+to get a regular job.
+Now if you don't have a car or if you don't have access
+to good public transportation, if you're poor, then
+it's very impossible for you to get certain jobs.
+But once you have more money or you get somewhat richer,
+you might be able to buy a car, you
+might be able to afford other transportation.
+And then that allows you to become more productive,
+get better jobs, and do certain jobs that wouldn't
+be available to you otherwise.
+Yeah, transportation, mm-hmm.
+Christine.
+STUDENT: Maybe education.
+PROFESSOR: Education-- and how would that work?
+STUDENT: So like the first few years education,
+like learning how to read, write, or do basic math
+and stuff like that, versus higher level schools, where
+you would not see an increase in future.
+PROFESSOR: Yeah, so if you're--
+at the extreme, you might say, if you're very poor,
+you don't get a lot of education.
+And therefore, you don't learn a lot of basics.
+As you learn more, maybe you learn how to read and write,
+but you'll not be able to do like a high paid tech
+job or the like.
+You really have to go to university
+or to a secondary school at least.
+And so notice that this is an intergenerational issue here.
+If your parents are poor, the kids
+will not receive good education.
+And then you might be able--
+might be stuck in a trap in, an intergenerational trap,
+potentially, where, essentially, your ability to earn income
+depends on your parents' income, potentially.
+And the curve might very much look like this as well.
+I'll take one more.
+Javier.
+STUDENT: I think what I was going to say was covered,
+but maybe just like what calories are to health,
+like the macro concept for like transportation and things
+like that, are just like-- it's just like technology access.
+PROFESSOR: Yeah, technology, access to technology,
+maybe also access to credit or other types of opportunity,
+access to the internet and so on,
+and all sorts of types of information.
+So there are many possible channels-- health, education
+across generations, access to credit, savings
+and investments, access to labor markets,
+which I think was partially what you're
+saying about transportation, but also
+things like stress, depression, sleep deprivation,
+which I think you're talking about,
+in part, at least, when it comes to shelter.
+We will study each of these topics one
+by one throughout this course, using this capacity [INAUDIBLE]
+the idea of potential poverty traps.
+Yeah.
+STUDENT: Is it fair to say that maybe as technology improves,
+the curve becomes more linear?
+Or is that like, you don't have enough data to say about that?
+PROFESSOR: I think we don't know.
+We can actually talk about now of the shape of this curve.
+Notice that the shape of this curve is very much
+like a hypothesis.
+What we're going to try and test is, is there
+a nutrition poverty trap?
+And the idea of the nutrition poverty trap,
+which we're going to talk about now, is a hypothesis.
+And the question is, does it exist?
+For each of these types of topics
+the question is, do such traps exist,
+which is very much an empirical question,
+so we don't quite necessarily know how these curves evolve.
+But I think it's a really important question to know.
+
+PROFESSOR: Now we're going to look at the dynamics of income
+over time.
+Suppose that this curve is the way it is.
+I drew it in a slightly different way.
+Notice that it's fairly similar to this.
+It doesn't really matter how it looks like on the left.
+What's important is that we have some form of an S shape
+like we have here.
+So notice that there's also an S shape here.
+Notice that I changed the y-axis as well.
+Now here on the y-axis, we have future income.
+On the previous axis, we had work capacity.
+What are we assuming here?
+What's different or what's the difference here?
+
+Yeah.
+Elliot?
+STUDENT: Work capacity directly translates into future income,
+so it'll reflect on the past [? or present. ?]
+PROFESSOR: Exactly.
+Work capacity I described previously
+as your output, your productivity--
+how much would you produce in a given firm,
+on a factory, on a construction site, on the farm, and so on?
+This is like your marginal product.
+How much are you producing if you work for an hour
+or for a day?
+Notice that that's not necessarily what your wage is.
+You might be paid a very flat wage, regardless
+of how much you produce.
+In many jobs, you're essentially paid
+a flat wage that doesn't necessarily
+depend on your productivity.
+What we're assuming here is that your income
+is proportional in some ways to your work capacity, OK?
+Now, we also drew like a 45-degree line here.
+So on the x-axis, we have, again, past or current income.
+On the y-axis, we have future income.
+Now, I also drew like a 45-degree line.
+What is the role of the 45-degree line?
+What do we need the 45-degree line for?
+Yeah, [? Lucas? ?]
+STUDENT: Because essentially your current income,
+when you go up a year, your future income now
+becomes your current income, so it converges to the--
+PROFESSOR: Right.
+Suppose these were like days or weeks, and so on, at a time.
+If I wanted to know how things evolve over time,
+I would go from current income.
+I go to the curve and say, what does my future income
+look like, which is the capacity curve.
+And then I go to the 45-degree line,
+when future income, in a week from now,
+future income is like current income,
+and I can do the same thing over and over again.
+I'm going to show you that in a second.
+But what are the points where the capacity curve intersects
+with the 45-degree line?
+What are those?
+
+Yeah?
+STUDENT: Points where your income stagnates-- where
+it doesn't change over time.
+PROFESSOR: Yeah.
+We call them stagnates or like it doesn't change over time.
+We call these steady states.
+Potentially, if you are exactly at this point-- for example,
+the point that's drawn here on the figure--
+if you're exactly on this point, you
+will just stay at this point and nothing
+will happen unless there's some shock or something that
+pushes you one way or the other, right?
+Because your current income exactly is your future income.
+You will not move at all.
+We call these steady states.
+Nothing is moving once you're there.
+But now, let's suppose you were at start at y 0 prime,
+the way I've drawn it on the very left.
+How does your income evolve?
+How do we think about that?
+
+Suppose you're here.
+Now, how do we-- where are we going from here?
+What is the evolution of your income over time?
+Yeah.
+[INAUDIBLE]
+STUDENT: I think so you can draw zigzag lines until you--
+and then you end up at that point, the first steady state,
+and then unless something perturbs you.
+PROFESSOR: Yeah, but let me--
+just walk me through.
+If I'm at y 0 prime, where do I go-- why
+do I go to the capacity curve?
+How do I how do I end up there?
+STUDENT: Because that's going to be your future income.
+PROFESSOR: Right.
+So if I'm at current income y 0 prime, that's there.
+I go up to see what is my future income,
+and that's what the capacity curve shows.
+OK.
+Now, why am I going then to the right?
+STUDENT: Because it's a 45-degree line.
+It's going to tell you after a time step,
+this is now your current income.
+And then yeah.
+PROFESSOR: Exactly.
+I'm going to the 45-degree line, because now once time passes,
+future income becomes past or current income,
+and so now the 45-degree line tells me
+where I will be on the x-axis.
+Because there future income equals current income.
+So now I'm going to be at Y1 prime.
+Yeah, [? Julie? ?]
+STUDENT: I'm so sorry is this a hypothesis, or is this the way
+it is?
+PROFESSOR: I mean, this is the hypothesis is this.
+This is what the capacity curve looks like.
+That's hypothesized.
+And we're going to try and see if that were true,
+what would happen with income over time.
+Later on in the second half of the lecture,
+we're going to look at, well, do we actually
+have evidence that this capacity curve looks this way?
+And do we actually find some evidence of a poverty trap?
+But this curve is very much like hypothesized.
+It's hypothesized to look this way in part given the arguments
+that we were saying earlier.
+We're saying, essentially, like this is a slightly
+different than before.
+But we're saying there's some part where
+essentially additional nutrition doesn't do very much.
+It doesn't make you much more productive.
+Then there's a part where additional nutrition is
+very helpful for increasing your productivity and income,
+and then it flattens off later.
+That's what we previously discussed,
+but it's very much like assume suppose this looks like,
+what we expect to happen.
+OK, so now we're at like y 1.
+What happens after that?
+So now we are like here.
+Now what do we do next?
+
+Yeah?
+STUDENT: You repeat the same process.
+PROFESSOR: Exactly.
+We do the exact same thing.
+We find the corresponding future income
+level on the capacity curve.
+Once time passes, future income becomes past or current income.
+We go essentially now to y 2 prime, which is here
+on the 45-degree line, and we keep
+doing that until we converge to a point at steady state,
+where future and current income is the same.
+So this is still a steady state.
+We have the steady state here.
+OK.
+Now, suppose we started instead at y 0 double prime.
+We started here instead.
+I already drew it for you.
+What might happen is instead of now going to this steady state,
+you will end up going up here to the 45-degree line and so on,
+and you end up at this other steady state,
+further to the right, OK?
+Now, what if instead you started somewhere here instead,
+a little bit to the right of [? y 1, ?] [? y 3 ?] prime?
+Yeah?
+STUDENT: You go down to the first point.
+PROFESSOR: Exactly.
+So you can do this-- you can do this as an exercise yourself.
+You can try out different parts.
+Essentially, if you're somewhat to the right,
+if you're in the region between this steady state
+and this steady state, you're going to go to the left.
+So everybody wants to start essentially in this area
+until here goes to the left.
+Everybody who starts here goes to the right and end up there.
+Everybody who is to the right of this steady state
+here goes to the right here, to this other steady state
+where everybody who is very rich also ends up there, OK?
+So what determines where people end up in steady state--
+what determines is your past or current income.
+That is to say, if you start with a high or low income, that
+will be very important for where you end up in the future.
+And now, what does that tell us about the potential
+of some income transfers or some one-time transfers
+to change people's outcomes?
+
+Yeah?
+STUDENT: You could potentially push people
+into a different range where their new steady state
+income is higher.
+PROFESSOR: Exactly.
+So if you had somebody who was sitting somewhere
+here in this area and you gave them a little bit of land,
+a little bit of money that's regular money that you
+could get, now--
+or even just a one-time transfer of some money where they could
+buy more food or the like, they would move--
+the current income would move here,
+and suddenly, they would move up over there, OK?
+So essentially, we have the potential
+through one-time or short-run interventions
+to change people's outcomes in the very long run
+by changing their steady states potentially.
+How many steady states do we have?
+
+Yeah?
+STUDENT: Two right here.
+PROFESSOR: What about this one?
+STUDENT: Or I guess that--
+I don't think we'll ever reach that one because--
+PROFESSOR: What's different between this steady state
+and that steady state compared to this one?
+STUDENT: The direction in which you're moving across it.
+PROFESSOR: So what happens in the vicinity
+of the steady state here?
+If you're a little bit to the left, a little bit
+to the right, what happens?
+STUDENT: You'll fall down to it.
+PROFESSOR: You go back to that steady state
+if you're a little bit to the left or to the right.
+The same is happening here.
+If you're a little bit to the left,
+a little bit to the right, you move to that steady state.
+This is what people refer to as a stable steady state, as
+in like everything in the vicinity of that essentially
+moves people to that steady state.
+This one is an unstable steady state,
+because if you're a little bit to the left,
+a little bit to the right, you're not going to stay there.
+You're going to move to the other steady states.
+OK?
+And then maybe there, in some sense,
+here is also a steady state here on the very left,
+but then you have nothing to eat,
+and you probably starve, so we're not
+going to think about this part very much.
+OK.
+Any questions so far?
+Yeah?
+STUDENT: Is the assumption that after the curve
+continues there will be endless steady state
+until the end [INAUDIBLE]?
+PROFESSOR: We don't quite know how this continues.
+I think we just say it flattens off and essentially just stays
+here, but you could, in principle, this
+could go further above.
+There could be other steady states potentially,
+but you would have to have some explanation of why it goes up
+again.
+STUDENT: At the end at some point, it does [INAUDIBLE]
+PROFESSOR: Yeah.
+And so that's to say, essentially,
+this would be the steady state for rich people, say.
+But I think there might be other reasons why
+people become richer.
+Maybe they invest and other things, and so on and so forth.
+Yeah.
+But we're mostly interested in what
+people refer to as a poverty trap, which
+is the idea that there's multiple steady states.
+So here, we actually have at least three steady states,
+but two stable one.
+This one is a stable one, and this is a stable one.
+And where you start determines where you end up.
+This is what we just discussed.
+If you start somewhat on the left,
+you're going to end up in the low steady state.
+If you start further on the right,
+you're going to end up at this high steady state, OK?
+And this is what people refer to as a poverty trap.
+People in particular who are in this area
+here are trapped in poverty.
+They're not able to make it to the other steady state.
+Not because they're not capable and not
+because they potentially couldn't be very productive,
+but just because they're poor.
+That is to say, they stay poor because they are poor.
+And that's very much the idea of a poverty trap.
+
+PROFESSOR: I think Julie was asking earlier about,
+well, do we assume that this is the shape of the capacity
+if curves looks that way?
+What do we need to assume or what kinds of curves
+create poverty traps and what kinds of curves do not?
+That is to say, what is it here that
+creates this type of situation?
+What does a capacity curve need to look
+like to create such poverty traps or a poverty trap?
+
+Liam?
+Yeah.
+STUDENT: The beginning part would
+need to be underneath the 45 degree lines.
+So like, to the left.
+PROFESSOR: So we need to be somewhere,
+we need to be under, below the 45 degree line.
+What if we're always below the 45 degree line?
+Is that a poverty trap or not?
+If you actually have it here, what if it looks like this?
+I guess I already gave it away in the text,
+but can you describe what's going on here?
+
+STUDENT: This person reaches the steady state.
+If they go any further, there's no more like steady states
+available.
+PROFESSOR: Yeah.
+There's only one steady state.
+So everybody, if the curve looked like this, everybody,
+regardless of where you started, would end up
+in this steady state.
+Right?
+There's no other intersection with the 45 degree line.
+So even if you started here, you would go all the way down here.
+And if you started down there, you would go this way as well.
+So if the curve is all the way below the 45 degree line,
+even if it's S-shaped, you're not
+going to have a poverty trap.
+Similarly, if the curve, the S-shaped part
+is all the way above, you're not going
+to find a poverty trap either because everybody
+will end up here now.
+And I encourage you to print out these slides
+or try to do that on your tablet or the like.
+Try to write out different curves or draw different curves
+and try to see, where do people end up?
+And convince yourself that this has only one steady state,
+everybody ends up in the same place.
+There's no poverty trap.
+Similarly here, this one only has one steady state.
+There's no poverty trap.
+Now, in addition, if you had something like this,
+if the capacity curve looked something like this, again,
+there's no poverty trap.
+This is not a concave function.
+There's no S-shaped curve here.
+Everybody now, regardless of whether you end up here
+or whether you start here or whether you start here,
+everybody ends up at this steady state.
+OK?
+So now let me ask again, what do we
+need to then assume for our capacity curve
+to look like to create a poverty trap?
+Yeah.
+STUDENT: There must be some section below the 45 degree
+line before some section above the 45 degree line.
+PROFESSOR: Exactly.
+We need to essentially intersect the 45 degree line from below.
+Notice that what we have here, we
+have 2 intersections of the 45 degree line, one from above
+and one from below.
+And so now we get, essentially, a steady state here
+and a steady state here.
+And the S-shape helps, essentially,
+intersecting the 45 degree line, in this case, 3 times,
+and 2 of them are stable, steady states.
+One is where the rich people end up
+or people who start rich end up here.
+People who start poor end up here.
+So what we need is we need some S-shaped capacity curve
+or something that essentially has some S-shaped pattern
+or the like.
+And then we need the capacity curve to intersect the 45
+degree line from below.
+And so crucially, what this requires
+is that there needs to be some part here where the capacity
+curve is very steep.
+That's what we talked about earlier.
+It cannot be that the capacity curve is very flat.
+If you, for example, get this one here,
+where mostly it's essentially very flat,
+this is not going to help.
+You need some part--
+It might be flat at some places, but here, that
+needs to be a very steep part of the curve.
+And so if it's not the case that we
+don't have a steep part of the curve,
+or we don't have an S-shaped curve that intersects the 45
+degree line from below, then there
+is no poverty trap situation going on.
+OK?
+So I just talked about this already.
+If you have a concave relationship,
+there's only one steady state, no poverty trap.
+If you have the S above the 45 degree line,
+no poverty trap, only one steady state.
+And if you have the S-shaped part below,
+also no poverty trap either.
+OK?
+Notice that a double feedback loop,
+as in like just there being poor nutrition lowers income and low
+income means you cannot buy a lot of food,
+is not sufficient for their existence of being a poverty
+trap.
+You have this kind of a feedback loop here either,
+but essentially, it seems like the feedback loop is not
+strong enough, you're not going to get above this 45 degree
+line, and therefore, there is no poverty trap here.
+So really, what we need is we need
+to have not only a relationship between income and food
+and between food and income, and this relationship needs
+to be very strong, otherwise, there
+is no poverty trap going on.
+PROFESSOR: Now, I talked about this already a little bit.
+Why is it important to know whether there is a poverty
+trap?
+Why do we care?
+Yeah.
+STUDENT: Because when you're trying to improve the poverty
+level, you have to be aware if there's a trap
+or not to know if your aid will help.
+PROFESSOR: In the short run or in the long run?
+So you're saying you want to learn about
+whether the aid is helpful.
+I'm asking in the short run or in the long run?
+STUDENT: In the long run, because it
+will help in the short, but if there's an income trap,
+then you'll get pushed right back down.
+PROFESSOR: Exactly.
+So if you're in a situation like this,
+for example, if you start here, for example, or somewhere here,
+aid will always improve people's income,
+or their earnings, or their consumption,
+et cetera in the short run.
+But if there is no trap, everybody
+will end up in the same place anyway
+even if temporarily they're somewhat richer for a while.
+So in the long run, if there is no poverty trap,
+it doesn't matter in the long run
+whether there was aid versus not for people's long run outcomes.
+Of course, aid might be still very helpful
+in the short run for people.
+People are better off.
+Potentially, they can eat more, they're happier, and so on,
+but if you're interested in long run poverty alleviation,
+then you need to learn about whether there is a poverty
+trap, because the poverty trap might precisely
+create situations where short run interventions are
+able to affect long run outcomes, right?
+So in this situation, you're sort of
+stuck in the steady state always in the long run
+where you are, regardless of--
+even if you give people a lot of money,
+they would eventually converge back
+to their starting point or the steady state.
+In this situation, you have the potential
+to move people from one steady state to the next, OK?
+Yeah.
+STUDENT: I don't think I understand the [? extreme ?]
+examples intuitively for why it would push back
+to a lower steady state.
+For a small income [INAUDIBLE] benefit,
+but for larger [INAUDIBLE]?
+PROFESSOR: It's just to say you need to essentially intersect
+with a 45-degree line.
+And if you're here, and I give you a huge amount of money,
+you end up here.
+You're going to just converge back to the steady state
+regardless.
+STUDENT: But why?
+PROFESSOR: Because there's no--
+STUDENT: I understand the steady state assumption,
+but that's [INAUDIBLE].
+I don't know why.
+PROFESSOR: It's just to say there's some productivity
+that people have where, essentially, you
+produce some income and that income you produce
+is not enough to be larger than your previous income
+that you have.
+That's to say, essentially, eating more food makes
+you somewhat more productive.
+Notice that these curves are all kind of increasing,
+but it's not the case that it makes you disproportionately
+more productive.
+As in if I give you $100, it's not the case you might be--
+so your income goes up by $100.
+Your income in the next period will go up by $95,
+and then the income in the next period will go up by $90.
+So essentially, what you would need is that the income,
+your future income, would have to increase by more than $100
+to have-- or at least as much as $100--
+to make that sort of persistent over time.
+And if your income only goes up by a bit but not enough,
+if the relationship is not sufficiently steep,
+then essentially, you're just going to go-- at some point,
+you have $90, $80, $70, and so on, you're
+going to just converge back.
+OK?
+So if you had the situation here,
+if this curve was steeper, then at some point,
+you might be in a situation where
+you could essentially-- this change would be self sustained.
+You would keep making $100 more every period.
+And so that's to say, in the nutrition case,
+it would be the case I give you $20,
+and now, you can earn $50 more every day
+because you're more productive.
+Then you're going to end up in a better place persistently.
+Does that makes sense?
+So you essentially need a disproportional gain
+in income in the future or currently due
+to some other income that you get.
+Mikey?
+STUDENT: An example of that would be
+is if you were given a $1,000, and you spent it
+on a party, and alcohol, or whatever, then it's
+not going to help your future income.
+And then you revert back to the previous state.
+PROFESSOR: Right.
+Or put differently, what Mikey is saying
+is, well, if people just wasted their money trivially, then,
+in some sense, your future income
+might not increase even if you gave a lot of money to people.
+But also, if people just don't have very productive ability
+to invest in their nutrition or other types of things,
+then you're just--
+getting money is not able to increase your productivity
+or your earnings in the future.
+And what needs to be the case is that you get this money once,
+and then by investing that money,
+or by eating more, or investing it
+in machines, or other types of things, your health and so on,
+your future income has to increase by at least as
+much over time to sustain that type of effect.
+Which means, essentially, you have
+to make it somewhere above the 45-degree line.
+And at some point, you're going to end up
+at the 45-degree line at a consistently higher level.
+STUDENT: So once we define income
+in terms of consumption, investment, or whatever,
+and we adjust multipliers, and we
+know a little more [INAUDIBLE].
+OK, yeah.
+PROFESSOR: The key question is, does your ability
+to earn income increase sufficiently much
+by some short run increase in income?
+And if the answer is yes, you might end up
+in a higher steady state.
+Potentially, if the answer is no, you will not.
+OK.
+OK, we talked about policy already,
+so if there is a poverty trap, then there
+could be a big push, as in a small action could
+have big benefits.
+So it may be socially optimal thing to do.
+So you might say that there is good reason for the government
+just to give people cash, or other types of nutrition,
+and so on to make people temporarily richer or better
+nourished, because then they would increase their ability
+to earn income, and that would persistently
+keep them richer, OK?
+And that would say we can help people get out
+of a poverty trap potentially.
+And many food programs or food interventions
+have exactly that idea that to say,
+well, people could be a lot more productive
+if only they ate more.
+And so now, we give people a bunch of food and hope
+that people become more productive.
+And that's what we're going to try and test now going forward.
+Now on the other hand, if there is no poverty trap,
+helping people in this way is still
+going to be potentially helpful in the sense
+that you give people money or food,
+they're going to eat that food.
+They're going to be less hungry and so on.
+And they're going to be happier and healthier and so on.
+However, that's going to be temporary.
+It's not going to have any long-run effects, right?
+The long-run effects you only get if there's a poverty trap
+situation if you can move people to a higher
+steady state potentially.
+So if there's no nutrition poverty trap, for example,
+you might just give people cash instead of giving people food.
+There's not a lot of good arguments for giving people
+food if you think that people are not trapped
+in some nutrition poverty trap, and they're not
+eating enough as much as they perhaps should.
+And so then you might say giving people cash transfers,
+why not just give them cash and let them choose anyway
+unless you think there's something about food that
+helps people invest in themselves in some way
+that they're better off.
+STUDENT: It's equivalent up to a certain point
+based on what they spend on food.
+PROFESSOR: Yeah.
+Yeah, exactly.
+Exactly, and then they could choose
+to spend it on food and other things, whatever
+makes them happy.
+And [INAUDIBLE] say what are we going to do next?
+Next, we're going to look for a nutrition poverty trap.
+What we're going to look at, we're
+going to test the idea now empirically
+whether low income leads to low nutritional intake,
+and whether that, in turn, leads to low productivity and income.
+So the ideal test that we would like
+to do is we'd like to look at does the capacity curve
+intersect with the 45-degree line from below?
+That's to say, the , capacity curve needs to be steep
+somewhere with a slope above 1, right?
+If you intersect the 45-degree line from below,
+that means your slope has to be very high,
+and the slope has to be above 1.
+And so then we're going to ask is,
+does an increase in income today result
+in an income tomorrow even larger
+than the increase in income today?
+That's what we're going to try and test.
+Notice that the capacity curve has actually two parts to it.
+There's the caloric intake as a function of income.
+If I make you richer, do you eat more calories?
+That's one part of it.
+The second part is income as a function of caloric intake.
+We're going to look at both of these.
+We're going to look at the impact of increased
+income on caloric intake.
+Once you have more money, do you eat more food?
+And second, we're going to look at the impact of increased
+caloric intake on productivity.
+Now, do you actually become more productive and earn more money?
+And crucially, what we're going to need
+is that the combination of those two things needs to be strong.
+So just having one of those things being true
+is not even enough.
+We need to be a very strong relationship
+between once people have more money, they eat more
+and once people eat more, they become more productive
+and earn more money.
+PROFESSOR: The first part was merely
+conceptual or hypothetical in some ways for saying,
+for given capacity curve, is there a nutrition poverty
+trap or any other poverty trap, and how might we test for it?
+The key question is, is there a steep relationship
+between income and nutritional intake and between nutritional
+intake and low productivity or productivity and income?
+So as I said, we're going to test now
+for the empirical relationship in two ways.
+First, we're going to look at the impact of increased
+income on caloric intake.
+As people become richer, do they now actually eat more,
+and how much more?
+Second, we're going to look at the impact of increased
+caloric intake on productivity.
+As people eat more, do they become more productive
+and do they earn more income?
+As I said, we need to have both of these relationships
+to be strong for there to be a possibility of a nutrition
+poverty trap.
+OK, so the first question, you might say,
+is, well, how much money are actually
+people spending on food?
+And if there were an S-shaped nutrition productivity
+curve, what would we expect the poor to do?
+Yeah.
+STUDENT: You'd expect a large percent of their income
+to go towards food.
+And as they earn more, they'd spend more
+on food proportionally.
+PROFESSOR: Yeah, so if there was really this type of trap,
+if you're able to go from one steady state to the next
+by eating more, you would think that there should
+be some people, at least, who would spend a lot of money
+on food.
+You eat as much as you can to become more productive.
+And, in fact, you're going to even optimize your food intake
+such that you eat the most nutritious food in some ways,
+OK?
+And so you would eat as much as you can,
+and you would expect first to be a very high share of the food
+budget.
+And it might be the case that if there's
+some unavoidable expenses, for example,
+you have, say, clothing or housing
+and so on that you need to spend money on anyway that you just
+can't avoid--
+as you get a little bit richer, if somebody dropped some money
+onto you, you would spend most of that money, at least,
+on food, exactly as you said.
+So suppose, for example, you had a budget
+of 20 rupees, which is not very much, which is about $1--
+sorry, less than that-- and spend
+5 rupees on clothing and housing, and 15 rupees on food.
+That's to say, you have to spend some money
+on unavoidable expenses.
+But everything else would be spent on food.
+Yeah.
+STUDENT: So is this assuming that there's not
+an S-shaped curve for housing?
+PROFESSOR: That's a great question.
+So you might think that there could be also
+a trap coming from housing and so on
+and that you spent the money based on that.
+I think, for now, let's assume that away
+and say that doesn't necessarily exist.
+You're exactly right.
+There could be some other type of traps going
+on, say, in health or other housing,
+for that matter, that people spend the money on instead.
+For now, we're going to assume there's a nutrition poverty
+trap and only a nutrition poverty trap,
+but we're going to revisit that later.
+Now, suppose you magically got 10 rupees more.
+You still have to spend 5 rupees on clothing and housing.
+But then you spend essentially everything on food.
+And then as you become even richer now,
+you have 45 rupees per day.
+You spent maybe a little bit more on clothing and housing,
+but a little bit more on food and then a little
+bit also on other stuff, for example, movies.
+Now, what do we find now if you think about how much--
+what are the shares that people spend
+of their additional income on food and other things?
+If you look at the person going from 20 to 30 rupees,
+how much does the budget increase for that person?
+
+Yeah.
+STUDENT: 10 rupees.
+PROFESSOR: And that's percentage?
+How much is that?
+STUDENT: Yeah, 50%.
+PROFESSOR: 50%.
+10 out of 20 is 50%.
+And how much do their food expenditures increase?
+STUDENT: By all of that, 10 rupees.
+PROFESSOR: So it goes by 10 rupees.
+And how much is that proportionally?
+STUDENT: More than 50%.
+PROFESSOR: Exactly.
+It's 10 over 15, which is 66%, I think, right?
+So essentially, this person increases--
+because there are some unavoidable expenditures
+at the beginning, this person has a very stark increase
+in their food expenditures as the person becomes richer.
+And exactly as you say, they increase their food
+expenditures by 66% in response to an increase
+of their budget of 50%, which is to say the increase in food
+expenditure is disproportionately
+or is larger, relatively, compared to the overall budget.
+So the share of food expenditure, in fact, goes up.
+And then if you go another-- if you go from here, 30 to 45,
+now we have another 50% increase in the budget,
+which, of course, we made up these numbers that way.
+Now you see essentially this flattens off.
+Now the increase is only something like 20%.
+So now we have a less-than-disproportionate
+impact on food expenditures, OK?
+So that's to say, there should be some people
+who essentially spend a lot of money
+on food as much as they can.
+And you should see very stark increases
+in people's food expenditures as people become richer.
+So in this example, you go a 50% increase from 20 to 30.
+It leads to a 66% increase in food expenditures.
+And so once we divide these two, we call this an elasticity, OK?
+The elasticity essentially is a question about,
+by what percentage does food expenditure increase as income
+increases by 1%, OK?
+That's an elasticity.
+We essentially say, as we make somebody 1% richer,
+by how much do they increase their expenditures
+on different things, in this case, on food?
+And so now, here, we have a very high elasticity.
+The elasticity is now, if you increase people's income by 1%,
+they increase their food expenditures by more than 1%,
+OK?
+Now, if there is a nutrition poverty trap,
+this elasticity should be very high for the poor.
+We would think it should be above 1, in fact,
+for some people, OK?
+And that's what we're going to try and test for.
+PROFESSOR: Now how much do the poor actually spend on food?
+This is from some surveys from the World Bank LMIS
+it's called.
+It's partially reproduced in Esther and Abhijit's "Economic
+Lives Of The Poor" article.
+Here you see people living in rural areas with less than $1
+a day.
+This is all kind of for constant prices.
+And you see people's expenditures
+on food, alcohol, tobacco, education, health,
+entertainment, festivals, and festivals expenditures.
+And so now what do you see here now about how much do
+the poor spend on food?
+When you see this, now here you see people's percentages.
+What do you think?
+
+Yeah.
+STUDENT: They spend a majority of their income on food.
+PROFESSOR: Quite a bit, right.
+So something like from ranging from something like 50%
+to even 80% in some places.
+Do you think that's a lot or not so much or what do we think?
+STUDENT: I think it's a lot.
+PROFESSOR: Looks like a lot.
+Could it be more?
+
+STUDENT: Yeah.
+I mean.
+PROFESSOR: How could they--
+STUDENT: More than 80, I'm not too sure.
+But I mean--
+PROFESSOR: But take, for example, say, Mexico.
+In what way could it be more potentially?
+Olivia.
+STUDENT: Decrease alcohol and tobacco consumption.
+PROFESSOR: You could say maybe alcohol and tobacco could
+be reduced.
+You could say maybe festivals could be reduced for some.
+Entertainment is not very much.
+Health is actually not--
+I mean, it's substantial but it's not that much either.
+Notice that in some places there's also free health
+care available.
+For example, in Mexico.
+Education is quite a bit.
+Notice that that's often extras.
+That's on top of often free public education.
+You could say it could be somewhat higher.
+Maybe not that much higher.
+Notice that there's also, as you said,
+there's quite a bit of variation.
+It goes from something like 50% to 80%.
+That seems to be at least some choice available
+for some people.
+Some people seem to want to choose alcohol or tobacco.
+Some other people seem to choose festivals and expenditures.
+But it seems to be some choice available
+for some people at least but maybe not that much.
+Now, what could people do now to increase their caloric intake?
+So seeing these numbers, what would you say?
+What could they do to increase their caloric intake?
+
+One thing we said, you could cut back
+on some of the other expenditures.
+What else could you do?
+Yeah, Samantha.
+STUDENT: I know that in the chapter,
+it talked about the quality of food
+that they were consuming, especially
+people opting for better tasting food
+rather than just high calorie foods.
+So I'm not sure what the makeup of the food is there,
+but they could just prioritize high calorie foods
+rather than trying to spend money on [INAUDIBLE]..
+PROFESSOR: Right, exactly.
+There's two margins of adjustment potentially.
+One would be spend larger share of the income on food.
+And there's at least some potential
+to cut back some other things, which you might not want to do.
+But there's also you could eat different kinds of food.
+For example, relatively more nutritious food.
+Often delicious food is not that nutritious.
+But in principle, you have a choice
+between different kinds of food and you can choose
+food that's more nutritious.
+Now, next we're going to now actually--
+so this is just to say, so overall, it
+looks like people are spending quite a bit of money on food.
+It doesn't seem that they're maximizing caloric intake
+overall.
+It doesn't seem like they try to eat as much as possible
+and cut down everything.
+But they spend quite a bit on it.
+But maybe there's also different types of food
+that they could eat.
+Now, how can we test whether--
+and this is what you were asking about.
+How can we test about whether caloric intake increases
+rapidly with income for the very poor?
+Well, we can look at three things.
+We can look at what people call the cross section.
+We just look at across people with different income
+and see what is their caloric intake looks like.
+Second, we look at these studies that
+look at the impact of food subsidies.
+Once you make certain food cheaper for some people
+and what happens then.
+And finally, we're going to look at the impact of cash
+transfers.
+Let's start with this.
+So the first thing that you can do,
+and this is a paper by Deaton and Subramanian,
+what you can do is you can look at people.
+This is in Maharashtra in India in 1983.
+You can look at people's log per capita income.
+This is outlay, which is really just their expenditures
+overall.
+And you can plot that against people's log
+per capita calories.
+Why are we using the log?
+Essentially if you use the log, then the slope
+is the elasticity.
+That's to say if you look at the slope,
+the slope tells you if you increase income by 1%,
+by how much does caloric intake go up?
+This is called an Engel curve because there
+was an economist or statistician called
+Engel who was obsessed by food.
+And so if you plot this curve, you're
+going to essentially see something like this.
+Notice that the slope is about 0.35.
+That is to say if you make people 1% richer
+or if you look at a person who is 1% richer per capita,
+consumption of calories increases by 0.35%.
+Again, we call this an elasticity.
+By how much does caloric intake increase as people
+become 1% richer?
+And this is why we are plotting log as opposed to levels.
+Log of these variables on the x-axis.
+Log of caloric intake on the y-axis.
+And now the slope is an elasticity.
+Notice that this is what I was saying before.
+We're looking for an elasticity above 1
+for there to be a chance of there to be a poverty trap.
+Now we have an elasticity of 0.35.
+So that's not particularly high.
+Notice that the way this graph or this estimation is done,
+this doesn't have to be necessarily a straight line.
+This could have had any shape.
+This is an estimation.
+So this could have been very nonlinear and curvy and so on.
+But it happens to be very flat.
+And it looks like even here for the very poor,
+this is the poorest of the poor in Maharashtra,
+even there the curve is not particularly steep.
+So if there was a nutrition poverty trap,
+you would have expected there to be some part in this curve
+where things are very steep.
+In fact, the curve is relatively flat with a slope
+of about 0.35.
+Yeah?
+STUDENT: It feels like this isn't quite disproving
+a nutrition poverty trap.
+For example, couldn't this be explained
+by if all of these data points were on the very tail of the S
+curve and there's only modest gains in productivity?
+PROFESSOR: Yeah.
+So you're saying several things.
+One is to say where on the S curve are people.
+You're exactly right that people might be in steady state
+or somewhere else and not quite in the curve
+you're looking for.
+We expect people to be in different places.
+We expect there to be at least a high slope for some people.
+But what we find is even among the poorest of the poor, even
+among everybody in the middle, we
+find no signs of any nonlinear patterns.
+We find no sign of there being like--
+if you look at even any subsample of people,
+nowhere do you find to be a very high slope is to be found.
+And therefore, it doesn't seem to be
+that there's any sign that there's a steep relationship.
+You're exactly right.
+There's a question of exactly where
+are people and are they in the steady state
+versus not and so on.
+There's also a question of here we're comparing people
+across incomes.
+We compare rich people versus poor people.
+These are different people.
+And it could well be that the richer people
+are somewhat different than the poorer people in various ways.
+Maybe they care about food more or less.
+They have different tastes and so on and so forth.
+This is not really quite testing that.
+This is sort of a sniff test, if you want, and saying, well,
+does it look like there's a very steep slope?
+And the answer is not really.
+We can [INAUDIBLE] for other types of tests as well.
+Yeah?
+STUDENT: I'm a little bit confused about the 1%.
+So if you spend 50% of your money on food
+and then your salary increases and you still spend 50%,
+is that a 1% elasticity or a 0% elasticity?
+PROFESSOR: So if you--
+STUDENT: Like if there's no change in the percent.
+PROFESSOR: Right.
+So that would be an elasticity of 1.
+So if you increase-- if you double your income
+and you double your food, then that
+would be an elasticity of 1.
+
+And that would be like if you just
+did the share that's spend on food stays constant, that's
+essentially an elasticity of 1.
+And we're looking for elasticity that's larger than 1.
+So what we see here is you increase expenditures
+by about 1% and consumption of calories only increases
+by 0.35%, which is meaning it's about 1/3
+of that expenditures goes towards food.
+Now, it looks very linear.
+Now, notice that they also did another thing they did.
+Instead of having the caloric intake here on the y-axis,
+they also had overall food expenditures on the y-axis.
+And then they find an elasticity of 0.7.
+This elasticity is 0.35.
+They find about a twice as large an elasticity
+for food expenditures.
+What do we learn from that?
+What does that mean?
+What are people doing?
+
+Yeah?
+STUDENT: They're buying more expensive food
+that doesn't increase their calories as much.
+PROFESSOR: Right.
+So they increase their food expenditures
+by more than their caloric intake.
+What does this mean?
+They spend more money on food, about 70%
+or they spend more money on food, but some of that,
+exactly as you say, doesn't go towards increased calories.
+But instead they're switching towards more expensive calories
+per rupee spent.
+So that's to say as people get richer,
+they also buy more expensive calories.
+And you can see this also here in Deaton
+and Subramanian's work.
+You see here people's expenditure patterns.
+You see people's expenditure shares.
+What you see here is the bottom 10%,
+and that's a little bit small for you to see,
+but maybe the people in the first row can see it.
+The bottom 10% and the top 10% of people's income.
+And what you see here is essentially
+that people are moving from cereals.
+If you look at the bottom 10% spends about 46%
+of their expenditures on cereals while the top 10%
+spend about 31% on cereals.
+Richer people spend less money on cereals
+but more on things like meat, fruits and vegetables,
+and other types of foods as well as dairy.
+And what you see here is on the right,
+you see the price per calorie.
+And if you wanted to just maximize calories, really
+what you want to do is you want to eat essentially cereals,
+because they're very cheap.
+But as people become richer, they move away from cereals
+and they buy other stuff.
+They buy stuff like meat, dairy, fruits and vegetables.
+And even within cereals, people move
+towards more expensive cereals away from I think from rice,
+I believe.
+They move towards rice instead of more coarse cereals.
+So the poorest spend about 9% on rice, while if you're richer,
+you spend about 11% on rice.
+And here you can see essentially the price for these calories.
+People move to more expensive foods,
+which suggests that people don't seem to be maximizing
+caloric intake.
+This is not what you expect if there was a nutrition poverty
+trap.
+If you're trying to maximize how many calories you get and I
+give you an additional 100 rupees,
+you should eat more calories as much
+as you can to get out of the nutrition poverty trap.
+But here, instead what people are
+doing, they're buying more expensive things,
+stuff that tastes better, stuff that's more fun and so on.
+Very understandable, but it doesn't seem
+they're maximizing the caloric intake overall.
+So that's already kind of like a warning flag
+that doesn't look like there's a nutrition poverty trap going
+on here as people don't seem to be maximizing caloric intake
+in the first place.
+Yeah?
+STUDENT: It seems like it could support the point
+from the beginning of class, which
+is that even though one component of nutrition
+is calories, another component is nutrients.
+And so it seems not to negate a nutrition based poverty trap
+but instead to support there's not just a calorie
+based poverty trap.
+PROFESSOR: Yeah, that's a great point.
+So you might say, well, people are eating more meat.
+People are eating more fruits and vegetables.
+People eating more dairy.
+Maybe that has a lot more iron.
+Maybe it has a lot of more nutrients, micronutrients
+that are helpful that I might not pay off in the short run,
+but maybe in the long run that might be really
+important for your health.
+Maybe it's really important for children in utero
+or during childhood.
+That has very long run potential effects.
+Esther is going to talk about this next week.
+But you're exactly right.
+So what I'm looking for is a nutrition based poverty trap
+based on caloric intake of people just
+not having enough to eat.
+But then exactly as you say, maybe food quality
+or types of food that you eat is really important as well.
+We're going to return to that next time.
+You're exactly right.
+PROFESSOR: The next thing you're going to look at,
+and it's is a different way of looking at this,
+we're going to look at the impact of food subsidies.
+So Jensen and Miller is a famous study that looked at this issue
+in a different way.
+They searched for what's called a Giffen good--
+a good whose consumption increases
+when the price increases.
+Why are Giffen goods surprising?
+Why is that an odd thing?
+Yeah.
+STUDENT: It doesn't really follow a classic notion
+of supply and demand.
+PROFESSOR: Mostly demand.
+How?
+STUDENT: Generally.
+PROFESSOR: What is the law of demand?
+STUDENT: Demands goes down.
+PROFESSOR: Yeah.
+Demand, if you took 1401 or any other econ class,
+they will tell you demand curves tend to slope down.
+As in if things get more expensive,
+you consume less of it.
+As in, like, if I increase the price of something,
+you're going to demand less of it.
+Now, Giffen goods are an exception
+to this, where essentially as you increase the price,
+people's consumption of it increases.
+This is a little bit like a unicorn in economics.
+People always had-- this is a conceptual thing
+that people thought existed but nobody's ever seen one.
+It turns out Jensen and Miller in fact found one,
+at least in the study I'm going to show you about.
+OK?
+Now, as I said, we expect demand curves to slope down.
+Now, how is it possible that as a price of a good increases,
+people's consumption increases as well?
+What must be true or what's going on?
+Yeah.
+STUDENT: That the higher price is
+an indicator of some sort of impressive quality
+perhaps, so people are ready to pay that higher
+price [INAUDIBLE],, but they also expect that food to be better
+[INAUDIBLE].
+That price should reflect some of the--
+PROFESSOR: Right.
+So it could be that there's a signal of quality and so on.
+I think this study is trying to abstract from that.
+You're exactly right that the price
+could be a signal of quality.
+What could also go on?
+Let me ask differently.
+For example, suppose we reduce the price of something
+and you eat less of it.
+What could be going on as well?
+Or can somebody-- somebody know what income and substitution
+effects are in economics?
+Olivia.
+STUDENT: Yeah.
+I mean, it could be something like a luxury good.
+Like we talked about lobster I know in 1401.
+So even if price increases, you're going to consume more
+or there's a lack of substitutes.
+PROFESSOR: Right.
+So essentially, when a price of a good increases,
+there's two effects going on.
+One is what's called a substitution effect.
+You want to consume less of this good
+because it has become more expensive
+relative to other goods.
+OK?
+You choose between apples and bananas.
+Apples become more expensive.
+You're going to choose more bananas compared to apples
+just relatively because it's a better deal to eat bananas
+compared to apples.
+That's a substitution effect.
+OK?
+The substitution effect is always a negative, in the sense
+that as the price increases you want less of it.
+But then there's an income effect.
+So normal goods have a positive income effect.
+You consume more as income goes up.
+Inferior goods have a negative income effect.
+You consume less as income goes up.
+What's going on here potentially is that people become richer,
+and now they switch away to other types of goods.
+So this would be in the case of rice
+or other types of basic food that we just saw--
+as people become richer, they choose, essentially,
+to eat other types of goods, or as they become poorer
+or they eat more of it.
+So in this case, for example, here, what we have seen
+is, as people become richer, they eat less of, say,
+[INAUDIBLE] and so on.
+Which is to say, that's an income effect that's negative,
+which is people become richer, and now they
+switch to other types of goods.
+And so, now, here, Giffen goods now
+are inferior goods with an income effect
+that is so strong that it dominates the substitution
+effect.
+That is to say, it becomes more expensive
+and now you would think people eat less of it.
+But now, there's still the negative income effect, which
+is to say you consume less as--
+right.
+So normal goods have positive income effects.
+Inferior goods have negative income effects.
+So you consume less as income goes up.
+Now, if I increase the price of a certain good,
+now, essentially, you have less money
+available, and for an inferior good which has negative income
+effects, having less money available
+leads people to eat more of it.
+OK?
+And so, that's to say, there might
+be situations where people--
+certain things become cheaper.
+So if I make a certain good cheaper for you,
+you would think that you should eat more of it.
+But now, by making certain goods cheaper for you,
+you also become richer.
+You can afford more overall because you
+have to spend less money on that good.
+Now, essentially, as you feel richer,
+you substitute to other types of goods.
+And so, now, if you start eating shrimp instead of rice,
+if I make the price of rice cheaper for you,
+you might eat actually less rice despite the price
+of rice going down.
+Does that make sense?
+So I'm going to show this in a specific context.
+So the goods that people look at in China was rice,
+and they found that in cities where the price of rice
+is higher, people consume more rice.
+And they argue that, well, really should see the opposite.
+But it seems to be that if the price goes up,
+people actually consume more of it.
+Now, why is that not conclusive?
+I think for two reasons.
+One could be that that's for supply reasons.
+In rich cities, maybe people just
+charge higher prices and people eat more there anyway.
+Or it could be that perhaps prices
+are a quality signal in some ways,
+and people perceive the quality of rice
+to be higher when the price is higher.
+So now, what they do is they do an RCT to look at this more
+specifically.
+So they have a sample of households in Hunan in China,
+and they randomly choose a subsample of them.
+They give people vouchers to reduce the price of rice
+to this random subsample for more than a month's supply.
+They make sure that the households do not exchange
+or trade these vouchers.
+So otherwise, you just give people money.
+And then, after six months, they ask household detailed
+questions about their consumption of rice, wheat,
+and other stuff.
+OK?
+So now, what have we done here-- or what
+have they done in this study-- they reduced the price of rice.
+And now, the substitution effect should
+say people should be eating more rice.
+Rice becomes cheap, therefore it's a better deal
+to buy rice-- you should eat more rice.
+But the income effect might go the other way.
+You reduce the price of rice.
+People become richer relatively--
+they have more money available to buy things.
+And so, now, they might switch to other types of goods.
+And that's the income effect going the other way
+potentially.
+And what this test is now, they kind of look at,
+well, is the income effect sufficiently large to overcome
+the substitution effect?
+And that's exactly what they find.
+So when the price of rice decreases
+by 10% due to these vouchers that people are given,
+rice consumption decreases by 2.5%,
+and the elasticity is in fact negative.
+That's to say, Jensen and Miller found a Giffen good.
+That is to say, households consume more now
+of other goods.
+So households with a subsidy report
+increased consumption of seafood and maybe meat.
+And so, what's happening here is that people
+get a subsidy on rice, they spend less money on rice
+overall, and they use this extra money to not spend it on rice,
+but rather they spend it on other types of goods,
+including seafood and meat.
+OK?
+And that's the definition of a Giffen good.
+Now, why does this matter here?
+Well, what we're interested in is the income effect.
+We're interested in what happens as people become richer.
+Do they spend more money on nutrition?
+And what in fact we see is, well, it
+doesn't seem to be the case.
+And in fact, for some goods, not only is the elasticity not
+above one, but in fact it might even be negative.
+Yeah.
+STUDENT: So this-- the rice example
+is proving that if the price of a product
+increases the demand doesn't increase.
+But Giffen good is when the price increase the demand also
+increases.
+So I don't know why this one is a Giffen good.
+PROFESSOR: So the price is going down,
+and then now people are in fact eating less of it.
+So what people are doing--
+not only are they not increasing their consumption of rice,
+but in fact they're eating less.
+STUDENT: But isn't the definition of Giffen
+good is when price increase the amount--
+PROFESSOR: Ah.
+Sorry.
+You can-- this is both directions.
+So if the price-- so sorry.
+I defined it the other way around,
+and maybe that's confusing.
+So what I wrote here is as the price increases,
+consumption increases.
+Conversely, as the price decreases,
+consumption decreases.
+That's supposed to be equivalent.
+Yeah.
+So here, in this case, we find that through the subsidy
+the price decreased, and people now
+decreased their consumption.
+Now, that's interesting for two reasons.
+One is that there must be essentially a negative income
+effect.
+As in, as people become richer, they substitute away from rice
+to other things.
+And second, it tells you something
+about targeted subsidies.
+So if you want to do nutrition policy and so on,
+many countries have food price subsidies
+to encourage greater nutrition.
+That is to say, for example, India
+has a national subsidy for rice and rice-consuming regions.
+Now, what do the results from Jensen and Miller
+suggest for such policies?
+What are these policies doing now?
+
+Yeah.
+STUDENT: They're actually not affected at all.
+[INAUDIBLE] to increase the consumption of rice [INAUDIBLE]
+actually decreasing.
+PROFESSOR: Exactly.
+So if it's really the case, and if you're
+sort of in this Jensen and Miller world,
+then not only are we not doing very much,
+but in fact it might even be counterproductive.
+As in to say, if households consume less rice and more
+shrimp, but shrimp are not very nutritious per dollar spent,
+the effect on caloric consumption of subsidizing rice
+might not be large, and it may even be negative.
+OK?
+And this is in fact what Jensen and Miller found in Hunan.
+This is not only the case for calories but also
+for other nutrients.
+Going back to your point, maybe people
+are eating worse nutrients potentially.
+And so, we want to be very careful
+with these types of subsidies.
+In addition, what do we learn from about the effect of income
+on caloric consumption in this population?
+Well, it must be negative.
+People are now actually eating--
+since shrimp are worse calories compared to rice, people
+eating less rice, more shrimp.
+And now, people, actually as they become richer,
+they eat fewer calories.
+OK?
+So that's to say, that's another sort
+of red flag for a theory of the nutrition poverty trap.
+As we increase people's income, people
+don't seem to be eating more nutrition.
+Now, you might say, wait a minute.
+Didn't you just show me that the Engel curves are positive
+previously?
+Right?
+Previously, I showed you-- let me go back to this.
+Previously, I showed you the Engel curves for India.
+And I showed you, as people become richer,
+people eat more calories.
+And the slope was something like 0.35.
+Which is to say, if you gave people 10% more income,
+you should see a 3.5 increase in people's caloric intake.
+Now, I'm showing you a different study in India and China
+that says, in fact, look, this income elasticity
+might in fact be negative.
+So how are these things consistent?
+What could be going on?
+
+Let me ask differently.
+What comparisons are we making here versus what comparisons
+did we make previously?
+
+This is within and across people.
+
+STUDENT: Within.
+PROFESSOR: It's sort of within in some sense.
+Some people-- I'm randomizing some people into subs.
+It's across people, but I'm subsidizing
+some people versus others.
+But I'm holding constant everything else.
+You're randomizing people to be very similar treatment
+and control, and then we change people's food prices
+in some ways and look at what happens.
+So it's holding constant ideally everything else.
+Well, in the previous graphs that I
+showed you was across people.
+We're comparing poor versus rich people,
+and that slope could be very different from a slope
+that we find here.
+Notice that in addition, of course, also
+very different settings.
+This is India versus China.
+And it could also, in fact, in another setting,
+in Gansu Province, Jensen and Miller
+did not find evidence of a Giffen good.
+That's to say that this elasticity might be positive,
+but in some cases it could be negative,
+in some cases it could not.

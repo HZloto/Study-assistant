@@ -1,0 +1,281 @@
+
+PROFESSOR: Now we're going to look at the dynamics of income
+over time.
+Suppose that this curve is the way it is.
+I drew it in a slightly different way.
+Notice that it's fairly similar to this.
+It doesn't really matter how it looks like on the left.
+What's important is that we have some form of an S shape
+like we have here.
+So notice that there's also an S shape here.
+Notice that I changed the y-axis as well.
+Now here on the y-axis, we have future income.
+On the previous axis, we had work capacity.
+What are we assuming here?
+What's different or what's the difference here?
+
+Yeah.
+Elliot?
+STUDENT: Work capacity directly translates into future income,
+so it'll reflect on the past [? or present. ?]
+PROFESSOR: Exactly.
+Work capacity I described previously
+as your output, your productivity--
+how much would you produce in a given firm,
+on a factory, on a construction site, on the farm, and so on?
+This is like your marginal product.
+How much are you producing if you work for an hour
+or for a day?
+Notice that that's not necessarily what your wage is.
+You might be paid a very flat wage, regardless
+of how much you produce.
+In many jobs, you're essentially paid
+a flat wage that doesn't necessarily
+depend on your productivity.
+What we're assuming here is that your income
+is proportional in some ways to your work capacity, OK?
+Now, we also drew like a 45-degree line here.
+So on the x-axis, we have, again, past or current income.
+On the y-axis, we have future income.
+Now, I also drew like a 45-degree line.
+What is the role of the 45-degree line?
+What do we need the 45-degree line for?
+Yeah, [? Lucas? ?]
+STUDENT: Because essentially your current income,
+when you go up a year, your future income now
+becomes your current income, so it converges to the--
+PROFESSOR: Right.
+Suppose these were like days or weeks, and so on, at a time.
+If I wanted to know how things evolve over time,
+I would go from current income.
+I go to the curve and say, what does my future income
+look like, which is the capacity curve.
+And then I go to the 45-degree line,
+when future income, in a week from now,
+future income is like current income,
+and I can do the same thing over and over again.
+I'm going to show you that in a second.
+But what are the points where the capacity curve intersects
+with the 45-degree line?
+What are those?
+
+Yeah?
+STUDENT: Points where your income stagnates-- where
+it doesn't change over time.
+PROFESSOR: Yeah.
+We call them stagnates or like it doesn't change over time.
+We call these steady states.
+Potentially, if you are exactly at this point-- for example,
+the point that's drawn here on the figure--
+if you're exactly on this point, you
+will just stay at this point and nothing
+will happen unless there's some shock or something that
+pushes you one way or the other, right?
+Because your current income exactly is your future income.
+You will not move at all.
+We call these steady states.
+Nothing is moving once you're there.
+But now, let's suppose you were at start at y 0 prime,
+the way I've drawn it on the very left.
+How does your income evolve?
+How do we think about that?
+
+Suppose you're here.
+Now, how do we-- where are we going from here?
+What is the evolution of your income over time?
+Yeah.
+[INAUDIBLE]
+STUDENT: I think so you can draw zigzag lines until you--
+and then you end up at that point, the first steady state,
+and then unless something perturbs you.
+PROFESSOR: Yeah, but let me--
+just walk me through.
+If I'm at y 0 prime, where do I go-- why
+do I go to the capacity curve?
+How do I how do I end up there?
+STUDENT: Because that's going to be your future income.
+PROFESSOR: Right.
+So if I'm at current income y 0 prime, that's there.
+I go up to see what is my future income,
+and that's what the capacity curve shows.
+OK.
+Now, why am I going then to the right?
+STUDENT: Because it's a 45-degree line.
+It's going to tell you after a time step,
+this is now your current income.
+And then yeah.
+PROFESSOR: Exactly.
+I'm going to the 45-degree line, because now once time passes,
+future income becomes past or current income,
+and so now the 45-degree line tells me
+where I will be on the x-axis.
+Because there future income equals current income.
+So now I'm going to be at Y1 prime.
+Yeah, [? Julie? ?]
+STUDENT: I'm so sorry is this a hypothesis, or is this the way
+it is?
+PROFESSOR: I mean, this is the hypothesis is this.
+This is what the capacity curve looks like.
+That's hypothesized.
+And we're going to try and see if that were true,
+what would happen with income over time.
+Later on in the second half of the lecture,
+we're going to look at, well, do we actually
+have evidence that this capacity curve looks this way?
+And do we actually find some evidence of a poverty trap?
+But this curve is very much like hypothesized.
+It's hypothesized to look this way in part given the arguments
+that we were saying earlier.
+We're saying, essentially, like this is a slightly
+different than before.
+But we're saying there's some part where
+essentially additional nutrition doesn't do very much.
+It doesn't make you much more productive.
+Then there's a part where additional nutrition is
+very helpful for increasing your productivity and income,
+and then it flattens off later.
+That's what we previously discussed,
+but it's very much like assume suppose this looks like,
+what we expect to happen.
+OK, so now we're at like y 1.
+What happens after that?
+So now we are like here.
+Now what do we do next?
+
+Yeah?
+STUDENT: You repeat the same process.
+PROFESSOR: Exactly.
+We do the exact same thing.
+We find the corresponding future income
+level on the capacity curve.
+Once time passes, future income becomes past or current income.
+We go essentially now to y 2 prime, which is here
+on the 45-degree line, and we keep
+doing that until we converge to a point at steady state,
+where future and current income is the same.
+So this is still a steady state.
+We have the steady state here.
+OK.
+Now, suppose we started instead at y 0 double prime.
+We started here instead.
+I already drew it for you.
+What might happen is instead of now going to this steady state,
+you will end up going up here to the 45-degree line and so on,
+and you end up at this other steady state,
+further to the right, OK?
+Now, what if instead you started somewhere here instead,
+a little bit to the right of [? y 1, ?] [? y 3 ?] prime?
+Yeah?
+STUDENT: You go down to the first point.
+PROFESSOR: Exactly.
+So you can do this-- you can do this as an exercise yourself.
+You can try out different parts.
+Essentially, if you're somewhat to the right,
+if you're in the region between this steady state
+and this steady state, you're going to go to the left.
+So everybody wants to start essentially in this area
+until here goes to the left.
+Everybody who starts here goes to the right and end up there.
+Everybody who is to the right of this steady state
+here goes to the right here, to this other steady state
+where everybody who is very rich also ends up there, OK?
+So what determines where people end up in steady state--
+what determines is your past or current income.
+That is to say, if you start with a high or low income, that
+will be very important for where you end up in the future.
+And now, what does that tell us about the potential
+of some income transfers or some one-time transfers
+to change people's outcomes?
+
+Yeah?
+STUDENT: You could potentially push people
+into a different range where their new steady state
+income is higher.
+PROFESSOR: Exactly.
+So if you had somebody who was sitting somewhere
+here in this area and you gave them a little bit of land,
+a little bit of money that's regular money that you
+could get, now--
+or even just a one-time transfer of some money where they could
+buy more food or the like, they would move--
+the current income would move here,
+and suddenly, they would move up over there, OK?
+So essentially, we have the potential
+through one-time or short-run interventions
+to change people's outcomes in the very long run
+by changing their steady states potentially.
+How many steady states do we have?
+
+Yeah?
+STUDENT: Two right here.
+PROFESSOR: What about this one?
+STUDENT: Or I guess that--
+I don't think we'll ever reach that one because--
+PROFESSOR: What's different between this steady state
+and that steady state compared to this one?
+STUDENT: The direction in which you're moving across it.
+PROFESSOR: So what happens in the vicinity
+of the steady state here?
+If you're a little bit to the left, a little bit
+to the right, what happens?
+STUDENT: You'll fall down to it.
+PROFESSOR: You go back to that steady state
+if you're a little bit to the left or to the right.
+The same is happening here.
+If you're a little bit to the left,
+a little bit to the right, you move to that steady state.
+This is what people refer to as a stable steady state, as
+in like everything in the vicinity of that essentially
+moves people to that steady state.
+This one is an unstable steady state,
+because if you're a little bit to the left,
+a little bit to the right, you're not going to stay there.
+You're going to move to the other steady states.
+OK?
+And then maybe there, in some sense,
+here is also a steady state here on the very left,
+but then you have nothing to eat,
+and you probably starve, so we're not
+going to think about this part very much.
+OK.
+Any questions so far?
+Yeah?
+STUDENT: Is the assumption that after the curve
+continues there will be endless steady state
+until the end [INAUDIBLE]?
+PROFESSOR: We don't quite know how this continues.
+I think we just say it flattens off and essentially just stays
+here, but you could, in principle, this
+could go further above.
+There could be other steady states potentially,
+but you would have to have some explanation of why it goes up
+again.
+STUDENT: At the end at some point, it does [INAUDIBLE]
+PROFESSOR: Yeah.
+And so that's to say, essentially,
+this would be the steady state for rich people, say.
+But I think there might be other reasons why
+people become richer.
+Maybe they invest and other things, and so on and so forth.
+Yeah.
+But we're mostly interested in what
+people refer to as a poverty trap, which
+is the idea that there's multiple steady states.
+So here, we actually have at least three steady states,
+but two stable one.
+This one is a stable one, and this is a stable one.
+And where you start determines where you end up.
+This is what we just discussed.
+If you start somewhat on the left,
+you're going to end up in the low steady state.
+If you start further on the right,
+you're going to end up at this high steady state, OK?
+And this is what people refer to as a poverty trap.
+People in particular who are in this area
+here are trapped in poverty.
+They're not able to make it to the other steady state.
+Not because they're not capable and not
+because they potentially couldn't be very productive,
+but just because they're poor.
+That is to say, they stay poor because they are poor.
+And that's very much the idea of a poverty trap.

@@ -1,0 +1,329 @@
+PROFESSOR: So now, what do we find?
+So first we find that people spend quite a bit of money,
+right after they receive the money, on loan repayments
+and on household expenditures.
+So people pay quite a bit of money to loans and credits
+to pay back their loans that they have already.
+That's a huge increase relative to the control group.
+The control group pays about 94 rupees overall.
+[? Back ?] in the treatment group
+pays an additional 275 rupees back.
+So people get about 1,400 rupees in payment.
+They spend about 94 plus 75 on repayment.
+So they pay quite a bit of money back.
+They also spend quite a bit of money on stuff
+like clothes, food, household expenditures,
+household necessities.
+So essentially what happens is, people get more money.
+They use some of that money to pay back debt.
+They use some of that money to pay for household expenditures.
+And they have some of that money that
+is just to have cash on hand to have it
+in case any shocks happen to them going forward.
+Does that make sense?
+So next we asked people an open-ended question that I
+already showed you before.
+We asked on one day, what do you think about while working?
+We have in the control group people
+who say they're focused on the work task.
+This is on a specific day.
+And then we have people who did not think
+about their financial worries.
+It's sort of a double negative, in some sense.
+So what we find is that people are
+more likely to be focused on the work task.
+So people are more likely to say, in the treatment group,
+I've been thinking about work during the day.
+And they're also more likely to not think
+about their financial worries.
+That's to say, they're less likely to think
+about their financial worries.
+So essentially what we find is that the cash infusion
+increases people's focus on the work task,
+and reduces their thoughts about finances.
+
+So next we're going to look at do workers actually
+become more productive?
+And you can see this best perhaps here.
+You see here, this is a baseline.
+This is before the payments happen.
+You see the two groups are the same.
+You see here this is a treatment effects for lower
+wealth and higher wealth.
+And essentially you see the treatment effects
+before the payment period are zero.
+And then what you see is that people who have lower wealth
+to start with in our experiment, they
+become a lot more productive immediately after the payment.
+So they receive the payment on day 8.
+On day 9, they show up and they're
+more productive in the morning.
+And that higher productivity remains throughout the end
+of the study.
+So essentially, workers who have been paid
+more, they have more cash on hand,
+they become more productive over time.
+Does that sense?
+So how large is this effect?
+It's about 6% to 13% increase in hourly productivity.
+And the strongest effects among the poorest workers
+in our sample, presumably because the cash infusion
+is most meaningful for them.
+If you're relatively rich in the sample,
+and rather receive another 1,000 earlier or later,
+it doesn't really matter so much.
+But if you're quite poor, receiving 1,400 rupees
+is a lot of money.
+So people are much less worried about their finances,
+and therefore become more productive at work.
+Now, this is about overall productivity.
+How much do you produce?
+Now in addition, we look at how are
+people producing their output?
+I told you already how to make a leaf plate.
+Essentially you have to form a circle.
+There can be no holes or gaps.
+Leaf plates must not be visible.
+Each leaf is in a regular shape.
+So it's easy to make mistakes, it's
+easy to make a plate that's not round,
+it's easy to go in the wrong direction, and so on.
+And as I said, I did a lot of mistakes.
+This is not my leaf plate, unfortunately.
+And so now we can measure that in people's output.
+We collected everybody's output and measured
+how many stitches people make.
+So if you use a lot of leaves--
+look at this.
+This takes something like 10 to 12 leaves.
+It's a leaf plate, how it's supposed to look like.
+My leaf plates would have something like 20 leaves,
+because I had lots of holes.
+You have to fix the hole.
+And then you go in the wrong direction,
+and it's way too big, and so on and so forth.
+That, of course, takes you a lot more effort and time.
+And you're only paid for completed leaf plates.
+So if you're inattentive, you don't know what you're doing,
+or you're distracted, you might use a lot more leaves
+or stitches.
+Or if you don't stitch it properly,
+you have to stitch three times.
+And so you have to undo mistakes and that takes you a lot more
+time and effort for the same piece rate.
+So [? have ?] these measures of attentiveness in production,
+which is the number of double holes
+where if you undo a stitch, or you stitch somewhere and then
+undid the stitch.
+The number of leaves, if you make lots of leaves,
+the number of stitches are a measure
+of quality of production-- how attentive are you
+while producing.
+When you look at that, we find, similar to what I showed you
+before, that being paid increases not only people's
+overall production, but also the measures of attentiveness.
+So people become not only faster at working and producing more,
+their attentiveness of work also goes up.
+I should have told you here, we are measuring these outcomes
+unbeknownst to workers.
+So we essentially just collect the output
+and then measure and rate the quality of the output.
+So it's not that workers know necessarily
+that we're going to measure this and try to improve that.
+Instead, it seems to be that subconsciously workers don't
+seem to necessarily notice that they're
+producing higher quality.
+It's just once your mental burden is reduced,
+people produce better quality, higher attentive work.
+
+I showed you this already.
+This is essentially consistent with several psychological
+mechanisms, such as worry, stress, sadness, and so on.
+We think that worries is quite important, because I showed you
+some evidence that people seem to actually report
+they worry less, they think less about money.
+But it could also be other things like stress and sadness
+that we don't necessarily measure.
+These attentiveness effects persist
+until the end of the contract.
+Let me mostly skip this.
+We don't think it's about things like fairness concerns.
+You think you're paid earlier than somebody else,
+and maybe the other person is really mad at the employer.
+Or the employer, because we pay them later,
+and therefore they didn't work very well.
+We spent quite a bit of time trying to figure out,
+or trying to address these concerns.
+We don't think it's about the relationship
+between the employer and the worker,
+but rather we think that workers just
+reduce their mental burdens.
+And once mental burdens are reduced,
+workers become more productive.
+We also don't think it's about nutrition.
+Remember I showed you that once people receive more money,
+they actually spend that money on nutrition, at least
+in part, on food.
+
+In the short-run, for example, we
+didn't find any differences in people's breakfast consumption.
+So people are essentially pretty much eat
+the same breakfast every day.
+There doesn't seem to be any difference between treatment
+and control.
+We also don't find any differences
+in the morning versus the afternoon throughout
+the workday.
+So we don't think nutrition is the main thing that's
+going on here.
+So let me briefly conclude this study.
+And then we're going to take a break
+to talk about sleep before everybody falls asleep
+until I get there.
+So what do we find, or what have I shown you here?
+So being able to pay expenses at home-- so people get money,
+they have more money now available--
+boosts workers' productivity and attentiveness at work.
+That's to say that financial strain
+itself might be detrimental for productivity and earning.
+That's to say when you look at times when workers might need
+money the most, when you have a financial shock
+or when you're not doing well financially,
+or perhaps when somebody gets laid off,
+they really want to be productive in making
+more money somehow.
+But precisely at that time when people need the money the most,
+financial strain hurts worker productivity.
+Notice this is not a policy evaluation.
+We're not really advocating for a policy of paying people
+weekly, or daily, or whatever.
+This is just to say it's a proof of concept
+that productivity effects occur in high stakes setting that
+affect people's labor income.
+That's to say this is a setting where workers' income crucially
+depends on how productive they are.
+And when you relax people's, reduce
+people's financial concern, they do become more productive.
+Now, what are the implications of that?
+Well, one is, when you think about social programs,
+often there's this myth or this concern
+about if you give people money who are poor,
+are they just going to stop working, or working less?
+There is some evidence that, in fact, in Abhijit and others
+have some papers on showing that that's not the case-- at least
+in low income contexts.
+And, in fact, we find there might
+be even some benefits of people are
+able to produce more and more productive, potentially,
+once they have more money.
+So in fact, not only might there be
+not a lot of important negative effects on labor supply,
+in fact, people's productivity might go up.
+Second, firms might want to support
+workers' financial well-being.
+You might say a firm might want to just provide
+people with insurance, or savings programs,
+or other types of programs where they essentially can improve
+their financial well-being.
+And that might be good, not just because the firm
+might care about their workers in some ways.
+But, in fact, it might make the workers more productive
+directly.
+Again, notice our study is not an evaluation
+of an optimal pay frequency.
+The reason being that the control group receives money
+at the end, and then we stop the study.
+But maybe on the day after, the control group
+would have been more productive, because now they
+receive a bunch of cash and the treatment group already
+spent that.
+But I think what one can take away
+from this is that there are at least potential productivity
+effects of programs that support workers' financial well-being.
+Let me see, were there any questions on this?
+Yeah?
+STUDENT: mentioned it in your comment earlier,
+but I was just curious to know whether anyone
+has looked at how aware people are
+of these effects on themselves.
+Just for example, you mentioned it with the [INAUDIBLE]..
+And it seems to be they intuitively work better.
+But if one asked them at the end do
+you feel better, or do you feel like you work better,
+are you more--
+PROFESSOR: Yeah, we have not asked that question directly.
+We have one piece of evidence, which is the following.
+We have a separate small experiment
+where we changed the piece rate of how much people
+are paid per plate.
+So sometimes we doubled the piece rate.
+You just get twice as much per plate that you produce,
+and sometimes not.
+And we look at the effects on people and holding
+constant their overall payments.
+And we look at the impact of that on productivity
+and on attention.
+So if you thought people are quite aware of this
+and say that they can control their attention in some ways
+and say attention is the way to become more productive,
+you would think that if I pay you twice as much,
+now you're going to become more attentive.
+You're going to also put in more effort,
+and then try to produce more.
+That's not what we find.
+We find some effects of increased productivity.
+So people become a little bit more productive, but actually
+not very much.
+And attentiveness, or the measures
+we have of attentiveness, don't change at all.
+That sort of suggests that attentiveness is not really
+under workers' control.
+In the sense that it's not really that you can say
+I want to be more attentive, and then increase my productivity
+in some ways.
+But instead, it seems to be that the effects that we find
+relax people's financial concerns.
+And then they feel better.
+They become more attentive almost automatically,
+if you want.
+Now, you're asking something slightly different.
+Which is about, if you ask people, would they say,
+well, I felt a lot better and somehow it was easier to work.
+STUDENT: If you tell them you work much better,
+what do you think it is?
+Could they pinpoint, I think--
+PROFESSOR: Yeah, it's a great question.
+So that's not something economists
+do that much in studies, but I think they should do it more.
+We haven't asked these questions,
+in part because we had rolling enrollment.
+Meaning we had 30 people in the study at a time,
+and another 30, another 30, and so on.
+So you want to minimize spillovers
+to other participants later.
+That's not to say we couldn't have
+come back later and done that, but we don't have any of that.
+But I think it's a great question.
+Actually, now that I think of it,
+there's another study by Josh Dean, a former student of mine,
+who looks at the effects of noise on productivity--
+so noise pollution.
+And what he finds is that there's
+reasonably large effects of being exposed to noise--
+louder places compared to less loud places--
+on productivity.
+So workers are more productive, they're
+also more attentive in terms of measures of cognition
+when they are working quiet compared
+to when they work under noise.
+But then you ask them what their willingness to pay
+is to work under quiet versus noisy condition,
+and their willingness to pay essentially
+is close to zero for that.
+Which sort of suggests that there
+are some issues about comprehension
+of these types of questions.
+But that at least suggests that workers are not
+necessarily aware of that noise affects how productive they are
+in the setting, even though if they were more productive
+they would earn a lot more money.

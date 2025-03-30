@@ -1,0 +1,297 @@
+PROFESSOR: So what are the limits?
+The first one is what economic jargons, we call moral hazard,
+which is the idea that you cannot completely monitor what
+people are doing on their farms.
+So what if the income depends on the effort on the farm,
+but other people cannot observe it?
+So suppose for example, that it's
+the case that how much you produce really
+depends on your effort, and you're insured.
+What's the danger?
+
+Yeah?
+STUDENT: [INAUDIBLE] way you're going to get the income,
+and you won't have to pay.
+PROFESSOR: Yeah, so the temptation,
+if you know that people are going to help you anyways,
+is to say, well, I'm going to do a little less.
+But then, anticipating that, what
+are other people going to do on their own field,
+they are also going to do a little less.
+And so now, everybody is going to do less.
+And so everybody will have less money to share.
+So you might end up being with less, so much less money
+on average that even if it's less risky,
+you're still down in term of welfare.
+
+STUDENT: [INAUDIBLE] negative monopoly?
+PROFESSOR: That's called moral hazard.
+STUDENT: What's that?
+PROFESSOR: That is called moral hazard.
+I never really understood what moral hazard means.
+But it means that.
+It means you have negative-- you have
+perverse incentive in the process from the insurance.
+So that's not ideal.
+If worse comes to worse, you could find yourself
+in a situation where people are--
+nobody is doing anything.
+And therefore, people are worse off
+than they would be without the insurance.
+So what could be the solution then, to avoid--
+you could say, well no we are not going to work together.
+And that's it.
+But what would be an intermediate solution?
+Yeah?
+STUDENT: You can [INAUDIBLE],, only let people access
+the insurance program once you know that they work--
+the income from the farm, which is dependent on effort
+certainly, it's certain amount.
+So that you show that they're contributing, as well as taking
+out the system.
+PROFESSOR: So you could try and select
+people, which have either less moral hazard,
+or who are rich enough that the moral hazard is compensated
+by the fact that they do enough.
+That could be a possibility.
+So then, some people are going to be left out of the scheme.
+What would be another possibility?
+Yes, Esther?
+STUDENT: [INAUDIBLE],, some unavoidable into this,
+that makes them, poor, but not like generally
+covered to your everyday life.
+So if you just need some [INAUDIBLE] for everything.
+You have [INAUDIBLE].
+PROFESSOR: Absolutely.
+So what you can do, what the insurance scheme could do
+is to do something maybe similar to the weather insurance I
+described, which is not insure you to reach you
+to the level of income that you have achieved,
+to make sure that it's always the same,
+but to insure you when there is a shock that has happened
+to you, that can be seen.
+So for example, if your field was invaded by crickets,
+there is nothing you can do against the crickets.
+That's not something that's subject to moral hazard.
+So if your field was invaded by crickets,
+we'll come and help you out.
+Or if you got sick, if you break your leg, obviously, it's
+not your fault. It's not something
+you brought onto yourself.
+We'll come and help you out.
+So we are going to insure you for that part of your income
+process that is not under your control.
+That's great.
+So that's definitely a first thing you could do
+or a second thing.
+The first one is selection.
+The second one is restricting the insurance
+to observable sources of risk.
+And what could be a third one, a little bit along the same idea?
+
+Lucas?
+STUDENT: You can see that It's not necessarily all distributed
+equally.
+It's like you pay in a certain percentage of what you get.
+So it's still kind of dependent on your work.
+If you make more, you get more.
+But you [INAUDIBLE].
+PROFESSOR: Exactly.
+The third thing you can do a little bit along this line
+is to say, well, we are going to provide you with insurance.
+But we want to preserve the incentive.
+So we're going to keep you holding a part of the risk.
+So when you're doing poorly, we're going to give you some.
+But that's not going to bring you to the average level.
+And when you're doing well, we're
+going to take some to redistribute to the people who
+do poorly, but not everything.
+And we can perhaps, pick a level of insurance that
+creates a good balance between removing a part of the risk,
+so you're not left with the entire risk.
+That makes you unhappy.
+And at the same time, leaving part of the risks because that
+preserves the incentive that makes you work hard.
+So in each of these three situation,
+you're going to be in the same situation, which is insurance
+is not going to be complete.
+Either it is not going to touch everybody.
+Some people are going to be entirely left out
+of the scheme.
+Or it's going to only cover risk, some kind of risks.
+Or it's going to cover a variability of income
+up to a point only.
+That's the first problem.
+The second problem, here is your second economic jargon
+of the day is limited commitment.
+Virginia?
+STUDENT: So has there been studies
+on how much of the insurance you need to have a stake in,
+or how much of the pain you need to have a stake in
+to work your hardest?
+PROFESSOR: Yes, there are empirical studies of--
+there are empirical studies of this type of topics,
+in particular, trying to understand,
+which is what you do observe in practice in villages
+is imperfect insurance, and trying to understand
+why the insurance is imperfect and the extent to which
+it's responding to moral hazard and how much people need
+to have a stake and so on.
+Yeah, there is an empirical literature
+that tries to get at that, it's difficult for the reason
+that we're going to see in a minute, which
+is many of the limit to insurance come
+to the same conclusion, that insurance
+is going to be limited.
+And unlike happy families, which are all
+the same and unhappy families, which
+are different in all the ways, with insurance,
+all the unhappy insurance arrangements
+are pretty much partial insurance arrangement.
+And it's extraordinarily subtle to distinguish,
+possible, but subtle.
+So and your question is one degree further.
+STUDENT: Yes, what does the curve look like?
+PROFESSOR: Yes, exactly.
+So there are studies on that.
+That's something that economists are very interested,
+because economists love to study incentives and response
+to perverse incentives.
+So there are studies of that.
+But a bit hard to get, but it's possible.
+So, limited commitment-- so what's limited commitment?
+So let's go back to a world where income is just exogenous.
+So income is given to you.
+There is no effort that you need.
+So when you are doing well in a particular moment,
+it is your turn to give money to the pool,
+to give money to a friend.
+
+At this point, what would be the foundation?
+
+Yeah?
+STUDENT: To keep the money instead of putting it back.
+PROFESSOR: It's to keep the money instead
+of putting it back in the pool.
+So first of all, your income could be hidden, in which case,
+you would just stash it.
+Or even if your income is visible, you could say sorry,
+I don't feel like it today.
+And what prevents you to--
+if you cannot hide your money, what prevents you to just say,
+no, I won't give you money today?
+I don't feel like it.
+Yeah?
+STUDENT: [INAUDIBLE].
+PROFESSOR: Yeah, so that's what you could do.
+So you could-- so what prevents you to succumb to your one
+degree or one step above me, ahead
+of me, what prevents you to succumb
+to this temptation is that your friends are not
+going to be happy.
+So what they can do is to say, so for example, I
+don't know if you cook together in dorms.
+If the day where you turn to cook you
+say you don't feel like it, then your cooking arrangement,
+what's the first reaction of the cooking arrangement,
+if you refused to cook the one day where
+it's your night to cook?
+
+Yeah?
+STUDENT: It's like a warning.
+PROFESSOR: They're like, you're really like,
+don't do this again.
+And they are a bit like, maybe you have to produce an excuse.
+And there is some amount of social opprobrium.
+That's fine.
+And then if you again don't do it next time, it's your turn.
+
+Yeah?
+STUDENT: [INAUDIBLE] when everyone--
+PROFESSOR: Yeah, they might say, sorry, you're
+not part of the cooking arrangement anymore.
+The deal of the cooking arrangement
+is when it's your turn to cook, you cook.
+So same thing with the informal insurance process.
+There are only two things that--
+nobody can put you in prison.
+There is no network, there is no formal contract, or so on.
+So all they can do is number one, they can be nasty to you.
+Or they can be some social opprobrium.
+And number two, they can kick you out.
+So then, we are going to Virginia's point, which is OK,
+so you could say, fine, I am happy.
+I will just strikeout on my own.
+So then what you're going to do is
+to compare the value of staying in the scheme for the time,
+for infinite amount of period potentially,
+to the gain that you have today.
+And we can see that there is a tension.
+Because the more risk there is in the system,
+the more valuable the arrangement is.
+So people are more incentive to want to stay inside it.
+But on the other hand, when it's very risky,
+it's also when some people get super high realization.
+And it's very tempting to stay.
+So what will make this type of scheme explode
+is number one, if people are very impatient.
+Because then, the extra income they are getting today
+is so valuable that it's tempting to just take
+it and run away if people are impatient.
+And the second thing is if they expect that someone else might
+do that in the future.
+So there is a bit of a chicken and egg
+issue with going back to your cooking arrangement system.
+If you think that tomorrow, the person who is in charge to cook
+will also not cook, then you're saying,
+well, that arrangement is not working very well.
+So there is a possibility when perception goes badly
+of the whole thing collapsing onto itself.
+Similarly for social insurance arrangement,
+if you anticipate that it's fragile, then it's fragile.
+It's a self-fulfilling prophecy, that if nobody trusts
+other people, then the value of behaving well
+yourself is lower.
+And therefore, you will behave less badly, and therefore,
+not trusting people.
+People behave in untrusting ways.
+So you can have multiple equilibria, where
+everybody trusts each other.
+And the system work very well, and suddenly
+collapse of this informal system.
+And then here, if a bank arrive or a microfinance possibility
+arrive suddenly, they make the value
+of staying in the system a little less high,
+because there is the possibility of insuring yourself
+against the wrong thing.
+If a road comes or you have the possibility of migrating,
+and so it could be that introducing this option, which
+gives you cover against the worst outcome
+actually leads to the collapse of informal solidarity
+arrangement.
+Because they suddenly make the informal solidarity
+arrangement less valuable.
+And therefore, people who are doing well in a given day
+might feel that they want to not do it.
+Then again, you could solve the problem
+by telling someone who is doing well
+today, OK, from now on, don't give us too much.
+Don't give us everything you have.
+Give us just enough to make it worth it for you to stay.
+And again, you notice that we have an imperfect insurance,
+incomplete insurance, because those who are doing well,
+it is not at all because of the moral hazard thing.
+But those who are doing well end up
+keeping more, so that they can feel it
+valuable to stay in the system.
+So for a completely different reason than moral hazard,
+you again, end up with insurance that
+will look pretty incomplete.
+Now, that's a second way of having,
+a second element to insurance.
+Insurance also becomes limited when
+people can hide their income, because then they
+don't give it away.
+So you need to have schemes that leaves a sufficient stake
+in for people to declare how much income they haven't shared
+it.

@@ -1,0 +1,282 @@
+PROFESSOR: So far, this is about essentially--
+this is about external constraints
+in terms of just not having access to savings accounts.
+And once you provide with these savings accounts,
+people are doing better.
+So this is all about people's external environments
+in a sense, that if people had-- everybody had free savings
+accounts, presumably they would do a lot better
+or would be able to save more, at least
+for women in this case.
+But it's nothing about internal constraints.
+So what about internal constraints?
+We talked about this already.
+Anybody remember the story of Ulysses and the Sirens
+that, I think, Esther mentioned already
+during the health session?
+Anybody remember what the story is?
+Yes, please.
+STUDENT: Yeah.
+Like, he wanted to hear the sirens sing,
+but he knew it was going to be too beautiful
+and he'd want to jump off the boat
+and get into the water with them.
+But since he still wanted to hear,
+he had them tie him to the mast of the ship.
+PROFESSOR: Yeah.
+And in particular, so he was tied to the mast.
+Exactly.
+And what did the rowing people do?
+STUDENT: Covered their ears.
+PROFESSOR: Yeah.
+So there was not only the looks, I guess,
+but also the sound of them.
+So I think he actually wanted to listen to them.
+But he just knew that he would not be able to resist.
+And I guess the rowing crew were just not allowed to listen
+and had their ears covered and, therefore, were also
+not falling for them.
+And so this is essentially the idea of a commitment device.
+Can somebody define or tell me what a commitment device is?
+
+Yeah.
+STUDENT: In this case, it would be tying himself to the pole.
+PROFESSOR: Yeah, but what is a commitment device?
+What's the definition of a commitment device?
+STUDENT: It keeps you accountable.
+And it's restrictive to the point that it's like a binary
+up until--
+PROFESSOR: Yeah.
+There's more continuous versions of that.
+But essentially, the idea is that you
+have a certain behavior in the future that you do not--
+that you know that you might engage in the future
+if you don't restrict yourself in certain ways.
+And you have some preferences for your future self.
+You do not want your future self to engage in certain behaviors,
+be that spending too much money, be that jumping into the water,
+or be that doing all sorts of other things
+that you don't want yourself to do in the future.
+You know that your future self will disagree.
+Your future self will say, oh, these sirens sound amazing.
+I've got to jump into the water or whatever.
+And therefore, you know already that you're going
+to misbehave in the future.
+And therefore, you want to change your future self's
+behaviors.
+The way you might be able to do that,
+essentially, is to restrict your options.
+In this case, very extremely, you'd
+just tie yourself to the mast.
+You're just not able to do anything, or you just cannot--
+you cannot move, essentially.
+And therefore, the option of falling for the sirens
+is essentially not available anymore.
+It's just taking away certain options.
+Another version of a commitment device
+would be to make certain options more costly.
+You could say, for example, in savings account,
+one option to have a commitment savings account is to say you
+cannot take out money from an account until a prespecified
+time.
+That's exactly the equivalent or the same thing
+as tying yourself to the mast, is taking away an option.
+If I say I have a savings account,
+and I can only take out money on June 30.
+And before that, I cannot do this.
+Now essentially, if tomorrow or next week
+or whenever I come and I say I want to take out money,
+I just do not have that option anymore.
+And people might choose commitment savings accounts
+precisely because they know that, if they are not choosing
+a commitment savings account, they
+will take out the money prematurely and spend it
+on stuff they don't want themselves
+to spend in the future.
+So you might say I can only take out the money,
+say, next year or the like.
+We're just taking away certain options.
+That's sort of a discrete version of, essentially,
+it's either 1 or 0.
+You can do it or you cannot do it.
+Another version of this would be to just make it more expensive.
+You can say there's a 10% withdrawal fee or the like.
+But essentially, you can take out the money,
+but it's very costly to do so.
+OK?
+Any other commitment devices that you guys know?
+What about spending too much money online?
+What commitment devices exist for that?
+
+Yeah.
+STUDENT: I mean, aren't there browser blockers,
+where you can block specific sites so [INAUDIBLE]..
+PROFESSOR: Yeah, exactly.
+There's browser blockers.
+There's also whole system-wide blockers, essentially,
+where you just cannot visit certain sites or just
+don't work or the like.
+Yeah?
+STUDENT: Social-- I personally will be like, OK,
+if I do this--
+I'll tell my friends my goals.
+And if I break them, I'll tell my friends
+that I broke them or something.
+PROFESSOR: Yeah.
+That's very interesting.
+And those friends are they--
+what kind of features do your friends
+need to have to make that work?
+So, you're saying some--
+she's asking some friends about goals she wants to do.
+And then there's some form of social or other sanctions
+from the friends in case she doesn't follow through.
+So what kind of friends do you need for that?
+STUDENT: They also follow through?
+PROFESSOR: They follow through, and they're also
+strict with you.
+So I used to have, in grad school,
+I had a good office mate.
+And we would have these commitment devices
+where there's some website called StickK.
+And the website StickK is as follows.
+You can put down some money, say $100,
+and then say if you don't specify an action, which
+would be write the draft of your paper,
+if you do not do this action, the $100 go
+to some prespecified purpose, for example,
+to the pro-smoking association or like the pro other types
+of purposes associations, so money that you really do not
+want to go to that cause, if you don't follow through.
+And then you need a referee, which was, in this case,
+my office mate.
+You need a referee who decides whether or not you
+have actually followed through.
+Now, anybody can guess what the problem with this
+potentially is?
+So I'm saying until Friday night I'm
+going to write at least five pages of my paper draft.
+And otherwise, $100 will go to this association
+that I don't agree with.
+What is the problem potentially?
+Yeah.
+STUDENT: I mean, your friend probably also
+doesn't want it to go to the organization
+so they can be relaxed with you.
+PROFESSOR: Correct.
+So in all of those cases, I would not
+follow through and then persuade my friend
+and say, look, I'm going to buy you dinner,
+but you just say I followed through.
+And then, of course, if in particular, he also
+wants the money not to go to that cause, he might agree.
+And he did, in fact.
+So the whole thing sort of unravels.
+So you need strict friends in some ways, maybe
+friends who also do it, or maybe they judge you and so on,
+potentially.
+But exactly, that's exactly, actually,
+the type of commitment device that we're going
+to talk about in a second.
+OK.
+So what does this paper do?
+It's a very important paper in this literature by Nava Ashraf,
+Dean Karlin, and Yin.
+These are clients of the Philippine
+Bank, randomly selected.
+A subset of those were offered a commitment savings product.
+What is this commitment savings product.
+It was called SEED--
+S-E-E-D. That's sort of just an abbreviation,
+where people were encouraged to save plus had a commitment
+offer, which is clients can restrict access to deposits
+upon opening the account.
+So you open an account, and you can
+say I want to have no restrictions,
+and then you have no restrictions whatsoever.
+Or you can say I would like to have some restrictions, where,
+for example, I can only get the money
+at either a specific date.
+For example, people chose Christmas, birthday,
+celebration in particular, but also education,
+say, for example, whenever the school
+fees are due for my child.
+There are also other things like vacation, travel, and so on.
+So all kinds of things where essentially dates
+are specific dates, where you fixed exactly a certain date.
+And then there could be also goals,
+where you say I want to have enough money
+to be able to travel to place X. And then
+once you have enough money, then you use that for travels.
+So people specified date-based goals
+and say that would be, say, only, like, on June 30
+I can get the money, or amount-based goals,
+where you say I have to save at least $1,000.
+Before that, I cannot take out the money.
+And the rationale for that would be
+like I want to purchase a certain good
+or I want to pay for certain things for my child,
+and I need $1,000 to do this.
+So only once I have reached $1,000 I can take out money.
+And I worry that I may take out the money earlier
+for other things that are not my children's education
+or other types of purposes and take out the money prematurely.
+And I'm not able to do that in this type of account.
+Everybody clear on what this account does?
+OK.
+So now, what do they find?
+On average, these commitment savings help people save more.
+So there was about a 30% take up rate, a little bit less
+than that, either for date-based or amount-based goals.
+Take up here means that people chose a target
+but also put in some money [INAUDIBLE]
+or different savings accounts.
+So they put in some money into this account,
+where the money was stuck, at least for a while.
+Second, offering people-- so now this is randomized.
+So sorry, I should have said this.
+There's a SEED treatment, and there's also
+a marketing treatment.
+So in the SEED treatment, people are encouraged to save.
+So you say, OK, savings is great.
+You should all save.
+Why don't you start an account?
+And this is really useful.
+And savings is good for you, and so on and so forth.
+So people are encouraged or nudged to save, but then also,
+on top of that, got the commitment offer.
+This treatment group number one.
+Treatment group number two is only the encouragement
+but no commitment offer.
+The idea here is that, well, in the first treatment,
+if you find people are doing better than in the control
+treatment, maybe that's because of the commitment savings
+account or maybe it's because there's also this encouragement
+to save.
+So comparing one and two gives you
+only the effect of the commitment savings account.
+OK?
+So now what did they find?
+So people used these accounts and put in money
+and specified these goals.
+Offering commitment savings, the commitment savings product,
+significantly increased savings.
+So people saved a lot more compared
+to the marketing treatment.
+This is treatment group one versus two.
+And finally-- and this is a little bit in the weeds--
+survey responses to "would you rather
+have money now versus later," people who seem impatient
+or people who really seem to need money now
+seem to predict commitment take up.
+This is the idea that a self-control-- if I
+ask you do you want $100 now versus $120 in a week from now,
+if you say $100 now, you might have self-control issues.
+Or it might be really sort of a credit constraint.
+That predicts whether people take out
+this commitment device.
+You can mostly ignore that.
+But overall, what this says is essentially
+is to say, offering people these devices overall
+can be really helpful.
+On average, people increased their savings by quite a bit.

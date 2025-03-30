@@ -1,0 +1,129 @@
+PROFESSOR: Once we have done this experiment,
+once we have the concept of doing this experiment--
+and all of your questions were wonderful in terms
+of going from the 30,000 feet description
+to actually how they work in practice, which is where
+a lot of [INAUDIBLE] get made.
+But still many people have done experiments.
+And we can start thinking about how
+to combine the results from these experiments
+to compare cost effectiveness across programs so
+that our givewell charity, or our effective altruists
+or government can actually pick not just
+the most effective, but the most cost effective method.
+The ideal way to do it if you had a lot of time and money
+would be to run one experiment which
+had all of the possibilities at the same time.
+But it is difficult. So typically, the way
+we try and compare programs is by accumulating
+many experiments that we're running various contexts
+and putting them on a common scale.
+So for example, for participation of education,
+you might be interested in how many extra years of education
+do you get by spending $100 in a particular program?
+There are many ways in which you could do that.
+You guys have mentioned various things.
+One that is very popular is conditional cash transfer.
+So when people receive cash transfer that
+are conditional on school participation,
+you could provide school uniforms.
+You could provide school meals.
+You could de-worm children.
+That's the discussion we were having.
+And for all of this, you can ask the same question,
+which is, how much extra years of education
+do you get for having spent $100 or $1,000 on this program?
+So for this, you need the impact evaluation,
+which tells you how much extra years of education
+you got in the context of the experiment.
+And you need to have all of the costs
+and then to take them on average over the number of people
+who were treated.
+So for example, to treat--
+de-worming is super cheap.
+So the cost per child per year is about $0.50.
+And then if you treat a child, if you treat an entire school,
+that will cost you $0.50 multiply by 500 kids,
+and you'll get x number of extra years of education by comparing
+the absence rate in the de-wormed school
+to the non-de-wormed school.
+So there are a number of things that
+have been compared, school health, incentives
+for students, informing parents about returns to education.
+This is nice because all of you proposed this.
+And then once we have that, we can
+do a cost benefit analysis, which will require the needs
+assessment.
+It will require the process evaluation
+because we need all the money that has been spent,
+including what potentially has been wasted.
+And it requires the impact evaluation.
+So all of these are inputs into the cost-benefit analysis.
+So the needs assessment gives you the metric
+for defining the cost-benefit ratio, what's important,
+enrollment, or learning, for example, or both.
+The process evaluation gives you the cost of all the inputs.
+And the impact evaluation gives you the quantified benefits.
+And then when you have that for many programs,
+you can use the cost of the program
+to calculate how much it would cost to do it for 1,000 kids.
+Use the pogrom impact to calculate
+how much extra years of education
+you would have gotten per 1,000 kids.
+So for example, for the cost per child for de-warming is $0.50.
+The increase in year of education if you de-worm
+is 0.15 years.
+So de-worming costs $3 per extra year of education induced
+of $0.50 per year.
+And for this $0.50, you get 0.15 years.
+So it will cost you $3 per extra year of education.
+So this is very different from the rating agency,
+like Charity Navigator, gives you
+a cost estimate for agencies.
+But they don't relate it to the impact.
+So they will still like de-worming
+because it's so cheap.
+But if you don't follow it to the impact,
+you could do things that are extraordinarily cheap,
+like sending letters to people.
+If the letters will only work, it
+will still only worth doing if it makes a difference.
+On the other hand, you could do something very expensive,
+but has a tremendous effect over people's lifetime,
+even if it's one shot.
+Then it might still be worth it doing it.
+So the cost is not sufficient to say whether you want
+or not to do this problem.
+You have to have the cost and the impact.
+And this is one way to do this.
+So for the cost per extra year of education induced,
+we compare these various intervention primary or--
+this is the primary or secondary school conditional cash
+transfer in Mexico.
+You can see it has its own scale because per year of education
+induced, it is very expensive, $6,000 for the primary school
+CCT and $1,000 for secondary school CCT,
+even though secondary school is more expensive,
+but it has a larger effect.
+And then all of the things to the left
+are things that have been evaluated
+in Kenya and India, which gives you
+the cost of doing school uniform per extra year of education,
+doing scholarship for girls, providing
+an extra teacher in India, or providing de-worming
+both in India and Kenya, and finally, our school meals.
+And you can see that it is de-worming
+that turns out to be the cheapest
+way to increase education.
+And what is funny is that it is not even
+an education intervention.
+And the thing that looks to be the most direct, like providing
+girls scholarship or conditional cash transfer,
+they are effective, but they are less cost effective.
+So the intuitions we might have going into problems
+are usually a little off because if we
+think we want to keep school kids in school,
+we have to do things that have to do with schools directly.
+But in fact, there might be things
+to do that, in this case, has to do with health and as
+even larger.
