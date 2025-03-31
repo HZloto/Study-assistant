@@ -33,7 +33,7 @@ except Exception as e:
     st.stop()
 
 # Recommended model (Using 1.5 Flash, good for structured output and general tasks)
-MODEL_NAME = "gemini-1.5-flash"
+MODEL_NAME = "gemini-2.0-flash"
 # If you specifically need 2.0-flash capabilities, change it back:
 # MODEL_NAME = "gemini-2.0-flash"
 
@@ -162,7 +162,6 @@ B. One who needs to stick to a routine
 C. One who plans to make a large investment that won’t pay off right away
 D. One who just needs to pay for one large, unexpected expense (e.g., a medical bill)
 
-User: A, C
 
 Tutor:
 ✅ **Partially Correct!** (A and C are good choices)
@@ -179,7 +178,6 @@ Tutor:
 Tutor:
 **Question 8:** Fill in the blank. Overall, the results from Barboni and Agarwal (2022) suggest that offering entrepreneurs a choice between a traditional loan and a flexible loan with a higher interest rate is ______ for the client and ______ for the bank.
 
-User: good, neutral/ambiguous
 
 Tutor:
 ✅ **Correct!**
@@ -196,7 +194,6 @@ Tutor:
 A. True
 B. False
 
-User: False
 
 Tutor:
 ✅ **Correct!**
