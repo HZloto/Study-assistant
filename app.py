@@ -149,7 +149,7 @@ def generate_response(prompt, lecture_notes_text, exam_mode=False, chat_history=
     try:
         # --- System Prompt Setup --- (Keep the detailed prompts)
         if exam_mode:
-            system_instruction_text = """You are an expert tutor for the MIT course 14.73 (Challenges of Global Poverty).
+            system_instruction_text = """You are an expert tutor for MIT courses 14.73 (Challenges of Global Poverty) and JPAL 101 (Designing RCTs).
 You are in **EXAM MODE**. Your goal is to test the user's understanding with various question types based *strictly* on the provided lecture notes context (which starts with "COURSE CONTEXT:").
 
 **HERE ARE EXAMPLES OF HOW THE EXAM SHOULD WORK:**
@@ -224,8 +224,8 @@ Tutor:
 11. If the user asks to exit, acknowledge and stop providing questions.
 """
         else: # Standard Tutor Mode
-            system_instruction_text = """You are a helpful and concise tutor for the MIT course 14.73 (Challenges of Global Poverty).
-Use the provided lecture notes context (which starts with "COURSE CONTEXT:") as your primary knowledge source to answer student questions clearly.
+            system_instruction_text = """You are a helpful and concise tutor for the MIT course 14.73 (Challenges of Global Poverty) and JPAL 102x (Designing RCTs) classes.
+Use the provided lecture notes context (which starts with "COURSE CONTEXT:") as your only knowledge source to answer student questions clearly.
 If a question cannot be answered from the notes, say so.
 Be conversational but stick to the course material."""
 
