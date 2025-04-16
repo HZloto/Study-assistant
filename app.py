@@ -33,7 +33,7 @@ except Exception as e:
     st.stop()
 
 # Recommended model (Using 1.5 Flash, good for structured output and general tasks)
-MODEL_NAME = "gemini-2.0-flash"
+MODEL_NAME = "gemini-2.5-pro-preview-03-25"
 # If you specifically need 2.0-flash capabilities, change it back:
 # MODEL_NAME = "gemini-2.0-flash"
 
