@@ -32,15 +32,14 @@ except Exception as e:
     traceback.print_exc()
     st.stop()
 
-# Recommended model (Using 1.5 Flash, good for structured output and general tasks)
-MODEL_NAME = "gemini-2.5-pro-preview-03-25"
-# If you specifically need 2.0-flash capabilities, change it back:
-# MODEL_NAME = "gemini-2.0-flash"
+# Recommended model (Using 2.5 Pro for best results, Flash as fallback)
+MODEL_NAME = "gemini-2.5-pro"  # Changed to more stable Flash model
+# Alternative: "gemini-1.5-pro" or "gemini-1.5-flash"
 
-# --- Helper Functions (extract_text_from_folder, get_available_courses remain same) ---
+# --- Helper Functions ---
 
 def extract_text_from_folder(folder_path):
-    # (Function remains the same)
+    """Extract text from all .txt files in a folder."""
     all_text = ""
     if not os.path.exists(folder_path):
         return f"Error: Folder '{folder_path}' not found."
@@ -57,7 +56,7 @@ def extract_text_from_folder(folder_path):
         return ""
 
 def get_available_courses():
-    # (Function remains the same)
+    """Return a list of available courses in the Courses directory."""
     courses_dir = "Courses"
     if not os.path.exists(courses_dir):
         return []
@@ -71,11 +70,32 @@ def get_available_courses():
         st.error(f"Error accessing Courses directory: {e}")
         return []
 
+def get_available_lessons(course):
+    """Return a list of available lessons for the selected course."""
+    course_dir = os.path.join("Courses", course)
+    if not os.path.exists(course_dir):
+        return []
+    try:
+        def natural_sort_key(s):
+            return [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', s)]
+        return sorted([folder for folder in os.listdir(course_dir)
+                if os.path.isdir(os.path.join(course_dir, folder))],
+                key=natural_sort_key)
+    except Exception as e:
+        st.error(f"Error accessing lessons directory for course {course}: {e}")
+        return []
 
-# --- Text Extraction Helper (Unified for both generation functions) ---
+def get_course_info(course_name):
+    """Return a formatted description of the course based on course_name."""
+    course_info = {
+        "14.73": "MIT 14.73: The Challenges of Global Poverty",
+        "JPAL102": "JPAL 102x: Designing and Running Randomized Evaluations",
+        # Add more courses as needed
+    }
+    return course_info.get(course_name, course_name)
+
 def safe_extract_response_text(response):
     """Safely extracts text from Gemini response object, handling potential errors."""
-    # (Function remains the same as previous correct version)
     try:
         if hasattr(response, 'text') and response.text:
             return response.text
@@ -128,9 +148,7 @@ def safe_extract_response_text(response):
         traceback.print_exc()
         return None
 
-
-# --- generate_response Function (CORRECTED to use client.models.generate_content) ---
-def generate_response(prompt, lecture_notes_text, exam_mode=False, chat_history=None):
+def generate_response(prompt, lecture_notes_text, course_name, lesson_name, exam_mode=False, chat_history=None):
     """
     Generates a response using the Gemini model with context and chat history,
     aligned with the latest google-genai SDK practices using client.models.
@@ -138,6 +156,8 @@ def generate_response(prompt, lecture_notes_text, exam_mode=False, chat_history=
     Args:
         prompt (str): The user's latest input (question or answer).
         lecture_notes_text (str): The loaded course material.
+        course_name (str): The name of the selected course.
+        lesson_name (str): The name of the selected lesson.
         exam_mode (bool): Flag indicating if exam mode is active.
         chat_history (list): List of previous messages [{'role': 'user'/'model', 'content': str}]
 
@@ -147,19 +167,23 @@ def generate_response(prompt, lecture_notes_text, exam_mode=False, chat_history=
     global client # Use the global client initialized correctly
 
     try:
-        # --- System Prompt Setup --- (Keep the detailed prompts)
+        # Format course name for prompts
+        formatted_course_name = get_course_info(course_name)
+        
+        # --- System Prompt Setup ---
         if exam_mode:
-            system_instruction_text = """You are an expert tutor for MIT courses 14.73 (Challenges of Global Poverty) and JPAL 101 (Designing RCTs).
+            system_instruction_text = f"""You are an expert tutor for {formatted_course_name}.
 You are in **EXAM MODE**. Your goal is to test the user's understanding with various question types based *strictly* on the provided lecture notes context (which starts with "COURSE CONTEXT:").
+The current lesson is: "{lesson_name}".
 
 **HERE ARE EXAMPLES OF HOW THE EXAM SHOULD WORK:**
 
 --- EXAMPLE 1 (Select All) ---
 Tutor:
-**Question 3:** For which types of borrower might a “flexible” repayment plan (e.g., a grace period or a repayment holiday) be most beneficial? Select all that apply.
+**Question 3:** For which types of borrower might a "flexible" repayment plan (e.g., a grace period or a repayment holiday) be most beneficial? Select all that apply.
 A. One whose income is highly variable
 B. One who needs to stick to a routine
-C. One who plans to make a large investment that won’t pay off right away
+C. One who plans to make a large investment that won't pay off right away
 D. One who just needs to pay for one large, unexpected expense (e.g., a medical bill)
 
 
@@ -190,7 +214,7 @@ Tutor:
 
 --- EXAMPLE 3 (True/False) ---
 Tutor:
-**Question 10:** True or false? Considering the evidence presented here and in lecture, increasing access to credit is not a path to increasing the wellbeing of a meaningful number of the world’s poor.
+**Question 10:** True or false? Considering the evidence presented here and in lecture, increasing access to credit is not a path to increasing the wellbeing of a meaningful number of the world's poor.
 A. True
 B. False
 
@@ -207,7 +231,7 @@ Tutor:
 
 **YOUR TASK NOW:**
 
-1.  Ask challenging questions aimed at covering the whole topic based *only* on the provided COURSE CONTEXT. Use a variety of formats:
+1.  Ask challenging questions aimed at covering the whole topic based *only* on the provided COURSE CONTEXT for lesson "{lesson_name}". Use a variety of formats:
     *   Standard Multiple Choice (A, B, C, D) - ask for a single letter answer.
     *   Select All That Apply (A, B, C, D, E, F...) - ask user to list letters separated by commas (e.g., "A, C").
     *   Fill-in-the-Blank - indicate blanks with `______` and ask user to provide the missing word(s), separated by commas if multiple blanks.
@@ -222,9 +246,14 @@ Tutor:
 9.  Do NOT add conversational filler. Just provide evaluation, explanation, separator, and the next question.
 10. If the user's input doesn't seem like a valid answer format *for the question you just asked* (e.g., they type a full sentence), gently remind them of the expected format for *that question type* or tell them they can type 'exit exam mode'.
 11. If the user asks to exit, acknowledge and stop providing questions.
+12. Be challenging: make the questions wrong answers linked to other parts of the class or slight misinterpretations of the material.
+13. Always specify if there are multiple correct answers, or just one.
+14. Don't be shy to add calculatory questions requesting a result or at least finding the correct formula if it is relevant to the class.
+15. When the exam is over, provide a summary of the user's performance, including: Score, description of questions missed and reminder to ensure the missed concepts are reviewed.
 """
         else: # Standard Tutor Mode
-            system_instruction_text = """You are a helpful and concise tutor for the MIT course 14.73 (Challenges of Global Poverty) and JPAL 102x (Designing RCTs) classes.
+            system_instruction_text = f"""You are a helpful and concise tutor for {formatted_course_name}.
+You are currently helping with the lesson: "{lesson_name}".
 Use the provided lecture notes context (which starts with "COURSE CONTEXT:") as your only knowledge source to answer student questions clearly.
 If a question cannot be answered from the notes, say so.
 Be conversational but stick to the course material."""
@@ -234,7 +263,7 @@ Be conversational but stick to the course material."""
         context_string = f"COURSE CONTEXT:\n{lecture_notes_text}"
         # Prepend context and role confirmation as the first turns
         api_contents.append(types.Content(role="user", parts=[types.Part(text=context_string)]))
-        api_contents.append(types.Content(role="model", parts=[types.Part(text="Okay, I have loaded the course context and understand my role.")]))
+        api_contents.append(types.Content(role="model", parts=[types.Part(text=f"Okay, I have loaded the course context for {formatted_course_name}, lesson: {lesson_name}, and understand my role.")]))
 
         if chat_history:
             for message in chat_history:
@@ -301,91 +330,457 @@ Be conversational but stick to the course material."""
         print(f"Gemini API Error during generate_response: {e}")
         traceback.print_exc()
         # Provide a user-friendly error message
-        return "An critical error occurred while trying to get a response. Please check the server logs or contact support."
+        return "A critical error occurred while trying to get a response. Please check the server logs or contact support."
 
-
-# --- generate_flashcards Function (Remains as updated in previous step - already correct) ---
-def generate_flashcards(lecture_notes_text, course_name):
+def estimate_tokens(text):
     """
-    Generates flashcards using the Gemini model based on lecture notes,
-    aligned with the latest google-genai SDK practices.
+    Rough token estimation - Gemini models typically use ~4 characters per token
+    but this can vary significantly based on content complexity.
     """
-    global client # Use the globally defined client object
+    # Conservative estimate: 3.5 characters per token on average
+    return len(text) // 3.5
 
-    flashcard_prompt = f"""
-    Based strictly on the following course material for {course_name}, generate a minimum of 20 flashcards.
-    Focus on the most important key concepts, definitions, methodologies, findings, and potential ambiguities discussed that are likely to be tested on a final exam. Ensure the questions require understanding beyond simple recall where possible.
-
-    Return the flashcards *only* as a valid JSON object (a dictionary) where keys are the questions (front of the card) and values are the concise answers (back of the card). The output must be *only* the JSON object itself, starting with {{ and ending with }}, with no surrounding text, comments, explanations, or markdown code fences like ```json ... ```.
-
-    Example format:
-    {{
-        "What is the 'poverty trap' concept discussed in the context of Sachs?": "A self-reinforcing mechanism where poverty leads to conditions (like low savings, poor health, low education) that prevent escaping poverty, requiring external aid ('big push') to break the cycle.",
-        "According to Banerjee & Duflo, what is a common characteristic of the businesses run by the poor?": "They are often small-scale, undifferentiated, operate in crowded markets, and face constraints like lack of access to credit or insurance, limiting growth potential.",
-        "What was a key finding of the study on deworming in Kenya regarding educational outcomes?": "Deworming significantly reduced school absenteeism and improved attendance, suggesting health interventions can have substantial educational benefits.",
-        "Define 'randomized controlled trial' (RCT) in the context of development economics.": "An experimental method where eligible units (individuals, villages, schools) are randomly assigned to either receive an intervention (treatment group) or not (control group) to measure the causal impact of the intervention.",
-        "What is a potential limitation of using average treatment effects from RCTs to guide policy?": "Average effects might hide significant variation (heterogeneity) in impact across different subgroups, meaning the intervention might be highly effective for some but ineffective or harmful for others."
-    }}
-
-    COURSE MATERIAL:
-    ---
-    {lecture_notes_text}
-    ---
-
-    Generate the JSON object containing at least 20 flashcards now:
+def try_generate_with_fallback_models(client, prompt, config):
     """
+    Try generating content with multiple models as fallback.
+    Returns (response, model_used) or (None, None) if all fail.
+    """
+    # Models to try in order (most capable to most reliable)
+    models_to_try = [
+        "gemini-2.0-flash-exp",
+        "gemini-1.5-flash", 
+        "gemini-1.5-pro"
+    ]
+    
+    for model in models_to_try:
+        try:
+            print(f"DEBUG: Trying model: {model}")
+            response = client.models.generate_content(
+                model=model,
+                contents=prompt,
+                config=config
+            )
+            print(f"DEBUG: Successfully used model: {model}")
+            return response, model
+        except Exception as e:
+            print(f"DEBUG: Model {model} failed with error: {e}")
+            if "500 INTERNAL" in str(e) and model != models_to_try[-1]:
+                print(f"DEBUG: Trying next model due to 500 error...")
+                continue
+            else:
+                # Re-raise the last error if it's not a 500 or it's the last model
+                if model == models_to_try[-1]:
+                    raise e
+                continue
+    
+    return None, None
+
+def intelligent_content_truncation(text, max_chars=45000):
+    """
+    Intelligently truncate content by preserving complete sections/paragraphs.
+    Tries to cut at natural breakpoints like headers, sections, or paragraphs.
+    """
+    if len(text) <= max_chars:
+        return text
+    
+    # Try to find good breakpoints in order of preference
+    breakpoints = [
+        (r'\n\n[A-Z][^\.]*\n\n', 'section'),  # Section headers
+        (r'\n\n.*?[\.!?]\n\n', 'paragraph'),   # Complete paragraphs
+        (r'\n\n', 'double_newline'),           # Paragraph breaks
+        (r'\. ', 'sentence'),                  # Sentence endings
+    ]
+    
+    # Start with a conservative limit to ensure we have room
+    target_length = min(max_chars, int(max_chars * 0.9))
+    
+    for pattern, breakpoint_type in breakpoints:
+        matches = list(re.finditer(pattern, text[:target_length + 2000]))  # Look a bit beyond target
+        if matches:
+            # Find the last good match within our target length
+            best_match = None
+            for match in matches:
+                if match.end() <= target_length:
+                    best_match = match
+                else:
+                    break
+            
+            if best_match:
+                truncated = text[:best_match.end()].strip()
+                if len(truncated) > max_chars * 0.6:  # Ensure we keep a reasonable amount
+                    return truncated + f"\n\n[Content truncated at {breakpoint_type} boundary]"
+    
+    # Fallback to simple character truncation
+    return text[:target_length].strip() + "\n\n[Content truncated due to length limits]"
+
+def get_flashcard_cache_path(course_name, lesson_name):
+    """Generate the cache file path for flashcards."""
+    cache_dir = os.path.join("data", "flashcard_cache")
+    os.makedirs(cache_dir, exist_ok=True)
+    # Clean names for safe file paths
+    safe_course = re.sub(r'[^\w\-_.]', '_', course_name)
+    safe_lesson = re.sub(r'[^\w\-_.]', '_', lesson_name)
+    filename = f"{safe_course}_{safe_lesson}_flashcards.json"
+    return os.path.join(cache_dir, filename)
+
+def load_cached_flashcards(course_name, lesson_name):
+    """Load flashcards from cache if they exist."""
+    cache_path = get_flashcard_cache_path(course_name, lesson_name)
+    try:
+        if os.path.exists(cache_path):
+            with open(cache_path, 'r', encoding='utf-8') as f:
+                cached_data = json.load(f)
+                # Validate cache structure
+                if isinstance(cached_data, dict) and len(cached_data) > 0:
+                    return cached_data
+                else:
+                    st.warning("Invalid cached flashcard format found. Will regenerate.")
+                    return None
+        return None
+    except Exception as e:
+        st.warning(f"Error loading cached flashcards: {e}. Will regenerate.")
+        print(f"Cache loading error: {e}")
+        return None
+
+def save_flashcards_to_cache(flashcards_dict, course_name, lesson_name):
+    """Save flashcards to cache file."""
+    cache_path = get_flashcard_cache_path(course_name, lesson_name)
+    try:
+        with open(cache_path, 'w', encoding='utf-8') as f:
+            json.dump(flashcards_dict, f, indent=2, ensure_ascii=False)
+        return True
+    except Exception as e:
+        st.warning(f"Failed to save flashcards to cache: {e}")
+        print(f"Cache saving error: {e}")
+        return False
+
+def clear_flashcard_cache(course_name=None, lesson_name=None):
+    """Clear flashcard cache. If course/lesson specified, clear only that cache."""
+    cache_dir = os.path.join("data", "flashcard_cache")
+    try:
+        if course_name and lesson_name:
+            # Clear specific cache file
+            cache_path = get_flashcard_cache_path(course_name, lesson_name)
+            if os.path.exists(cache_path):
+                os.remove(cache_path)
+                return True
+        else:
+            # Clear entire cache directory
+            if os.path.exists(cache_dir):
+                import shutil
+                shutil.rmtree(cache_dir)
+                os.makedirs(cache_dir, exist_ok=True)
+                return True
+        return False
+    except Exception as e:
+        st.error(f"Error clearing cache: {e}")
+        return False
+
+def generate_flashcards(lecture_notes_text, course_name, lesson_name, force_regenerate=False):
+    """
+    Generates flashcards using the Gemini model based on lecture notes.
+    Uses caching to avoid regenerating the same flashcards.
+    
+    Args:
+        lecture_notes_text (str): The course material text
+        course_name (str): Name of the course
+        lesson_name (str): Name of the lesson
+        force_regenerate (bool): If True, skip cache and regenerate flashcards
+    """
+    global client
+    
+    # Check cache first unless force to regenerate
+    if not force_regenerate:
+        cached_flashcards = load_cached_flashcards(course_name, lesson_name)
+        if cached_flashcards:
+            st.success(f"✅ Loaded {len(cached_flashcards)} flashcards from cache!")
+            st.info("💡 These flashcards were previously generated. Use 'Regenerate' to create new ones.")
+            return cached_flashcards
+    
+    # Format course name for prompts
+    formatted_course_name = get_course_info(course_name)
+
+    # Check content length and adjust strategy - Much more aggressive limits
+    word_count = len(lecture_notes_text.split())
+    char_count = len(lecture_notes_text)
+    estimated_tokens = estimate_tokens(lecture_notes_text)
+    
+    # Log content statistics for debugging
+    print(f"DEBUG: Content stats - Characters: {char_count:,}, Words: {word_count:,}, Estimated tokens: {estimated_tokens:.0f}")
+    
+    # Very conservative content size management - aim for max 25,000 characters to be safe
+    if char_count > 30000:  # Much more conservative limit
+        st.warning(f"Course material is very long ({char_count:,} characters, ~{estimated_tokens:.0f} tokens). Using aggressive truncation.")
+        lecture_notes_text = intelligent_content_truncation(lecture_notes_text, 25000)
+        target_cards = 20
+        st.info(f"Content aggressively reduced to {len(lecture_notes_text):,} characters (~{estimate_tokens(lecture_notes_text):.0f} tokens).")
+    elif char_count > 20000:
+        st.warning(f"Course material is quite long ({char_count:,} characters, ~{estimated_tokens:.0f} tokens). Using intelligent truncation.")
+        lecture_notes_text = intelligent_content_truncation(lecture_notes_text, 18000)
+        target_cards = 20
+        st.info(f"Content reduced to {len(lecture_notes_text):,} characters (~{estimate_tokens(lecture_notes_text):.0f} tokens).")
+    elif char_count > 15000:
+        st.info(f"Course material is moderately long ({char_count:,} characters, ~{estimated_tokens:.0f} tokens). Using slight truncation.")
+        lecture_notes_text = intelligent_content_truncation(lecture_notes_text, 14000)
+        target_cards = 20
+    elif word_count > 2000:
+        target_cards = 20
+    else:
+        target_cards = 20
+
+    # Ultra-concise prompt to minimize token usage - accept both formats
+    flashcard_prompt = f"""Create {target_cards} Q&A flashcards from: {formatted_course_name} - {lesson_name}
+
+Return valid JSON in one of these formats:
+1. {{"Question 1": "Answer 1", "Question 2": "Answer 2", ...}}
+2. [{{"Q1": "Question 1", "A1": "Answer 1"}}, {{"Q2": "Question 2", "A2": "Answer 2"}}, ...]
+
+Keep answers brief (<50 words).
+
+CONTENT:
+{lecture_notes_text}
+"""
+
+    # Calculate final prompt token estimate
+    prompt_tokens = estimate_tokens(flashcard_prompt)
+    print(f"DEBUG: Final prompt stats - Characters: {len(flashcard_prompt):,}, Estimated tokens: {prompt_tokens:.0f}")
+    
+    if prompt_tokens > 30000:  # Very conservative limit
+        st.error(f"⚠️ Even after truncation, content is too large (~{prompt_tokens:.0f} tokens). Maximum recommended: ~30,000 tokens.")
+        st.info("Try selecting a smaller lesson or splitting the content into multiple files.")
+        return None
 
     try:
-        response = client.models.generate_content(
-            model=MODEL_NAME,
-            contents=flashcard_prompt,
-            config=types.GenerateContentConfig(
-                temperature=0.4,
-                max_output_tokens=4096,
-                response_mime_type="application/json"
-            )
+        # Use more conservative parameters and fallback models
+        config = types.GenerateContentConfig(
+            temperature=0.2,  # Lower temperature for more focused output
+            max_output_tokens=3072,  # Further reduced to prevent any overflow
+            response_mime_type="application/json"
         )
+        
+        response, model_used = try_generate_with_fallback_models(client, flashcard_prompt, config)
+        if response is None:
+            st.error("All models failed to generate flashcards. Please try with smaller content.")
+            return None
+            
+        if model_used != MODEL_NAME:
+            st.info(f"🔄 Used fallback model: {model_used}")
 
         response_text = safe_extract_response_text(response)
         if not response_text:
-            st.error("Flashcard generation failed: Received no text content from the model even when requesting JSON.")
-            print("DEBUG: Full response object when text was missing (JSON requested):", response)
+            st.error("Flashcard generation failed: No response text received.")
             return None
 
+        response_text = response_text.strip()
+        
+        # Enhanced debugging for malformed responses
+        print(f"DEBUG: Response length: {len(response_text)} characters")
+        print(f"DEBUG: Response starts with: {response_text[:100]}")
+        print(f"DEBUG: Response ends with: {response_text[-100:]}")
+
+        # Enhanced response validation - handle both object and array formats
+        is_valid_json = False
+        if response_text.startswith('{') and response_text.endswith('}'):
+            is_valid_json = True
+        elif response_text.startswith('[') and response_text.endswith(']'):
+            is_valid_json = True
+            
+        if not is_valid_json:
+            st.warning("Response appears malformed or truncated. Attempting recovery...")
+            print("DEBUG: Malformed response:", response_text[:500] + "..." if len(response_text) > 500 else response_text)
+            
+            # Try to fix common issues for object format
+            if response_text.startswith('{') and not response_text.endswith('}'):
+                # Find last complete entry more carefully
+                lines = response_text.split('\n')
+                fixed_lines = []
+                for line in lines:
+                    if '": "' in line and (line.strip().endswith('",') or line.strip().endswith('"')):
+                        fixed_lines.append(line)
+                    elif line.strip() in ['{', '}']:
+                        fixed_lines.append(line)
+                
+                if fixed_lines and fixed_lines[0].strip() == '{':
+                    # Remove trailing comma from last entry if present
+                    if len(fixed_lines) > 1 and fixed_lines[-1].strip().endswith('",'):
+                        fixed_lines[-1] = fixed_lines[-1].rstrip().rstrip(',') + '"'
+                    fixed_lines.append('}')
+                    response_text = '\n'.join(fixed_lines)
+                    st.info("Successfully recovered flashcards from malformed response.")
+            
+            # Try to fix common issues for array format
+            elif response_text.startswith('[') and not response_text.endswith(']'):
+                # Try to close the array properly
+                if response_text.rstrip().endswith('}'):
+                    response_text = response_text.rstrip() + '\n]'
+                    st.info("Successfully recovered flashcards from incomplete array.")
+                elif response_text.rstrip().endswith(','):
+                    # Remove trailing comma and close array
+                    response_text = response_text.rstrip().rstrip(',') + '\n]'
+                    st.info("Successfully recovered flashcards from incomplete array.")
+
+        # Handle both array and object JSON formats
         try:
-            flashcards_dict = json.loads(response_text)
-            if not isinstance(flashcards_dict, dict):
-                st.error("Flashcard generation failed: Parsed JSON result is not a dictionary.")
-                print("DEBUG: Parsed JSON result type:", type(flashcards_dict))
-                print("DEBUG: Raw response text:", response_text)
-                return None
+            parsed_data = json.loads(response_text)
+            
+            # Convert array format to dictionary format
+            if isinstance(parsed_data, list):
+                print("DEBUG: Converting array format to dictionary format")
+                flashcards_dict = {}
+                for i, item in enumerate(parsed_data, 1):
+                    if isinstance(item, dict):
+                        # Handle objects with Q1/A1, Q2/A2 pattern
+                        for key, value in item.items():
+                            if key.startswith('Q') and key[1:].isdigit():
+                                q_num = key[1:]
+                                a_key = f"A{q_num}"
+                                if a_key in item:
+                                    flashcards_dict[value] = item[a_key]
+                                    break
+                        # Handle simple question/answer pairs
+                        if len(item) == 2:
+                            keys = list(item.keys())
+                            values = list(item.values())
+                            if any(word in keys[0].lower() for word in ['question', 'q']):
+                                flashcards_dict[values[0]] = values[1]
+                            else:
+                                flashcards_dict[values[0]] = values[1]
+            elif isinstance(parsed_data, dict):
+                flashcards_dict = parsed_data
+            else:
+                raise ValueError(f"Expected dictionary or list, got {type(parsed_data)}")
+            
             if len(flashcards_dict) == 0:
-                 st.error("Flashcard generation resulted in an empty dictionary.")
-                 return None
-            if len(flashcards_dict) < 20:
-                 st.warning(f"Generated {len(flashcards_dict)} flashcards, which is less than the requested minimum of 20. Proceeding anyway.")
+                st.error("Generated empty flashcard set.")
+                return None
+            
+            # Clean up the flashcards
+            cleaned_dict = {}
+            for q, a in flashcards_dict.items():
+                clean_q = str(q).strip()
+                clean_a = str(a).strip()
+                if clean_q and clean_a and clean_q != clean_a:
+                    cleaned_dict[clean_q] = clean_a
+            
+            if len(cleaned_dict) < 5:
+                st.error(f"Too few valid flashcards generated ({len(cleaned_dict)}). Please try again.")
+                return None
+            
+            # Save to cache before returning
+            if save_flashcards_to_cache(cleaned_dict, course_name, lesson_name):
+                cache_icon = "💾"
+            else:
+                cache_icon = "⚠️"
+            
+            if len(cleaned_dict) < target_cards * 0.7:  # More lenient threshold
+                st.warning(f"Generated {len(cleaned_dict)} flashcards (less than target of {target_cards}). {cache_icon}")
+            else:
+                st.success(f"Successfully generated {len(cleaned_dict)} flashcards! {cache_icon}")
+            
+            return cleaned_dict
 
-            flashcards_dict = {str(k).strip(): str(v).strip() for k, v in flashcards_dict.items()}
-            return flashcards_dict
-
-        except json.JSONDecodeError as e:
-            st.error(f"Flashcard generation failed: Could not parse the response as valid JSON: {e}")
-            st.error("The model did not return a valid JSON object despite being asked to.")
-            print("DEBUG: Raw response text that failed JSON parsing:\n", response_text)
-            return None
+        except (json.JSONDecodeError, ValueError) as e:
+            st.error(f"JSON parsing failed: {e}")
+            print("DEBUG: Failed JSON text:", response_text)
+            
+            # Enhanced regex fallback
+            st.info("Attempting advanced text parsing recovery...")
+            try:
+                # More flexible regex patterns
+                patterns = [
+                    r'"([^"]+)":\s*"([^"]*(?:\\.[^"]*)*)"',  # Original pattern
+                    r'"([^"]+)":\s*"([^"]+)"',  # Simpler pattern
+                    r'(["\'])([^"\']+)\1:\s*(["\'])([^"\']+)\3',  # Mixed quotes
+                ]
+                
+                best_matches = []
+                for pattern in patterns:
+                    matches = re.findall(pattern, response_text, re.DOTALL)
+                    if pattern == patterns[2]:  # Handle mixed quotes result
+                        matches = [(m[1], m[3]) for m in matches]
+                    if len(matches) > len(best_matches):
+                        best_matches = matches
+                
+                if best_matches and len(best_matches) >= 5:
+                    fallback_dict = {}
+                    for q, a in best_matches:
+                        clean_q = q.strip()
+                        clean_a = a.strip()
+                        if clean_q and clean_a and len(clean_q) > 10 and len(clean_a) > 10:
+                            fallback_dict[clean_q] = clean_a
+                    
+                    if len(fallback_dict) >= 5:
+                        # Save recovered flashcards to cache
+                        save_flashcards_to_cache(fallback_dict, course_name, lesson_name)
+                        st.success(f"Recovered {len(fallback_dict)} flashcards using text parsing! 💾")
+                        return fallback_dict
+                
+                st.error("All recovery attempts failed. Please try generating flashcards again.")
+                return None
+                
+            except Exception as fallback_error:
+                st.error(f"Recovery parsing failed: {fallback_error}")
+                return None
 
     except Exception as e:
-        st.error(f"An error occurred during flashcard generation: {e}")
-        print(f"Gemini API Error during generate_flashcards: {e}")
+        error_msg = str(e)
+        
+        # Enhanced error handling with specific debugging
+        print(f"DEBUG: Full error details: {e}")
+        print(f"DEBUG: Error type: {type(e)}")
+        
+        # Handle specific token/context length errors with better messaging
+        if "500 INTERNAL" in error_msg or "INTERNAL" in error_msg:
+            # Calculate and display token information
+            final_char_count = len(lecture_notes_text)
+            final_token_estimate = estimate_tokens(lecture_notes_text)
+            
+            st.error("⚠️ API Error: Content processing failed (Error 500)")
+            st.info("**This could be due to:**")
+            st.info("• Content complexity exceeding processing limits")
+            st.info("• Temporary API service issues")
+            st.info("• Token limits despite character count being reasonable")
+            
+            with st.expander("🔍 Debug Information"):
+                st.write(f"**Content length:** {final_char_count:,} characters")
+                st.write(f"**Estimated tokens:** {final_token_estimate:.0f}")
+                st.write(f"**Course:** {course_name}")
+                st.write(f"**Lesson:** {lesson_name}")
+                st.write(f"**Model:** {MODEL_NAME}")
+                
+            st.warning("**Try these solutions:**")
+            st.info("1. Wait a few minutes and try again (temporary API issue)")
+            st.info("2. Split this lesson into smaller text files")
+            st.info("3. Try switching to Gemini 1.5 Flash model")
+            st.info("4. Remove some content from the lesson files")
+            
+        elif "input context" in error_msg.lower() and "too long" in error_msg.lower():
+            st.error("⚠️ Input context is too long for the model.")
+            st.info("**Suggestions:**")
+            st.info("• Split content into smaller lessons")
+            st.info("• Use shorter text files")
+            st.info("• Remove unnecessary content from files")
+            st.warning(f"Current content length: {len(lecture_notes_text):,} characters.")
+        elif "DEADLINE_EXCEEDED" in error_msg:
+            st.error("⚠️ Request timeout: Content took too long to process.")
+            st.info("Try with smaller content or try again later.")
+        elif "RESOURCE_EXHAUSTED" in error_msg:
+            st.error("⚠️ Rate limit exceeded. Please wait a moment before trying again.")
+        else:
+            st.error(f"Flashcard generation error: {e}")
+            st.info("This might be a temporary API issue. Please try again in a moment.")
+            st.info("If the problem persists, try with smaller content or a different lesson.")
+        
+        print(f"Flashcard generation error: {e}")
         traceback.print_exc()
         return None
+        return None
 
-
-# --- Streamlit App (UI Code remains the same) ---
+# --- Streamlit App ---
 
 st.set_page_config(page_title="Study Bot", page_icon="📚", layout="wide")
 
-# --- Initialize Session State --- (Remains the same)
+# --- Initialize Session State ---
 if "messages" not in st.session_state:
     st.session_state.messages = [{"role": "model", "content": "Welcome! Please select a course to load materials."}]
 if "exam_mode" not in st.session_state:
@@ -396,6 +791,8 @@ if "current_lecture_text" not in st.session_state:
     st.session_state.current_lecture_text = ""
 if "selected_course" not in st.session_state:
     st.session_state.selected_course = None
+if "selected_lesson" not in st.session_state:
+    st.session_state.selected_lesson = None
 if "flashcards" not in st.session_state:
     st.session_state.flashcards = None
 if "flashcard_index" not in st.session_state:
@@ -403,7 +800,7 @@ if "flashcard_index" not in st.session_state:
 if "show_flashcard_answer" not in st.session_state:
     st.session_state.show_flashcard_answer = False
 
-# --- Sidebar --- (Remains the same)
+# --- Sidebar ---
 with st.sidebar:
     st.title("📚 Study Bot")
     st.markdown(f"**Model:** `{MODEL_NAME}`")
@@ -423,37 +820,67 @@ with st.sidebar:
         st.session_state.flashcards = None
         st.session_state.flashcard_index = 0
         st.session_state.show_flashcard_answer = False
-        st.session_state.messages = [{"role": "model", "content": "Select 'Load Course Materials' below."}]
+        st.session_state.messages = [{"role": "model", "content": "Please select a lesson and click 'Load Materials'."}]
         st.session_state.current_lecture_text = ""
+        st.session_state.selected_lesson = None
 
     new_selection = st.selectbox(
         "Select a course", available_courses, index=selected_course_index, key="course_selector", on_change=on_course_change
     )
     if new_selection != st.session_state.selected_course:
        st.session_state.selected_course = new_selection
+    
+    # Add lesson selection
+    if st.session_state.selected_course:
+        available_lessons = get_available_lessons(st.session_state.selected_course)
+        lesson_index = 0
+        if st.session_state.selected_lesson in available_lessons:
+            lesson_index = available_lessons.index(st.session_state.selected_lesson)
+        
+        def on_lesson_change():
+            st.session_state.exam_mode = False
+            st.session_state.flashcard_mode = False
+            st.session_state.flashcards = None
+            st.session_state.flashcard_index = 0
+            st.session_state.show_flashcard_answer = False
+            st.session_state.messages = [{"role": "model", "content": "Click 'Load Materials' to continue."}]
+            st.session_state.current_lecture_text = ""
+        
+        selected_lesson = st.selectbox(
+            "Select a lesson", 
+            available_lessons, 
+            index=lesson_index,
+            key="lesson_selector",
+            on_change=on_lesson_change
+        )
+        
+        if selected_lesson != st.session_state.selected_lesson:
+            st.session_state.selected_lesson = selected_lesson
 
-    if st.button("Load Course Materials", key="load_course_button", disabled=(st.session_state.selected_course is None)):
-        if st.session_state.selected_course:
-            course_path = os.path.join("Courses", st.session_state.selected_course)
-            with st.spinner(f"Loading materials for {st.session_state.selected_course}..."):
-                lecture_text = extract_text_from_folder(course_path)
+    loading_disabled = st.session_state.selected_course is None or st.session_state.selected_lesson is None
+    if st.button("Load Materials", key="load_course_button", disabled=loading_disabled):
+        if st.session_state.selected_course and st.session_state.selected_lesson:
+            lesson_path = os.path.join("Courses", st.session_state.selected_course, st.session_state.selected_lesson)
+            with st.spinner(f"Loading materials for {st.session_state.selected_course}, {st.session_state.selected_lesson}..."):
+                lecture_text = extract_text_from_folder(lesson_path)
                 if lecture_text and not lecture_text.startswith("Error:"):
                     st.session_state.current_lecture_text = lecture_text
+                    course_info = get_course_info(st.session_state.selected_course)
                     st.session_state.messages = [
-                        {"role": "model", "content": f"Course '{st.session_state.selected_course}' loaded. Ask questions, start exam, or generate flashcards."}
+                        {"role": "model", "content": f"{course_info}, lesson '{st.session_state.selected_lesson}' loaded. Ask questions, start an exam, or generate flashcards."}
                     ]
                     st.session_state.exam_mode = False
                     st.session_state.flashcard_mode = False
                     st.session_state.flashcards = None
                     st.session_state.flashcard_index = 0
                     st.session_state.show_flashcard_answer = False
-                    st.success(f"Loaded '{st.session_state.selected_course}' successfully!")
+                    st.success(f"Loaded '{st.session_state.selected_lesson}' successfully!")
                     st.rerun()
                 else:
-                    error_msg = lecture_text if lecture_text and lecture_text.startswith("Error:") else f"Failed to load lecture text for {st.session_state.selected_course}."
+                    error_msg = lecture_text if lecture_text and lecture_text.startswith("Error:") else f"Failed to load lecture text for {st.session_state.selected_lesson}."
                     st.error(error_msg)
                     st.session_state.current_lecture_text = ""
-                    st.session_state.messages = [{"role": "model", "content": "Failed to load course. Please select another."}]
+                    st.session_state.messages = [{"role": "model", "content": "Failed to load materials. Please select another lesson."}]
                     st.session_state.exam_mode = False
                     st.session_state.flashcard_mode = False
 
@@ -482,40 +909,99 @@ with st.sidebar:
                     initial_exam_prompt = "Please start the final exam by providing the first question based on the course material. Use varied question types."
                     history_for_first_question = [msg for msg in st.session_state.messages if not (msg["role"] == "model" and (msg["content"].startswith("Welcome!") or msg["content"].startswith("Select 'Load")))]
                     with st.spinner("Starting exam and preparing the first question..."):
-                        response = generate_response( # NOW calls the corrected function
+                        response = generate_response(
                             initial_exam_prompt,
                             st.session_state.current_lecture_text,
+                            st.session_state.selected_course,
+                            st.session_state.selected_lesson,
                             exam_mode=True,
                             chat_history=history_for_first_question
                         )
                     st.session_state.messages.append({"role": "model", "content": response})
                     st.rerun()
             with col2:
-                if st.button("⚡ Generate Flashcards", type="primary", key="start_flashcards", use_container_width=True):
-                    st.session_state.flashcard_mode = True
-                    st.session_state.exam_mode = False
-                    st.session_state.flashcards = None
-                    st.session_state.flashcard_index = 0
-                    st.session_state.show_flashcard_answer = False
-                    with st.spinner(f"Generating flashcards for {st.session_state.selected_course}... (This may take a moment)"):
-                        flashcards_dict = generate_flashcards(st.session_state.current_lecture_text, st.session_state.selected_course) # Uses the correct SDK pattern
-                    if flashcards_dict:
-                        st.session_state.flashcards = list(flashcards_dict.items())
-                        if not st.session_state.flashcards:
-                             st.error("Failed to generate flashcards (empty result). Please try again.")
-                             st.session_state.flashcard_mode = False
+                # Check if cached flashcards exist
+                cached_exists = load_cached_flashcards(st.session_state.selected_course, st.session_state.selected_lesson) is not None
+                
+                if cached_exists:
+                    # Show two buttons vertically stacked instead of side by side to avoid nested columns
+                    if st.button("⚡ Load Flashcards", type="primary", key="load_flashcards", use_container_width=True):
+                        st.session_state.flashcard_mode = True
+                        st.session_state.exam_mode = False
+                        st.session_state.flashcards = None
+                        st.session_state.flashcard_index = 0
+                        st.session_state.show_flashcard_answer = False
+                        
+                        flashcards_dict = load_cached_flashcards(st.session_state.selected_course, st.session_state.selected_lesson)
+                        if flashcards_dict:
+                            st.session_state.flashcards = list(flashcards_dict.items())
+                            st.success(f"Loaded {len(st.session_state.flashcards)} cached flashcards!")
                         else:
-                            st.success(f"Generated {len(st.session_state.flashcards)} flashcards!")
-                    else:
-                        st.error("Failed to generate flashcards. Please try again or check the logs.")
-                        st.session_state.flashcard_mode = False
-                    st.rerun()
+                            st.error("Failed to load cached flashcards.")
+                            st.session_state.flashcard_mode = False
+                        st.rerun()
+                    
+                    if st.button("🔄 Regenerate", type="secondary", key="regen_flashcards", use_container_width=True):
+                        st.session_state.flashcard_mode = True
+                        st.session_state.exam_mode = False
+                        st.session_state.flashcards = None
+                        st.session_state.flashcard_index = 0
+                        st.session_state.show_flashcard_answer = False
+                        with st.spinner(f"Regenerating flashcards for {st.session_state.selected_lesson}..."):
+                            flashcards_dict = generate_flashcards(
+                                st.session_state.current_lecture_text, 
+                                st.session_state.selected_course,
+                                st.session_state.selected_lesson,
+                                force_regenerate=True
+                            )
+                        if flashcards_dict:
+                            st.session_state.flashcards = list(flashcards_dict.items())
+                            if not st.session_state.flashcards:
+                                 st.error("Failed to generate flashcards (empty result). Please try again.")
+                                 st.session_state.flashcard_mode = False
+                        else:
+                            st.error("Failed to generate flashcards. Please try again or check the logs.")
+                            st.session_state.flashcard_mode = False
+                        st.rerun()
+                else:
+                    # No cache exists, show single generate button
+                    if st.button("⚡ Generate Flashcards", type="primary", key="start_flashcards", use_container_width=True):
+                        st.session_state.flashcard_mode = True
+                        st.session_state.exam_mode = False
+                        st.session_state.flashcards = None
+                        st.session_state.flashcard_index = 0
+                        st.session_state.show_flashcard_answer = False
+                        with st.spinner(f"Generating flashcards for {st.session_state.selected_lesson}... (This may take a moment)"):
+                            flashcards_dict = generate_flashcards(
+                                st.session_state.current_lecture_text, 
+                                st.session_state.selected_course,
+                                st.session_state.selected_lesson
+                            )
+                        if flashcards_dict:
+                            st.session_state.flashcards = list(flashcards_dict.items())
+                            if not st.session_state.flashcards:
+                                 st.error("Failed to generate flashcards (empty result). Please try again.")
+                                 st.session_state.flashcard_mode = False
+                        else:
+                            st.error("Failed to generate flashcards. Please try again or check the logs.")
+                            st.session_state.flashcard_mode = False
+                        st.rerun()
 
         st.divider()
-        st.subheader("Course Info")
+        st.subheader("Current Selection")
+        formatted_course = get_course_info(st.session_state.selected_course)
         word_count = len(st.session_state.current_lecture_text.split()) if st.session_state.current_lecture_text else 0
-        st.write(f"**Course:** {st.session_state.selected_course or 'None Selected'}")
+        char_count = len(st.session_state.current_lecture_text) if st.session_state.current_lecture_text else 0
+        st.write(f"**Course:** {formatted_course}")
+        st.write(f"**Lesson:** {st.session_state.selected_lesson}")
         st.write(f"**Word Count:** {word_count:,}")
+        st.write(f"**Character Count:** {char_count:,}")
+        
+        # Add content size warning for flashcard generation
+        if char_count > 60000:
+            st.warning("⚠️ Large content - flashcards will be truncated")
+        elif char_count > 40000:
+            st.info("📊 Moderate content - may generate fewer flashcards")
 
         status_text = "💬 QA Mode"
         if st.session_state.exam_mode:
@@ -525,17 +1011,26 @@ with st.sidebar:
              status_text = f"⚡ Flashcard Mode Active ({card_count} cards)"
         st.markdown(f"**Status:** {status_text}")
 
+        # Add cache status info
+        cached_exists = load_cached_flashcards(st.session_state.selected_course, st.session_state.selected_lesson) is not None
+        cache_status = "💾 Cached" if cached_exists else "🔄 Not Cached"
+        st.markdown(f"**Flashcards:** {cache_status}")
+
     st.divider()
     st.subheader("Tips")
     st.markdown("- **QA Mode:** Ask questions about the loaded text.")
     st.markdown("- **Exam Mode:** Answer varied questions. Check format hints if needed.")
     st.markdown("- **Flashcards:** Generate cards on key concepts. Use buttons to navigate.")
 
-# --- Main Interface --- (Remains the same)
-title_text = f"📚 {st.session_state.selected_course}" if st.session_state.selected_course else "📚 Study Bot"
-st.title(title_text)
+# --- Main Interface ---
+title_text = f"📚 {get_course_info(st.session_state.selected_course)}" if st.session_state.selected_course else "📚 Study Bot"
+subtitle_text = f"{st.session_state.selected_lesson}" if st.session_state.selected_lesson else ""
 
-# --- Flashcard Mode Display (Clean UI) --- (Remains the same)
+st.title(title_text)
+if subtitle_text:
+    st.subheader(subtitle_text)
+
+# --- Flashcard Mode Display ---
 if st.session_state.flashcard_mode:
     if st.session_state.flashcards and len(st.session_state.flashcards) > 0:
         total_cards = len(st.session_state.flashcards)
@@ -585,13 +1080,15 @@ if st.session_state.flashcard_mode:
          st.warning("Flashcards haven't been generated yet or generation failed. Click 'Generate Flashcards' in the sidebar.")
     else:
          if not st.session_state.selected_course:
-              st.info("Please select and load a course from the sidebar to begin.")
+              st.info("Please select a course and lesson from the sidebar to begin.")
+         elif not st.session_state.selected_lesson:
+              st.info("Please select a lesson from the sidebar and click 'Load Materials'.")
          elif not st.session_state.flashcards:
-              st.info("Use the 'Generate Flashcards' button in the sidebar to create flashcards for the loaded course.")
+              st.info("Use the 'Generate Flashcards' button in the sidebar to create flashcards for the loaded materials.")
 
-# --- QA and Exam Mode Display (Chat Interface - now uses corrected generate_response) ---
+# --- QA and Exam Mode Display ---
 else:
-    # Message display loop (remains same)
+    # Message display loop
     for message in st.session_state.messages:
         if message["role"] == "user" and message["content"].startswith("COURSE CONTEXT:"):
             continue
@@ -599,13 +1096,14 @@ else:
             message["content"].startswith("Okay, I have loaded") or
             message["content"].startswith("Exited flashcard mode.") or
             message["content"].startswith("Welcome!") or
-            message["content"].startswith("Select 'Load")
+            message["content"].startswith("Select 'Load") or
+            message["content"].startswith("Please select")
             ):
             continue
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # Chat input logic (remains same)
+    # Chat input logic
     prompt_disabled = not st.session_state.current_lecture_text
     prompt_placeholder = "Ask a question or enter your answer..."
     if not st.session_state.current_lecture_text:
@@ -618,15 +1116,15 @@ else:
         is_exit_command = prompt.strip().lower() == "exit exam mode"
         is_start_exam_command = prompt.strip().lower() in ["start exam mode", "final exam mode", "exam", "start exam"]
 
-        # Command processing and calling generate_response (now corrected version)
+        # Command processing
         if is_exit_command:
             if st.session_state.exam_mode:
                 st.session_state.exam_mode = False
                 response = "Okay, exiting exam mode. How can I help you with the course material?"
                 st.session_state.messages.append({"role": "model", "content": response})
             else:
-                 response = "You are not currently in exam mode. How can I help?"
-                 st.session_state.messages.append({"role": "model", "content": response})
+                response = "You are not currently in exam mode. How can I help?"
+                st.session_state.messages.append({"role": "model", "content": response})
             st.rerun()
         elif is_start_exam_command:
             if not st.session_state.exam_mode:
@@ -634,9 +1132,11 @@ else:
                 st.session_state.flashcard_mode = False
                 initial_exam_prompt = "Please start the final exam by providing the first question based on the course material. Use varied question types."
                 with st.spinner("Starting exam and preparing the first question..."):
-                    response = generate_response( # Calls corrected function
+                    response = generate_response(
                         initial_exam_prompt,
                         st.session_state.current_lecture_text,
+                        st.session_state.selected_course,
+                        st.session_state.selected_lesson,
                         exam_mode=True,
                         chat_history=history_for_api
                     )
@@ -646,10 +1146,12 @@ else:
                 st.session_state.messages.append({"role": "model", "content": response})
             st.rerun()
         elif st.session_state.exam_mode:
-             with st.spinner("Evaluating your answer and preparing the next question..."):
-                response = generate_response( # Calls corrected function
+             with st.spinner("Thinking..."):
+                response = generate_response(
                     prompt,
                     st.session_state.current_lecture_text,
+                    st.session_state.selected_course,
+                    st.session_state.selected_lesson,
                     exam_mode=True,
                     chat_history=history_for_api
                 )
@@ -657,9 +1159,11 @@ else:
              st.rerun()
         else: # QA mode
             with st.spinner("Thinking..."):
-                response = generate_response( # Calls corrected function
+                response = generate_response(
                     prompt,
                     st.session_state.current_lecture_text,
+                    st.session_state.selected_course,
+                    st.session_state.selected_lesson,
                     exam_mode=False,
                     chat_history=history_for_api
                 )

@@ -1,0 +1,9 @@
+# Web framework
+streamlit>=1.28.0
+
+# Google Gemini AI SDK
+google-genai>=0.3.0
+
+# Environment variables
+python-dotenv>=1.0.0
+

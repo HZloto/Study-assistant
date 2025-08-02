@@ -1,3 +1,76 @@
-/.DS_Store
-/.env
-Courses
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Application specific
+# Cache directory for flashcards
+data/flashcard_cache/
+
+# Courses - ignore all except the example
+Courses/*
+!Courses/README.md
+!Courses/Example-Course/
+Courses/Example-Course/*
+!Courses/Example-Course/README.md
+!Courses/Example-Course/Lesson-1/
+Courses/Example-Course/Lesson-1/*
+!Courses/Example-Course/Lesson-1/*.txt
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
