@@ -1,5 +1,9 @@
 # 📚 Study Assistant
 
+<div align="center">
+  <img src="Icon.png" alt="Study Assistant Icon" width="128" height="128">
+</div>
+
 A lightweight AI-powered study support tool that helps students learn more effectively from their class transcripts and notes. Built with Streamlit and powered by Google's Gemini AI.
 
 ## ✨ Features
